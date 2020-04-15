@@ -1,6 +1,7 @@
 ====== Perfect Questions, Perfect Answers ======
 
-<WRAP contents nopurple>
+<WRAP  nopurple>
+
   * [[.pqpa:0a|Introduction]]
   - [[.pqpa:1|Kṛṣṇa, the All-Attractive]]
   - [[.pqpa:2|Vedic Culture: Varṇāśrama-dharma]]
@@ -12,4 +13,5 @@
   - [[.pqpa:8|Advancing in Kṛṣṇa Consciousness]]
   - [[.pqpa:9|Deciding for the Future]]
   * [[.pqpa:10|Concluding words]]
+
 </WRAP>

@@ -4,7 +4,8 @@
 
 ====== KṚṢṆA, The Supreme Personality of Godhead ======
 
-<div nopurple>
+<WRAP nopurple>
+
 <div half column right>
 [{{ :books:covers:1970-krsna_book_vol_1.jpg?450&nolink|}}]
 
@@ -117,4 +118,4 @@ The activities of Kṛṣṇa, which appear to be like those of an ordinary huma
 
 Foreseeing the publication of this book, with its fifty-eight full color illustrations, Prabhupāda commented, "No other religion has such a full concept of God. I think our Kṛṣṇa book will convince them. Whoever reads it will become a devotee of Kṛṣṇa.
 
-</div>
+</WRAP>

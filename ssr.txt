@@ -2,6 +2,8 @@
 
 ====== The Science of Self Realization ======
 
+<WRAP nopurple>
+
   * [[.ssr:0a|Dedication]]
   * [[.ssr:0b|Foreword]]
   * [[.ssr:0c|Introduction]]
@@ -51,16 +53,13 @@
     * [[.ssr:8#The Highest Love]]
     * [[.ssr:8#The Perfection of Self-realization]]
 
-
-----
+</WRAP>
 
 ===== From the back cover =====
 
 In this book you will discover the timeless science that great teachers have spoken for millennia. The Science of Self-Relization opens up the secrets of the self within, nature of the universe, and the Supreme Self within and without.
 Here the world’s most distinguished teacher of the science of self-realization talks about meditating and practicing yoga in the modern age, gaining liberation from the law of karma, achieving superconsciousness, and much more.
 In all the interviews, lectures, essays, and letters chosen for this special book, His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda speaks with startling clarity and power. He proves just how relevant the science of self-realization is to today's world and your own life.
-
-----
 
 <WRAP centeralign>
 ===== Appreciations of Srīla Prabhupāda’s Work =====

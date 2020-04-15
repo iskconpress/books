@@ -1,9 +1,9 @@
 ====== Message of Godhead ======
 
-<div nopurple>
+<WRAP nopurple>
 
   * [[books:mog:0|Introduction]]
   - [[books:mog:1|Transcendental Knowledge]]
   - [[books:mog:2|Karma-yoga]]
 
-</div>
+</WRAP>

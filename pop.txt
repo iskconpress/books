@@ -2,7 +2,8 @@
 
 ====== The Path of Perfection ======
 
-<WRAP contents>
+<WRAP nopurple>
+
   - [[.pop:0a|Introduction]]
   - [[.pop:1|Yoga as Action]]
   - [[.pop:2|Mastering the Mind and Senses]]
@@ -14,4 +15,5 @@
   - [[.pop:8|Failure and Success in Yoga]]
   - [[.pop:9|Destination After Death]]
   - [[.pop:10|The Path of Perfection]]
+
 </WRAP>

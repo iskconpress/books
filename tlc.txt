@@ -3,13 +3,14 @@
 
 [{{ :books:covers:teachings_of_lord_chaitanya-original_1968.jpg?nolink|}}]
 
+===== Table of contents =====
+
+<WRAP nopurple>
 
   * [[.tlc:0a|Preface]]
   * [[.tlc:0b|Prologue]]
   * [[.tlc:0c|Lord Caitanya's Mission]]
   * [[.tlc:0d|Introduction]]
-
-==== Chapters ====
 
   - [[.tlc:1|Teachings to Rūpa Gosvāmī]]
   - [[.tlc:2|Sanātana Gosvāmī]]
@@ -43,3 +44,5 @@
   - [[.tlc:30|The Transcendental Pastimes of Rādhā and Kṛṣṇa]]
   - [[.tlc:31|The Supreme Perfection]]
   - [[.tlc:32|Conclusion]]
+
+</WRAP>

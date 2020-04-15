@@ -1,6 +1,6 @@
 ====== Life Comes from Life ======
 
-<div nopurple>
+<WRAP nopurple>
 
   * [[.lcfl:0a|Foreword]]
   * [[.lcfl:0b|Introduction]]
@@ -92,4 +92,4 @@
     * [[.lcfl:16#The Absolute Nature of Kṛṣṇa's Love]]
     * [[.lcfl:16#Accepting Knowledge From a Learned Person]]
 
-</div>
+</WRAP>

@@ -2,7 +2,7 @@
 
 ====== Beyond Birth & Death ======
 
-<div nopurple>
+<WRAP nopurple>
 
   - [[books:bbd:1|We Are Not These Bodies]]
   - [[books:bbd:2|Elevation at Death]]
@@ -10,4 +10,4 @@
   - [[books:bbd:4|The Sky Beyond the Universe]]
   - [[books:bbd:5|Associating with Kṛṣṇa]]
 
-</div>
+</WRAP>

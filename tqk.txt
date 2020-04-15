@@ -1,9 +1,8 @@
 ====== Teachings of Queen Kuntī ======
 
-<WRAP centeralign nopurple>
-[[books:tqk:0a|Introduction]]
-</WRAP>
-<WRAP contents>
+<WRAP nopurple>
+
+  * [[books:tqk:0a|Introduction]]
   - [[books:tqk:1|The Original Person]]
   - [[books:tqk:2|Beyond the Senses]]
   - [[books:tqk:3|The Most Intelligent Woman]]
@@ -30,4 +29,5 @@
   - [[books:tqk:24|Cutting Off Ties of Affection]]
   - [[books:tqk:25|Unalloyed Devotion]]
   - [[books:tqk:26|Enchantment by Kṛṣṇa's Glories]]
+
 </WRAP>

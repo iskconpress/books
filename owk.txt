@@ -2,10 +2,12 @@
 
 ====== On the Way to Kṛṣṇa ======
 
-<WRAP contents>
+<WRAP nopurple>
+
   - [[.OWK:1|Throughway to Happiness]]
   - [[.OWK:2|The Way of Chanting and Knowing Kṛṣṇa]]
   - [[.OWK:3|Seeing Kṛṣṇa Everywhere and Always]]
   - [[.OWK:4|The Roads of the Foolish and the Wise]]
   - [[.OWK:5|Steering Toward the Supreme]]
+
 </WRAP>

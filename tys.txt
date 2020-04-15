@@ -1,13 +1,15 @@
 ====== Kṛṣṇa Consciousness, The Topmost Yoga System ======
 
-<WRAP contents>
-  - [[.TYS/1|The Perfection of Yoga]]
-  - [[.TYS/2|Yoga and the Master of Yoga]]
-  - [[.TYS/3|Beyond the Laws of Nature]]
-  - [[.TYS/4|The Goal of Yoga]]
-  - [[.TYS/5|Our Real Life]]
-  - [[.TYS/6|The Hare Kṛṣṇa Mantra]]
-  - [[.TYS/7|How Bhakti-yoga Works]]
-  - [[.TYS/8|Sources of Absolute Knowledge]]
-  - [[.TYS/9|The Real Peace Formula]]
+<WRAP nopurple>
+
+  - [[books:tys:1|The Perfection of Yoga]]
+  - [[books:tys:2|Yoga and the Master of Yoga]]
+  - [[books:tys:3|Beyond the Laws of Nature]]
+  - [[books:tys:4|The Goal of Yoga]]
+  - [[books:tys:5|Our Real Life]]
+  - [[books:tys:6|The Hare Kṛṣṇa Mantra]]
+  - [[books:tys:7|How Bhakti-yoga Works]]
+  - [[books:tys:8|Sources of Absolute Knowledge]]
+  - [[books:tys:9|The Real Peace Formula]]
+
 </WRAP>

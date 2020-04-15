@@ -2,7 +2,7 @@
 
 ~~bc:Śrī Caitanya-caritāmṛta~~
 
-<div nopurple>
+<WRAP nopurple>
 
 {{gallery> :books:cc_artwork?700x700 &random =1}}
 
@@ -12,4 +12,4 @@
   - [[.cc:madhya|Madhya-līlā]]
   - [[.cc:antya|Antya-līlā]]
 
-</div>
+</WRAP>

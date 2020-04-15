@@ -2,7 +2,7 @@
 
 ====== Kṛṣṇa Consciousness, The Matchless Gift  ======
 
-<div nopurple>
+<WRAP nopurple>
 
   - [[books:mg:1|Spiritual Knowledge Through Kṛṣṇa]]
   - [[books:mg:2|Getting Out — the Material Mire]]
@@ -12,4 +12,4 @@
   - [[books:mg:6|Transcending Designations and Problems]]
   - [[books:mg:7|The Matchless Gift: Liberation in Kṛṣṇa Consciousness]]
 
-</div>
+</WRAP>

@@ -2,6 +2,8 @@
 
 ====== Teachings of Lord Kapila, the Son of Devahuti ======
 
+<WRAP nopurple>
+
   * [[.tlk:0a|Foreword]]
   - [[.tlk:1|The Purpose of Lord Kapila's Advent]]
   - [[.tlk:2|The Transcendental Matter and Supreme Yogi]]
@@ -21,3 +23,5 @@
   - [[.tlk:16|The Pure Devotees' Spiritual Opulences]]
   - [[.tlk:17|Taking Shelter of Krsna, the Supreme Controller]]
   - [[.tlk:18|Devotional Service: The Final Perfection]]
+
+</WRAP>

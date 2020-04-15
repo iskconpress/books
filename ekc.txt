@@ -1,6 +1,6 @@
 ====== Elevation to Kṛṣṇa Consciousness ======
 
-<div nopurple>
+<WRAP nopurple>
 
 {{ :books:covers:elevation_to_krsna_consciousness.jpg?nolink|}}
 
@@ -11,4 +11,4 @@
   - [[books:ekc:5|Knowing Kṛṣṇa's Energies]]
   - [[books:ekc:6|Taking to Kṛṣṇa Consciousness]]
 
-</div>
+</WRAP>

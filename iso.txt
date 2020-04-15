@@ -2,15 +2,16 @@
 
 ====== Śrī Īśopaniṣad ======
 
-<div audio>
+<audio>
 {{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Sri_Isopanisad_With_Purports.mp3|Śrī Īśopaniṣad}}
-</div>
+</audio>
 
 <div half right column last>
 [{{ :krishna_art_1:105.jpg?500&nolink |}}]
 </div>
 
-<div nopurple>
+<WRAP nopurple>
+
 Śrī Īśopaniṣad is the foremost of the 108 Upaniṣads. Contained within is the essence of all Vedic knowledge. Presented with the original Sanskrit text, transliterations, English synonyms and purports, by a self-realized Teacher (Acharya), this book is recommended for the novices and neophytes as well as the most highly elevated souls. Its contents are transcendentally pleasing to the non-deceptive and sincere aspirants of spiritual advancement in life.
 
 ===== Table of contents =====
@@ -74,4 +75,4 @@
   ; [[.iso:18|Mantra 18]]
   : O my Lord, as powerful as fire, O omnipotent one, now I offer You all obeisances, falling on the ground at Your feet. O my Lord, please lead me on the right path to reach You, and since You know all that I have done in the past, please free me from the reactions to my past sins so that there will be no hindrance to my progress.
 
-</div>
+</WRAP>

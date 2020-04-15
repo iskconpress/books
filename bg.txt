@@ -5,13 +5,15 @@
 
 ====== Bhagavad-gītā As It Is ======
 
-<div audio nopurple>
+<audio>
 {{ https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/01_Setting_The_Scene_BG_Verses_Only.mp3 |Setting the Scene}}
-</div>
+</audio>
 
 <div half image right last>
 [{{ :books:covers:bg1972.jpg?500&direct|Bhagavad-gita As It Is, 1972 MacMillan Edition Cover.}}]
 </div>
+
+<WRAP nopurple>
 
 ===== Table of contents =====
 
@@ -103,3 +105,5 @@ Institute of Political Studies, Paris, France</cite></blockquote>
 
 <blockquote box>“I can say that in the Bhagavad-gītā As It Is I have found explanations and answers to questions I had always posed regarding the interpretations of this sacred work, whose spiritual discipline I greatly admire. If the aesceticism and ideal of the apostles which form the message of the Bhagavad-gītā As It Is were more widespread and more respected, the world in which we live would be transformed into a better, more fraternal place.”
 <cite>Dr. Paul Lesourd, Author, Professeur Honoraire,\\ Catholic University of Paris</cite></blockquote>
+
+</WRAP>

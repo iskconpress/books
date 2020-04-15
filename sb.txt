@@ -1,11 +1,13 @@
 {{description>Śrīmad-Bhāgavatam, an epic philosophical and literary classic, holds a prominent position in India's voluminous written wisdom. The timeless wisdom of India is expressed in the Vedas, ancient Sanskrit texts that touch upon all fields of human knowledge. Originally preserved through oral tradition, the Vedas were first put into writing by Śrīla Vyāsadeva, the "literary incarnation of God." After compiling the Vedas, Śrīla Vyāsadeva was inspired by his spiritual master to present their profound essence in the form of Śrīmad-Bhāgavatam. Known as "the ripened fruit of the tree of Vedic literature," Śrīmad-Bhāgavatam is the most complete and authoritative exposition of Vedic knowledge.}}
 
 <WRAP nopurple>
+
 [{{ images:bbt.se:12_cantos_large.jpg?500&nolink}}]
 
 ====== Śrīmad-Bhāgavatam ======
 
 ===== Table of cantos =====
+
   - [[books:sb:1|Creation]]
   - [[books:sb:2|The Cosmic Manifestation]]
   - [[books:sb:3|The Status Quo]]
@@ -18,6 +20,7 @@
   - [[books:sb:10|The Summum Bonum]]
 
 </WRAP>
+
 ===== From the back cover =====
 
 //Śrīmad-Bhāgavatam,// an epic philosophical and literary classic, holds a prominent position in India's voluminous written wisdom. The timeless wisdom of India is is expressed in the //Vedas,// ancient Sanskrit texts that touch upon all fields of human knowledge. Originally preserved through oral tradition, the //Vedas// were first put into writing by Śrīla Vyāsadeva, the "literary incarnation of God." After compiling the //Vedas,// Śrīla Vyāsadeva was inspired by his spiritual master to present their profound essence in the form of //Śrīmad-Bhāgavatam.// Known as "the ripened fruit of the tree of Vedic literature," //Śrīmad-Bhāgavatam// is the most complete and authoritative exposition of Vedic knowledge.
