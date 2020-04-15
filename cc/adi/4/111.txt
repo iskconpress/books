@@ -1,0 +1,21 @@
+{{description>To analyze these pastimes is not necessary now. Later I shall describe them in detail.}}
+
+~~bc:Text 111~~
+~~Title:Caitanya-caritāmṛta, Ādi 4.111~~
+
+====== CC Ādi 4.111 ======
+
+===== Text =====
+
+> ebe kārya nāhi kichu e-saba vicāre
+> āge ihā vivariba kariyā vistāre
+
+===== Synonyms =====
+
+[[synonyms:e:ebe]]---now; [[synonyms:k:kārya]]---business; [[synonyms:n:nāhi]]---there is not; [[synonyms:k:kichu]]---any; [[synonyms:e:e]]-[[synonyms:s:saba]]---all these; [[synonyms:v:vicāre]]---in the considerations; [[synonyms:ā:āge]]---ahead; [[synonyms:i:ihā]]---this; [[synonyms:v:vivariba]]---I shall describe; [[synonyms:k:kariyā]]---doing; [[synonyms:v:vistāre]]---in expanded detail.
+
+===== Translation =====
+
+**To analyze these pastimes is not necessary now. Later I shall describe them in detail.**
+
+

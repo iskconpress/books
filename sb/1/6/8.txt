@@ -1,0 +1,26 @@
+{{description>When I was a mere child of five years, I lived in a brāhmaṇa school. I was dependent on my mother's affection and had no experience of different lands.}}
+
+~~bc:Text 8~~
+~~Title: Śrīmad Bhāgavatam 1.6.8~~
+
+====== SB 1.6.8 ======
+
+> अहं च तद्ब्रह्मकुले ऊषिवांस्तदुपेक्षया ।
+> दिग्देशकालाव्युत्पन्नो बालकः पञ्चहायनः ॥८॥
+
+===== Text =====
+
+> ahaṁ ca tad-brahma-kule
+> ūṣivāṁs tad-upekṣayā
+> dig-deśa-kālāvyutpanno
+> bālakaḥ pañca-hāyanaḥ
+
+===== Synonyms =====
+
+[[synonyms:a:aham]]---I; [[synonyms:c:ca]]---also; [[synonyms:t:tat]]---that; [[synonyms:b:brahma]]-[[synonyms:k:kule]]---in the school of the //brāhmaṇas//; [[synonyms:ū:ūṣivān]]---lived; [[synonyms:t:tat]]---her; [[synonyms:u:upekṣayā]]---being dependent on; [[synonyms:d:dik]]-[[synonyms:d:deśa]]---direction and country; [[synonyms:k:kāla]]---time; [[synonyms:a:avyutpannaḥ]]---having no experience; [[synonyms:b:bālakaḥ]]---a mere child; [[synonyms:p:pañca]]---five; [[synonyms:h:hāyanaḥ]]---years old.
+
+===== Translation =====
+
+**When I was a mere child of five years, I lived in a brāhmaṇa school. I was dependent on my mother's affection and had no experience of different lands.**
+
+

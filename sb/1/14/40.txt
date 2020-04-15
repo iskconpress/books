@@ -1,0 +1,28 @@
+{{description>Has someone addressed you with unfriendly words or threatened you? Could you not give charity to one who asked, or could you not keep your promise to someone?}}
+
+~~bc:Text 40~~
+~~Title: Śrīmad Bhāgavatam 1.14.40~~
+
+====== SB 1.14.40 ======
+
+> कच्चिन्नाभिहतोऽभावैः शब्दादिभिरमङ्गलैः ।
+> न दत्तमुक्तमर्थिभ्य आशया यत्प्रतिश्रुतम् ॥४०॥
+
+===== Text =====
+
+> kaccin nābhihato 'bhāvaiḥ
+> śabdādibhir amaṅgalaiḥ
+> na dattam uktam arthibhya
+> āśayā yat pratiśrutam
+
+===== Synonyms =====
+
+[[synonyms:k:kaccit]]---whether; [[synonyms:n:na]]---could not; [[synonyms:a:abhihataḥ]]---addressed by; [[synonyms:a:abhāvaiḥ]]---unfriendly; [[synonyms:ś:śabda]]-[[synonyms:ā:ādibhiḥ]]---by sounds; [[synonyms:a:amaṅgalaiḥ]]---inauspicious; [[synonyms:n:na]]---did not; [[synonyms:d:dattam]]---give in charity; [[synonyms:u:uktam]]---is said; [[synonyms:a:arthibhyaḥ]]---unto one who asked; [[synonyms:ā:āśayā]]---with hope; [[synonyms:y:yat]]---what; [[synonyms:p:pratiśrutam]]---promised to be paid.
+
+===== Translation =====
+
+**Has someone addressed you with unfriendly words or threatened you? Could you not give charity to one who asked, or could you not keep your promise to someone?**
+
+===== Purport =====
+
+A //kṣatriya// or a rich man is sometimes visited by persons who are in need of money. When they are asked for a donation, it is the duty of the possessor of wealth to give in charity in consideration of the person, place and time. If a //kṣatriya// or a rich man fails to comply with this obligation, he must be very sorry for this discrepancy. Similarly, one should not fail to keep his promise to give in charity. These discrepancies are sometimes causes of despondency, and thus failing, a person becomes subjected to criticism, which might also be the cause of Arjuna's plight.

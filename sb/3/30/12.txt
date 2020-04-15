@@ -1,0 +1,26 @@
+{{description>Thus the unfortunate man, unsuccessful in maintaining his family members, is bereft of all beauty. He always thinks of his failure, grieving very deeply.}}
+
+~~bc:Text 12~~
+~~Title: Śrīmad Bhāgavatam 3.30.12~~
+
+====== SB 3.30.12 ======
+
+> कुटुम्बभरणाकल्पो मन्दभाग्यो वृथोद्यमः ।
+> श्रिया विहीनः कृपणो ध्यायन्छ्वसिति मूढधीः ॥१२॥
+
+===== Text =====
+
+> kuṭumba-bharaṇākalpo
+> manda-bhāgyo vṛthodyamaḥ
+> śriyā vihīnaḥ kṛpaṇo
+> dhyāyañ chvasiti mūḍha-dhīḥ
+
+===== Synonyms =====
+
+[[synonyms:k:kuṭumba]]---his family; [[synonyms:b:bharaṇa]]---in maintaining; [[synonyms:a:akalpaḥ]]---unable; [[synonyms:m:manda]]-[[synonyms:b:bhāgyaḥ]]---the unfortunate man; [[synonyms:v:vṛthā]]---in vain; [[synonyms:u:udyamaḥ]]---whose effort; [[synonyms:ś:śriyā]]---beauty, wealth; [[synonyms:v:vihīnaḥ]]---bereft of; [[synonyms:k:kṛpaṇaḥ]]---wretched; [[synonyms:d:dhyāyan]]---grieving; [[synonyms:ś:śvasiti]]---he sighs; [[synonyms:m:mūḍha]]---bewildered; [[synonyms:d:dhīḥ]]---his intelligence.
+
+===== Translation =====
+
+**Thus the unfortunate man, unsuccessful in maintaining his family members, is bereft of all beauty. He always thinks of his failure, grieving very deeply.**
+
+

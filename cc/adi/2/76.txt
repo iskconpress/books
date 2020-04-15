@@ -1,0 +1,21 @@
+{{description>"The predicate of a sentence is what is unknown to the reader, whereas the subject is what is known to him.}}
+
+~~bc:Text 76~~
+~~Title:Caitanya-caritāmṛta, Ādi 2.76~~
+
+====== CC Ādi 2.76 ======
+
+===== Text =====
+
+> 'vidheya' kahiye tāre, ye vastu ajñāta
+> 'anuvāda' kahi tāre, yei haya jñāta
+
+===== Synonyms =====
+
+[[synonyms:v:vidheya]]---the predicate; [[synonyms:k:kahiye]]---I say; [[synonyms:t:tāre]]---to him; [[synonyms:y:ye]]---that; [[synonyms:v:vastu]]---thing; [[synonyms:a:ajñāta]]---unknown; [[synonyms:a:anuvāda]]---the subject; [[synonyms:k:kahi]]---I say; [[synonyms:t:tāre]]---to him; [[synonyms:y:yei]]---that which; [[synonyms:h:haya]]---is; [[synonyms:j:jñāta]]---known.
+
+===== Translation =====
+
+**"The predicate of a sentence is what is unknown to the reader, whereas the subject is what is known to him.**
+
+

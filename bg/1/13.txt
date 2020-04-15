@@ -1,0 +1,26 @@
+{{description>After that, the conchshells, bugles, trumpets, drums and horns were all suddenly sounded, and the combined sound was tumultuous.}}
+
+~~bc:Text 13~~
+~~Title:Bhagavad-gītā 1.13~~
+
+====== Bg 1.13 ======
+
+> ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।
+> सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥१३॥
+
+===== Text =====
+
+> tataḥ śaṅkhāś ca bheryaś ca
+> paṇavānaka-gomukhāḥ
+> sahasaivābhyahanyanta
+> sa śabdas tumulo ’bhavat
+
+===== Synonyms =====
+
+[[synonyms:t:tataḥ]]---thereafter; [[synonyms:ś:śaṅkhāḥ]]---conchshells; [[synonyms:c:ca]]---also; [[synonyms:b:bheryaḥ]]---bugles; [[synonyms:c:ca]]---and; [[synonyms:p:paṇava]]-[[synonyms:ā:ānaka]]---trumpets and drums; [[synonyms:g:go]]-[[synonyms:m:mukhāḥ]]---horns; [[synonyms:s:sahasā]]---all of a sudden; [[synonyms:e:eva]]---certainly; [[synonyms:a:abhyahanyanta]]---being simultaneously sounded; [[synonyms:s:saḥ]]---that; [[synonyms:ś:śabdaḥ]]---combined sound; [[synonyms:t:tumulaḥ]]---tumultuous; [[synonyms:a:abhavat]]---became.
+
+===== Translation =====
+
+**After that, the conchshells, bugles, trumpets, drums and horns were all suddenly sounded, and the combined sound was tumultuous.**
+
+

@@ -1,0 +1,21 @@
+{{description>"Now go home. When all of us go, I shall take all of you with me."}}
+
+~~bc:Text 261~~
+~~Title:Caitanya-caritāmṛta, Antya 6.261~~
+
+====== CC Antya 6.261 ======
+
+===== Text =====
+
+> ebe ghara yāha, yabe āmi saba calimu
+> tabe tomā sabākāre saṅge lañā yāmu
+
+===== Synonyms =====
+
+[[synonyms:e:ebe]]---now; [[synonyms:g:ghara]] [[synonyms:y:yāha]]---go home; [[synonyms:y:yabe]]---when; [[synonyms:ā:āmi]]---we; [[synonyms:s:saba]]---all; [[synonyms:c:calimu]]---will go; [[synonyms:t:tabe]]---then; [[synonyms:t:tomā]] [[synonyms:s:sabākāre]]---all of you; [[synonyms:s:saṅge]]---with; [[synonyms:l:lañā]]---taking; [[synonyms:y:yāmu]]---I shall go.
+
+===== Translation =====
+
+**"Now go home. When all of us go, I shall take all of you with me."**
+
+

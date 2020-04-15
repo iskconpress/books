@@ -1,0 +1,21 @@
+{{description>"You have achieved poetic imagination and ingenuity by the grace of your worshipable demigod. But poetry not well reviewed is certainly subject to criticism.}}
+
+~~bc:Text 85~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.85~~
+
+====== CC Ādi 16.85 ======
+
+===== Text =====
+
+> pratibhā, kavitva tomāra devatā-prasāde
+> avicāra kāvye avaśya paḍe doṣa-bādhe
+
+===== Synonyms =====
+
+[[synonyms:p:pratibhā]]---ingenuity; [[synonyms:k:kavitva]]---poetic imagination; [[synonyms:t:tomāra]]---your; [[synonyms:d:devatā]]---of a demigod; [[synonyms:p:prasāde]]---by the grace; [[synonyms:a:avicāra]]---without good judgment; [[synonyms:k:kāvye]]---in the poetry; [[synonyms:a:avaśya]]---certainly; [[synonyms:p:paḍe]]---there is; [[synonyms:d:doṣa]]---fault; [[synonyms:b:bādhe]]---obstruction.
+
+===== Translation =====
+
+**"You have achieved poetic imagination and ingenuity by the grace of your worshipable demigod. But poetry not well reviewed is certainly subject to criticism.**
+
+

@@ -1,0 +1,21 @@
+{{description>Brightly illuminated by the full moon, the trees and creepers glittered in the light.}}
+
+~~bc:Text 82~~
+~~Title:Caitanya-caritāmṛta, Antya 19.82~~
+
+====== CC Antya 19.82 ======
+
+===== Text =====
+
+> pūrṇa-candra-candrikāya parama ujjvala
+> taru-latādi jyotsnāya kare jhalamala
+
+===== Synonyms =====
+
+[[synonyms:p:pūrṇa]]-[[synonyms:c:candra]]---of the full moon; [[synonyms:c:candrikāya]]---by the shine; [[synonyms:p:parama]]---very; [[synonyms:u:ujjvala]]---bright; [[synonyms:t:taru]]-[[synonyms:l:latā]]-[[synonyms:ā:ādi]]---the creepers, trees and so on; [[synonyms:j:jyotsnāya]]---in the illumination of the moonshine; [[synonyms:k:kare]]---do; [[synonyms:j:jhalamala]]---glittering.
+
+===== Translation =====
+
+**Brightly illuminated by the full moon, the trees and creepers glittered in the light.**
+
+

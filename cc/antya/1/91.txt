@@ -1,0 +1,23 @@
+{{description>By seeing a result, one can understand the cause of that result.'}}
+
+~~bc:Text 91~~
+~~Title:Caitanya-caritāmṛta, Antya 1.91~~
+
+====== CC Antya 1.91 ======
+
+===== Text =====
+
+> phalena phala-kāraṇam anumīyate
+
+===== Synonyms =====
+
+[[synonyms:p:phalena]]---by the result; [[synonyms:p:phala]]-[[synonyms:k:kāraṇam]]---the origin of the result; [[synonyms:a:anumīyate]]---one can guess.
+
+===== Translation =====
+
+**By seeing a result, one can understand the cause of that result.'**
+
+===== Purport =====
+
+This verse is from the doctrines of //nyāya,// or logic.
+

@@ -1,0 +1,28 @@
+{{description>The time duration needed for the integration of three trasareṇus is called a truṭi, and one hundred truṭis make one vedha. Three vedhas make one lava.}}
+
+~~bc:Text 6~~
+~~Title: Śrīmad Bhāgavatam 3.11.6~~
+
+====== SB 3.11.6 ======
+
+> त्रसरेणुत्रिकं भुङ्क्ते यः कालः स त्रुटिः स्मृतः ।
+> शतभागस्तु वेधः स्यात्तैस्त्रिभिस्तु लवः स्मृतः ॥६॥
+
+===== Text =====
+
+> trasareṇu-trikaṁ bhuṅkte
+> yaḥ kālaḥ sa truṭiḥ smṛtaḥ
+> śata-bhāgas tu vedhaḥ syāt
+> tais tribhis tu lavaḥ smṛtaḥ
+
+===== Synonyms =====
+
+[[synonyms:t:trasareṇu]]-[[synonyms:t:trikam]]---combination of three hexatoms; [[synonyms:b:bhuṅkte]]---as they take time to integrate; [[synonyms:y:yaḥ]]---that which; [[synonyms:k:kālaḥ]]---duration of time; [[synonyms:s:saḥ]]---that; [[synonyms:t:truṭiḥ]]---by the name //truṭi//; [[synonyms:s:smṛtaḥ]]---is called; [[synonyms:ś:śata]]-[[synonyms:b:bhāgaḥ]]---one hundred //truṭis//; [[synonyms:t:tu]]---but; [[synonyms:v:vedhaḥ]]---called a //vedha//; [[synonyms:s:syāt]]---it so happens; [[synonyms:t:taiḥ]]---by them; [[synonyms:t:tribhiḥ]]---three times; [[synonyms:t:tu]]---but; [[synonyms:l:lavaḥ]]---//lava//; [[synonyms:s:smṛtaḥ]]---so called.
+
+===== Translation =====
+
+**The time duration needed for the integration of three trasareṇus is called a truṭi, and one hundred truṭis make one vedha. Three vedhas make one lava.**
+
+===== Purport =====
+
+It is calculated that if a second is divided into 1687.5 parts, each part is the duration of a //truṭi,// which is the time occupied in the integration of eighteen atomic particles. Such a combination of atoms into different bodies creates the calculation of material time. The sun is the central point for calculating all different durations.

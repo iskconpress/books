@@ -1,0 +1,21 @@
+{{description>"One of the princes knew how to estimate the price of horses very well. Thus the King sent for him to come with his ministers and friends.}}
+
+~~bc:Text 22~~
+~~Title:Caitanya-caritāmṛta, Antya 9.22~~
+
+====== CC Antya 9.22 ======
+
+===== Text =====
+
+> eka rāja-putra ghoḍāra mūlya bhāla jāne
+> tāre pāṭhāila rājā pātra-mitra sane
+
+===== Synonyms =====
+
+[[synonyms:e:eka]]---one; [[synonyms:r:rāja]]-[[synonyms:p:putra]]---prince; [[synonyms:g:ghoḍāra]] [[synonyms:m:mūlya]]---the price of horses; [[synonyms:b:bhāla]]---well; [[synonyms:j:jāne]]---knows; [[synonyms:t:tāre]] [[synonyms:p:pāṭhāila]]---sent for him; [[synonyms:r:rājā]]---the King; [[synonyms:p:pātra]]-[[synonyms:m:mitra]] [[synonyms:s:sane]]---accompanied by ministers and friends.
+
+===== Translation =====
+
+**"One of the princes knew how to estimate the price of horses very well. Thus the King sent for him to come with his ministers and friends.**
+
+

@@ -1,0 +1,21 @@
+{{description>"You are a respectable gentleman, a learned scholar and a great devotee," he said. "Please do not try to serve me. Just come with me in a happy mood."}}
+
+~~bc:Text 96~~
+~~Title:Caitanya-caritāmṛta, Antya 13.96~~
+
+====== CC Antya 13.96 ======
+
+===== Text =====
+
+> "tumi baḍa loka, paṇḍita, mahā-bhāgavate
+> sevā nā kariha, sukhe cala mora sāthe"
+
+===== Synonyms =====
+
+[[synonyms:t:tumi]]---you; [[synonyms:b:baḍa]] [[synonyms:l:loka]]---a great personality; [[synonyms:p:paṇḍita]]---a learned scholar; [[synonyms:m:mahā]]-[[synonyms:b:bhāgavate]]---a great devotee; [[synonyms:s:sevā]] [[synonyms:n:nā]] [[synonyms:k:kariha]]---please do not serve; [[synonyms:s:sukhe]]---happily; [[synonyms:c:cala]]---go; [[synonyms:m:mora]] [[synonyms:s:sāthe]]---with me.
+
+===== Translation =====
+
+**"You are a respectable gentleman, a learned scholar and a great devotee," he said. "Please do not try to serve me. Just come with me in a happy mood."**
+
+

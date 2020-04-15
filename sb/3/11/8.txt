@@ -1,0 +1,26 @@
+{{description>Fifteen laghus make one nāḍikā, which is also called a daṇḍa. Two daṇḍas make one muhūrta, and six or seven daṇḍas make one fourth of a day or night, according to human calculation.}}
+
+~~bc:Text 8~~
+~~Title: Śrīmad Bhāgavatam 3.11.8~~
+
+====== SB 3.11.8 ======
+
+> लघूनि वै समाम्नाता दश पञ्च च नाडिका ।
+> ते द्वे मुहूर्तः प्रहरः षड्यामः सप्त वा नृणाम् ॥८॥
+
+===== Text =====
+
+> laghūni vai samāmnātā
+> daśa pañca ca nāḍikā
+> te dve muhūrtaḥ praharaḥ
+> ṣaḍ yāmaḥ sapta vā nṛṇām
+
+===== Synonyms =====
+
+[[synonyms:l:laghūni]]---such //laghus// (each of two minutes); [[synonyms:v:vai]]---exactly; [[synonyms:s:samāmnātā]]---is called; [[synonyms:d:daśa]] [[synonyms:p:pañca]]---fifteen; [[synonyms:c:ca]]---also; [[synonyms:n:nāḍikā]]---a //nāḍikā//; [[synonyms:t:te]]---of them; [[synonyms:d:dve]]---two; [[synonyms:m:muhūrtaḥ]]---a moment; [[synonyms:p:praharaḥ]]---three hours; [[synonyms:ṣ:ṣaṭ]]---six; [[synonyms:y:yāmaḥ]]---one fourth of a day or night; [[synonyms:s:sapta]]---seven; [[synonyms:v:vā]]---or; [[synonyms:n:nṛṇām]]---of human calculation.
+
+===== Translation =====
+
+**Fifteen laghus make one nāḍikā, which is also called a daṇḍa. Two daṇḍas make one muhūrta, and six or seven daṇḍas make one fourth of a day or night, according to human calculation.**
+
+

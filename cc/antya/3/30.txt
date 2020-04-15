@@ -1,0 +1,21 @@
+{{description>"I come to your home again and again to eat all the sweetmeats and vegetables you offer.}}
+
+~~bc:Text 30~~
+~~Title:Caitanya-caritāmṛta, Antya 3.30~~
+
+====== CC Antya 3.30 ======
+
+===== Text =====
+
+> 'bāre bāre āsi' āmi tomāra bhavane
+> miṣṭānna vyañjana saba kariye bhojane
+
+===== Synonyms =====
+
+[[synonyms:b:bāre]] [[synonyms:b:bāre]]---again and again; [[synonyms:ā:āsi']]---coming; [[synonyms:ā:āmi]]---I; [[synonyms:t:tomāra]] [[synonyms:b:bhavane]]---at your place; [[synonyms:m:miṣṭānna]]---sweetmeats; [[synonyms:v:vyañjana]]---vegetables; [[synonyms:s:saba]]---all; [[synonyms:k:kariye]]---do; [[synonyms:b:bhojane]]---eating.
+
+===== Translation =====
+
+**"I come to your home again and again to eat all the sweetmeats and vegetables you offer.**
+
+

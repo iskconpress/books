@@ -1,0 +1,21 @@
+{{description>"It is very good that you have arrived here. Now stay in this room with Haridāsa Ṭhākura.}}
+
+~~bc:Text 48~~
+~~Title:Caitanya-caritāmṛta, Antya 4.48~~
+
+====== CC Antya 4.48 ======
+
+===== Text =====
+
+> bhāla haila, tomāra ihāṅ haila āgamane
+> ei ghare raha ihāṅ haridāsa-sane
+
+===== Synonyms =====
+
+[[synonyms:b:bhāla]] [[synonyms:h:haila]]---it was very good; [[synonyms:t:tomāra]]---your; [[synonyms:i:ihāṅ]]---here; [[synonyms:h:haila]]---there was; [[synonyms:ā:āgamane]]---arrival; [[synonyms:e:ei]] [[synonyms:g:ghare]]---in this room; [[synonyms:r:raha]]---remain; [[synonyms:i:ihāṅ]]---here; [[synonyms:h:haridāsa]]-[[synonyms:s:sane]]---with Haridāsa Ṭhākura.
+
+===== Translation =====
+
+**"It is very good that you have arrived here. Now stay in this room with Haridāsa Ṭhākura.**
+
+

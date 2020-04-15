@@ -1,0 +1,21 @@
+{{description>"I am a mendicant and have no money. How can I clear My debt for the favor you have shown Me?}}
+
+~~bc:Text 73~~
+~~Title:Caitanya-caritāmṛta, Antya 12.73~~
+
+====== CC Antya 12.73 ======
+
+===== Text =====
+
+> sannyāsī mānuṣa mora, nāhi kona dhana
+> ki diyā tomāra ṛṇa karimu śodhana?
+
+===== Synonyms =====
+
+[[synonyms:s:sannyāsī]] [[synonyms:m:mānuṣa]]---in the renounced order of life; [[synonyms:m:mora]]---My; [[synonyms:n:nāhi]]---there is not; [[synonyms:k:kona]]---any; [[synonyms:d:dhana]]---money; [[synonyms:k:ki]]---what; [[synonyms:d:diyā]]---giving; [[synonyms:t:tomāra]] [[synonyms:ṛ:ṛṇa]]---the debt to you; [[synonyms:k:karimu]] [[synonyms:ś:śodhana]]---shall I repay.
+
+===== Translation =====
+
+**"I am a mendicant and have no money. How can I clear My debt for the favor you have shown Me?**
+
+

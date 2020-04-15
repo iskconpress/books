@@ -1,0 +1,31 @@
+{{description>"My dear sir, in this verse there are five faults and five literary ornaments. I shall state them one after another. Kindly hear Me and then give your judgment.}}
+
+~~bc:Text 54~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.54~~
+
+====== CC Ādi 16.54 ======
+
+===== Text =====
+
+> pañca doṣa ei śloke pañca alaṅkāra
+> krame āmi kahi, śuna, karaha vicāra
+
+===== Synonyms =====
+
+[[synonyms:p:pañca]]---five; [[synonyms:d:doṣa]]---faults; [[synonyms:e:ei]] [[synonyms:ś:śloke]]---in this verse; [[synonyms:p:pañca]]---five; [[synonyms:a:alaṅkāra]]---literary embellishments; [[synonyms:k:krame]]---one after another; [[synonyms:ā:āmi]]---I; [[synonyms:k:kahi]]---say; [[synonyms:ś:śuna]]---kindly hear; [[synonyms:k:karaha]]---give; [[synonyms:v:vicāra]]---judgment.
+
+===== Translation =====
+
+**"My dear sir, in this verse there are five faults and five literary ornaments. I shall state them one after another. Kindly hear Me and then give your judgment.**
+
+===== Purport =====
+
+In the verse beginning with //mahattvaṁ gaṅgāyāḥ// there are five literary ornaments and five examples of faulty composition. There are two examples of the fault called //avimṛṣṭa-vidheyāṁśa// and one example each of the faults //viruddha-mati, punar-ukti// and //bhagna-krama.//
+
+Vimṛṣṭa means "clean," and //vidheyāṁśa// means "predicate." It is a general rule of composition to establish a subject first and then give its predicate. For example, according to Sanskrit grammar if one says, "This man is learned," his composition is in order. But if one says, "Learned is this man," the composition is not in order. Such a flaw is called //avimṛṣṭa-vidheyāṁśa-doṣa,// or the fault of unclean composition. The subject matter to be known of the verse is the glorification of the Ganges, and therefore the word //idam// ("this"), or what is known, should have been placed before instead of after the glorification. The subject matter already known should be placed before the unknown so that its meaning will not be misconstrued.
+
+The second instance of //avimṛṣṭa-vidheyāṁśa-doṣa// occurs in the words //dvitīya-śrī-lakṣmir iva.// In this composition the word //dvitīya// ("second") is //vidheya,// or unknown. Placing the unknown first to make the compound word //dvitīya-śrī-lakṣmīr// is another fault. The words //dvitīya-śrīlakṣmir iva// were intended to compare the Ganges to the goddess of fortune, but because of this fault the meaning of the compound word was bewildering.
+
+The third fault is that of //viruddha-mati,// or contradictory conception, in the words //bhavānī-bhartuḥ.// The word //bhavānī// refers to the wife of Bhava, Lord Śiva. But since Bhavānī is already known as the wife of Lord Śiva, to add the word //bhartā,// "husband," thus forming a compound meaning "the husband of the wife of Lord Śiva," is contradictory, for thus it appears as if the wife of Lord Śiva had another husband.
+
+The fourth fault is //punar-ukti,// or redundancy, which occurs when the verb //vibhavati// ("flourishes"), which should have ended the composition, is further qualified by the unnecessary adjective //adbhuta-guṇā// ("endowed with wonderful qualities"). The fifth fault is //bhagna-krama,// which means "broken order." In the first, third and fourth lines there is //anuprāsa, or// alliteration, created by the sounds //ta, ra// and //bha,// but in the second line there is no such //anuprāsa,// and therefore the order is broken.

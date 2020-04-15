@@ -1,0 +1,23 @@
+{{description>The demigods always fear the sound of your bowstring. They are constantly in anxiety, afraid of fighting. Therefore, what can they do by their endeavors to harm you?}}
+
+~~bc:Text 32~~
+~~Title: Śrīmad Bhāgavatam 10.4.32~~
+
+====== SB 10.4.32 ======
+
+===== Text =====
+
+> kim udyamaiḥ kariṣyanti
+> devāḥ samara-bhīravaḥ
+> nityam udvigna-manaso
+> jyā-ghoṣair dhanuṣas tava
+
+===== Synonyms =====
+
+[[synonyms:k:kim]]---what; [[synonyms:u:udyamaiḥ]]---by their endeavors; [[synonyms:k:kariṣyanti]]---will do; [[synonyms:d:devāḥ]]---all the demigods; [[synonyms:s:samara]]-[[synonyms:b:bhīravaḥ]]---who are afraid of fighting; [[synonyms:n:nityam]]---always; [[synonyms:u:udvigna]]-[[synonyms:m:manasaḥ]]---with agitated minds; [[synonyms:j:jyā]]-[[synonyms:g:ghoṣaiḥ]]---by the sound of the string; [[synonyms:d:dhanuṣaḥ]]---of the bow; [[synonyms:t:tava]]---your.
+
+===== Translation =====
+
+**The demigods always fear the sound of your bowstring. They are constantly in anxiety, afraid of fighting. Therefore, what can they do by their endeavors to harm you?**
+
+

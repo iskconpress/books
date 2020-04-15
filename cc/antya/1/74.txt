@@ -1,0 +1,21 @@
+{{description>I have already described all these incidents, but I still wish to add briefly something more.}}
+
+~~bc:Text 74~~
+~~Title:Caitanya-caritāmṛta, Antya 1.74~~
+
+====== CC Antya 1.74 ======
+
+===== Text =====
+
+> pūrve sei saba kathā kariyāchi varṇana
+> tathāpi kahiye kichu saṅkṣepe kathana
+
+===== Synonyms =====
+
+[[synonyms:p:pūrve]]---previously; [[synonyms:s:sei]]---these; [[synonyms:s:saba]]---all; [[synonyms:k:kathā]]---words; [[synonyms:k:kariyāchi]] [[synonyms:v:varṇana]]---I have described; [[synonyms:t:tathāpi]]---still; [[synonyms:k:kahiye]]---let me say; [[synonyms:k:kichu]]---something; [[synonyms:s:saṅkṣepe]]---in brief; [[synonyms:k:kathana]]---telling.
+
+===== Translation =====
+
+**I have already described all these incidents, but I still wish to add briefly something more.**
+
+

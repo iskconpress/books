@@ -1,0 +1,21 @@
+{{description>The sun and moon dissipate the darkness of the external world and thus reveal external material objects like pots and plates.}}
+
+~~bc:Text 97~~
+~~Title:Caitanya-caritāmṛta, Ādi 1.97~~
+
+====== CC Ādi 1.97 ======
+
+===== Text =====
+
+> sūrya candra bāhirera tamaḥ se vināśe
+> bahir-vastu ghaṭa-paṭa-ādi se prakāśe
+
+===== Synonyms =====
+
+[[synonyms:s:sūrya]]---the sun; [[synonyms:c:candra]]---the moon; [[synonyms:b:bāhirera]]---of the external world; [[synonyms:t:tamaḥ]]---darkness; [[synonyms:s:se]]---they; [[synonyms:v:vināśe]]---destroy; [[synonyms:b:bahiḥ]]-[[synonyms:v:vastu]]---external things; [[synonyms:g:ghaṭa]]---waterpots; [[synonyms:p:paṭa]]-[[synonyms:ā:ādi]]---plates, etc.; [[synonyms:s:se]]---they; [[synonyms:p:prakāśe]]---reveal.
+
+===== Translation =====
+
+**The sun and moon dissipate the darkness of the external world and thus reveal external material objects like pots and plates.**
+
+

@@ -1,0 +1,26 @@
+{{description>King Aṅga addressed the priestly order: My dear priests, kindly tell me what offense I have committed. Although invited, the demigods are neither taking part in the sacrifice nor accepting their shares.}}
+
+~~bc:Text 30~~
+~~Title: Śrīmad Bhāgavatam 4.13.30~~
+
+====== SB 4.13.30 ======
+
+> नागच्छन्त्याहुता देवा न गृह्णन्ति ग्रहानिह ।
+> सदसस्पतयो ब्रूत किमवद्यं मया कृतम् ॥३०॥
+
+===== Text =====
+
+> nāgacchanty āhutā devā
+> na gṛhṇanti grahān iha
+> sadasas-patayo brūta
+> kim avadyaṁ mayā kṛtam
+
+===== Synonyms =====
+
+[[synonyms:n:na]]---not; [[synonyms:ā:āgacchanti]]---are coming; [[synonyms:ā:āhutāḥ]]---being invited; [[synonyms:d:devāḥ]]---the demigods; [[synonyms:n:na]]---not; [[synonyms:g:gṛhṇanti]]---are accepting; [[synonyms:g:grahān]]---shares; [[synonyms:i:iha]]---in the sacrifice; [[synonyms:s:sadasaḥ]]-[[synonyms:p:patayaḥ]]---my dear priests; [[synonyms:b:brūta]]---kindly tell me; [[synonyms:k:kim]]---what; [[synonyms:a:avadyam]]---offense; [[synonyms:m:mayā]]---by me; [[synonyms:k:kṛtam]]---was committed.
+
+===== Translation =====
+
+**King Aṅga addressed the priestly order: My dear priests, kindly tell me what offense I have committed. Although invited, the demigods are neither taking part in the sacrifice nor accepting their shares.**
+
+

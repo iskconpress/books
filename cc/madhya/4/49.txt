@@ -1,0 +1,21 @@
+{{description>"The bushes are very dense, and we will not be able to enter the jungle. Therefore take choppers and spades to clear the way."}}
+
+~~bc:Text 49~~
+~~Title:Caitanya-caritāmṛta, Madhya 4.49~~
+
+====== CC Madhya 4.49 ======
+
+===== Text =====
+
+> atyanta niviḍa kuñja,---nāri praveśite
+> kuṭhāri kodāli laha dvāra karite
+
+===== Synonyms =====
+
+[[synonyms:a:atyanta]]---very much; [[synonyms:n:niviḍa]]---dense; [[synonyms:k:kuñja]]---bushes; [[synonyms:n:nāri]]---we are not able; [[synonyms:p:praveśite]]---to enter; [[synonyms:k:kuṭhāri]]---choppers; [[synonyms:k:kodāli]]---spades; [[synonyms:l:laha]]---take; [[synonyms:d:dvāra]] [[synonyms:k:karite]]---to make a way.
+
+===== Translation =====
+
+**"The bushes are very dense, and we will not be able to enter the jungle. Therefore take choppers and spades to clear the way."**
+
+

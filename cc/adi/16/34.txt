@@ -1,0 +1,21 @@
+{{description>"My dear sir, whereas you are a very learned scholar in all sorts of scriptures and are very experienced in composing poetry, I am only a boy-a new student and nothing more.}}
+
+~~bc:Text 34~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.34~~
+
+====== CC Ādi 16.34 ======
+
+===== Text =====
+
+> kāhāṅ tumi sarva-śāstre kavitve pravīṇa
+> kāhāṅ āmi sabe śiśu---paḍuyā navīna
+
+===== Synonyms =====
+
+[[synonyms:k:kāhāṅ]]---whereas; [[synonyms:t:tumi]]---your good self; [[synonyms:s:sarva]]-[[synonyms:ś:śāstre]]---in all scriptures; [[synonyms:k:kavitve]]---in a literary career; [[synonyms:p:pravīṇa]]---very experienced; [[synonyms:k:kāhāṅ]]---whereas; [[synonyms:ā:āmi]]---I; [[synonyms:s:sabe]]---just; [[synonyms:ś:śiśu]]---a boy; [[synonyms:p:paḍuyā]]---student; [[synonyms:n:navīna]]---new.
+
+===== Translation =====
+
+**"My dear sir, whereas you are a very learned scholar in all sorts of scriptures and are very experienced in composing poetry, I am only a boy-a new student and nothing more.**
+
+

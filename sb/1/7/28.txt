@@ -1,0 +1,28 @@
+{{description>O Arjuna, only another brahmāstra can counteract this weapon. Since you are expert in the military science, subdue this weapon's glare with the power of your own weapon.}}
+
+~~bc:Text 28~~
+~~Title: Śrīmad Bhāgavatam 1.7.28~~
+
+====== SB 1.7.28 ======
+
+> न ह्यस्यान्यतमं किञ्चिदस्त्रं प्रत्यवकर्शनम् ।
+> जह्यस्त्रतेज उन्नद्धमस्त्रज्ञो ह्यस्त्रतेजसा ॥२८॥
+
+===== Text =====
+
+> na hy asyānyatamaṁ kiñcid
+> astraṁ pratyavakarśanam
+> jahy astra-teja unnaddham
+> astra-jño hy astra-tejasā
+
+===== Synonyms =====
+
+[[synonyms:n:na]]---not; [[synonyms:h:hi]]---certainly; [[synonyms:a:asya]]---of it; [[synonyms:a:anyatamam]]---other; [[synonyms:k:kiñcit]]---anything; [[synonyms:a:astram]]---weapon; [[synonyms:p:prati]]---counter; [[synonyms:a:avakarśanam]]---reactionary; [[synonyms:j:jahi]]---subdue it; [[synonyms:a:astra]]-[[synonyms:t:tejaḥ]]---the glare of this weapon; [[synonyms:u:unnaddham]]---very powerful; [[synonyms:a:astra]]-[[synonyms:j:jñaḥ]]---expert in military science; [[synonyms:h:hi]]---as a matter of fact; [[synonyms:a:astra]]-[[synonyms:t:tejasā]]---by the influence of your weapon.
+
+===== Translation =====
+
+**O Arjuna, only another brahmāstra can counteract this weapon. Since you are expert in the military science, subdue this weapon's glare with the power of your own weapon.**
+
+===== Purport =====
+
+For the atomic bombs there is no counterweapon to neutralize the effects. But by subtle science the action of a //brahmāstra// can be counteracted, and those who were expert in the military science in those days could counteract the //brahmāstra.// The son of Droṇācārya did not know the art of counteracting the weapon, and therefore Arjuna was asked to counteract it by the power of his own weapon.

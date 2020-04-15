@@ -1,0 +1,21 @@
+{{description>"You do not eat it, but they ask me again and again. How long shall I go on cheating them? How shall I be freed from this responsibility?"}}
+
+~~bc:Text 115~~
+~~Title:Caitanya-caritāmṛta, Antya 10.115~~
+
+====== CC Antya 10.115 ======
+
+===== Text =====
+
+> tumi se nā khāo, tāṅrā puche bāra bāra
+> kata vañcanā karimu, kemane āmāra nistāra?"
+
+===== Synonyms =====
+
+[[synonyms:t:tumi]]---You; [[synonyms:s:se]]---that; [[synonyms:n:nā]] [[synonyms:k:khāo]]---do not eat; [[synonyms:t:tāṅrā]]---they; [[synonyms:p:puche]]---inquire; [[synonyms:b:bāra]] [[synonyms:b:bāra]]---again and again; [[synonyms:k:kata]] [[synonyms:v:vañcanā]] [[synonyms:k:karimu]]---how long shall I cheat; [[synonyms:k:kemane]]---how; [[synonyms:ā:āmāra]]---my; [[synonyms:n:nistāra]]---deliverance.
+
+===== Translation =====
+
+**"You do not eat it, but they ask me again and again. How long shall I go on cheating them? How shall I be freed from this responsibility?"**
+
+

@@ -1,0 +1,21 @@
+{{description>"You are just like a thief, for instead of coming near, you stay away at a distant place. Now that I have captured you, I shall punish you.}}
+
+~~bc:Text 50~~
+~~Title:Caitanya-caritāmṛta, Antya 6.50~~
+
+====== CC Antya 6.50 ======
+
+===== Text =====
+
+> "nikaṭe nā āisa, corā, bhāga' dūre dūre
+> āji lāg pāñāchi, daṇḍimu tomāre
+
+===== Synonyms =====
+
+[[synonyms:n:nikaṭe]]---nearby; [[synonyms:n:nā]] [[synonyms:ā:āisa]]---you do not come; [[synonyms:c:corā]]---thief; [[synonyms:b:bhāga']]---you go away; [[synonyms:d:dūre]] [[synonyms:d:dūre]]---a long distance; [[synonyms:ā:āji]]---today; [[synonyms:l:lāg]] [[synonyms:p:pāñāchi]]---I have caught; [[synonyms:d:daṇḍimu]] [[synonyms:t:tomāre]]---I shall punish you.
+
+===== Translation =====
+
+**"You are just like a thief, for instead of coming near, you stay away at a distant place. Now that I have captured you, I shall punish you.**
+
+

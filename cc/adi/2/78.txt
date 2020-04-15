@@ -1,0 +1,21 @@
+{{description>"The man's being a vipra is known, but his erudition is unknown. Therefore the person is identified first and his erudition later.}}
+
+~~bc:Text 78~~
+~~Title:Caitanya-caritāmṛta, Ādi 2.78~~
+
+====== CC Ādi 2.78 ======
+
+===== Text =====
+
+> vipratva vikhyāta tāra pāṇḍitya ajñāta
+> ataeva vipra āge, pāṇḍitya paścāta
+
+===== Synonyms =====
+
+[[synonyms:v:vipratva]]---the quality of being a //vipra//; [[synonyms:v:vikhyāta]]---well known; [[synonyms:t:tāra]]---his; [[synonyms:p:pāṇḍitya]]---erudition; [[synonyms:a:ajñāta]]---unknown; [[synonyms:a:ataeva]]---therefore; [[synonyms:v:vipra]]---the word //vipra//; [[synonyms:ā:āge]]---first; [[synonyms:p:pāṇḍitya]]---erudition; [[synonyms:p:paścāta]]---afterwards.
+
+===== Translation =====
+
+**"The man's being a vipra is known, but his erudition is unknown. Therefore the person is identified first and his erudition later.**
+
+

@@ -1,0 +1,26 @@
+{{description>The ocean with its high waves wailed aloud as if stricken with sorrow, and there was a commotion among the creatures inhabiting the ocean. The rivers and lakes were also agitated, and lotuses withered.}}
+
+~~bc:Text 7~~
+~~Title: Śrīmad Bhāgavatam 3.17.7~~
+
+====== SB 3.17.7 ======
+
+> चुक्रोश विमना वार्धिरुदूर्मिः क्षुभितोदरः ।
+> सोदपानाश्च सरितश्चुक्षुभुः शुष्कपङ्कजाः ॥७॥
+
+===== Text =====
+
+> cukrośa vimanā vārdhir
+> udūrmiḥ kṣubhitodaraḥ
+> sodapānāś ca saritaś
+> cukṣubhuḥ śuṣka-paṅkajāḥ
+
+===== Synonyms =====
+
+[[synonyms:c:cukrośa]]---wailed aloud; [[synonyms:v:vimanāḥ]]---stricken with sorrow; [[synonyms:v:vārdhiḥ]]---the ocean; [[synonyms:u:udūrmiḥ]]---high waves; [[synonyms:k:kṣubhita]]---agitated; [[synonyms:u:udaraḥ]]---the creatures inside; [[synonyms:s:sa]]-[[synonyms:u:udapānāḥ]]---with the drinking water of the lakes and the wells; [[synonyms:c:ca]]---and; [[synonyms:s:saritaḥ]]---the rivers; [[synonyms:c:cukṣubhuḥ]]---were agitated; [[synonyms:ś:śuṣka]]---withered; [[synonyms:p:paṅkajāḥ]]---lotus flowers.
+
+===== Translation =====
+
+**The ocean with its high waves wailed aloud as if stricken with sorrow, and there was a commotion among the creatures inhabiting the ocean. The rivers and lakes were also agitated, and lotuses withered.**
+
+

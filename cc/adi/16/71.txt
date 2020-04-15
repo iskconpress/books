@@ -1,0 +1,23 @@
+{{description>" 'As one's body, although well-decorated with ornaments, is made unfortunate by even one spot of white leprosy, so an entire poem is made useless by a fault, despite alliteration, similes and metaphors.'}}
+
+~~bc:Text 71~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.71~~
+
+====== CC Ādi 16.71 ======
+
+===== Text =====
+
+> rasālaṅkāra-vat kāvyaṁ
+> doṣa-yuk ced vibhūṣitam
+> syād vapuḥ sundaram api
+> śvitreṇaikena durbhagam
+
+===== Synonyms =====
+
+[[synonyms:r:rasa]]---with humors; [[synonyms:a:alaṅkāra]]-[[synonyms:v:vat]]---with ornaments (metaphors, similes, etc.); [[synonyms:k:kāvyam]]---poetry; [[synonyms:d:doṣa]]-[[synonyms:y:yuk]]---faulty; [[synonyms:c:cet]]---if; [[synonyms:v:vibhūṣitam]]---very nicely decorated; [[synonyms:s:syāt]]---it becomes so; [[synonyms:v:vapuḥ]]---the body; [[synonyms:s:sundaram]]---beautiful; [[synonyms:a:api]]---even though; [[synonyms:ś:śvitreṇa]]---by a white spot of leprosy; [[synonyms:e:ekena]]---one; [[synonyms:d:durbhagam]]---unfortunate.
+
+===== Translation =====
+
+**“ 'As one's body, although well-decorated with ornaments, is made unfortunate by even one spot of white leprosy, so an entire poem is made useless by a fault, despite alliteration, similes and metaphors.'**
+
+

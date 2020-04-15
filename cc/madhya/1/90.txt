@@ -1,0 +1,21 @@
+{{description>Just to indicate those pastimes, I am presenting a general survey of the chief pastimes in the form of a synopsis.}}
+
+~~bc:Text 90~~
+~~Title:Caitanya-caritāmṛta, Madhya 1.90~~
+
+====== CC Madhya 1.90 ======
+
+===== Text =====
+
+> uddeśa karite kari dig-daraśana
+> mukhya mukhya līlāra kari sūtra gaṇana
+
+===== Synonyms =====
+
+[[synonyms:u:uddeśa]]---indication; [[synonyms:k:karite]]---to make; [[synonyms:k:kari]]---I do; [[synonyms:d:dig]]-[[synonyms:d:daraśana]]---a general survey; [[synonyms:m:mukhya]] [[synonyms:m:mukhya]]---the chief; [[synonyms:l:līlāra]]---of the pastimes; [[synonyms:k:kari]]---I do; [[synonyms:s:sūtra]]---synopsis; [[synonyms:g:gaṇana]]---enumeration.
+
+===== Translation =====
+
+**Just to indicate those pastimes, I am presenting a general survey of the chief pastimes in the form of a synopsis.**
+
+

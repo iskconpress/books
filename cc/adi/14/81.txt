@@ -1,0 +1,21 @@
+{{description>"They made noisy sounds I could not understand. I guess they were offering prayers to someone."}}
+
+~~bc:Text 81~~
+~~Title:Caitanya-caritāmṛta, Ādi 14.81~~
+
+====== CC Ādi 14.81 ======
+
+===== Text =====
+
+> kibā kelāhala kare, bujhite nā pāri
+> kāhāke vā stuti kare---anumāna kari
+
+===== Synonyms =====
+
+[[synonyms:k:kibā]]---what; [[synonyms:k:kelāhala]]---rowdy sounds; [[synonyms:k:kare]]---they make; [[synonyms:b:bujhite]]---to understand; [[synonyms:n:nā]]---not; [[synonyms:p:pāri]]---I am able; [[synonyms:k:kāhāke]]---to whom; [[synonyms:v:vā]]---or; [[synonyms:s:stuti]]---prayer; [[synonyms:k:kare]]---they offer; [[synonyms:a:anumāna]]---guess; [[synonyms:k:kari]]---I do.
+
+===== Translation =====
+
+**"They made noisy sounds I could not understand. I guess they were offering prayers to someone."**
+
+

@@ -1,0 +1,21 @@
+{{description>"I shivered in fear and shed tears. My voice faltered, and all the hairs on my body stood up.}}
+
+~~bc:Text 50~~
+~~Title:Caitanya-caritāmṛta, Antya 18.50~~
+
+====== CC Antya 18.50 ======
+
+===== Text =====
+
+> bhaye kampa haila, mora netre vahe jala
+> gadgada vāṇī, roma uṭhila sakala
+
+===== Synonyms =====
+
+[[synonyms:b:bhaye]]---out of fear; [[synonyms:k:kampa]]---shivering; [[synonyms:h:haila]]---there was; [[synonyms:m:mora]]---my; [[synonyms:n:netre]]---in the eyes; [[synonyms:v:vahe]]---flow; [[synonyms:j:jala]]---tears; [[synonyms:g:gadgada]]---faltering; [[synonyms:v:vāṇī]]---voice; [[synonyms:r:roma]]---body hair; [[synonyms:u:uṭhila]]---stood up; [[synonyms:s:sakala]]---all.
+
+===== Translation =====
+
+**"I shivered in fear and shed tears. My voice faltered, and all the hairs on my body stood up.**
+
+

@@ -1,0 +1,20 @@
+{{description>“Essential truth spoken concisely is true eloquence.”}}
+
+~~bc:Text 106~~
+~~Title:Caitanya-caritāmṛta, Ādi 1.106~~
+
+====== CC Ādi 1.106 ======
+
+===== Text =====
+
+> "mitaṁ ca sāraṁ ca vaco hi vāgmitā" iti
+
+===== Synonyms =====
+
+[[synonyms:m:mitam]]---concise; [[synonyms:c:ca]]---and; [[synonyms:s:sāram]]---essential; [[synonyms:c:ca]]---and; [[synonyms:v:vacaḥ]]---speech; [[synonyms:h:hi]]---certainly; [[synonyms:v:vāgmitā]]---eloquence; [[synonyms:i:iti]]---thus.
+
+===== Translation =====
+
+**"Essential truth spoken concisely is true eloquence."**
+
+

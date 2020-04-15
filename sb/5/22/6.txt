@@ -1,0 +1,20 @@
+{{description>Thus the time the sun takes to rotate through half of outer space is called an ayana, or its period of movement [in the north or in the south].}}
+
+~~bc:Text 6~~
+~~Title: Śrīmad Bhāgavatam 5.22.6~~
+
+====== SB 5.22.6 ======
+
+===== Text =====
+
+> atha ca yāvatārdhena nabho-vīthyāṁ pracarati taṁ kālam ayanam ācakṣate.
+
+===== Synonyms =====
+
+[[synonyms:a:atha]]---now; [[synonyms:c:ca]]---also; [[synonyms:y:yāvatā]]---by as long as; [[synonyms:a:ardhena]]---half; [[synonyms:n:nabhaḥ]]-[[synonyms:v:vīthyām]]---in outer space; [[synonyms:p:pracarati]]---the sun moves; [[synonyms:t:tam]]---that; [[synonyms:k:kālam]]---time; [[synonyms:a:ayanam]]---//ayana//; [[synonyms:ā:ācakṣate]]---is said.
+
+===== Translation =====
+
+**Thus the time the sun takes to rotate through half of outer space is called an ayana, or its period of movement [in the north or in the south].**
+
+

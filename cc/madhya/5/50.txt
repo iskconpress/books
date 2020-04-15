@@ -1,0 +1,21 @@
+{{description>"You have promised to give your daughter in charity to me. Now you do not say anything. What is your conclusion?"}}
+
+~~bc:Text 50~~
+~~Title:Caitanya-caritāmṛta, Madhya 5.50~~
+
+====== CC Madhya 5.50 ======
+
+===== Text =====
+
+> 'tumi more kanyā dite karyācha aṅgīkāra
+> ebe kichu nāhi kaha, ki tomāra vicāra'
+
+===== Synonyms =====
+
+[[synonyms:t:tumi]]---you; [[synonyms:m:more]]---to me; [[synonyms:k:kanyā]]---your daughter; [[synonyms:d:dite]]---to give in charity; [[synonyms:k:karyācha]]---have made; [[synonyms:a:aṅgīkāra]]---a promise; [[synonyms:e:ebe]]---now; [[synonyms:k:kichu]]---something; [[synonyms:n:nāhi]]---not; [[synonyms:k:kaha]]---you say; [[synonyms:k:ki]]---what; [[synonyms:t:tomāra]]---your; [[synonyms:v:vicāra]]---conclusion.
+
+===== Translation =====
+
+**"You have promised to give your daughter in charity to me. Now you do not say anything. What is your conclusion?"**
+
+

@@ -1,0 +1,21 @@
+{{description>The invocation involves three processes: defining the objective, offering benedictions and offering obeisances.}}
+
+~~bc:Text 22~~
+~~Title:Caitanya-caritāmṛta, Ādi 1.22~~
+
+====== CC Ādi 1.22 ======
+
+===== Text =====
+
+> se maṅgalācaraṇa haya tri-vidha prakāra
+> vastu-nirdeśa, āśīrvāda, namaskāra
+
+===== Synonyms =====
+
+[[synonyms:s:se]]---that; [[synonyms:m:maṅgala]]-[[synonyms:ā:ācaraṇa]]---auspicious invocation; [[synonyms:h:haya]]---is; [[synonyms:t:tri]]-[[synonyms:v:vidha]]---three kinds; [[synonyms:p:prakāra]]---processes; [[synonyms:v:vastu]]-[[synonyms:n:nirdeśa]]---defining the object; [[synonyms:ā:āśīḥ]]-[[synonyms:v:vāda]]---benedictions; [[synonyms:n:namaḥ]]-[[synonyms:k:kāra]]---obeisances.
+
+===== Translation =====
+
+**The invocation involves three processes: defining the objective, offering benedictions and offering obeisances.**
+
+

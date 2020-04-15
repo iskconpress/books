@@ -1,0 +1,26 @@
+{{description>The wind blows violently, blasting dust everywhere and creating darkness. Clouds are raining everywhere with bloody disasters.}}
+
+~~bc:Text 16~~
+~~Title: Śrīmad Bhāgavatam 1.14.16~~
+
+====== SB 1.14.16 ======
+
+> वायुर्वाति खरस्पर्शो रजसा विसृजंस्तमः ।
+> असृग्वर्षन्ति जलदा बीभत्समिव सर्वतः ॥१६॥
+
+===== Text =====
+
+> vāyur vāti khara-sparśo
+> rajasā visṛjaṁs tamaḥ
+> asṛg varṣanti jaladā
+> bībhatsam iva sarvataḥ
+
+===== Synonyms =====
+
+[[synonyms:v:vāyuḥ]]---wind; [[synonyms:v:vāti]]---blowing; [[synonyms:k:khara]]-[[synonyms:s:sparśaḥ]]---sharply; [[synonyms:r:rajasā]]---by the dust; [[synonyms:v:visṛjan]]---creating; [[synonyms:t:tamaḥ]]---darkness; [[synonyms:a:asṛk]]---blood; [[synonyms:v:varṣanti]]---are raining; [[synonyms:j:jaladāḥ]]---the clouds; [[synonyms:b:bībhatsam]]---disastrous; [[synonyms:i:iva]]---like; [[synonyms:s:sarvataḥ]]---everywhere.
+
+===== Translation =====
+
+**The wind blows violently, blasting dust everywhere and creating darkness. Clouds are raining everywhere with bloody disasters.**
+
+

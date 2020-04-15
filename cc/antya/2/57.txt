@@ -1,0 +1,21 @@
+{{description>"Bring all the ingredients very soon, for I want to begin cooking immediately. Please do what I say."}}
+
+~~bc:Text 57~~
+~~Title:Caitanya-caritāmṛta, Antya 2.57~~
+
+====== CC Antya 2.57 ======
+
+===== Text =====
+
+> ye cāhiye, tāhā kara hañā tat-para
+> ati tvarāya kariba pāka, śuna ataḥpara
+
+===== Synonyms =====
+
+[[synonyms:y:ye]] [[synonyms:c:cāhiye]]---whatever I want; [[synonyms:t:tāhā]] [[synonyms:k:kara]]---arrange for that; [[synonyms:h:hañā]] [[synonyms:t:tat]]-[[synonyms:p:para]]---being intent; [[synonyms:a:ati]] [[synonyms:t:tvarāya]]---very soon; [[synonyms:k:kariba]] [[synonyms:p:pāka]]---I shall begin cooking; [[synonyms:ś:śuna]] [[synonyms:a:ataḥpara]]---just hear.
+
+===== Translation =====
+
+**"Bring all the ingredients very soon, for I want to begin cooking immediately. Please do what I say."**
+
+

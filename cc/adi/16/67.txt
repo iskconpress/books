@@ -1,0 +1,21 @@
+{{description>"There is extraordinary alliteration in three lines of the verse, but in one line there is no such alliteration. This is the fault of deviation.}}
+
+~~bc:Text 67~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.67~~
+
+====== CC Ādi 16.67 ======
+
+===== Text =====
+
+> tina pāde anuprāsa dekhi anupama
+> eka pāde nāhi, ei doṣa 'bhagna-krama'
+
+===== Synonyms =====
+
+[[synonyms:t:tina]] [[synonyms:p:pāde]]---in three lines; [[synonyms:a:anuprāsa]]---alliteration; [[synonyms:d:dekhi]]---I see; [[synonyms:a:anupama]]---extraordinary; [[synonyms:e:eka]] [[synonyms:p:pāde]]---in one line; [[synonyms:n:nāhi]]---there is not (alliteration); [[synonyms:e:ei]] [[synonyms:d:doṣa]]---this fault; [[synonyms:b:bhagna]]-[[synonyms:k:krama]]---deviation.
+
+===== Translation =====
+
+**"There is extraordinary alliteration in three lines of the verse, but in one line there is no such alliteration. This is the fault of deviation.**
+
+

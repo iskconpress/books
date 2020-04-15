@@ -1,0 +1,21 @@
+{{description>"A wooden doll chants and dances according to the direction of a magician but does not know how he is dancing and singing.}}
+
+~~bc:Text 85~~
+~~Title:Caitanya-caritāmṛta, Antya 4.85~~
+
+====== CC Antya 4.85 ======
+
+===== Text =====
+
+> kāṣṭhera putalī yena kuhake nācāya
+> āpane nā jāne, putalī kibā nāce gāya!
+
+===== Synonyms =====
+
+[[synonyms:k:kāṣṭhera]] [[synonyms:p:putalī]]---a doll made of wood; [[synonyms:y:yena]]---as; [[synonyms:k:kuhake]] [[synonyms:n:nācāya]]---magician causes to dance; [[synonyms:ā:āpane]]---personally; [[synonyms:n:nā]] [[synonyms:j:jāne]]---does not know; [[synonyms:p:putalī]]---the doll; [[synonyms:k:kibā]]---how; [[synonyms:n:nāce]]---dances; [[synonyms:g:gāya]]---sings.
+
+===== Translation =====
+
+**"A wooden doll chants and dances according to the direction of a magician but does not know how he is dancing and singing.**
+
+

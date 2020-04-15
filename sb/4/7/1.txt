@@ -1,0 +1,28 @@
+{{description>The sage Maitreya said: O mighty-armed Vidura, Lord Śiva, being thus pacified by the words of Lord Brahmā, spoke as follows in answer to Lord Brahmā's request.}}
+
+~~bc:Text 1~~
+~~Title: Śrīmad Bhāgavatam 4.7.1~~
+
+====== SB 4.7.1 ======
+
+> मैत्रेय उवाच
+> इत्यजेनानुनीतेन भवेन परितुष्यता ।
+> अभ्यधायि महाबाहो प्रहस्य श्रूयतामिति ॥१॥
+
+===== Text =====
+
+> maitreya uvāca
+> ity ajenānunītena
+> bhavena parituṣyatā
+> abhyadhāyi mahā-bāho
+> prahasya śrūyatām iti
+
+===== Synonyms =====
+
+[[synonyms:m:maitreyaḥ]]---Maitreya; [[synonyms:u:uvāca]]---said; [[synonyms:i:iti]]---thus; [[synonyms:a:ajena]]---by Lord Brahmā; [[synonyms:a:anunītena]]---pacified; [[synonyms:b:bhavena]]---by Lord Śiva; [[synonyms:p:parituṣyatā]]---fully satisfied; [[synonyms:a:abhyadhāyi]]---said; [[synonyms:m:mahā]]-[[synonyms:b:bāho]]---O Vidura; [[synonyms:p:prahasya]]---smiling; [[synonyms:ś:śrūyatām]]---listen; [[synonyms:i:iti]]---thus.
+
+===== Translation =====
+
+**The sage Maitreya said: O mighty-armed Vidura, Lord Śiva, being thus pacified by the words of Lord Brahmā, spoke as follows in answer to Lord Brahmā's request.**
+
+

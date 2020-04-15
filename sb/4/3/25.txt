@@ -1,0 +1,27 @@
+{{description>If in spite of this instruction you decide to go, neglecting my words, the future will not be good for you. You are most respectable, and when you are insulted by your relative, this insult will immediately be equal to death.}}
+
+~~bc:Text 25~~
+~~Title: Śrīmad Bhāgavatam 4.3.25~~
+
+====== SB 4.3.25 ======
+
+> यदि व्रजिष्यस्यतिहाय मद्वचो भद्रं भवत्या न ततो भविष्यति ।
+> सम्भावितस्य स्वजनात्पराभवो यदा स सद्यो मरणाय कल्पते ॥२५॥
+
+===== Text =====
+
+> yadi vrajiṣyasy atihāya mad-vaco
+> bhadraṁ bhavatyā na tato bhaviṣyati
+> sambhāvitasya sva-janāt parābhavo
+> yadā sa sadyo maraṇāya kalpate
+
+===== Synonyms =====
+
+[[synonyms:y:yadi]]---if; [[synonyms:v:vrajiṣyasi]]---you will go; [[synonyms:a:atihāya]]---neglecting; [[synonyms:m:mat]]-[[synonyms:v:vacaḥ]]---my words; [[synonyms:b:bhadram]]---good; [[synonyms:b:bhavatyāḥ]]---your; [[synonyms:n:na]]---not; [[synonyms:t:tataḥ]]---then; [[synonyms:b:bhaviṣyati]]---will become; [[synonyms:s:sambhāvitasya]]---most respectable; [[synonyms:s:svajanāt]]---by your own relative; [[synonyms:p:parābhavaḥ]]---are insulted; [[synonyms:y:yadā]]---when; [[synonyms:s:saḥ]]---that insult; [[synonyms:s:sadyaḥ]]---immediately; [[synonyms:m:maraṇāya]]---to death; [[synonyms:k:kalpate]]---is equal.
+
+===== Translation =====
+
+**If in spite of this instruction you decide to go, neglecting my words, the future will not be good for you. You are most respectable, and when you are insulted by your relative, this insult will immediately be equal to death.**
+
+
+Thus end the Bhaktivedanta purports of the Fourth Canto, Third Chapter, of the //Śrīmad-Bhāgavatam,// entitled "Talks Between Lord Śiva and Satī."

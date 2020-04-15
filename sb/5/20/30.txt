@@ -1,0 +1,24 @@
+{{description>In the middle of that island is a great mountain named Mānasottara, which forms the boundary between the inner side and the outer side of the island. Its breadth and height are 10,000 yojanas [80,000 miles]. On that mountain, in the four directions, are the residential quarters of demigods such as Indra. In the chariot of the sun-god, the sun travels on the top of the mountain in an orbit called the Saṁvatsara, encircling Mount Meru. The sun's path on the northern side is called Uttarāyaṇa, and its path on the southern side is called Dakṣiṇāyana. One side represents a day for the demigods, and the other represents their night.}}
+
+~~bc:Text 30~~
+~~Title: Śrīmad Bhāgavatam 5.20.30~~
+
+====== SB 5.20.30 ======
+
+===== Text =====
+
+
+> tad-dvīpa-madhye mānasottara-nāmaika evārvācīna-parācīna-varṣayor maryādācalo 'yuta-yojanocchrāyāyāmo yatra tu catasṛṣu dikṣu catvāri purāṇi loka-pālānām indrādīnāṁ yad-upariṣṭāt sūrya-rathasya meruṁ paribhramataḥ saṁvatsarātmakaṁ cakraṁ devānām aho-rātrābhyāṁ paribhramati.
+
+===== Synonyms =====
+
+[[synonyms:t:tat]]-[[synonyms:d:dvīpa]]-[[synonyms:m:madhye]]---within that island; [[synonyms:m:mānasottara]]---Mānasottara; [[synonyms:n:nāma]]---named; [[synonyms:e:ekaḥ]]---one; [[synonyms:e:eva]]---indeed; [[synonyms:a:arvācīna]]---on this side; [[synonyms:p:parācīna]]---and beyond, or outside; [[synonyms:v:varṣayoḥ]]---of tracts of land; [[synonyms:m:maryādā]]---indicating the boundary; [[synonyms:a:acalaḥ]]---a great mountain; [[synonyms:a:ayuta]]---ten thousand; [[synonyms:y:yojana]]---eight miles; [[synonyms:u:ucchrāya]]-[[synonyms:ā:āyāmaḥ]]---whose height and width; [[synonyms:y:yatra]]---where; [[synonyms:t:tu]]---but; [[synonyms:c:catasṛṣu]]---in the four; [[synonyms:d:dikṣu]]---directions; [[synonyms:c:catvāri]]---four; [[synonyms:p:purāṇi]]---cities; [[synonyms:l:loka]]-[[synonyms:p:pālānām]]---of the directors of planetary systems; [[synonyms:i:indra]]-[[synonyms:ā:ādīnām]]---headed by Indra; [[synonyms:y:yat]]---of which; [[synonyms:u:upariṣṭāt]]---on the top; [[synonyms:s:sūrya]]-[[synonyms:r:rathasya]]---of the chariot of the sun-god; [[synonyms:m:merum]]---Meru Mountain; [[synonyms:p:paribhramataḥ]]---while circumambulating; [[synonyms:s:saṁvatsara]]-[[synonyms:ā:ātmakam]]---consisting of one //saṁvatsara//; [[synonyms:c:cakram]]---wheel or orbit; [[synonyms:d:devānām]]---of the demigods; [[synonyms:a:ahaḥ]]-[[synonyms:r:rātrābhyām]]---by the day and night; [[synonyms:p:paribhramati]]---moves around.
+
+===== Translation =====
+
+**In the middle of that island is a great mountain named Mānasottara, which forms the boundary between the inner side and the outer side of the island. Its breadth and height are 10,000 yojanas [80,000 miles]. On that mountain, in the four directions, are the residential quarters of demigods such as Indra. In the chariot of the sun-god, the sun travels on the top of the mountain in an orbit called the Saṁvatsara, encircling Mount Meru. The sun's path on the northern side is called Uttarāyaṇa, and its path on the southern side is called Dakṣiṇāyana. One side represents a day for the demigods, and the other represents their night.**
+
+===== Purport =====
+
+The movement of the sun is confirmed in the //Brahma-saṁhitā// (5.52): //yasyājñāya bhramati saṁbhṛta-kāla-cakraḥ.// The sun orbits around Mount Sumeru, for six months on the northern side and for six months on the southern. This adds up to the duration of a day and night of the demigods in the upper planetary systems.
+

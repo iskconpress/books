@@ -1,0 +1,21 @@
+{{description>This conclusion of rasa is extremely deep. Only Svarūpa Dāmodara knows much about it.}}
+
+~~bc:Text 160~~
+~~Title:Caitanya-caritāmṛta, Ādi 4.160~~
+
+====== CC Ādi 4.160 ======
+
+===== Text =====
+
+> atyanta-nigūḍha ei rasera siddhānta
+> svarūpa-gosāñi mātra jānena ekānta
+
+===== Synonyms =====
+
+[[synonyms:a:atyanta]]---extremely; [[synonyms:n:nigūḍha]]---deep; [[synonyms:e:ei]]---this; [[synonyms:r:rasera]]---of mellow; [[synonyms:s:siddhānta]]---conclusion; [[synonyms:s:svarūpa]]-[[synonyms:g:gosāñi]]---Svarūpa Dāmodara Gosvāmī; [[synonyms:m:mātra]]---only; [[synonyms:j:jānena]]---knows; [[synonyms:e:ekānta]]---much.
+
+===== Translation =====
+
+**This conclusion of rasa is extremely deep. Only Svarūpa Dāmodara knows much about it.**
+
+

@@ -1,0 +1,21 @@
+{{description>"I belong to a low caste, and you are a very respectable guest. How shall I serve you?}}
+
+~~bc:Text 18~~
+~~Title:Caitanya-caritāmṛta, Antya 16.18~~
+
+====== CC Antya 16.18 ======
+
+===== Text =====
+
+> "āmi---nīca-jāti, tumi,---atithi sarvottama
+> kon prakāre karimu āmi tomāra sevana?
+
+===== Synonyms =====
+
+[[synonyms:ā:āmi]]---I; [[synonyms:n:nīca]]-[[synonyms:j:jāti]]---belong to a low caste; [[synonyms:t:tumi]]---you; [[synonyms:a:atithi]]---guest; [[synonyms:s:sarva]]-[[synonyms:u:uttama]]---very respectable; [[synonyms:k:kon]] [[synonyms:p:prakāre]]---how; [[synonyms:k:karimu]]---shall perform; [[synonyms:ā:āmi]]---I; [[synonyms:t:tomāra]] [[synonyms:s:sevana]]---your service.
+
+===== Translation =====
+
+**"I belong to a low caste, and you are a very respectable guest. How shall I serve you?**
+
+

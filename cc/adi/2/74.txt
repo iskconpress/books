@@ -1,0 +1,25 @@
+{{description>" 'One should not state a predicate before its subject, for it cannot thus stand without proper support.'}}
+
+~~bc:Text 74~~
+~~Title:Caitanya-caritāmṛta, Ādi 2.74~~
+
+====== CC Ādi 2.74 ======
+
+===== Text =====
+
+> anuvādam anuktvā tu
+> na vidheyam udīrayet
+> na hy alabdhāspadaṁ kiñcit
+> kutracit pratitiṣṭhati
+
+===== Synonyms =====
+
+[[synonyms:a:anuvādam]]---the subject; [[synonyms:a:anuktvā]]---not stating; [[synonyms:t:tu]]---but; [[synonyms:n:na]]---not; [[synonyms:v:vidheyam]]---the predicate; [[synonyms:u:udīrayet]]---one should speak; [[synonyms:n:na]]---not; [[synonyms:h:hi]]---certainly; [[synonyms:a:alabdha]]-[[synonyms:ā:āspadam]]---without a secure position; [[synonyms:k:kiñcit]]---something; [[synonyms:k:kutracit]]---anywhere; [[synonyms:p:pratitiṣṭhati]]---stands.
+
+===== Translation =====
+
+**“ 'One should not state a predicate before its subject, for it cannot thus stand without proper support.'**
+
+===== Purport =====
+
+This rhetorical rule appears in the //Ekādaśī-tattva,// Thirteenth Canto, in connection with the metaphorical use of words. An unknown object should not be put before the known subject because the object has no meaning if the subject is not first given.

@@ -1,0 +1,21 @@
+{{description>His orders read: "In every village you should construct new residences, and in five or seven new houses, you should store all kinds of food.}}
+
+~~bc:Text 111~~
+~~Title:Caitanya-caritāmṛta, Madhya 16.111~~
+
+====== CC Madhya 16.111 ======
+
+===== Text =====
+
+> 'grāme-grāme' nūtana āvāsa karibā
+> pāṅca-sāta navya-gṛhe sāmagrye bharibā
+
+===== Synonyms =====
+
+[[synonyms:g:grāme]]-[[synonyms:g:grāme]]---in every village; [[synonyms:n:nūtana]]---new; [[synonyms:ā:āvāsa]]---residential places; [[synonyms:k:karibā]]---you should construct; [[synonyms:p:pāṅca]]-[[synonyms:s:sāta]]---five to seven; [[synonyms:n:navya]]-[[synonyms:g:gṛhe]]---in new houses; [[synonyms:s:sāmagrye]]---with food; [[synonyms:b:bharibā]]---you should fill.
+
+===== Translation =====
+
+**His orders read: "In every village you should construct new residences, and in five or seven new houses, you should store all kinds of food.**
+
+

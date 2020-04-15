@@ -1,0 +1,29 @@
+{{description>The sense whose object of perception is form, the distinctive characteristic of fire, is the sense of sight. The sense whose object of perception is taste, the distinctive characteristic of water, is known as the sense of taste. Finally, the sense whose object of perception is odor, the distinctive characteristic of earth, is called the sense of smell.}}
+
+~~bc:Text 48~~
+~~Title: Śrīmad Bhāgavatam 3.26.48~~
+
+====== SB 3.26.48 ======
+
+> तेजोगुणविशेषोऽर्थो यस्य तच्चक्षुरुच्यते ।
+> अम्भोगुणविशेषोऽर्थो यस्य तद्रसनं विदुः ।
+> भूमेर्गुणविशेषोऽर्थो यस्य स घ्राण उच्यते ॥४८॥
+
+===== Text =====
+
+> tejo-guṇa-viśeṣo 'rtho
+> yasya tac cakṣur ucyate
+> ambho-guṇa-viśeṣo 'rtho
+> yasya tad rasanaṁ viduḥ
+> bhūmer guṇa-viśeṣo 'rtho
+> yasya sa ghrāṇa ucyate
+
+===== Synonyms =====
+
+[[synonyms:t:tejaḥ]]-[[synonyms:g:guṇa]]-[[synonyms:v:viśeṣaḥ]]---the distinctive characteristic of fire (form); [[synonyms:a:arthaḥ]]---object of perception; [[synonyms:y:yasya]]---whose; [[synonyms:t:tat]]---that; [[synonyms:c:cakṣuḥ]]---the sense of sight; [[synonyms:u:ucyate]]---is called; [[synonyms:a:ambhaḥ]]-[[synonyms:g:guṇa]]-[[synonyms:v:viśeṣaḥ]]---the distinctive characteristic of water (taste); [[synonyms:a:arthaḥ]]---object of perception; [[synonyms:y:yasya]]---whose; [[synonyms:t:tat]]---that; [[synonyms:r:rasanam]]---the sense of taste; [[synonyms:v:viduḥ]]---they know; [[synonyms:b:bhūmeḥ]] [[synonyms:g:guṇa]]-[[synonyms:v:viśeṣaḥ]]---the distinctive characteristic of earth (odor); [[synonyms:a:arthaḥ]]---object of perception; [[synonyms:y:yasya]]---whose; [[synonyms:s:saḥ]]---that; [[synonyms:g:ghrāṇaḥ]]---the sense of smell; [[synonyms:u:ucyate]]---is called.
+
+===== Translation =====
+
+**The sense whose object of perception is form, the distinctive characteristic of fire, is the sense of sight. The sense whose object of perception is taste, the distinctive characteristic of water, is known as the sense of taste. Finally, the sense whose object of perception is odor, the distinctive characteristic of earth, is called the sense of smell.**
+
+

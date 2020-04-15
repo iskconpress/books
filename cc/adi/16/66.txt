@@ -1,0 +1,21 @@
+{{description>"The statement by the word 'vibhavati' ['flourishes'] is complete. Qualifying it with the adjective 'adbhuta-guṇā' ['wonderful qualities'] creates the fault of redundancy.}}
+
+~~bc:Text 66~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.66~~
+
+====== CC Ādi 16.66 ======
+
+===== Text =====
+
+> 'vibhavati' kriyāya vākya---sāṅga, punaḥ viśeṣaṇa
+> 'adbhuta-guṇā'---ei punar-ātta dūṣaṇa
+
+===== Synonyms =====
+
+[[synonyms:v:vibhavatikriyāya]]---by the verb //vibhavati// ("flourishes"); [[synonyms:v:vākya]]---statement; [[synonyms:s:sāṅga]]---complete; [[synonyms:p:punaḥ]]---again; [[synonyms:v:viśeṣaṇaadbhuta]]-[[synonyms:g:guṇa]]---the adjective //adbhuta-guṇa// ("wonderful qualities"); [[synonyms:e:ei]]---this; [[synonyms:p:punar]]-[[synonyms:ā:ātta]]---repetition of the same word; [[synonyms:d:dūṣaṇa]]---fault.
+
+===== Translation =====
+
+**"The statement by the word 'vibhavati' ['flourishes'] is complete. Qualifying it with the adjective 'adbhuta-guṇā' ['wonderful qualities'] creates the fault of redundancy.**
+
+

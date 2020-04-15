@@ -1,0 +1,26 @@
+{{description>Farming, cow protection and business are the qualities of work for the vaiśyas, and for the śūdras there is labor and service to others.}}
+
+~~bc:Text 44~~
+~~Title:Bhagavad-gītā 18.44~~
+
+====== Bg 18.44 ======
+
+> कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् ।
+> परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ॥४४॥
+
+===== Text =====
+
+> kṛṣi-go-rakṣya-vāṇijyaṁ
+> vaiśya-karma svabhāva-jam
+> paricaryātmakaṁ karma
+> śūdrasyāpi svabhāva-jam
+
+===== Synonyms =====
+
+[[synonyms:k:kṛṣi]]---ploughing; [[synonyms:g:go]]---cows; [[synonyms:r:rakṣya]]---protection; [[synonyms:v:vāṇijyam]]---trade; [[synonyms:v:vaiśya]]---vaiśya; [[synonyms:k:karma]]---duty; [[synonyms:s:svabhāva]]-[[synonyms:j:jam]]---born of his own nature; [[synonyms:p:paricaryā]]---service; [[synonyms:ā:ātmakam]]---nature; [[synonyms:k:karma]]---duty; [[synonyms:ś:śūdrasya]]---of the //śūdra//; [[synonyms:a:api]]---also; [[synonyms:s:svabhāva]]-[[synonyms:j:jam]]---born of his own nature.
+
+===== Translation =====
+
+**Farming, cow protection((//In the 1972 MacMillan edition this reads 'cattle-raising', but Srila Prabhupāda corrects it [[spoken:750704r1.chi?s[]=cattle-raising#id25|here]] and [[spoken:750709iv.chi?s[]=cattle-raising#id14|here]].//)) and business are the qualities of work for the vaiśyas, and for the śūdras there is labor and service to others.**
+
+

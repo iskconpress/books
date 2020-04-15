@@ -1,0 +1,26 @@
+{{description>The luminaries in the heavens were screened by masses of clouds, in which lightning sometimes flashed as though laughing. Darkness reigned everywhere, and nothing could be seen.}}
+
+~~bc:Text 6~~
+~~Title: Śrīmad Bhāgavatam 3.17.6~~
+
+====== SB 3.17.6 ======
+
+> उद्धसत्तडिदम्भोद घटया नष्टभागणे ।
+> व्योम्नि प्रविष्टतमसा न स्म व्यादृश्यते पदम् ॥६॥
+
+===== Text =====
+
+> uddhasat-taḍid-ambhoda-
+> ghaṭayā naṣṭa-bhāgaṇe
+> vyomni praviṣṭa-tamasā
+> na sma vyādṛśyate padam
+
+===== Synonyms =====
+
+[[synonyms:u:uddhasat]]---laughing loudly; [[synonyms:t:taḍit]]---lightning; [[synonyms:a:ambhoda]]---of clouds; [[synonyms:g:ghaṭayā]]---by masses; [[synonyms:n:naṣṭa]]---lost; [[synonyms:b:bhā]]-[[synonyms:g:gaṇe]]---the luminaries; [[synonyms:v:vyomni]]---in the sky; [[synonyms:p:praviṣṭa]]---enveloped; [[synonyms:t:tamasā]]---by darkness; [[synonyms:n:na]]---not; [[synonyms:s:sma]] [[synonyms:v:vyādṛśyate]]---could be seen; [[synonyms:p:padam]]---any place.
+
+===== Translation =====
+
+**The luminaries in the heavens were screened by masses of clouds, in which lightning sometimes flashed as though laughing. Darkness reigned everywhere, and nothing could be seen.**
+
+

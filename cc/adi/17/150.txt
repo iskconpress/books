@@ -1,0 +1,21 @@
+{{description>"When a nephew is very angry, his maternal uncle is tolerant, and when the maternal uncle commits an offense, the nephew does not take it very seriously."}}
+
+~~bc:Text 150~~
+~~Title:Caitanya-caritāmṛta, Ādi 17.150~~
+
+====== CC Ādi 17.150 ======
+
+===== Text =====
+
+> bhāgināra krodha māmā avaśya sahaya
+> mātulera aparādha bhāginā nā laya
+
+===== Synonyms =====
+
+[[synonyms:b:bhāgināra]]---of the nephew; [[synonyms:k:krodha]]---anger; [[synonyms:m:māmā]]---maternal uncle; [[synonyms:a:avaśya]]---certainly; [[synonyms:s:sahaya]]---tolerates; [[synonyms:m:mātulera]]---of the maternal uncle; [[synonyms:a:aparādha]]---offense; [[synonyms:b:bhāginā]]---the nephew; [[synonyms:n:nā]]---does not; [[synonyms:l:laya]]---accept.
+
+===== Translation =====
+
+**"When a nephew is very angry, his maternal uncle is tolerant, and when the maternal uncle commits an offense, the nephew does not take it very seriously."**
+
+

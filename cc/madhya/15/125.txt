@@ -1,0 +1,21 @@
+{{description>"When the King asked Mukunda, 'Where is it paining you?' Mukunda replied, 'I am not very much pained.'}}
+
+~~bc:Text 125~~
+~~Title:Caitanya-caritāmṛta, Madhya 15.125~~
+
+====== CC Madhya 15.125 ======
+
+===== Text =====
+
+> rājā bale---vyathā tumi pāile kona ṭhāñi?
+> mukunda kahe,---ati-baḍa vyathā pāi nāi
+
+===== Synonyms =====
+
+[[synonyms:r:rājābale]]---the King said; [[synonyms:v:vyathā]]---pain; [[synonyms:t:tumi]] [[synonyms:p:pāile]]---you have gotten; [[synonyms:k:kona]] [[synonyms:ṭ:ṭhāñi]]---where; [[synonyms:m:mukunda]] [[synonyms:k:kahe]]---Mukunda replied; [[synonyms:a:ati]]-[[synonyms:b:baḍa]] [[synonyms:v:vyathā]]---very much pain; [[synonyms:p:pāi]] [[synonyms:n:nāi]]---I have not gotten.
+
+===== Translation =====
+
+**"When the King asked Mukunda, 'Where is it paining you?' Mukunda replied, 'I am not very much pained.'**
+
+

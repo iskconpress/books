@@ -1,0 +1,21 @@
+{{description>"My dear mother, wherever you ask Me to stay I shall stay, and whatever you order I shall execute."}}
+
+~~bc:Text 148~~
+~~Title:Caitanya-caritāmṛta, Madhya 3.148~~
+
+====== CC Madhya 3.148 ======
+
+===== Text =====
+
+> tumi yāhāṅ kaha, āmi tāhāṅi rahiba
+> tumi yei ājñā kara, sei ta' kariba
+
+===== Synonyms =====
+
+[[synonyms:t:tumi]]---you; [[synonyms:y:yāhāṅ]]---wherever; [[synonyms:k:kaha]]---ask; [[synonyms:ā:āmi]]---I; [[synonyms:t:tāhāṅi]]---there; [[synonyms:r:rahiba]]---shall stay; [[synonyms:t:tumi]]---you; [[synonyms:y:yei]]---whatever; [[synonyms:ā:ājñā]]---order; [[synonyms:k:kara]]---give; [[synonyms:s:sei]]---that; [[synonyms:t:ta']]---certainly; [[synonyms:k:kariba]]---I shall execute.
+
+===== Translation =====
+
+**"My dear mother, wherever you ask Me to stay I shall stay, and whatever you order I shall execute."**
+
+

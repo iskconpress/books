@@ -1,0 +1,26 @@
+{{description>The great sages, having thus decided, approached King Vena. Concealing their real anger, they pacified him with sweet words and then spoke as follows.}}
+
+~~bc:Text 13~~
+~~Title: Śrīmad Bhāgavatam 4.14.13~~
+
+====== SB 4.14.13 ======
+
+> एवमध्यवसायैनं मुनयो गूढमन्यवः ।
+> उपव्रज्याब्रुवन्वेनं सान्त्वयित्वा च सामभिः ॥१३॥
+
+===== Text =====
+
+> evam adhyavasāyainaṁ
+> munayo gūḍha-manyavaḥ
+> upavrajyābruvan venaṁ
+> sāntvayitvā ca sāmabhiḥ
+
+===== Synonyms =====
+
+[[synonyms:e:evam]]---thus; [[synonyms:a:adhyavasāya]]---having decided; [[synonyms:e:enam]]---him; [[synonyms:m:munayaḥ]]---the great sages; [[synonyms:g:gūḍha]]-[[synonyms:m:manyavaḥ]]---concealing their anger; [[synonyms:u:upavrajya]]---having approached; [[synonyms:a:abruvan]]---spoke; [[synonyms:v:venam]]---to King Vena; [[synonyms:s:sāntvayitvā]]---after pacifying; [[synonyms:c:ca]]---also; [[synonyms:s:sāmabhiḥ]]---with sweet words.
+
+===== Translation =====
+
+**The great sages, having thus decided, approached King Vena. Concealing their real anger, they pacified him with sweet words and then spoke as follows.**
+
+

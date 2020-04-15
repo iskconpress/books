@@ -1,0 +1,23 @@
+{{description>"Among the fruits were many varieties of coconut and mango, bananas, berries, jackfruits, dates, tangerines, oranges, blackberries, santarās, grapes, almonds and all kinds of dried fruit.}}
+
+~~bc:Text 104~~
+~~Title:Caitanya-caritāmṛta, Antya 18.104~~
+
+====== CC Antya 18.104 ======
+
+===== Text =====
+
+> eka nārikela nānā-jāti, eka āmra nānā bhāti,
+> kalā, koli---vividha-prakāra
+> panasa, kharjura, kamalā, nāraṅga, jāma, santarā,
+> drākṣā, bādāma, meoyā yata āra
+
+===== Synonyms =====
+
+[[synonyms:e:eka]]---one item; [[synonyms:n:nārikela]]---coconut; [[synonyms:n:nānā]]-[[synonyms:j:jāti]]---of many varieties; [[synonyms:e:eka]]---one; [[synonyms:ā:āmra]]---mango; [[synonyms:n:nānā]] [[synonyms:b:bhāti]]---of many different qualities; [[synonyms:k:kalā]]---banana; [[synonyms:k:koli]]---berries; [[synonyms:v:vividha]]-[[synonyms:p:prakāra]]---of different varieties; [[synonyms:p:panasa]]---jackfruit; [[synonyms:k:kharjura]]---dates; [[synonyms:k:kamalā]]---tangerines; [[synonyms:n:nāraṅga]]---oranges; [[synonyms:j:jāma]]---blackberries; [[synonyms:s:santarā]]---another type of tangerine; [[synonyms:d:drākṣā]]---grapes; [[synonyms:b:bādāma]]---almonds; [[synonyms:m:meoyā]]---dried fruits; [[synonyms:y:yata]]---as many as there are; [[synonyms:ā:āra]]---and.
+
+===== Translation =====
+
+**"Among the fruits were many varieties of coconut and mango, bananas, berries, jackfruits, dates, tangerines, oranges, blackberries, santarās, grapes, almonds and all kinds of dried fruit.**
+
+

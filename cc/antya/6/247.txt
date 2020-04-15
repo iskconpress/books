@@ -1,0 +1,21 @@
+{{description>"He wrote me a letter asking me to send you back, but when those ten men received no information about you, they returned home from Jhāṅkarā."}}
+
+~~bc:Text 247~~
+~~Title:Caitanya-caritāmṛta, Antya 6.247~~
+
+====== CC Antya 6.247 ======
+
+===== Text =====
+
+> tomāre pāṭhāite patrī pāṭhāila more
+> jhāṅkarā ha-ite tomā nā pāñā gela ghare
+
+===== Synonyms =====
+
+[[synonyms:t:tomāre]]---you; [[synonyms:p:pāṭhāite]]---to send back; [[synonyms:p:patrī]]---letter; [[synonyms:p:pāṭhāila]] [[synonyms:m:more]]---sent to me; [[synonyms:j:jhāṅkarā]] [[synonyms:h:ha]]-[[synonyms:i:ite]]---from Jhāṅkarā; [[synonyms:t:tomā]]---you; [[synonyms:n:nā]] [[synonyms:p:pāñā]]---not getting; [[synonyms:g:gela]] [[synonyms:g:ghare]]---returned home.
+
+===== Translation =====
+
+**"He wrote me a letter asking me to send you back, but when those ten men received no information about you, they returned home from Jhāṅkarā."**
+
+

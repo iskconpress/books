@@ -1,0 +1,21 @@
+{{description>"They are all coming here to see You, but seeing that they were delayed, I came alone very quickly."}}
+
+~~bc:Text 100~~
+~~Title:Caitanya-caritāmṛta, Madhya 10.100~~
+
+====== CC Madhya 10.100 ======
+
+===== Text =====
+
+> sabe āsitechena tomāre dekhite
+> tāṅ-sabāra vilamba dekhi' āilāṅa tvarite
+
+===== Synonyms =====
+
+[[synonyms:s:sabe]]---all; [[synonyms:ā:āsitechena]]---are coming; [[synonyms:t:tomāre]]---You; [[synonyms:d:dekhite]]---to see; [[synonyms:t:tāṅ]]-[[synonyms:s:sabāra]]---of all of them; [[synonyms:v:vilamba]]---delay; [[synonyms:d:dekhi']]---seeing; [[synonyms:ā:āilāṅa]]---I have come; [[synonyms:t:tvarite]]---very quickly.
+
+===== Translation =====
+
+**"They are all coming here to see You, but seeing that they were delayed, I came alone very quickly."**
+
+

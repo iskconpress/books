@@ -1,0 +1,26 @@
+{{description>In this way the King founded many types of villages, settlements and towns and built forts, residences for cowherdsmen, stables for the animals, and places for the royal camps, mining places, agricultural towns and mountain villages.}}
+
+~~bc:Text 31~~
+~~Title: Śrīmad Bhāgavatam 4.18.31~~
+
+====== SB 4.18.31 ======
+
+> ग्रामान्पुरः पत्तनानि दुर्गाणि विविधानि च ।
+> घोषान्व्रजान्सशिबिरानाकरान्खेटखर्वटान् ॥३१॥
+
+===== Text =====
+
+> grāmān puraḥ pattanāni
+> durgāṇi vividhāni ca
+> ghoṣān vrajān sa-śibirān
+> ākarān kheṭa-kharvaṭān
+
+===== Synonyms =====
+
+[[synonyms:g:grāmān]]---villages; [[synonyms:p:puraḥ]]---cities; [[synonyms:p:pattanāni]]---settlements; [[synonyms:d:durgāṇi]]---forts; [[synonyms:v:vividhāni]]---of different varieties; [[synonyms:c:ca]]---also; [[synonyms:g:ghoṣān]]---habitations for the milkmen; [[synonyms:v:vrajān]]---pens for cattle; [[synonyms:s:sa]]-[[synonyms:ś:śibirān]]---with camps; [[synonyms:ā:ākarān]]---mines; [[synonyms:k:kheṭa]]---agricultural towns; [[synonyms:k:kharvaṭān]]---mountain villages.
+
+===== Translation =====
+
+**In this way the King founded many types of villages, settlements and towns and built forts, residences for cowherdsmen, stables for the animals, and places for the royal camps, mining places, agricultural towns and mountain villages.**
+
+

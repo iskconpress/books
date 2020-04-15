@@ -1,0 +1,21 @@
+{{description>"Although there are five literary ornaments decorating this verse, the entire verse has been spoiled by these five most faulty presentations.}}
+
+~~bc:Text 68~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.68~~
+
+====== CC Ādi 16.68 ======
+
+===== Text =====
+
+> yadyapi ei śloke āche pañca alaṅkāra
+> ei pañca-doṣe śloka kaila chārakhāra
+
+===== Synonyms =====
+
+[[synonyms:y:yadyapi]]---although; [[synonyms:e:ei]] [[synonyms:ś:śloke]]---in this verse; [[synonyms:ā:āche]]---there are; [[synonyms:p:pañca]]---five; [[synonyms:a:alaṅkāra]]---literary embellishments; [[synonyms:e:ei]] [[synonyms:p:pañca]]-[[synonyms:d:doṣe]]---by the above-mentioned five faults; [[synonyms:ś:śloka]]---the verse; [[synonyms:k:kaila]]---has been made; [[synonyms:c:chārakhāra]]---spoiled.
+
+===== Translation =====
+
+**"Although there are five literary ornaments decorating this verse, the entire verse has been spoiled by these five most faulty presentations.**
+
+

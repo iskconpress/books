@@ -1,0 +1,21 @@
+{{description>"Go there and adjust everything. I want only the payment, not his life."}}
+
+~~bc:Text 50~~
+~~Title:Caitanya-caritāmṛta, Antya 9.50~~
+
+====== CC Antya 9.50 ======
+
+===== Text =====
+
+> tumi yāi' kara tāhāṅ sarva samādhāna
+> dravya yaiche āise, āra rahe tāra prāṇa"
+
+===== Synonyms =====
+
+[[synonyms:t:tumi]]---you; [[synonyms:y:yāi']]---going; [[synonyms:k:kara]]---make; [[synonyms:t:tāhāṅ]]---there; [[synonyms:s:sarva]] [[synonyms:s:samādhāna]]---all adjustments; [[synonyms:d:dravya]]---goods; [[synonyms:y:yaiche]]---so that; [[synonyms:ā:āise]]---come; [[synonyms:ā:āra]]---and; [[synonyms:r:rahe]]---keeps; [[synonyms:t:tāra]]---his; [[synonyms:p:prāṇa]]---life.
+
+===== Translation =====
+
+**"Go there and adjust everything. I want only the payment, not his life."**
+
+

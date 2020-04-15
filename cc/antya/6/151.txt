@@ -1,0 +1,21 @@
+{{description>"As you think fit, give twenty, fifteen, twelve, ten or five coins to each of them."}}
+
+~~bc:Text 151~~
+~~Title:Caitanya-caritāmṛta, Antya 6.151~~
+
+====== CC Antya 6.151 ======
+
+===== Text =====
+
+> biśa, pañca-daśa, bāra, daśa, pañca haya
+> mudrā deha' vicāri' yāra yata yogya haya
+
+===== Synonyms =====
+
+[[synonyms:b:biśa]]---twenty; [[synonyms:p:pañca]]-[[synonyms:d:daśa]]---fifteen; [[synonyms:b:bāra]]---twelve; [[synonyms:d:daśa]]---ten; [[synonyms:p:pañca]]---five; [[synonyms:h:haya]]---are; [[synonyms:m:mudrā]]---coins; [[synonyms:d:deha']]---give; [[synonyms:v:vicāri']]---considering; [[synonyms:y:yāra]]---of whom; [[synonyms:y:yata]]---as much; [[synonyms:y:yogya]] [[synonyms:h:haya]]---is fit.
+
+===== Translation =====
+
+**"As you think fit, give twenty, fifteen, twelve, ten or five coins to each of them."**
+
+

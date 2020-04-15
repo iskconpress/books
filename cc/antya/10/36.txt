@@ -1,0 +1,21 @@
+{{description>The condiments and similar items were put into thin earthen pots, and everything else was put into small cloth bags.}}
+
+~~bc:Text 36~~
+~~Title:Caitanya-caritāmṛta, Antya 10.36~~
+
+====== CC Antya 10.36 ======
+
+===== Text =====
+
+> pātala mṛt-pātre sandhānādi bhari'
+> āra saba vastu bhare vastrera kuthalī
+
+===== Synonyms =====
+
+[[synonyms:p:pātala]]---thin; [[synonyms:m:mṛt]]-[[synonyms:p:pātre]]---in pots of earth; [[synonyms:s:sandhāna]]-[[synonyms:ā:ādi]]---condiments and other items; [[synonyms:b:bhari']]---filling; [[synonyms:ā:āra]]---other; [[synonyms:s:saba]]---all; [[synonyms:v:vastu]]---things; [[synonyms:b:bhare]]---filled; [[synonyms:v:vastrera]] [[synonyms:k:kuthalī]]---small bags of cloth.
+
+===== Translation =====
+
+**The condiments and similar items were put into thin earthen pots, and everything else was put into small cloth bags.**
+
+

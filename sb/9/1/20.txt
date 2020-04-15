@@ -1,0 +1,23 @@
+{{description>This discrepancy in the objective is due to your priest's deviation from the original purpose. However, by my own prowess I shall give you a good son.}}
+
+~~bc:Text 20~~
+~~Title: Śrīmad Bhāgavatam 9.1.20~~
+
+====== SB 9.1.20 ======
+
+===== Text =====
+
+> etat saṅkalpa-vaiṣamyaṁ
+> hotus te vyabhicārataḥ
+> tathāpi sādhayiṣye te
+> suprajāstvaṁ sva-tejasā
+
+===== Synonyms =====
+
+[[synonyms:e:etat]]---this; [[synonyms:s:saṅkalpa]]-[[synonyms:v:vaiṣamyam]]---discrepancy in the objective; [[synonyms:h:hotuḥ]]---of the priest; [[synonyms:t:te]]---your; [[synonyms:v:vyabhicārataḥ]]---from deviating from the prescribed purpose; [[synonyms:t:tathā]] [[synonyms:a:api]]---still; [[synonyms:s:sādhayiṣye]]---I shall execute; [[synonyms:t:te]]---for you; [[synonyms:s:su]]-[[synonyms:p:prajāstvam]]---a very nice son; [[synonyms:s:sva]]-[[synonyms:t:tejasā]]---by my own prowess.
+
+===== Translation =====
+
+**This discrepancy in the objective is due to your priest's deviation from the original purpose. However, by my own prowess I shall give you a good son.**
+
+

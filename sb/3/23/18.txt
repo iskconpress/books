@@ -1,0 +1,26 @@
+{{description>The palace was very beautiful, with its coral thresholds at the entrances and its doors bedecked with diamonds. Gold pinnacles crowned its domes of sapphire.}}
+
+~~bc:Text 18~~
+~~Title: Śrīmad Bhāgavatam 3.23.18~~
+
+====== SB 3.23.18 ======
+
+> द्वाःसु विद्रुमदेहल्या भातं वज्रकपाटवत् ।
+> शिखरेष्विन्द्रनीलेषु हेमकुम्भैरधिश्रितम् ॥१८॥
+
+===== Text =====
+
+> dvāḥsu vidruma-dehalyā
+> bhātaṁ vajra-kapāṭavat
+> śikhareṣv indranīleṣu
+> hema-kumbhair adhiśritam
+
+===== Synonyms =====
+
+[[synonyms:d:dvāḥsu]]---in the entrances; [[synonyms:v:vidruma]]---of coral; [[synonyms:d:dehalyā]]---with a threshold; [[synonyms:b:bhātam]]---beautiful; [[synonyms:v:vajra]]---bedecked with diamonds; [[synonyms:k:kapāṭa]]-[[synonyms:v:vat]]---having doors; [[synonyms:ś:śikhareṣu]]---on the domes; [[synonyms:i:indra]]-[[synonyms:n:nīleṣu]]---of sapphires; [[synonyms:h:hema]]-[[synonyms:k:kumbhaiḥ]]---with gold pinnacles; [[synonyms:a:adhiśritam]]---crowned.
+
+===== Translation =====
+
+**The palace was very beautiful, with its coral thresholds at the entrances and its doors bedecked with diamonds. Gold pinnacles crowned its domes of sapphire.**
+
+

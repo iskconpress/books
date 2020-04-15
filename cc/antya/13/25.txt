@@ -1,0 +1,21 @@
+{{description>"I could not go without Your Lordship's permission. Now You must give me permission, and I shall certainly go there."}}
+
+~~bc:Text 25~~
+~~Title:Caitanya-caritāmṛta, Antya 13.25~~
+
+====== CC Antya 13.25 ======
+
+===== Text =====
+
+> prabhu-ājñā nāhi, tāte nā pāri yāite
+> ebe ājñā deha', avaśya yāimu niścite"
+
+===== Synonyms =====
+
+[[synonyms:p:prabhu]]-[[synonyms:ā:ājñā]]---the permission of Your Lordship; [[synonyms:n:nāhi]]---not; [[synonyms:t:tāte]]---therefore; [[synonyms:n:nā]] [[synonyms:p:pāri]] [[synonyms:y:yāite]]---I could not go; [[synonyms:e:ebe]]---now; [[synonyms:ā:ājñā]]---permission; [[synonyms:d:deha']]---give; [[synonyms:a:avaśya]]---certainly; [[synonyms:y:yāimu]]---I shall go; [[synonyms:n:niścite]]---without fail.
+
+===== Translation =====
+
+**"I could not go without Your Lordship's permission. Now You must give me permission, and I shall certainly go there."**
+
+

@@ -1,0 +1,21 @@
+{{description>"At present they are all living here. Their residences are in various quarters. Here you will get the audience of them all."}}
+
+~~bc:Text 59~~
+~~Title:Caitanya-caritāmṛta, Antya 7.59~~
+
+====== CC Antya 7.59 ======
+
+===== Text =====
+
+> ihāṅi rahena sabe, vāsā---nānā-sthāne
+> ihāṅi pāibā tumi sabāra darśane"
+
+===== Synonyms =====
+
+[[synonyms:i:ihāṅi]]---here; [[synonyms:r:rahena]] [[synonyms:s:sabe]]---all of them are living; [[synonyms:v:vāsā]]---their residential places; [[synonyms:n:nānā]]-[[synonyms:s:sthāne]]---in various quarters; [[synonyms:i:ihāṅi]]---here; [[synonyms:p:pāibā]]---will get; [[synonyms:t:tumi]]---you; [[synonyms:s:sabāra]] [[synonyms:d:darśane]]---everyone's audience.
+
+===== Translation =====
+
+**"At present they are all living here. Their residences are in various quarters. Here you will get the audience of them all."**
+
+

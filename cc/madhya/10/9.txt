@@ -1,0 +1,21 @@
+{{description>"Still, I would have tried to arrange your interview, but He has recently left to tour South India."}}
+
+~~bc:Text 9~~
+~~Title:Caitanya-caritāmṛta, Madhya 10.9~~
+
+====== CC Madhya 10.9 ======
+
+===== Text =====
+
+> tathāpi prakāre tomā karāitāma daraśana
+> samprati karilā teṅho dakṣiṇa gamana
+
+===== Synonyms =====
+
+[[synonyms:t:tathāpi]]---yet; [[synonyms:p:prakāre]]---somehow or other; [[synonyms:t:tomā]]---you; [[synonyms:k:karāitāma]]---I would have arranged; [[synonyms:d:daraśana]]---interview; [[synonyms:s:samprati]]---recently; [[synonyms:k:karilā]]---has done; [[synonyms:t:teṅho]]---He; [[synonyms:d:dakṣiṇa]]---to the southern part of India; [[synonyms:g:gamana]]---departure.
+
+===== Translation =====
+
+**"Still, I would have tried to arrange your interview, but He has recently left to tour South India."**
+
+

@@ -1,0 +1,21 @@
+{{description>"He eats if someone gives him something to eat. Sometimes he fasts, and sometimes he chews fried grains."}}
+
+~~bc:Text 256~~
+~~Title:Caitanya-caritāmṛta, Antya 6.256~~
+
+====== CC Antya 6.256 ======
+
+===== Text =====
+
+> keha yadi deya, tabe karaye bhakṣaṇa
+> kabhu upavāsa, kabhu karaye carvaṇa"
+
+===== Synonyms =====
+
+[[synonyms:k:keha]]---someone; [[synonyms:y:yadi]]---if; [[synonyms:d:deya]]---offers; [[synonyms:t:tabe]]---then; [[synonyms:k:karaye]] [[synonyms:b:bhakṣaṇa]]---he eats; [[synonyms:k:kabhu]]---sometimes; [[synonyms:u:upavāsa]]---fasting; [[synonyms:k:kabhu]]---sometimes; [[synonyms:k:karaye]] [[synonyms:c:carvaṇa]]---he chews.
+
+===== Translation =====
+
+**"He eats if someone gives him something to eat. Sometimes he fasts, and sometimes he chews fried grains."**
+
+

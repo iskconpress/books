@@ -1,0 +1,21 @@
+{{description>"My entire home has been purified by your arrival. Kindly order me. What can I do for you? I am your servant."}}
+
+~~bc:Text 30~~
+~~Title:Caitanya-caritāmṛta, Antya 5.30~~
+
+====== CC Antya 5.30 ======
+
+===== Text =====
+
+> tomāra āgamane mora pavitra haila ghara
+> ājñā kara, kyā karoṅ tomāra kiṅkara"
+
+===== Synonyms =====
+
+[[synonyms:t:tomāra]] [[synonyms:ā:āgamane]]---because of your arrival; [[synonyms:m:mora]]---my; [[synonyms:p:pavitra]]---purified; [[synonyms:h:haila]]---became; [[synonyms:g:ghara]]---house; [[synonyms:ā:ājñā]] [[synonyms:k:kara]]---kindly order; [[synonyms:k:kyā]] [[synonyms:k:karoṅ]]---what can I do; [[synonyms:t:tomāra]] [[synonyms:k:kiṅkara]]---I am your servant.
+
+===== Translation =====
+
+**"My entire home has been purified by your arrival. Kindly order me. What can I do for you? I am your servant."**
+
+

@@ -1,0 +1,21 @@
+{{description>I have therefore given only a synopsis of those incidents, and whatever specifics were to be related have already been given in that synopsis.}}
+
+~~bc:Text 9~~
+~~Title:Caitanya-caritāmṛta, Madhya 1.9~~
+
+====== CC Madhya 1.9 ======
+
+===== Text =====
+
+> ataeva tāra āmi sūtra-mātra kailuṅ
+> ye kichu viśeṣa, sūtra-madhyei kahiluṅ
+
+===== Synonyms =====
+
+[[synonyms:a:ataeva]]---therefore; [[synonyms:t:tāra]]---of that; [[synonyms:ā:āmi]]---I; [[synonyms:s:sūtra]]-[[synonyms:m:mātra]]---only the synopsis; [[synonyms:k:kailuṅ]]---did; [[synonyms:y:ye]] [[synonyms:k:kichu]]---whatever; [[synonyms:v:viśeṣa]]---specifics; [[synonyms:s:sūtra]]-[[synonyms:m:madhyei]] [[synonyms:k:kahiluṅ]]---I have already stated within the synopsis.
+
+===== Translation =====
+
+**I have therefore given only a synopsis of those incidents, and whatever specifics were to be related have already been given in that synopsis.**
+
+

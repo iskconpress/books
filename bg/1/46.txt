@@ -1,0 +1,36 @@
+{{description>Sañjaya said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief.}}
+
+~~bc:Text 46~~
+~~Title:Bhagavad-gītā 1.46~~
+
+====== Bg 1.46 ======
+
+> सञ्जय उवाच ।
+> एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् ।
+> विसृज्य सशरं चापं शोकसंविग्नमानसः ॥४६॥
+
+===== Text =====
+
+> sañjaya uvāca
+> evam uktvārjunaḥ saṅkhye
+> rathopastha upāviśat
+> visṛjya sa-śaraṁ cāpaṁ
+> śoka-saṁvigna-mānasaḥ
+
+===== Synonyms =====
+
+[[synonyms:s:sañjayaḥ]]---Sañjaya; [[synonyms:u:uvāca]]---said; [[synonyms:e:evam]]---thus; [[synonyms:u:uktvā]]---saying; [[synonyms:a:arjunaḥ]]---Arjuna; [[synonyms:s:saṅkhye]]---in the battlefield; [[synonyms:r:ratha]]---chariot; [[synonyms:u:upasthaḥ]]---situated on; [[synonyms:u:upāviśat]]---sat down again; [[synonyms:v:visṛjya]]---keeping aside; [[synonyms:s:sa]]-[[synonyms:ś:śaram]]---along with arrows; [[synonyms:c:cāpam]]---the bow; [[synonyms:ś:śoka]]---lamentation; [[synonyms:s:saṁvigna]]---distressed; [[synonyms:m:mānasaḥ]]---within the mind.
+
+===== Translation =====
+
+**Sañjaya said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief.**
+
+===== Purport =====
+
+While observing the situation of his enemy, Arjuna stood up on the chariot, but he was so afflicted with lamentation that he sat down again, setting aside his bow and arrows. Such a kind and softhearted person, in the devotional service of the Lord, is fit to receive self-knowledge.
+
+//Thus end the Bhaktivedanta Purports to the First Chapter of the// Śrīmad-Bhagavad-gītā //in the matter of Observing the Armies on the Battlefield of Kurukṣetra.//
+
+<WRAP next right rightalign>
+[[books:bg:2:1|Bhagavad-gītā 2.1]]
+</WRAP>

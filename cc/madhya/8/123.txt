@@ -1,0 +1,21 @@
+{{description>"You inspire me within the heart and make me speak with the tongue. I do not know whether I am speaking well or badly."}}
+
+~~bc:Text 123~~
+~~Title:Caitanya-caritāmṛta, Madhya 8.123~~
+
+====== CC Madhya 8.123 ======
+
+===== Text =====
+
+> hṛdaye preraṇa kara, jihvāya kahāo vāṇī
+> ki kahiye bhāla-manda, kichui nā jāni
+
+===== Synonyms =====
+
+[[synonyms:h:hṛdaye]]---within the heart; [[synonyms:p:preraṇa]]---direction; [[synonyms:k:kara]]---You give; [[synonyms:j:jihvāya]]---on the tongue; [[synonyms:k:kahāo]]---You make me speak; [[synonyms:v:vāṇī]]---words; [[synonyms:k:ki]]---what; [[synonyms:k:kahiye]]---I am speaking; [[synonyms:b:bhāla]]-[[synonyms:m:manda]]---good or bad; [[synonyms:k:kichui]]---something; [[synonyms:n:nā]]---not; [[synonyms:j:jāni]]---I know.
+
+===== Translation =====
+
+**"You inspire me within the heart and make me speak with the tongue. I do not know whether I am speaking well or badly."**
+
+

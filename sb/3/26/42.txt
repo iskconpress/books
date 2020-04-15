@@ -1,0 +1,26 @@
+{{description>Although originally one, taste becomes manifold as astringent, sweet, bitter, pungent, sour and salty due to contact with other substances.}}
+
+~~bc:Text 42~~
+~~Title: Śrīmad Bhāgavatam 3.26.42~~
+
+====== SB 3.26.42 ======
+
+> कषायो मधुरस्तिक्तः कट्वम्ल इति नैकधा ।
+> भौतिकानां विकारेण रस एको विभिद्यते ॥४२॥
+
+===== Text =====
+
+> kaṣāyo madhuras tiktaḥ
+> kaṭv amla iti naikadhā
+> bhautikānāṁ vikāreṇa
+> rasa eko vibhidyate
+
+===== Synonyms =====
+
+[[synonyms:k:kaṣāyaḥ]]---astringent; [[synonyms:m:madhuraḥ]]---sweet; [[synonyms:t:tiktaḥ]]---bitter; [[synonyms:k:kaṭu]]---pungent; [[synonyms:a:amlaḥ]]---sour; [[synonyms:i:iti]]---thus; [[synonyms:n:na]]-[[synonyms:e:ekadhā]]---manifoldly; [[synonyms:b:bhautikānām]]---of other substances; [[synonyms:v:vikāreṇa]]---by transformation; [[synonyms:r:rasaḥ]]---the subtle element taste; [[synonyms:e:ekaḥ]]---originally one; [[synonyms:v:vibhidyate]]---is divided.
+
+===== Translation =====
+
+**Although originally one, taste becomes manifold as astringent, sweet, bitter, pungent, sour and salty due to contact with other substances.**
+
+

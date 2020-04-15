@@ -1,0 +1,28 @@
+{{description>From those three sons another forty-five descendants were generated, who are also fire-gods. The total number of fire-gods is therefore forty-nine, including the fathers and the grandfather.}}
+
+~~bc:Text 61~~
+~~Title: Śrīmad Bhāgavatam 4.1.61~~
+
+====== SB 4.1.61 ======
+
+> तेभ्योऽग्नयः समभवन्चत्वारिंशच्च पञ्च च ।
+> त एवैकोनपञ्चाशत्साकं पितृपितामहैः ॥६१॥
+
+===== Text =====
+
+> tebhyo 'gnayaḥ samabhavan
+> catvāriṁśac ca pañca ca
+> ta evaikonapañcāśat
+> sākaṁ pitṛ-pitāmahaiḥ
+
+===== Synonyms =====
+
+[[synonyms:t:tebhyaḥ]]---from them; [[synonyms:a:agnayaḥ]]---fire-gods; [[synonyms:s:samabhavan]]---were produced; [[synonyms:c:catvāriṁśat]]---forty; [[synonyms:c:ca]]---and; [[synonyms:p:pañca]]---five; [[synonyms:c:ca]]---and; [[synonyms:t:te]]---they; [[synonyms:e:eva]]---certainly; [[synonyms:e:ekona]]-[[synonyms:p:pañcāśat]]---forty-nine; [[synonyms:s:sākam]]---along with; [[synonyms:p:pitṛ]]-[[synonyms:p:pitāmahaiḥ]]---with the fathers and grandfather.
+
+===== Translation =====
+
+**From those three sons another forty-five descendants were generated, who are also fire-gods. The total number of fire-gods is therefore forty-nine, including the fathers and the grandfather.**
+
+===== Purport =====
+
+The grandfather is Agni, and the sons are Pāvaka, Pavamāna and Śuci. Counting these four, plus forty-five grandsons, there are altogether forty-nine different fire-gods.

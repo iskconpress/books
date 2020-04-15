@@ -1,0 +1,28 @@
+{{description>Your enemies will describe you in many unkind words and scorn your ability. What could be more painful for you?}}
+
+~~bc:Text 36~~
+~~Title:Bhagavad-gītā 2.36~~
+
+====== Bg 2.36 ======
+
+> अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः ।
+> निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ॥३६॥
+
+===== Text =====
+
+> avācya-vādāṁś ca bahūn
+> vadiṣyanti tavāhitāḥ
+> nindantas tava sāmarthyaṁ
+> tato duḥkhataraṁ nu kim
+
+===== Synonyms =====
+
+[[synonyms:a:avācya]]---unkind; [[synonyms:v:vādān]]---fabricated words; [[synonyms:c:ca]]---also; [[synonyms:b:bahūn]]---many; [[synonyms:v:vadiṣyanti]]---will say; [[synonyms:t:tava]]---your; [[synonyms:a:ahitāḥ]]---enemies; [[synonyms:n:nindantaḥ]]---while vilifying; [[synonyms:t:tava]]---your; [[synonyms:s:sāmarthyam]]---ability; [[synonyms:t:tataḥ]]---thereafter; [[synonyms:d:duḥkhataram]]---more painful; [[synonyms:n:nu]]---of course; [[synonyms:k:kim]]---what is there.
+
+===== Translation =====
+
+**Your enemies will describe you in many unkind words and scorn your ability. What could be more painful for you?**
+
+===== Purport =====
+
+Lord Kṛṣṇa was astonished in the beginning at Arjuna's uncalled-for plea for compassion, and He described his compassion as befitting the non-Aryans. Now in so many words, He has proved His statements against Arjuna's so-called compassion.

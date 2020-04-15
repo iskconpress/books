@@ -1,0 +1,21 @@
+{{description>"The King gave a special order for me to do without delay whatever Your Lordship orders.}}
+
+~~bc:Text 75~~
+~~Title:Caitanya-caritāmṛta, Madhya 12.75~~
+
+====== CC Madhya 12.75 ======
+
+===== Text =====
+
+> viśeṣe rājāra ājñā hañāche āmāre
+> prabhura ājñā yei, sei śīghra karibāre
+
+===== Synonyms =====
+
+[[synonyms:v:viśeṣe]]---specifically; [[synonyms:r:rājāra]]---of the King; [[synonyms:ā:ājñā]]---order; [[synonyms:h:hañāche]]---there is; [[synonyms:ā:āmāre]]---upon me; [[synonyms:p:prabhura]]---of Your Lordship; [[synonyms:ā:ājñā]]---order; [[synonyms:y:yei]]---whatever; [[synonyms:s:sei]]---that; [[synonyms:ś:śīghra]] [[synonyms:k:karibāre]]---to execute without delay.
+
+===== Translation =====
+
+**"The King gave a special order for me to do without delay whatever Your Lordship orders.**
+
+

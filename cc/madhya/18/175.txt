@@ -1,0 +1,21 @@
+{{description>"The Bengali pilgrims are not rogues. You are rogues, for you want to kill the pilgrims and plunder them."}}
+
+~~bc:Text 175~~
+~~Title:Caitanya-caritāmṛta, Madhya 18.175~~
+
+====== CC Madhya 18.175 ======
+
+===== Text =====
+
+> gauḍiyā---'bāṭapāḍa' nahe, tumi---'bāṭapāḍa'
+> tīrtha-vāsī luṭha', āra cāha' māribāra
+
+===== Synonyms =====
+
+[[synonyms:g:gauḍiyā]]---the Bengalis; [[synonyms:b:bāṭapāḍa]] [[synonyms:n:nahe]]---are not rogues; [[synonyms:t:tumi]]---you; [[synonyms:b:bāṭapāḍa]]---rogues; [[synonyms:t:tīrtha]]-[[synonyms:v:vāsī]]---persons visiting places of pilgrimage; [[synonyms:l:luṭha']]---you plunder; [[synonyms:ā:āra]]---and; [[synonyms:c:cāha']]---you want; [[synonyms:m:māribāra]]---to kill.
+
+===== Translation =====
+
+**"The Bengali pilgrims are not rogues. You are rogues, for you want to kill the pilgrims and plunder them."**
+
+

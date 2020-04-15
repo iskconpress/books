@@ -1,0 +1,21 @@
+{{description>"Although a touchstone produces many varieties of valuable jewels, it nevertheless remains the same. It does not change its original form.}}
+
+~~bc:Text 126~~
+~~Title:Caitanya-caritāmṛta, Ādi 7.126~~
+
+====== CC Ādi 7.126 ======
+
+===== Text =====
+
+> nānā ratna-rāśi haya cintāmaṇi haite
+> tathāpiha maṇi rahe svarūpe avikṛte
+
+===== Synonyms =====
+
+[[synonyms:n:nānā]]---varieties; [[synonyms:r:ratna]]-[[synonyms:r:rāśi]]---valuable jewels; [[synonyms:h:haya]]---become possible; [[synonyms:c:cintāmaṇi]]---the touchstone; [[synonyms:h:haite]]---from; [[synonyms:t:tathāpiha]]---still, certainly; [[synonyms:m:maṇi]]---the touchstone; [[synonyms:r:rahe]]---remains; [[synonyms:s:svarūpe]]---in its original form; [[synonyms:a:avikṛte]]---without change.
+
+===== Translation =====
+
+**"Although a touchstone produces many varieties of valuable jewels, it nevertheless remains the same. It does not change its original form.**
+
+

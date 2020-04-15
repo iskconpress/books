@@ -1,0 +1,26 @@
+{{description>The demon Yakṣas are by nature very heinous, and by their demoniac power of illusion they can create many strange phenomena to frighten one who is less intelligent.}}
+
+~~bc:Text 28~~
+~~Title: Śrīmad Bhāgavatam 4.10.28~~
+
+====== SB 4.10.28 ======
+
+> एवंविधान्यनेकानि त्रासनान्यमनस्विनाम् ।
+> ससृजुस्तिग्मगतय आसुर्या माययासुराः ॥२८॥
+
+===== Text =====
+
+> evaṁ-vidhāny anekāni
+> trāsanāny amanasvinām
+> sasṛjus tigma-gataya
+> āsuryā māyayāsurāḥ
+
+===== Synonyms =====
+
+[[synonyms:e:evam]]-[[synonyms:v:vidhāni]]---(phenomena) like this; [[synonyms:a:anekāni]]---many varieties of; [[synonyms:t:trāsanāni]]---fearful; [[synonyms:a:amanasvinām]]---to the less intelligent men; [[synonyms:s:sasṛjuḥ]]---they created; [[synonyms:t:tigma]]-[[synonyms:g:gatayaḥ]]---of heinous nature; [[synonyms:ā:āsuryā]]---demoniac; [[synonyms:m:māyayā]]---by illusion; [[synonyms:a:asurāḥ]]---the demons.
+
+===== Translation =====
+
+**The demon Yakṣas are by nature very heinous, and by their demoniac power of illusion they can create many strange phenomena to frighten one who is less intelligent.**
+
+

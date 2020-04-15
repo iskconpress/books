@@ -1,0 +1,21 @@
+{{description>" 'My beard was burned, and there were blisters on my cheeks.' Every orderly who went gave the same description.}}
+
+~~bc:Text 190~~
+~~Title:Caitanya-caritāmṛta, Ādi 17.190~~
+
+====== CC Ādi 17.190 ======
+
+===== Text =====
+
+> puḍila sakala dāḍi, mukhe haila vraṇa
+> yei peyādā yāya, tāra ei vivaraṇa
+
+===== Synonyms =====
+
+[[synonyms:p:puḍila]]---burned; [[synonyms:s:sakala]]---all; [[synonyms:d:dāḍi]]---beard; [[synonyms:m:mukhe]]---on the face; [[synonyms:h:haila]]---there was; [[synonyms:v:vraṇa]]---blisters; [[synonyms:y:yei]]---any; [[synonyms:p:peyādā]]---orderly; [[synonyms:y:yāya]]---goes; [[synonyms:t:tāra]]---his; [[synonyms:e:ei]]---this; [[synonyms:v:vivaraṇa]]---description.
+
+===== Translation =====
+
+**“ 'My beard was burned, and there were blisters on my cheeks.' Every orderly who went gave the same description.**
+
+

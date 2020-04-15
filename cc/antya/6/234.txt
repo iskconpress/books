@@ -1,0 +1,21 @@
+{{description>"You may learn from him what your duty is and how to discharge it. I do not know as much as he.}}
+
+~~bc:Text 234~~
+~~Title:Caitanya-caritāmṛta, Antya 6.234~~
+
+====== CC Antya 6.234 ======
+
+===== Text =====
+
+> 'sādhya'-'sādhana'-tattva śikha iṅhāra sthāne
+> āmi tata nāhi jāni, iṅho yata jāne
+
+===== Synonyms =====
+
+[[synonyms:s:sādhya]]---duty; [[synonyms:s:sādhana]]---how to execute it; [[synonyms:t:tattva]]---truth; [[synonyms:ś:śikha]]---learn; [[synonyms:i:iṅhāra]] [[synonyms:s:sthāne]]---from him; [[synonyms:ā:āmi]]---I; [[synonyms:t:tata]]---so much; [[synonyms:n:nāhi]] [[synonyms:j:jāni]]---do not know; [[synonyms:i:iṅho]]---he; [[synonyms:y:yata]]---as much as; [[synonyms:j:jāne]]---knows.
+
+===== Translation =====
+
+**"You may learn from him what your duty is and how to discharge it. I do not know as much as he.**
+
+

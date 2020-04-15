@@ -1,0 +1,21 @@
+{{description>I have briefly described the antya-līlā within the description of the madhya-līlā.}}
+
+~~bc:Text 10~~
+~~Title:Caitanya-caritāmṛta, Antya 1.10~~
+
+====== CC Antya 1.10 ======
+
+===== Text =====
+
+> madhya-līlā-madhye antya-līlā-sūtra-gaṇa
+> pūrva-granthe saṅkṣepete kariyāchi varṇana
+
+===== Synonyms =====
+
+[[synonyms:m:madhya]]-[[synonyms:l:līlā]]-[[synonyms:m:madhye]]---within the //madhya-līlā// chapters; [[synonyms:a:antya]]-[[synonyms:l:līlā]]-[[synonyms:s:sūtra]]-[[synonyms:g:gaṇa]]---a synopsis of the //antya-līlā//; [[synonyms:p:pūrva]]-[[synonyms:g:granthe]]---in the previous chapter; [[synonyms:s:saṅkṣepete]]---in brief; [[synonyms:k:kariyāchi]] [[synonyms:v:varṇana]]---I have described.
+
+===== Translation =====
+
+**I have briefly described the antya-līlā within the description of the madhya-līlā.**
+
+

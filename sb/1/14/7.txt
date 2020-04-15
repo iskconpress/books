@@ -1,0 +1,26 @@
+{{description>Since he departed, seven months have passed, yet he has not returned. I do not know factually how things are going there.}}
+
+~~bc:Text 7~~
+~~Title: Śrīmad Bhāgavatam 1.14.7~~
+
+====== SB 1.14.7 ======
+
+> गताः सप्ताधुना मासा भीमसेन तवानुजः ।
+> नायाति कस्य वा हेतोर्नाहं वेदेदमञ्जसा ॥७॥
+
+===== Text =====
+
+> gatāḥ saptādhunā māsā
+> bhīmasena tavānujaḥ
+> nāyāti kasya vā hetor
+> nāhaṁ vededam añjasā
+
+===== Synonyms =====
+
+[[synonyms:g:gatāḥ]]---has gone; [[synonyms:s:sapta]]---seven; [[synonyms:a:adhunā]]---to date; [[synonyms:m:māsāḥ]]---months; [[synonyms:b:bhīmasena]]---O Bhīmasena; [[synonyms:t:tava]]---your; [[synonyms:a:anujaḥ]]---younger brother; [[synonyms:n:na]]---does not; [[synonyms:ā:āyāti]]---come back; [[synonyms:k:kasya]]---for what; [[synonyms:v:vā]]---or; [[synonyms:h:hetoḥ]]---reason; [[synonyms:n:na]]---not; [[synonyms:a:aham]]---I; [[synonyms:v:veda]]---know; [[synonyms:i:idam]]---this; [[synonyms:a:añjasā]]---factually.
+
+===== Translation =====
+
+**Since he departed, seven months have passed, yet he has not returned. I do not know factually how things are going there.**
+
+

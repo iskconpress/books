@@ -1,0 +1,23 @@
+{{description>" 'Whatever actions a great man performs, common people follow. And whatever standards he sets by exemplary acts, all the world pursues.'}}
+
+~~bc:Text 25~~
+~~Title:Caitanya-caritāmṛta, Ādi 3.25~~
+
+====== CC Ādi 3.25 ======
+
+===== Text =====
+
+> yad yad ācarati śreṣṭhas
+> tat tad evetaro janaḥ
+> sa yat pramāṇaṁ kurute
+> lokas tad anuvartate
+
+===== Synonyms =====
+
+[[synonyms:y:yat]] [[synonyms:y:yat]]---however; [[synonyms:ā:ācarati]]---behaves; [[synonyms:ś:śreṣṭhaḥ]]---the best man; [[synonyms:t:tat]] [[synonyms:t:tat]]---that; [[synonyms:e:eva]]---certainly; [[synonyms:i:itaraḥ]]---the lesser; [[synonyms:j:janaḥ]]---man; [[synonyms:s:saḥ]]---he; [[synonyms:y:yat]]---which; [[synonyms:p:pramāṇam]]---standard; [[synonyms:k:kurute]]---shows; [[synonyms:l:lokaḥ]]---the people; [[synonyms:t:tat]]---that; [[synonyms:a:anuvartate]]---follow.
+
+===== Translation =====
+
+**“ 'Whatever actions a great man performs, common people follow. And whatever standards he sets by exemplary acts, all the world pursues.'**
+
+

@@ -1,0 +1,21 @@
+{{description>"You are the most learned scholar and the topmost of all great poets, for otherwise how could such fine poetry come from your mouth?}}
+
+~~bc:Text 99~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.99~~
+
+====== CC Ādi 16.99 ======
+
+===== Text =====
+
+> tumi baḍa paṇḍita, mahākavi-śiromaṇi
+> yāṅra mukhe bāhirāya aiche kavya-vāṇī
+
+===== Synonyms =====
+
+[[synonyms:t:tumi]]---you; [[synonyms:b:baḍa]] [[synonyms:p:paṇḍita]]---greatly learned scholar; [[synonyms:m:mahā]]-[[synonyms:k:kavi]]---of all great poets; [[synonyms:ś:śiromaṇi]]---the topmost; [[synonyms:y:yāṅra]]---of whom; [[synonyms:m:mukhe]]---in the mouth; [[synonyms:b:bāhirāya]]---emanates; [[synonyms:a:aiche]]---such; [[synonyms:k:kāvya]]-[[synonyms:v:vāṇī]]---poetic language.
+
+===== Translation =====
+
+**"You are the most learned scholar and the topmost of all great poets, for otherwise how could such fine poetry come from your mouth?**
+
+

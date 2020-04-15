@@ -1,0 +1,21 @@
+{{description>"Last night you were disappointed. Please excuse my offense. I shall certainly accept you.}}
+
+~~bc:Text 120~~
+~~Title:Caitanya-caritāmṛta, Antya 3.120~~
+
+====== CC Antya 3.120 ======
+
+===== Text =====
+
+> 'kāli duḥkha pāilā, aparādha nā la-ibā mora
+> avaśya karimu āmi tomāya aṅgīkāra
+
+===== Synonyms =====
+
+[[synonyms:k:kāli]]---yesterday; [[synonyms:d:duḥkha]] [[synonyms:p:pāilā]]---you were disappointed; [[synonyms:a:aparādha]]---offense; [[synonyms:n:nā]] [[synonyms:l:la]]-[[synonyms:i:ibā]]---please do not take; [[synonyms:m:mora]]---my; [[synonyms:a:avaśya]]---certainly; [[synonyms:k:karimu]]---shall do; [[synonyms:ā:āmi]]---I; [[synonyms:t:tomāya]]---unto you; [[synonyms:a:aṅgīkāra]]---acceptance.
+
+===== Translation =====
+
+**"Last night you were disappointed. Please excuse my offense. I shall certainly accept you.**
+
+

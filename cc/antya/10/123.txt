@@ -1,0 +1,21 @@
+{{description>"Here are the preparations made by the inhabitants of Kulīna-grāma, and these have been made by the inhabitants of Khaṇḍa."}}
+
+~~bc:Text 123~~
+~~Title:Caitanya-caritāmṛta, Antya 10.123~~
+
+====== CC Antya 10.123 ======
+
+===== Text =====
+
+> kulīna-grāmera ei āge dekha yata
+> khaṇḍa-vāsī lokera ei dekha tata"
+
+===== Synonyms =====
+
+[[synonyms:k:kulīna]]-[[synonyms:g:grāmera]]---of the residents of Kulīna-grāma; [[synonyms:e:ei]]---these; [[synonyms:ā:āge]]---before; [[synonyms:d:dekha]]---see; [[synonyms:y:yata]]---all; [[synonyms:k:khaṇḍa]]-[[synonyms:v:vāsī]] [[synonyms:l:lokera]]---of the residents of Khaṇḍa; [[synonyms:e:ei]]---these; [[synonyms:d:dekha]]---see; [[synonyms:t:tata]]---so many.
+
+===== Translation =====
+
+**"Here are the preparations made by the inhabitants of Kulīna-grāma, and these have been made by the inhabitants of Khaṇḍa."**
+
+

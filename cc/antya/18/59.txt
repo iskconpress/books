@@ -1,0 +1,21 @@
+{{description>"Do not go near there. I forbid you. If you go, that ghost will catch you all."}}
+
+~~bc:Text 59~~
+~~Title:Caitanya-caritāmṛta, Antya 18.59~~
+
+====== CC Antya 18.59 ======
+
+===== Text =====
+
+> othā nā yāiha, āmi niṣedhi tomāre
+> tāhāṅ gele sei bhūta lāgibe sabāre"
+
+===== Synonyms =====
+
+[[synonyms:o:othā]]---there; [[synonyms:n:nā]] [[synonyms:y:yāiha]]---do not go; [[synonyms:ā:āmi]]---I; [[synonyms:n:niṣedhi]]---forbid; [[synonyms:t:tomāre]]---you; [[synonyms:t:tāhāṅ]]---there; [[synonyms:g:gele]]---if you go; [[synonyms:s:sei]] [[synonyms:b:bhūta]]---that ghost; [[synonyms:l:lāgibe]]---will catch; [[synonyms:s:sabāre]]---all of you.
+
+===== Translation =====
+
+**"Do not go near there. I forbid you. If you go, that ghost will catch you all."**
+
+

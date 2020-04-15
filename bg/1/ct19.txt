@@ -1,0 +1,3 @@
+====== Color gallery 19 ======
+
+{{gallery>gallery:ct19 ?crop }}

@@ -1,0 +1,29 @@
+{{description>The Deities seem to be crying in the temple, lamenting and perspiring. They seem about to leave. All the cities, villages, towns, gardens, mines and hermitages are now devoid of beauty and bereft of all happiness. I do not know what sort of calamities are now awaiting us.}}
+
+~~bc:Text 20~~
+~~Title: Śrīmad Bhāgavatam 1.14.20~~
+
+====== SB 1.14.20 ======
+
+> दैवतानि रुदन्तीव स्विद्यन्ति ह्युच्चलन्ति च ।
+> इमे जनपदा ग्रामाः पुरोद्यानाकराश्रमाः ।
+> भ्रष्टश्रियो निरानन्दाः किमघं दर्शयन्ति नः ॥२०॥
+
+===== Text =====
+
+> daivatāni rudantīva
+> svidyanti hy uccalanti ca
+> ime jana-padā grāmāḥ
+> purodyānākarāśramāḥ
+> bhraṣṭa-śriyo nirānandāḥ
+> kim aghaṁ darśayanti naḥ
+
+===== Synonyms =====
+
+[[synonyms:d:daivatāni]]---the Deities in the temples; [[synonyms:r:rudanti]]---seem to be crying; [[synonyms:i:iva]]---like that; [[synonyms:s:svidyanti]]---perspiring; [[synonyms:h:hi]]---certainly; [[synonyms:u:uccalanti]]---as if going out; [[synonyms:c:ca]]---also; [[synonyms:i:ime]]---these; [[synonyms:j:jana]]-[[synonyms:p:padāḥ]]---cities; [[synonyms:g:grāmāḥ]]---villages; [[synonyms:p:pura]]---towns; [[synonyms:u:udyāna]]---gardens; [[synonyms:ā:ākara]]---mines; [[synonyms:ā:āśramāḥ]]---hermitages, etc.; [[synonyms:b:bhraṣṭa]]---devoid of; [[synonyms:ś:śriyaḥ]]---beauty; [[synonyms:n:nirānandāḥ]]---bereft of all happiness; [[synonyms:k:kim]]---what sort of; [[synonyms:a:agham]]---calamities; [[synonyms:d:darśayanti]]---shall manifest; [[synonyms:n:naḥ]]---to us.
+
+===== Translation =====
+
+**The Deities seem to be crying in the temple, lamenting and perspiring. They seem about to leave. All the cities, villages, towns, gardens, mines and hermitages are now devoid of beauty and bereft of all happiness. I do not know what sort of calamities are now awaiting us.**
+
+

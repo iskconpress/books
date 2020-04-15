@@ -1,0 +1,21 @@
+{{description>"In the fourth line the letter 'bha' occurs four times. This arrangement of alliteration is a pleasing ornamental use of sounds.}}
+
+~~bc:Text 75~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.75~~
+
+====== CC Ādi 16.75 ======
+
+===== Text =====
+
+> caturtha-caraṇe cāri 'bha'-kāra-prakāśa
+> ataeva śabdālaṅkāra anuprāsa
+
+===== Synonyms =====
+
+[[synonyms:c:caturtha]]-[[synonyms:c:caraṇe]]---in the fourth line; [[synonyms:c:cāri]]---four; [[synonyms:b:bha]]-[[synonyms:k:kāra]]---of the letter //bha//; [[synonyms:p:prakāśa]]---manifestations; [[synonyms:a:ataeva]]---therefore; [[synonyms:ś:śabda]]-[[synonyms:a:alaṅkāra]]---ornamental use of different sounds; [[synonyms:a:anuprāsa]]---alliteration.
+
+===== Translation =====
+
+**"In the fourth line the letter 'bha' occurs four times. This arrangement of alliteration is a pleasing ornamental use of sounds.**
+
+

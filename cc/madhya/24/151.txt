@@ -1,0 +1,24 @@
+{{description>" 'Of words having the same form and case termination, the last one is the only one retained. For example, the word rāmaḥ is used to stand for rāmaś ca, rāmaś ca, rāmaś ca, etc.'}}
+
+~~bc:Text 151~~
+~~Title:Caitanya-caritāmṛta, Madhya 24.151~~
+
+====== CC Madhya 24.151 ======
+
+===== Text =====
+
+> "sarūpāṇām eka-śeṣa eka-vibhaktau"
+> uktārthānām aprayogaḥ
+> rāmaś ca rāmaś ca rāmaś ca rāmā itivat
+
+===== Synonyms =====
+
+[[synonyms:s:sa]]-[[synonyms:r:rūpāṇām]]---of words of the same form; [[synonyms:e:eka]]-[[synonyms:ś:śeṣaḥ]]---only the last; [[synonyms:e:eka]]-[[synonyms:v:vibhaktau]]---in the same case; [[synonyms:u:ukta]]-[[synonyms:a:arthānām]]---of the previously spoken meanings; [[synonyms:a:aprayogaḥ]]---nonapplication; [[synonyms:r:rāmaḥ]] [[synonyms:c:ca]]---and Rāma; [[synonyms:r:rāmaḥ]] [[synonyms:c:ca]]---and Rāma; [[synonyms:r:rāmaḥ]] [[synonyms:c:ca]]---and Rāma; [[synonyms:r:rāmāḥ]] [[synonyms:i:itivat]]---in this way, by one //rāma,// many //rāmas// are indicated.
+
+===== Translation =====
+
+**“ 'Of words having the same form and case termination, the last one is the only one retained. For example, the word rāmaḥ is used to stand for rāmaś ca, rāmaś ca, rāmaś ca, etc.'**
+
+===== Purport =====
+
+This is a quotation from Pāṇini's //sūtras// (1.2.64).

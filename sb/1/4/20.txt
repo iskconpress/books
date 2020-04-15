@@ -1,0 +1,26 @@
+{{description>The four divisions of the original sources of knowledge [the Vedas] were made separately. But the historical facts and authentic stories mentioned in the Purāṇas are called the fifth Veda.}}
+
+~~bc:Text 20~~
+~~Title: Śrīmad Bhāgavatam 1.4.20~~
+
+====== SB 1.4.20 ======
+
+> ऋग्यजुःसामाथर्वाख्या वेदाश्चत्वार उद्धृताः ।
+> इतिहासपुराणं च पञ्चमो वेद उच्यते ॥२०॥
+
+===== Text =====
+
+> ṛg-yajuḥ-sāmātharvākhyā
+> vedāś catvāra uddhṛtāḥ
+> itihāsa-purāṇaṁ ca
+> pañcamo veda ucyate
+
+===== Synonyms =====
+
+[[synonyms:ṛ:ṛg]]-[[synonyms:y:yajuḥ]]-[[synonyms:s:sāma]]-[[synonyms:a:atharva]]-[[synonyms:ā:ākhyāḥ]]---the names of the four //Vedas//; [[synonyms:v:vedāḥ]]---the //Vedas//; [[synonyms:c:catvāraḥ]]---four; [[synonyms:u:uddhṛtāḥ]]---made into separate parts; [[synonyms:i:itihāsa]]---historical records (//Mahābhārata//); [[synonyms:p:purāṇam]] [[synonyms:c:ca]]---and the //Purāṇas//; [[synonyms:p:pañcamaḥ]]---the fifth; [[synonyms:v:vedaḥ]]---the original source of knowledge; [[synonyms:u:ucyate]]---is said to be.
+
+===== Translation =====
+
+**The four divisions of the original sources of knowledge [the Vedas] were made separately. But the historical facts and authentic stories mentioned in the Purāṇas are called the fifth Veda.**
+
+

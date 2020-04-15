@@ -1,0 +1,26 @@
+{{description>The aggregate of two fortnights is one month, and that period is one complete day and night for the Pitā planets. Two of such months comprise one season, and six months comprise one complete movement of the sun from south to north.}}
+
+~~bc:Text 11~~
+~~Title: Śrīmad Bhāgavatam 3.11.11~~
+
+====== SB 3.11.11 ======
+
+> तयोः समुच्चयो मासः पितॄणां तदहर्निशम् ।
+> द्वौ तावृतुः षडयनं दक्षिणं चोत्तरं दिवि ॥११॥
+
+===== Text =====
+
+> tayoḥ samuccayo māsaḥ
+> pitṝṇāṁ tad ahar-niśam
+> dvau tāv ṛtuḥ ṣaḍ ayanaṁ
+> dakṣiṇaṁ cottaraṁ divi
+
+===== Synonyms =====
+
+[[synonyms:t:tayoḥ]]---of them; [[synonyms:s:samuccayaḥ]]---aggregate; [[synonyms:m:māsaḥ]]---month; [[synonyms:p:pitṝṇām]]---of the Pitā planets; [[synonyms:t:tat]]---that (month); [[synonyms:a:ahaḥ]]-[[synonyms:n:niśam]]---day and night; [[synonyms:d:dvau]]---two; [[synonyms:t:tau]]---months; [[synonyms:ṛ:ṛtuḥ]]---a season; [[synonyms:ṣ:ṣaṭ]]---six; [[synonyms:a:ayanam]]---the movement of the sun in six months; [[synonyms:d:dakṣiṇam]]---southern; [[synonyms:c:ca]]---also; [[synonyms:u:uttaram]]---northern; [[synonyms:d:divi]]---in the heavens.
+
+===== Translation =====
+
+**The aggregate of two fortnights is one month, and that period is one complete day and night for the Pitā planets. Two of such months comprise one season, and six months comprise one complete movement of the sun from south to north.**
+
+

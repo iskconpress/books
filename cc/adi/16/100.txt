@@ -1,0 +1,21 @@
+{{description>"Your poetic skill is like the constant flow of the waters of the Ganges. I find no one in the world who can compete with you.}}
+
+~~bc:Text 100~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.100~~
+
+====== CC Ādi 16.100 ======
+
+===== Text =====
+
+> tomāra kavitva yena gaṅgā-jala-dhāra
+> tomā-sama kavi kothā nāhi dekhi āra
+
+===== Synonyms =====
+
+[[synonyms:t:tomāra]]---your; [[synonyms:k:kavitva]]---poetic ingenuity; [[synonyms:y:yena]]---like; [[synonyms:g:gaṅgā]]-[[synonyms:j:jala]]-[[synonyms:d:dhāra]]---the flowing of the waters of the Ganges; [[synonyms:t:tomā]]-[[synonyms:s:sama]]---like you; [[synonyms:k:kavi]]---poet; [[synonyms:k:kothā]]---anywhere; [[synonyms:n:nāhi]]---not; [[synonyms:d:dekhi]]---I see; [[synonyms:ā:āra]]---anyone else.
+
+===== Translation =====
+
+**"Your poetic skill is like the constant flow of the waters of the Ganges. I find no one in the world who can compete with you.**
+
+

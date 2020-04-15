@@ -1,0 +1,23 @@
+{{description>O great-minded lady, are all your sons faring well? Seeing your withered face, I can perceive that your mind is not tranquil. How is this so?}}
+
+~~bc:Text 10~~
+~~Title: Śrīmad Bhāgavatam 8.16.10~~
+
+====== SB 8.16.10 ======
+
+===== Text =====
+
+> api sarve kuśalinas
+> tava putrā manasvini
+> lakṣaye 'svastham ātmānaṁ
+> bhavatyā lakṣaṇair aham
+
+===== Synonyms =====
+
+[[synonyms:a:api]]---whether; [[synonyms:s:sarve]]---all; [[synonyms:k:kuśalinaḥ]]---in full auspiciousness; [[synonyms:t:tava]]---your; [[synonyms:p:putrāḥ]]---sons; [[synonyms:m:manasvini]]---O great-minded lady; [[synonyms:l:lakṣaye]]---I see; [[synonyms:a:asvastham]]---not in tranquillity; [[synonyms:ā:ātmānam]]---the mind; [[synonyms:b:bhavatyāḥ]]---of you; [[synonyms:l:lakṣaṇaiḥ]]---by symptoms; [[synonyms:a:aham]]---I.
+
+===== Translation =====
+
+**O great-minded lady, are all your sons faring well? Seeing your withered face, I can perceive that your mind is not tranquil. How is this so?**
+
+

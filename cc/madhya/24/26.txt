@@ -1,0 +1,22 @@
+{{description>" 'The terminations of the ātmanepada are employed when the fruit of the action accrues to the agent of verbs having an indicatory ñ or a svarita accent.'}}
+
+~~bc:Text 26~~
+~~Title:Caitanya-caritāmṛta, Madhya 24.26~~
+
+====== CC Madhya 24.26 ======
+
+===== Text =====
+
+> "svaritañitaḥ kartrabhiprāye kriyā-phale"
+
+===== Synonyms =====
+
+[[synonyms:s:svarita]]-[[synonyms:ñ:ñitaḥ]]---of verbs having an indicatory //ñ// or a //svarita// accent; [[synonyms:k:kartṛ]]-[[synonyms:a:abhiprāye]]---is meant for the agent; [[synonyms:k:kriyā]]-[[synonyms:p:phale]]---when the fruit of the action.
+
+===== Translation =====
+
+**“ 'The terminations of the ātmanepada are employed when the fruit of the action accrues to the agent of verbs having an indicatory ñ or a svarita accent.'**
+
+===== Purport =====
+
+This is a quotation from Pāṇini's //sūtras// (1.3.72).

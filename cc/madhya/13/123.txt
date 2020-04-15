@@ -1,0 +1,23 @@
+{{description>I have already explained this verse. Now I shall simply describe it in brief.}}
+
+~~bc:Text 123~~
+~~Title:Caitanya-caritāmṛta, Madhya 13.123~~
+
+====== CC Madhya 13.123 ======
+
+===== Text =====
+
+> ei ślokārtha pūrve kariyāchi vyākhyāna
+> ślokera bhāvārtha kari saṅkṣepe ākhyāna
+
+===== Synonyms =====
+
+[[synonyms:e:ei]] [[synonyms:ś:śloka]]-[[synonyms:a:artha]]---the meaning of this verse; [[synonyms:p:pūrve]]---previously; [[synonyms:k:kariyāchi]]---I have done; [[synonyms:v:vyākhyāna]]---explanation; [[synonyms:ś:ślokera]]---of the same verse; [[synonyms:b:bhāva]]-[[synonyms:a:artha]]---purport; [[synonyms:k:kari]]---I do; [[synonyms:s:saṅkṣepe]]---in brief; [[synonyms:ā:ākhyāna]]---description.
+
+===== Translation =====
+
+**I have already explained this verse. Now I shall simply describe it in brief.**
+
+===== Purport =====
+
+In this connection, see //Madhya-līlā,// Chapter One, verses 53, 77-80 and 82-84.

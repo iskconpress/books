@@ -1,0 +1,21 @@
+{{description>"You must take with You a loincloth, external clothes and a waterpot. You should take nothing more than this.}}
+
+~~bc:Text 36~~
+~~Title:Caitanya-caritāmṛta, Madhya 7.36~~
+
+====== CC Madhya 7.36 ======
+
+===== Text =====
+
+> kaupīna, bahir-vāsa āra jala-pātra
+> āra kichu nāhi yābe, sabe ei mātra
+
+===== Synonyms =====
+
+[[synonyms:k:kaupīna]]---loincloth; [[synonyms:b:bahir]]-[[synonyms:v:vāsa]]---outer garments; [[synonyms:ā:āra]]---and; [[synonyms:j:jala]]-[[synonyms:p:pātra]]---waterpot; [[synonyms:ā:āra]] [[synonyms:k:kichu]]---anything else; [[synonyms:n:nāhi]]---not; [[synonyms:y:yābe]]---will go; [[synonyms:s:sabe]]---all; [[synonyms:e:ei]]---this; [[synonyms:m:mātra]]---only.
+
+===== Translation =====
+
+**"You must take with You a loincloth, external clothes and a waterpot. You should take nothing more than this.**
+
+

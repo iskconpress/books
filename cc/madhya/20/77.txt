@@ -1,0 +1,21 @@
+{{description>"If you want to give me some cloth according to your desire, please give me an old cloth you have used."}}
+
+~~bc:Text 77~~
+~~Title:Caitanya-caritāmṛta, Madhya 20.77~~
+
+====== CC Madhya 20.77 ======
+
+===== Text =====
+
+> "more vastra dite yadi tomāra haya mana
+> nija paridhāna eka deha' purātana"
+
+===== Synonyms =====
+
+[[synonyms:m:more]]---unto me; [[synonyms:v:vastra]] [[synonyms:d:dite]]---to offer cloth; [[synonyms:y:yadi]]---if; [[synonyms:t:tomāra]]---your; [[synonyms:h:haya]]---there is; [[synonyms:m:mana]]---mind; [[synonyms:n:nija]]---own; [[synonyms:p:paridhāna]]---cloth; [[synonyms:e:eka]]---one; [[synonyms:d:deha']]---give; [[synonyms:p:purātana]]---old.
+
+===== Translation =====
+
+**"If you want to give me some cloth according to your desire, please give me an old cloth you have used."**
+
+

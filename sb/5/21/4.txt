@@ -1,0 +1,21 @@
+{{description>When the sun passes through Meṣa [Aries] and Tulā [Libra], the durations of day and night are equal. When it passes through the five signs headed by Vṛṣabha [Taurus], the duration of the days increases [until Cancer], and then it gradually decreases by half an hour each month, until day and night again become equal [in Libra].}}
+
+~~bc:Text 4~~
+~~Title: Śrīmad Bhāgavatam 5.21.4~~
+
+====== SB 5.21.4 ======
+
+===== Text =====
+
+
+> yadā meṣa-tulayor vartate tadāho-rātrāṇi samānāni bhavanti yadā vṛṣabhādiṣu pañcasu ca rāśiṣu carati tadāhāny eva vardhante hrasati ca māsi māsy ekaikā ghaṭikā rātriṣu.
+
+===== Synonyms =====
+
+[[synonyms:y:yadā]]---when; [[synonyms:m:meṣa]]-[[synonyms:t:tulayoḥ]]---in Meṣa (Aries) and Tulā (Libra); [[synonyms:v:vartate]]---the sun exists; [[synonyms:t:tadā]]---at that time; [[synonyms:a:ahaḥ]]-[[synonyms:r:rātrāṇi]]---the days and nights; [[synonyms:s:samānāni]]---equal in duration; [[synonyms:b:bhavanti]]---are; [[synonyms:y:yadā]]---when; [[synonyms:v:vṛṣabha]]-[[synonyms:ā:ādiṣu]]---headed by Vṛṣabha (Taurus) and Mithuna (Gemini); [[synonyms:p:pañcasu]]---in the five; [[synonyms:c:ca]]---also; [[synonyms:r:rāśiṣu]]---signs; [[synonyms:c:carati]]---moves; [[synonyms:t:tadā]]---at that time; [[synonyms:a:ahāni]]---the days; [[synonyms:e:eva]]---certainly; [[synonyms:v:vardhante]]---increase; [[synonyms:h:hrasati]]---is diminished; [[synonyms:c:ca]]---and; [[synonyms:m:māsi]] [[synonyms:m:māsi]]---in every month; [[synonyms:e:eka]]-[[synonyms:e:ekā]]---one; [[synonyms:g:ghaṭikā]]---half hour; [[synonyms:r:rātriṣu]]---in the nights.
+
+===== Translation =====
+
+**When the sun passes through Meṣa [Aries] and Tulā [Libra], the durations of day and night are equal. When it passes through the five signs headed by Vṛṣabha [Taurus], the duration of the days increases [until Cancer], and then it gradually decreases by half an hour each month, until day and night again become equal [in Libra].**
+
+

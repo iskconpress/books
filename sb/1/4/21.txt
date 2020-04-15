@@ -1,0 +1,28 @@
+{{description>After the Vedas were divided into four divisions, Paila Ṛṣi became the professor of the Ṛg Veda, Jaimini the professor of the Sāma Veda, and Vaiśampāyana alone became glorified by the Yajur Veda.}}
+
+~~bc:Text 21~~
+~~Title: Śrīmad Bhāgavatam 1.4.21~~
+
+====== SB 1.4.21 ======
+
+> तत्रर्ग्वेदधरः पैलः सामगो जैमिनिः कविः ।
+> वैशम्पायन एवैको निष्णातो यजुषामुत ॥२१॥
+
+===== Text =====
+
+> tatrarg-veda-dharaḥ pailaḥ
+> sāmago jaiminiḥ kaviḥ
+> vaiśampāyana evaiko
+> niṣṇāto yajuṣām uta
+
+===== Synonyms =====
+
+[[synonyms:t:tatra]]---thereupon; [[synonyms:ṛ:ṛg]]-[[synonyms:v:veda]]-[[synonyms:d:dharaḥ]]---the professor of the //Ṛg Veda//; [[synonyms:p:pailaḥ]]---the //ṛṣi// named Paila; [[synonyms:s:sāma]]-[[synonyms:g:gaḥ]]---that of the //Sāma Veda//; [[synonyms:j:jaiminiḥ]]---the //ṛṣi// named Jaimini; [[synonyms:k:kaviḥ]]---highly qualified; [[synonyms:v:vaiśampāyanaḥ]]---the //ṛṣi// named Vaiśampāyana; [[synonyms:e:eva]]---only; [[synonyms:e:ekaḥ]]---alone; [[synonyms:n:niṣṇātaḥ]]---well versed; [[synonyms:y:yajuṣām]]---of the //Yajur Veda//; [[synonyms:u:uta]]---glorified.
+
+===== Translation =====
+
+**After the Vedas were divided into four divisions, Paila Ṛṣi became the professor of the Ṛg Veda, Jaimini the professor of the Sāma Veda, and Vaiśampāyana alone became glorified by the Yajur Veda.**
+
+===== Purport =====
+
+The different //Vedas// were entrusted to different learned scholars for development in various ways.

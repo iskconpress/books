@@ -1,0 +1,21 @@
+{{description>Govinda kept accumulating the food, and soon it filled a corner of the room. There was quite enough to feed at least a hundred people.}}
+
+~~bc:Text 111~~
+~~Title:Caitanya-caritāmṛta, Antya 10.111~~
+
+====== CC Antya 10.111 ======
+
+===== Text =====
+
+> dharite dharite gharera bharila eka koṇa
+> śata-janera bhakṣya yata haila sañcayana
+
+===== Synonyms =====
+
+[[synonyms:d:dharite]] [[synonyms:d:dharite]]---keeping and keeping; [[synonyms:g:gharera]]---of the room; [[synonyms:b:bharila]]---filled up; [[synonyms:e:eka]] [[synonyms:k:koṇa]]---one corner; [[synonyms:ś:śata]]-[[synonyms:j:janera]]---of one hundred people; [[synonyms:b:bhakṣya]]---sufficient for feeding; [[synonyms:y:yata]]---all; [[synonyms:h:haila]]---there was; [[synonyms:s:sañcayana]]---accumulation.
+
+===== Translation =====
+
+**Govinda kept accumulating the food, and soon it filled a corner of the room. There was quite enough to feed at least a hundred people.**
+
+

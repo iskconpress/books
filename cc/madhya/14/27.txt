@@ -1,0 +1,21 @@
+{{description>There were also oranges, grapefruit, tangerines, almonds, dried fruit, raisins and dates.}}
+
+~~bc:Text 27~~
+~~Title:Caitanya-caritāmṛta, Madhya 14.27~~
+
+====== CC Madhya 14.27 ======
+
+===== Text =====
+
+> nāraṅga, cholaṅga, ṭābā, kamalā, bīja-pūra
+> bādāma, chohārā, drākṣā, piṇḍa-kharjura
+
+===== Synonyms =====
+
+[[synonyms:n:nāraṅga]]---oranges; [[synonyms:c:cholaṅga]]---grapefruits; [[synonyms:ṭ:ṭābā]]---another type of orange; [[synonyms:k:kamalā]]---tangerines; [[synonyms:b:bīja]]-[[synonyms:p:pūra]]---another type of tangerine; [[synonyms:b:bādāma]]---almonds; [[synonyms:c:chohārā]]---dried fruit; [[synonyms:d:drākṣā]]---raisins; [[synonyms:p:piṇḍa]]-[[synonyms:k:kharjura]]---dates.
+
+===== Translation =====
+
+**There were also oranges, grapefruit, tangerines, almonds, dried fruit, raisins and dates.**
+
+

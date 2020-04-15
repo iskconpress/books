@@ -1,0 +1,26 @@
+{{description>O Vidura, they reached the hermitage of the sage, who had just completed his vows of austerity on the very day foretold by the Lord.}}
+
+~~bc:Text 37~~
+~~Title: Śrīmad Bhāgavatam 3.21.37~~
+
+====== SB 3.21.37 ======
+
+> तस्मिन्सुधन्वन्नहनि भगवान्यत्समादिशत् ।
+> उपायादाश्रमपदं मुनेः शान्तव्रतस्य तत् ॥३७॥
+
+===== Text =====
+
+> tasmin sudhanvann ahani
+> bhagavān yat samādiśat
+> upāyād āśrama-padaṁ
+> muneḥ śānta-vratasya tat
+
+===== Synonyms =====
+
+[[synonyms:t:tasmin]]---on that; [[synonyms:s:su]]-[[synonyms:d:dhanvan]]---O great bowman Vidura; [[synonyms:a:ahani]]---on the day; [[synonyms:b:bhagavān]]---the Lord; [[synonyms:y:yat]]---which; [[synonyms:s:samādiśat]]---foretold; [[synonyms:u:upāyāt]]---he reached; [[synonyms:ā:āśrama]]-[[synonyms:p:padam]]---the holy hermitage; [[synonyms:m:muneḥ]]---of the sage; [[synonyms:ś:śānta]]---completed; [[synonyms:v:vratasya]]---whose vows of austerity; [[synonyms:t:tat]]---that.
+
+===== Translation =====
+
+**O Vidura, they reached the hermitage of the sage, who had just completed his vows of austerity on the very day foretold by the Lord.**
+
+

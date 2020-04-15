@@ -1,0 +1,21 @@
+{{description>One who measures four cubits in height and in breadth by his own hand is celebrated as a great personality.}}
+
+~~bc:Text 42~~
+~~Title:Caitanya-caritāmṛta, Ādi 3.42~~
+
+====== CC Ādi 3.42 ======
+
+===== Text =====
+
+> dairghya-vistāre yei āpanāra hāta
+> cāri hasta haya 'mahā-puruṣa' vikhyāta
+
+===== Synonyms =====
+
+[[synonyms:d:dairghya]]---in length; [[synonyms:v:vistāre]]---and in breadth; [[synonyms:y:yei]]---who; [[synonyms:ā:āpanāra]]---of his own; [[synonyms:h:hāta]]---hand; [[synonyms:c:cāri]]---four; [[synonyms:h:hasta]]---cubits; [[synonyms:h:haya]]---is; [[synonyms:m:mahā]]-[[synonyms:p:puruṣa]]---as a great personality; [[synonyms:v:vikhyāta]]---celebrated.
+
+===== Translation =====
+
+**One who measures four cubits in height and in breadth by his own hand is celebrated as a great personality.**
+
+

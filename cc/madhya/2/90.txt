@@ -1,0 +1,23 @@
+{{description>I have now become too old and disturbed by invalidity. While I write, my hands tremble. I cannot remember anything, nor can I see or hear properly. Still I write, and this is a great wonder.}}
+
+~~bc:Text 90~~
+~~Title:Caitanya-caritāmṛta, Madhya 2.90~~
+
+====== CC Madhya 2.90 ======
+
+===== Text =====
+
+> āmi vṛddha jarātura, likhite kāṅpaye kara,
+> mane kichu smaraṇa nā haya
+> nā dekhiye nayane, nā śuniye śravaṇe,
+> tabu likhi'---e baḍa vismaya
+
+===== Synonyms =====
+
+[[synonyms:ā:āmi]]---I; [[synonyms:v:vṛddha]]---old man; [[synonyms:j:jarā]]-[[synonyms:ā:ātura]]---disturbed by invalidity; [[synonyms:l:likhite]]---to write; [[synonyms:k:kāṅpaye]]---trembles; [[synonyms:k:kara]]---the hand; [[synonyms:m:mane]]---in the mind; [[synonyms:k:kichu]]---any; [[synonyms:s:smaraṇa]]---remembrance; [[synonyms:n:nā]] [[synonyms:h:haya]]---there is not; [[synonyms:n:nā]] [[synonyms:d:dekhiye]]---I cannot see; [[synonyms:n:nayane]]---by the eyes; [[synonyms:n:nā]] [[synonyms:ś:śuniye]]---I cannot hear; [[synonyms:ś:śravaṇe]]---with the ears; [[synonyms:t:tabu]]---still; [[synonyms:l:likhi']]---writing; [[synonyms:e:e]]---this; [[synonyms:b:baḍa]] [[synonyms:v:vismaya]]---a great wonder.
+
+===== Translation =====
+
+**I have now become too old and disturbed by invalidity. While I write, my hands tremble. I cannot remember anything, nor can I see or hear properly. Still I write, and this is a great wonder.**
+
+

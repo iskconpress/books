@@ -1,0 +1,26 @@
+{{description>There are five gross elements, namely earth, water, fire, air and ether. There are also five subtle elements: smell, taste, color, touch and sound.}}
+
+~~bc:Text 12~~
+~~Title: Śrīmad Bhāgavatam 3.26.12~~
+
+====== SB 3.26.12 ======
+
+> महाभूतानि पञ्चैव भूरापोऽग्निर्मरुन्नभः ।
+> तन्मात्राणि च तावन्ति गन्धादीनि मतानि मे ॥१२॥
+
+===== Text =====
+
+> mahā-bhūtāni pañcaiva
+> bhūr āpo 'gnir marun nabhaḥ
+> tan-mātrāṇi ca tāvanti
+> gandhādīni matāni me
+
+===== Synonyms =====
+
+[[synonyms:m:mahā]]-[[synonyms:b:bhūtāni]]---the gross elements; [[synonyms:p:pañca]]---five; [[synonyms:e:eva]]---exactly; [[synonyms:b:bhūḥ]]---earth; [[synonyms:ā:āpaḥ]]---water; [[synonyms:a:agniḥ]]---fire; [[synonyms:m:marut]]---air; [[synonyms:n:nabhaḥ]]---ether; [[synonyms:t:tat]]-[[synonyms:m:mātrāṇi]]---the subtle elements; [[synonyms:c:ca]]---also; [[synonyms:t:tāvanti]]---so many; [[synonyms:g:gandha]]-[[synonyms:ā:ādīni]]---smell and so on (taste, color, touch and sound); [[synonyms:m:matāni]]---considered; [[synonyms:m:me]]---by Me.
+
+===== Translation =====
+
+**There are five gross elements, namely earth, water, fire, air and ether. There are also five subtle elements: smell, taste, color, touch and sound.**
+
+

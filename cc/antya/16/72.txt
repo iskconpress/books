@@ -1,0 +1,21 @@
+{{description>"This boy chants the mantra within his mind, but does not say it aloud. That is his intention, as far as I can guess."}}
+
+~~bc:Text 72~~
+~~Title:Caitanya-caritāmṛta, Antya 16.72~~
+
+====== CC Antya 16.72 ======
+
+===== Text =====
+
+> mane mane jape, mukhe nā kare ākhyāna
+> ei ihāra manaḥ-kathā---kari anumāna"
+
+===== Synonyms =====
+
+[[synonyms:m:mane]] [[synonyms:m:mane]]---within the mind; [[synonyms:j:jape]]---chants; [[synonyms:m:mukhe]]---in the mouth; [[synonyms:n:nā]] [[synonyms:k:kare]] [[synonyms:ā:ākhyāna]]---does not express; [[synonyms:e:ei]]---this; [[synonyms:i:ihāra]]---his; [[synonyms:m:manaḥ]]-[[synonyms:k:kathā]]---intention; [[synonyms:k:kari]] [[synonyms:a:anumāna]]---I guess.
+
+===== Translation =====
+
+**"This boy chants the mantra within his mind, but does not say it aloud. That is his intention, as far as I can guess."**
+
+

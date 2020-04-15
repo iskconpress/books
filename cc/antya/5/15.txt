@@ -1,0 +1,21 @@
+{{description>"Please sit here and wait for a few moments. As soon as he comes, he will execute whatever order you give him."}}
+
+~~bc:Text 15~~
+~~Title:Caitanya-caritāmṛta, Antya 5.15~~
+
+====== CC Antya 5.15 ======
+
+===== Text =====
+
+> tumi ihāṅ vasi' raha, kṣaṇeke āsibena
+> tabe yei ājñā deha, sei karibena"
+
+===== Synonyms =====
+
+[[synonyms:t:tumi]]---you; [[synonyms:i:ihāṅ]]---here; [[synonyms:v:vasi']]---sitting; [[synonyms:r:raha]]---just wait; [[synonyms:k:kṣaṇeke]] [[synonyms:ā:āsibena]]---he will come within a moment; [[synonyms:t:tabe]]---then; [[synonyms:y:yei]]---whatever; [[synonyms:ā:ājñā]]---order; [[synonyms:d:deha]]---you give; [[synonyms:s:sei]]---he; [[synonyms:k:karibena]]---will do.
+
+===== Translation =====
+
+**"Please sit here and wait for a few moments. As soon as he comes, he will execute whatever order you give him."**
+
+

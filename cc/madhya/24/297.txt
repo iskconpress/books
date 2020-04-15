@@ -1,0 +1,23 @@
+{{description>" 'Of words having the same form and case termination, the last one is the only one retained.'}}
+
+~~bc:Text 297~~
+~~Title:Caitanya-caritāmṛta, Madhya 24.297~~
+
+====== CC Madhya 24.297 ======
+
+===== Text =====
+
+> sarūpāṇām eka-śeṣa eka-vibhaktau,
+> uktārthānām aprayoga iti
+
+===== Synonyms =====
+
+[[synonyms:s:sa]]-[[synonyms:r:rūpāṇām]]---of words of the same form; [[synonyms:e:eka]]-[[synonyms:ś:śeṣaḥ]]---only the last; [[synonyms:e:eka]]-[[synonyms:v:vibhaktau]]---in the same case; [[synonyms:u:ukta]]-[[synonyms:a:arthānām]]---of the previously spoken meanings; [[synonyms:a:aprayogaḥ]]---nonapplication; [[synonyms:i:iti]]---thus.
+
+===== Translation =====
+
+**“ 'Of words having the same form and case termination, the last one is the only one retained.'**
+
+===== Purport =====
+
+This is a quotation from Pāṇini's //sūtras// (1.2.64).

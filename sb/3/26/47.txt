@@ -1,0 +1,28 @@
+{{description>The sense whose object of perception is sound is called the auditory sense, and that whose object of perception is touch is called the tactile sense.}}
+
+~~bc:Text 47~~
+~~Title: Śrīmad Bhāgavatam 3.26.47~~
+
+====== SB 3.26.47 ======
+
+> नभोगुणविशेषोऽर्थो यस्य तच्छ्रोत्रमुच्यते ।
+> वायोर्गुणविशेषोऽर्थो यस्य तत्स्पर्शनं विदुः ॥४७॥
+
+===== Text =====
+
+> nabho-guṇa-viśeṣo 'rtho
+> yasya tac chrotram ucyate
+> vāyor guṇa-viśeṣo 'rtho
+> yasya tat sparśanaṁ viduḥ
+
+===== Synonyms =====
+
+[[synonyms:n:nabhaḥ]]-[[synonyms:g:guṇa]]-[[synonyms:v:viśeṣaḥ]]---the distinctive characteristic of sky (sound); [[synonyms:a:arthaḥ]]---object of perception; [[synonyms:y:yasya]]---whose; [[synonyms:t:tat]]---that; [[synonyms:ś:śrotram]]---the auditory sense; [[synonyms:u:ucyate]]---is called; [[synonyms:v:vāyoḥ]] [[synonyms:g:guṇa]]-[[synonyms:v:viśeṣaḥ]]---the distinctive characteristic of air (touch); [[synonyms:a:arthaḥ]]---object of perception; [[synonyms:y:yasya]]---whose; [[synonyms:t:tat]]---that; [[synonyms:s:sparśanam]]---the tactile sense; [[synonyms:v:viduḥ]]---they know.
+
+===== Translation =====
+
+**The sense whose object of perception is sound is called the auditory sense, and that whose object of perception is touch is called the tactile sense.**
+
+===== Purport =====
+
+Sound is one of the qualifications of the sky and is the subject matter for hearing. Similarly, touch is the qualification of the air and is the subject of the touch sensation.

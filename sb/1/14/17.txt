@@ -1,0 +1,26 @@
+{{description>The rays of the sun are declining, and the stars appear to be fighting amongst themselves. Confused living entities appear to be ablaze and weeping.}}
+
+~~bc:Text 17~~
+~~Title: Śrīmad Bhāgavatam 1.14.17~~
+
+====== SB 1.14.17 ======
+
+> सूर्यं हतप्रभं पश्य ग्रहमर्दं मिथो दिवि ।
+> ससङ्कुलैर्भूतगणैर्ज्वलिते इव रोदसी ॥१७॥
+
+===== Text =====
+
+> sūryaṁ hata-prabhaṁ paśya
+> graha-mardaṁ mitho divi
+> sasaṅkulair bhūta-gaṇair
+> jvalite iva rodasī
+
+===== Synonyms =====
+
+[[synonyms:s:sūryam]]---the sun; [[synonyms:h:hata]]-[[synonyms:p:prabham]]---its rays declining; [[synonyms:p:paśya]]---just see; [[synonyms:g:graha]]-[[synonyms:m:mardam]]---clashes of the stars; [[synonyms:m:mithaḥ]]---among one another; [[synonyms:d:divi]]---in the sky; [[synonyms:s:sa]]-[[synonyms:s:saṅkulaiḥ]]---being mixed with; [[synonyms:b:bhūta]]-[[synonyms:g:gaṇaiḥ]]---by the living entities; [[synonyms:j:jvalite]]---being ignited; [[synonyms:i:iva]]---as if; [[synonyms:r:rodasī]]---crying.
+
+===== Translation =====
+
+**The rays of the sun are declining, and the stars appear to be fighting amongst themselves. Confused living entities appear to be ablaze and weeping.**
+
+

@@ -1,0 +1,21 @@
+{{description>"For example, we may say: 'This vipra is a greatly learned man.' In this sentence, the vipra is the subject, and the predicate is his erudition.}}
+
+~~bc:Text 77~~
+~~Title:Caitanya-caritāmṛta, Ādi 2.77~~
+
+====== CC Ādi 2.77 ======
+
+===== Text =====
+
+> yaiche kahi,---ei vipra parama paṇḍita
+> vipra---anuvāda, ihāra vidheya---pāṇḍitya
+
+===== Synonyms =====
+
+[[synonyms:y:yaiche]]---just as; [[synonyms:k:kahi]]---I say; [[synonyms:e:ei]]---this; [[synonyms:v:vipra]]---//brāhmaṇa//; [[synonyms:p:parama]]---great; [[synonyms:p:paṇḍita]]---learned man; [[synonyms:v:vipra]]---the //brāhmaṇa//; [[synonyms:a:anuvāda]]---subject; [[synonyms:i:ihāra]]---of this; [[synonyms:v:vidheya]]---predicate; [[synonyms:p:pāṇḍitya]]---erudition.
+
+===== Translation =====
+
+**"For example, we may say: 'This vipra is a greatly learned man.' In this sentence, the vipra is the subject, and the predicate is his erudition.**
+
+

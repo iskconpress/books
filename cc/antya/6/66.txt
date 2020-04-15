@@ -1,0 +1,21 @@
+{{description>All the other people sat in groups around the platform. No one could count how many people there were.}}
+
+~~bc:Text 66~~
+~~Title:Caitanya-caritāmṛta, Antya 6.66~~
+
+====== CC Antya 6.66 ======
+
+===== Text =====
+
+> āra yata loka saba cotarā-talāne
+> maṇḍalī-bandhe vasilā, tāra nā haya gaṇane
+
+===== Synonyms =====
+
+[[synonyms:ā:āra]]---other; [[synonyms:y:yata]]---as many as; [[synonyms:l:loka]]---people; [[synonyms:s:saba]]---all; [[synonyms:c:cotarā]]-[[synonyms:t:talāne]]---at the base of the platform; [[synonyms:m:maṇḍalī]]-[[synonyms:b:bandhe]]---in groups; [[synonyms:v:vasilā]]---sat down; [[synonyms:t:tāra]]---of them; [[synonyms:n:nā]] [[synonyms:h:haya]] [[synonyms:g:gaṇane]]---there was no counting.
+
+===== Translation =====
+
+**All the other people sat in groups around the platform. No one could count how many people there were.**
+
+

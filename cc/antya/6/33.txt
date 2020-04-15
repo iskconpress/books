@@ -1,0 +1,21 @@
+{{description>"Now you go arrange a meeting between me and your uncle. Let him do whatever he thinks best. I shall completely depend on his decision."}}
+
+~~bc:Text 33~~
+~~Title:Caitanya-caritāmṛta, Antya 6.33~~
+
+====== CC Antya 6.33 ======
+
+===== Text =====
+
+> yāha tumi, tomāra jyeṭhāre milāha āmāre
+> ye-mate bhāla haya karuna, bhāra diluṅ tāṅre
+
+===== Synonyms =====
+
+[[synonyms:y:yāha]]---go; [[synonyms:t:tumi]]---you; [[synonyms:t:tomāra]]---your; [[synonyms:j:jyeṭhāre]]---the elder brother of your father; [[synonyms:m:milāha]] [[synonyms:ā:āmāre]]---arrange to meet with me; [[synonyms:y:ye]]-[[synonyms:m:mate]]---in whatever way; [[synonyms:b:bhāla]]---good; [[synonyms:h:haya]]---is; [[synonyms:k:karuna]]---let him do; [[synonyms:b:bhāra]] [[synonyms:d:diluṅ]] [[synonyms:t:tāṅre]]---I shall completely depend upon him.
+
+===== Translation =====
+
+**"Now you go arrange a meeting between me and your uncle. Let him do whatever he thinks best. I shall completely depend on his decision."**
+
+

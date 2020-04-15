@@ -1,0 +1,21 @@
+{{description>"My dear sir, my father and his elder brother are both your brothers. All brothers always fight about something.}}
+
+~~bc:Text 25~~
+~~Title:Caitanya-caritāmṛta, Antya 6.25~~
+
+====== CC Antya 6.25 ======
+
+===== Text =====
+
+> "āmāra pitā, jyeṭhā haya tomāra dui bhāi
+> bhāi-bhāiye tomarā kalaha kara sarvadāi
+
+===== Synonyms =====
+
+[[synonyms:ā:āmāra]] [[synonyms:p:pitā]]---my father; [[synonyms:j:jyeṭhā]]---and his elder brother; [[synonyms:h:haya]]---are; [[synonyms:t:tomāra]]---your; [[synonyms:d:dui]] [[synonyms:b:bhāi]]---two brothers; [[synonyms:b:bhāi]]-[[synonyms:b:bhāiye]]---between brother and brother; [[synonyms:t:tomarā]]---all of you; [[synonyms:k:kalaha]] [[synonyms:k:kara]]---fight; [[synonyms:s:sarvadāi]]---always.
+
+===== Translation =====
+
+**"My dear sir, my father and his elder brother are both your brothers. All brothers always fight about something.**
+
+

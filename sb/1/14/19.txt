@@ -1,0 +1,22 @@
+~~bc:Text 19~~
+~~Title: Śrīmad Bhāgavatam 1.14.19~~
+
+====== SB 1.14.19 ======
+
+> न पिबन्ति स्तनं वत्सा न दुह्यन्ति च मातरः ।
+> रुदन्त्यश्रुमुखा गावो न हृष्यन्त्यृषभा व्रजे ॥१९॥
+
+===== Text =====
+
+> na pibanti stanaṁ vatsā
+> na duhyanti ca mātaraḥ
+> rudanty aśru-mukhā gāvo
+> na hṛṣyanty ṛṣabhā vraje
+
+===== Synonyms =====
+
+[[synonyms:n:na]]---does not; [[synonyms:p:pibanti]]---suck; [[synonyms:s:stanam]]---breast; [[synonyms:v:vatsāḥ]]---the calves; [[synonyms:n:na]]---do not; [[synonyms:d:duhyanti]]---allow milking; [[synonyms:c:ca]]---also; [[synonyms:m:mātaraḥ]]---the cows; [[synonyms:r:rudanti]]---crying; [[synonyms:a:aśru]]-[[synonyms:m:mukhāḥ]]---with a tearful face; [[synonyms:g:gāvaḥ]]---the cows; [[synonyms:n:na]]---do not; [[synonyms:h:hṛṣyanti]]---take pleasure; [[synonyms:ṛ:ṛṣabhāḥ]]---the bulls; [[synonyms:v:vraje]]---in the pasturing ground.
+
+===== Translation =====
+
+**The calves do not suck the teats of the cows, nor do the cows give milk. They are standing, crying, tears in their eyes, and the bulls take no pleasure in the pasturing grounds.**

@@ -1,0 +1,25 @@
+{{description>" 'The humble sage, by virtue of true knowledge, sees with equal vision a learned and gentle brāhmaṇa, a cow, an elephant, a dog and a dog-eater.'}}
+
+~~bc:Text 177~~
+~~Title:Caitanya-caritāmṛta, Antya 4.177~~
+
+====== CC Antya 4.177 ======
+
+===== Text =====
+
+> vidyā-vinaya-sampanne
+> brāhmaṇe gavi hastini
+> śuni caiva śvapāke ca
+> paṇḍitāḥ sama-darśinaḥ
+
+===== Synonyms =====
+
+[[synonyms:v:vidyā]]---knowledge; [[synonyms:v:vinaya]]---gentleness; [[synonyms:s:sampanne]]---endowed with; [[synonyms:b:brāhmaṇe]]---unto a //brāhmaṇa//; [[synonyms:g:gavi]]---unto a cow; [[synonyms:h:hastini]]---unto an elephant; [[synonyms:ś:śuni]]---unto a dog; [[synonyms:c:ca]]---and; [[synonyms:e:eva]]---also; [[synonyms:ś:śva]]-[[synonyms:p:pāke]]---unto a dog-eater; [[synonyms:c:ca]]---also; [[synonyms:p:paṇḍitāḥ]]---those who are actually learned in spiritual understanding; [[synonyms:s:sama]]-[[synonyms:d:darśinaḥ]]---equipoised.
+
+===== Translation =====
+
+**“ 'The humble sage, by virtue of true knowledge, sees with equal vision a learned and gentle brāhmaṇa, a cow, an elephant, a dog and a dog-eater.'**
+
+===== Purport =====
+
+This is a quotation from //Bhagavad-gītā// [[books:bg:5:18|(Bg. 5.18)]].

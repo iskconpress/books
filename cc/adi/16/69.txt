@@ -1,0 +1,21 @@
+{{description>"If there are ten literary ornaments in a verse but even one faulty expression, the entire verse is nullified.}}
+
+~~bc:Text 69~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.69~~
+
+====== CC Ādi 16.69 ======
+
+===== Text =====
+
+> daśa alaṅkāre yadi eka śloka haya
+> eka doṣe saba alaṅkāra haya kṣaya
+
+===== Synonyms =====
+
+[[synonyms:d:daśa]] [[synonyms:a:alaṅkāre]]---with ten instances of literary ornamentation; [[synonyms:y:yadi]]---if; [[synonyms:e:eka]]---one; [[synonyms:ś:śloka]]---verse; [[synonyms:h:haya]]---there is; [[synonyms:e:eka]] [[synonyms:d:doṣe]]---by one fault; [[synonyms:s:saba]]---all; [[synonyms:a:alaṅkāra]]---ornaments; [[synonyms:h:haya]] [[synonyms:k:kṣaya]]---become null and void.
+
+===== Translation =====
+
+**"If there are ten literary ornaments in a verse but even one faulty expression, the entire verse is nullified.**
+
+

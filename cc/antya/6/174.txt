@@ -1,0 +1,21 @@
+{{description>He walked about thirty miles in one day, and in the evening he took rest in the cowshed of a milkman.}}
+
+~~bc:Text 174~~
+~~Title:Caitanya-caritāmṛta, Antya 6.174~~
+
+====== CC Antya 6.174 ======
+
+===== Text =====
+
+> pañca-daśa-krośa-patha cali' gelā eka-dine
+> sandhyā-kāle rahilā eka gopera bāthāne
+
+===== Synonyms =====
+
+[[synonyms:p:pañca]]-[[synonyms:d:daśa]]-[[synonyms:k:krośa]]---about thirty miles; [[synonyms:p:patha]] [[synonyms:c:cali']]---walking on the path; [[synonyms:g:gelā]]---went; [[synonyms:e:eka]]-[[synonyms:d:dine]]---in one day; [[synonyms:s:sandhyā]]-[[synonyms:k:kāle]]---in the evening; [[synonyms:r:rahilā]]---remained; [[synonyms:e:eka]] [[synonyms:g:gopera]]---of a milkman; [[synonyms:b:bāthāne]]---in the cowshed.
+
+===== Translation =====
+
+**He walked about thirty miles in one day, and in the evening he took rest in the cowshed of a milkman.**
+
+

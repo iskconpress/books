@@ -1,0 +1,21 @@
+{{description>The universe measures five hundred million yojanas. Its length and breadth are one and the same.}}
+
+~~bc:Text 97~~
+~~Title:Caitanya-caritāmṛta, Ādi 5.97~~
+
+====== CC Ādi 5.97 ======
+
+===== Text =====
+
+> brahmāṇḍa-pramāṇa pañcāśat-koṭi-yojana
+> āyāma, vistāra, dui haya eka sama
+
+===== Synonyms =====
+
+[[synonyms:b:brahmāṇḍa]]-[[synonyms:p:pramāṇa]]---measurement of the universe; [[synonyms:p:pañcāśat]]---fifty; [[synonyms:k:koṭi]]---ten millions; [[synonyms:y:yojana]]---lengths of eight miles; [[synonyms:ā:āyāma]]---length; [[synonyms:v:vistāra]]---breadth; [[synonyms:d:dui]]---both of them; [[synonyms:h:haya]]---are; [[synonyms:e:eka]] [[synonyms:s:sama]]---one and the same.
+
+===== Translation =====
+
+**The universe measures five hundred million yojanas. Its length and breadth are one and the same.**
+
+

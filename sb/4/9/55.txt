@@ -1,0 +1,26 @@
+{{description>At each and every gate there were burning lamps and big waterpots decorated with differently colored cloth, strings of pearls, flower garlands and hanging mango leaves.}}
+
+~~bc:Text 55~~
+~~Title: Śrīmad Bhāgavatam 4.9.55~~
+
+====== SB 4.9.55 ======
+
+> चूतपल्लववासःस्रङ् मुक्तादामविलम्बिभिः ।
+> उपस्कृतं प्रतिद्वारमपां कुम्भैः सदीपकैः ॥५५॥
+
+===== Text =====
+
+> cūta-pallava-vāsaḥ-sraṅ-
+> muktā-dāma-vilambibhiḥ
+> upaskṛtaṁ prati-dvāram
+> apāṁ kumbhaiḥ sadīpakaiḥ
+
+===== Synonyms =====
+
+[[synonyms:c:cūta]]-[[synonyms:p:pallava]]---with mango leaves; [[synonyms:v:vāsaḥ]]---cloth; [[synonyms:s:srak]]---flower garlands; [[synonyms:m:muktā]]-[[synonyms:d:dāma]]---strings of pearls; [[synonyms:v:vilambibhiḥ]]---hanging; [[synonyms:u:upaskṛtam]]---decorated; [[synonyms:p:prati]]-[[synonyms:d:dvāram]]---at every gate; [[synonyms:a:apām]]---full of water; [[synonyms:k:kumbhaiḥ]]---with waterpots; [[synonyms:s:sa]]-[[synonyms:d:dīpakaiḥ]]---with burning lamps.
+
+===== Translation =====
+
+**At each and every gate there were burning lamps and big waterpots decorated with differently colored cloth, strings of pearls, flower garlands and hanging mango leaves.**
+
+

@@ -1,0 +1,23 @@
+{{description>"Between the former rule and the latter rule, the latter is more important.'}}
+
+~~bc:Text 80~~
+~~Title:Caitanya-caritāmṛta, Antya 8.80~~
+
+====== CC Antya 8.80 ======
+
+===== Text =====
+
+> pūrva-parayor madhye para-vidhir balavān
+
+===== Synonyms =====
+
+[[synonyms:p:pūrva]]-[[synonyms:p:parayoḥ]]---the former and the latter; [[synonyms:m:madhye]]---between; [[synonyms:p:para]]-[[synonyms:v:vidhiḥ]]---the latter rule; [[synonyms:b:balavān]]---more prominent.
+
+===== Translation =====
+
+**"Between the former rule and the latter rule, the latter is more important.'**
+
+===== Purport =====
+
+This is a verse from the //nyāya// literatures.
+

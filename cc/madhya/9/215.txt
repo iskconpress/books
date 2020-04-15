@@ -1,0 +1,21 @@
+{{description>"My dear Sir, You have delivered me from a very unhappy condition. I request that You take Your lunch at my place. Please accept this invitation.}}
+
+~~bc:Text 215~~
+~~Title:Caitanya-caritāmṛta, Madhya 9.215~~
+
+====== CC Madhya 9.215 ======
+
+===== Text =====
+
+> mahā-duḥkha ha-ite more karilā nistāra
+> āji mora ghare bhikṣā kara aṅgīkāra
+
+===== Synonyms =====
+
+[[synonyms:m:mahā]]-[[synonyms:d:duḥkha]]---great unhappiness; [[synonyms:h:ha]]-[[synonyms:i:ite]]---from; [[synonyms:m:more]]---me; [[synonyms:k:karilā]] [[synonyms:n:nistāra]]---You delivered; [[synonyms:ā:āji]]---today; [[synonyms:m:mora]]---my; [[synonyms:g:ghare]]---at home; [[synonyms:b:bhikṣā]]---lunch; [[synonyms:k:kara]]---do; [[synonyms:a:aṅgīkāra]]---accept.
+
+===== Translation =====
+
+**"My dear Sir, You have delivered me from a very unhappy condition. I request that You take Your lunch at my place. Please accept this invitation.**
+
+

@@ -1,0 +1,20 @@
+{{description>When the sun passes through the five signs beginning with Vṛścika [Scorpio], the duration of the days decreases [until Capricorn], and then gradually it increases month after month, until day and night become equal [in Aries].}}
+
+~~bc:Text 5~~
+~~Title: Śrīmad Bhāgavatam 5.21.5~~
+
+====== SB 5.21.5 ======
+
+===== Text =====
+
+> yadā vṛścikādiṣu pañcasu vartate tadāho-rātrāṇi viparyayāṇi bhavanti.
+
+===== Synonyms =====
+
+[[synonyms:y:yadā]]---when; [[synonyms:v:vṛścika]]-[[synonyms:ā:ādiṣu]]---headed by Vṛścika (Scorpio); [[synonyms:p:pañcasu]]---five; [[synonyms:v:vartate]]---remains; [[synonyms:t:tadā]]---at that time; [[synonyms:a:ahaḥ]]-[[synonyms:r:rātrāṇi]]---the days and nights; [[synonyms:v:viparyayāṇi]]---the opposite (the duration of the day decreases, and that of night increases); [[synonyms:b:bhavanti]]---are.
+
+===== Translation =====
+
+**When the sun passes through the five signs beginning with Vṛścika [Scorpio], the duration of the days decreases [until Capricorn], and then gradually it increases month after month, until day and night become equal [in Aries].**
+
+

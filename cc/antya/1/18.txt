@@ -1,0 +1,21 @@
+{{description>One day, when they needed to cross a river, an Orissan boatman would not allow the dog to get in the boat.}}
+
+~~bc:Text 18~~
+~~Title:Caitanya-caritāmṛta, Antya 1.18~~
+
+====== CC Antya 1.18 ======
+
+===== Text =====
+
+> eka-dina eka-sthāne nadī pāra haite
+> uḍiyā nāvika kukkura nā caḍāya naukāte
+
+===== Synonyms =====
+
+[[synonyms:e:eka]]-[[synonyms:d:dina]]---one day; [[synonyms:e:eka]]-[[synonyms:s:sthāne]]---in one place; [[synonyms:n:nadī]]---a river; [[synonyms:p:pāra]]---crossing; [[synonyms:h:haite]]---to do; [[synonyms:u:uḍiyā]] [[synonyms:n:nāvika]]---a boatman who was an Oriyā (Orissan); [[synonyms:k:kukkura]]---the dog; [[synonyms:n:nā]] [[synonyms:c:caḍāya]]---does not allow to mount; [[synonyms:n:naukāte]]---on the boat.
+
+===== Translation =====
+
+**One day, when they needed to cross a river, an Orissan boatman would not allow the dog to get in the boat.**
+
+

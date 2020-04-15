@@ -1,0 +1,21 @@
+{{description>"Indeed, I have come here just to meet you. It is very good that even without making an effort I have gotten your interview here."}}
+
+~~bc:Text 31~~
+~~Title:Caitanya-caritāmṛta, Madhya 8.31~~
+
+====== CC Madhya 8.31 ======
+
+===== Text =====
+
+> tomā milibāre mora ethā āgamana
+> bhāla haila, anāyāse pāiluṅ daraśana'
+
+===== Synonyms =====
+
+[[synonyms:t:tomā]]---you; [[synonyms:m:milibāre]]---to meet; [[synonyms:m:mora]]---My; [[synonyms:e:ethā]]---here; [[synonyms:ā:āgamana]]---coming; [[synonyms:b:bhāla]] [[synonyms:h:haila]]---it was very good; [[synonyms:a:anāyāse]]---without difficulty; [[synonyms:p:pāiluṅ]]---I have gotten; [[synonyms:d:daraśana]]---interview.
+
+===== Translation =====
+
+**"Indeed, I have come here just to meet you. It is very good that even without making an effort I have gotten your interview here."**
+
+

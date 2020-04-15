@@ -1,0 +1,21 @@
+{{description>"You have spoiled all my activities. What is your intention? Please tell me frankly."}}
+
+~~bc:Text 22~~
+~~Title:Caitanya-caritāmṛta, Madhya 19.22~~
+
+====== CC Madhya 19.22 ======
+
+===== Text =====
+
+> mora yata kārya-kāma, saba kailā nāśa
+> ki tomāra hṛdaye āche, kaha mora pāśa
+
+===== Synonyms =====
+
+[[synonyms:m:mora]]---my; [[synonyms:y:yata]]---all; [[synonyms:k:kārya]]-[[synonyms:k:kāma]]---occupational duties; [[synonyms:s:saba]]---everything; [[synonyms:k:kailā]] [[synonyms:n:nāśa]]---you have spoiled; [[synonyms:k:ki]]---what; [[synonyms:t:tomāra]]---your; [[synonyms:h:hṛdaye]]---within the heart; [[synonyms:ā:āche]]---there is; [[synonyms:k:kaha]]---kindly tell; [[synonyms:m:mora]] [[synonyms:p:pāśa]]---to me.
+
+===== Translation =====
+
+**"You have spoiled all my activities. What is your intention? Please tell me frankly."**
+
+

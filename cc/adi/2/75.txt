@@ -1,0 +1,21 @@
+{{description>"If I do not state a subject, I do not state a predicate. First I speak the former and then I speak the latter.}}
+
+~~bc:Text 75~~
+~~Title:Caitanya-caritāmṛta, Ādi 2.75~~
+
+====== CC Ādi 2.75 ======
+
+===== Text =====
+
+> anuvāda nā kahiyā nā kahi vidheya
+> āge anuvāda kahi, paścād vidheya
+
+===== Synonyms =====
+
+[[synonyms:a:anuvāda]]---the subject; [[synonyms:n:nā]] [[synonyms:k:kahiyā]]---not saying; [[synonyms:n:nā]]---not; [[synonyms:k:kahi]]---I say; [[synonyms:v:vidheya]]---the predicate; [[synonyms:ā:āge]]---first; [[synonyms:a:anuvāda]]---the subject; [[synonyms:k:kahi]]---I say; [[synonyms:p:paścāt]]---afterwards; [[synonyms:v:vidheya]]---the predicate.
+
+===== Translation =====
+
+**"If I do not state a subject, I do not state a predicate. First I speak the former and then I speak the latter.**
+
+

@@ -1,0 +1,26 @@
+{{description>That understanding which considers irreligion to be religion and religion to be irreligion, under the spell of illusion and darkness, and strives always in the wrong direction, O Pārtha, is in the mode of ignorance.}}
+
+~~bc:Text 32~~
+~~Title:Bhagavad-gītā 18.32~~
+
+====== Bg 18.32 ======
+
+> अधर्मं धर्ममिति या मन्यते तमसावृता ।
+> सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ॥३२॥
+
+===== Text =====
+
+> adharmaṁ dharmam iti yā
+> manyate tamasāvṛtā
+> sarvārthān viparītāṁś ca
+> buddhiḥ sā pārtha tāmasī
+
+===== Synonyms =====
+
+[[synonyms:a:adharmam]]---irreligion; [[synonyms:d:dharmam]]---religion; [[synonyms:i:iti]]---thus; [[synonyms:y:yā]]---which; [[synonyms:m:manyate]]---thinks; [[synonyms:t:tamasā]]---by illusion; [[synonyms:ā:āvṛtā]]---covered; [[synonyms:s:sarva]]-[[synonyms:a:arthān]]---all things; [[synonyms:v:viparītān]]---the wrong direction; [[synonyms:c:ca]]---also; [[synonyms:b:buddhiḥ]]---intelligence; [[synonyms:s:sa]]---that; [[synonyms:p:pārtha]]---O son of Pṛthā; [[synonyms:t:tāmasī]]---the mode of ignorance.
+
+===== Translation =====
+
+**That understanding which considers irreligion to be religion and religion to be irreligion, under the spell of illusion and darkness, and strives always in the wrong direction, O Pārtha, is in the mode of ignorance.**
+
+

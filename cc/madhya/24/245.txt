@@ -1,0 +1,21 @@
+{{description>" 'I have many skins if you would like them. I shall give you either a deerskin or a tiger skin.'}}
+
+~~bc:Text 245~~
+~~Title:Caitanya-caritāmṛta, Madhya 24.245~~
+
+====== CC Madhya 24.245 ======
+
+===== Text =====
+
+> mṛga-chāla cāha yadi, āisa mora ghare
+> yei cāha tāhā diba mṛga-vyāghrāmbare"
+
+===== Synonyms =====
+
+[[synonyms:m:mṛga]]-[[synonyms:c:chāla]]---deerskin; [[synonyms:c:cāha]] [[synonyms:y:yadi]]---if you want; [[synonyms:ā:āisa]] [[synonyms:m:mora]] [[synonyms:g:ghare]]---come to my place; [[synonyms:y:yei]] [[synonyms:c:cāha]]---whatever you want; [[synonyms:t:tāhā]]---that; [[synonyms:d:diba]]---I shall give; [[synonyms:m:mṛga]]-[[synonyms:v:vyāghra]]-[[synonyms:a:ambare]]---whether a deerskin or a tiger skin.
+
+===== Translation =====
+
+**“ 'I have many skins if you would like them. I shall give you either a deerskin or a tiger skin.'**
+
+

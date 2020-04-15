@@ -1,0 +1,21 @@
+{{description>"In the arrangement of the first line the letter 'ta' occurs five times, and the arrangement of the third line repeats the letter 'ra' five times.}}
+
+~~bc:Text 74~~
+~~Title:Caitanya-caritāmṛta, Ādi 16.74~~
+
+====== CC Ādi 16.74 ======
+
+===== Text =====
+
+> prathama-caraṇe pañca 'ta'-kārera pāṅti
+> tṛtīya-caraṇe haya pañca 'repha'-sthiti
+
+===== Synonyms =====
+
+[[synonyms:p:prathama]]-[[synonyms:c:caraṇe]]---in the first line; [[synonyms:p:pañca]]---five; [[synonyms:t:ta]]-[[synonyms:k:karera]]---of the letter //ta//; [[synonyms:p:pāṅti]]---very nice composition; [[synonyms:t:tṛtīya]]-[[synonyms:c:caraṇe]]---in the third line; [[synonyms:h:haya]]---there is; [[synonyms:p:pañca]]---five; [[synonyms:r:repha]]---of the letter //ra//; [[synonyms:s:sthiti]]---composition.
+
+===== Translation =====
+
+**"In the arrangement of the first line the letter 'ta' occurs five times, and the arrangement of the third line repeats the letter 'ra' five times.**
+
+

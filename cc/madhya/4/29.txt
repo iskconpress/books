@@ -1,0 +1,21 @@
+{{description>"In this village a person can beg food from others and thus eat. Some people drink only milk, but if a person does not ask anyone for food, I supply him all his eatables.}}
+
+~~bc:Text 29~~
+~~Title:Caitanya-caritāmṛta, Madhya 4.29~~
+
+====== CC Madhya 4.29 ======
+
+===== Text =====
+
+> keha anna māgi' khāya, keha dugdhāhāra
+> ayācaka-jane āmi diye ta' āhāra
+
+===== Synonyms =====
+
+[[synonyms:k:keha]]---someone; [[synonyms:a:anna]]---food; [[synonyms:m:māgi']]---begging; [[synonyms:k:khāya]]---eats; [[synonyms:k:keha]]---someone; [[synonyms:d:dugdha]]-[[synonyms:ā:āhāra]]---drinks milk; [[synonyms:a:ayācaka]]-[[synonyms:j:jane]]---a person who does not beg; [[synonyms:ā:āmi]]---I; [[synonyms:d:diye]]---supply; [[synonyms:t:ta']]---certainly; [[synonyms:ā:āhāra]]---eatables.
+
+===== Translation =====
+
+**"In this village a person can beg food from others and thus eat. Some people drink only milk, but if a person does not ask anyone for food, I supply him all his eatables.**
+
+

@@ -1,0 +1,21 @@
+{{description>"Unable to find the door, I kept hitting the four walls with My face. My face was injured, and it bled, but I still could not get out."}}
+
+~~bc:Text 64~~
+~~Title:Caitanya-caritāmṛta, Antya 19.64~~
+
+====== CC Antya 19.64 ======
+
+===== Text =====
+
+> dvāra nāhi' pāñā mukha lāge cāri-bhite
+> kṣata haya, rakta paḍe, nā pāi yāite"
+
+===== Synonyms =====
+
+[[synonyms:d:dvāra]] [[synonyms:n:nāhi']] [[synonyms:p:pāñā]]---not finding the door; [[synonyms:m:mukha]] [[synonyms:l:lāge]]---My face strikes; [[synonyms:c:cāri]]-[[synonyms:b:bhite]]---on the four walls; [[synonyms:k:kṣata]] [[synonyms:h:haya]]---there was injury; [[synonyms:r:rakta]] [[synonyms:p:paḍe]]---blood came out; [[synonyms:n:nā]] [[synonyms:p:pāi]] [[synonyms:y:yāite]]---still I could not get out.
+
+===== Translation =====
+
+**"Unable to find the door, I kept hitting the four walls with My face. My face was injured, and it bled, but I still could not get out."**
+
+

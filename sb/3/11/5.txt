@@ -1,0 +1,28 @@
+{{description>The division of gross time is calculated as follows: two atoms make one double atom, and three double atoms make one hexatom. This hexatom is visible in the sunshine which enters through the holes of a window screen. One can clearly see that the hexatom goes up towards the sky.}}
+
+~~bc:Text 5~~
+~~Title: Śrīmad Bhāgavatam 3.11.5~~
+
+====== SB 3.11.5 ======
+
+> अणुर्द्वौ परमाणू स्यात्त्रसरेणुस्त्रयः स्मृतः ।
+> जालार्करश्म्यवगतः खमेवानुपतन्नगात् ॥५॥
+
+===== Text =====
+
+> aṇur dvau paramāṇū syāt
+> trasareṇus trayaḥ smṛtaḥ
+> jālārka-raśmy-avagataḥ
+> kham evānupatann agāt
+
+===== Synonyms =====
+
+[[synonyms:a:aṇuḥ]]---double atom; [[synonyms:d:dvau]]---two; [[synonyms:p:parama]]-[[synonyms:a:aṇu]]---atoms; [[synonyms:s:syāt]]---become; [[synonyms:t:trasareṇuḥ]]---hexatom; [[synonyms:t:trayaḥ]]---three; [[synonyms:s:smṛtaḥ]]---considered; [[synonyms:j:jāla]]-[[synonyms:a:arka]]---of sunshine through the holes of a window screen; [[synonyms:r:raśmi]]---by the rays; [[synonyms:a:avagataḥ]]---can be known; [[synonyms:k:kham]] [[synonyms:e:eva]]---towards the sky; [[synonyms:a:anupatan]] [[synonyms:a:agāt]]---going up.
+
+===== Translation =====
+
+**The division of gross time is calculated as follows: two atoms make one double atom, and three double atoms make one hexatom. This hexatom is visible in the sunshine which enters through the holes of a window screen. One can clearly see that the hexatom goes up towards the sky.**
+
+===== Purport =====
+
+The atom is described as an invisible particle, but when six such atoms combine together, they are called a //trasareṇu,// and this is visible in the sunshine pouring through the holes of a window screen.

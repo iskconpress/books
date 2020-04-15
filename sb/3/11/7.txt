@@ -1,0 +1,28 @@
+{{description>The duration of time of three lavas is equal to one nimeṣa, the combination of three nimeṣas makes one kṣaṇa, five kṣaṇas combined together make one kāṣṭhā, and fifteen kāṣṭhās make one laghu.}}
+
+~~bc:Text 7~~
+~~Title: Śrīmad Bhāgavatam 3.11.7~~
+
+====== SB 3.11.7 ======
+
+> निमेषस्त्रिलवो ज्ञेय आम्नातस्ते त्रयः क्षणः ।
+> क्षणान्पञ्च विदुः काष्ठां लघु ता दश पञ्च च ॥७॥
+
+===== Text =====
+
+> nimeṣas tri-lavo jñeya
+> āmnātas te trayaḥ kṣaṇaḥ
+> kṣaṇān pañca viduḥ kāṣṭhāṁ
+> laghu tā daśa pañca ca
+
+===== Synonyms =====
+
+[[synonyms:n:nimeṣaḥ]]---the duration of time called a //nimeṣa//; [[synonyms:t:tri]]-[[synonyms:l:lavaḥ]]---the duration of three //lavas//; [[synonyms:j:jñeyaḥ]]---is to be known; [[synonyms:ā:āmnātaḥ]]---it is so called; [[synonyms:t:te]]---they; [[synonyms:t:trayaḥ]]---three; [[synonyms:k:kṣaṇaḥ]]---the duration of time called a //kṣaṇa//; [[synonyms:k:kṣaṇān]]---such //kṣaṇas//; [[synonyms:p:pañca]]---five; [[synonyms:v:viduḥ]]---one should understand; [[synonyms:k:kāṣṭhām]]---the duration of time called a //kāṣṭhā//; [[synonyms:l:laghu]]---the duration of time called a //laghu//; [[synonyms:t:tāḥ]]---those; [[synonyms:d:daśa]] [[synonyms:p:pañca]]---fifteen; [[synonyms:c:ca]]---also.
+
+===== Translation =====
+
+**The duration of time of three lavas is equal to one nimeṣa, the combination of three nimeṣas makes one kṣaṇa, five kṣaṇas combined together make one kāṣṭhā, and fifteen kāṣṭhās make one laghu.**
+
+===== Purport =====
+
+By calculation it is found that one //laghu// is equal to two minutes. The atomic calculation of time in terms of Vedic wisdom may be converted into present time with this understanding.

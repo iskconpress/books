@@ -1,0 +1,21 @@
+{{description>"My dear fisherman," he said, "why are you behaving like this? Have you seen someone hereabouts? What is the cause of your behavior? Please tell us."}}
+
+~~bc:Text 46~~
+~~Title:Caitanya-caritāmṛta, Antya 18.46~~
+
+====== CC Antya 18.46 ======
+
+===== Text =====
+
+> "kaha, jāliyā, ei dike dekhilā eka-jana?
+> tomāra ei daśā kene,---kahata' kāraṇa?"
+
+===== Synonyms =====
+
+[[synonyms:k:kaha]]---please say; [[synonyms:j:jāliyā]]---O fisherman; [[synonyms:e:ei]] [[synonyms:d:dike]]---in this direction; [[synonyms:d:dekhilā]]---did you see; [[synonyms:e:eka]]-[[synonyms:j:jana]]---someone; [[synonyms:t:tomāra]]---your; [[synonyms:e:ei]]---this; [[synonyms:d:daśā]]---condition; [[synonyms:k:kene]]---why; [[synonyms:k:kahata']]---kindly speak; [[synonyms:k:kāraṇa]]---the cause.
+
+===== Translation =====
+
+**"My dear fisherman," he said, "why are you behaving like this? Have you seen someone hereabouts? What is the cause of your behavior? Please tell us."**
+
+

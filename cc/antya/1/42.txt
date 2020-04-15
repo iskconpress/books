@@ -1,0 +1,21 @@
+{{description>"Write a separate drama about me," she said. "By my mercy, it will be extraordinarily beautiful."}}
+
+~~bc:Text 42~~
+~~Title:Caitanya-caritāmṛta, Antya 1.42~~
+
+====== CC Antya 1.42 ======
+
+===== Text =====
+
+> āmāra nāṭaka pṛthak karaha racana
+> "āmāra kṛpāte nāṭaka haibe vilakṣaṇa"
+
+===== Synonyms =====
+
+[[synonyms:ā:āmāra]] [[synonyms:n:nāṭaka]]---my drama; [[synonyms:p:pṛthak]] [[synonyms:k:karaha]] [[synonyms:r:racana]]---write separately; [[synonyms:ā:āmāra]] [[synonyms:k:kṛpāte]]---by my mercy; [[synonyms:n:nāṭaka]]---the drama; [[synonyms:h:haibe]]---will be; [[synonyms:v:vilakṣaṇa]]---extraordinarily beautiful.
+
+===== Translation =====
+
+**"Write a separate drama about me," she said. "By my mercy, it will be extraordinarily beautiful."**
+
+

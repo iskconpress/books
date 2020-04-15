@@ -1,0 +1,21 @@
+{{description>"The hot sand must have blistered your soles. Now you cannot walk. How did you tolerate it?"}}
+
+~~bc:Text 124~~
+~~Title:Caitanya-caritāmṛta, Antya 4.124~~
+
+====== CC Antya 4.124 ======
+
+===== Text =====
+
+> tapta-vālukāya tomāra pāya haila vraṇa
+> calite nā pāra, kemane karilā sahana?"
+
+===== Synonyms =====
+
+[[synonyms:t:tapta]]-[[synonyms:v:vālukāya]]---by the hot sand; [[synonyms:t:tomāra]]---your; [[synonyms:p:pāya]]---on the soles; [[synonyms:h:haila]]---there were; [[synonyms:v:vraṇa]]---blisters; [[synonyms:c:calite]] [[synonyms:n:nā]] [[synonyms:p:pāra]]---you cannot walk; [[synonyms:k:kemane]]---how; [[synonyms:k:karilā]] [[synonyms:s:sahana]]---did you tolerate.
+
+===== Translation =====
+
+**"The hot sand must have blistered your soles. Now you cannot walk. How did you tolerate it?"**
+
+

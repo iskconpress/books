@@ -1,0 +1,21 @@
+{{description>The night was full of moonlight, which made the waves of the Ganges look dazzling. All directions were clear and bright.}}
+
+~~bc:Text 230~~
+~~Title:Caitanya-caritāmṛta, Antya 3.230~~
+
+====== CC Antya 3.230 ======
+
+===== Text =====
+
+> jyotsnāvatī rātri, daśa dik sunirmala
+> gaṅgāra laharī jyotsnāya kare jhala-mala
+
+===== Synonyms =====
+
+[[synonyms:j:jyotsnāvatī]]---full of moonlight; [[synonyms:r:rātri]]---the night; [[synonyms:d:daśa]] [[synonyms:d:dik]]---ten directions; [[synonyms:s:su]]-[[synonyms:n:nirmala]]---very clear and bright; [[synonyms:g:gaṅgāra]] [[synonyms:l:laharī]]---the waves of the Ganges; [[synonyms:j:jyotsnāya]]---in the moonlight; [[synonyms:k:kare]] [[synonyms:j:jhala]]-[[synonyms:m:mala]]---appear dazzling.
+
+===== Translation =====
+
+**The night was full of moonlight, which made the waves of the Ganges look dazzling. All directions were clear and bright.**
+
+

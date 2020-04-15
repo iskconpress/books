@@ -1,0 +1,26 @@
+{{description>Raising their necks, dogs cried here and there, now in the manner of singing and now of wailing.}}
+
+~~bc:Text 10~~
+~~Title: Śrīmad Bhāgavatam 3.17.10~~
+
+====== SB 3.17.10 ======
+
+> सङ्गीतवद्रोदनवदुन्नमय्य शिरोधराम् ।
+> व्यमुञ्चन्विविधा वाचो ग्रामसिंहास्ततस्ततः ॥१०॥
+
+===== Text =====
+
+> saṅgītavad rodanavad
+> unnamayya śirodharām
+> vyamuñcan vividhā vāco
+> grāma-siṁhās tatas tataḥ
+
+===== Synonyms =====
+
+[[synonyms:s:saṅgīta]]-[[synonyms:v:vat]]---like singing; [[synonyms:r:rodana]]-[[synonyms:v:vat]]---like wailing; [[synonyms:u:unnamayya]]---raising; [[synonyms:ś:śirodharām]]---the neck; [[synonyms:v:vyamuñcan]]---uttered; [[synonyms:v:vividhāḥ]]---various; [[synonyms:v:vācaḥ]]---cries; [[synonyms:g:grāma]]-[[synonyms:s:siṁhāḥ]]---the dogs; [[synonyms:t:tataḥ]] [[synonyms:t:tataḥ]]---here and there.
+
+===== Translation =====
+
+**Raising their necks, dogs cried here and there, now in the manner of singing and now of wailing.**
+
+

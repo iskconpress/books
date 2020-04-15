@@ -1,0 +1,21 @@
+{{description>"You say something contradictory and become angry when this is pointed out. Your explanation has the defect of a misplaced object. This is an unconsidered adjustment.}}
+
+~~bc:Text 87~~
+~~Title:Caitanya-caritāmṛta, Ādi 2.87~~
+
+====== CC Ādi 2.87 ======
+
+===== Text =====
+
+> viruddhārtha kaha tumi, kahite kara roṣa
+> tomāra arthe avimṛṣṭa-vidheyāṁśa-doṣa
+
+===== Synonyms =====
+
+[[synonyms:v:viruddha]]-[[synonyms:a:artha]]---contrary meaning; [[synonyms:k:kaha]]---say; [[synonyms:t:tumi]]---you; [[synonyms:k:kahite]]---pointing out; [[synonyms:k:kara]]---you do; [[synonyms:r:roṣa]]---anger; [[synonyms:t:tomāra]]---your; [[synonyms:a:arthe]]---in the meaning; [[synonyms:a:avimṛṣṭa]]-[[synonyms:v:vidheya]]-[[synonyms:a:aṁśa]]---of the unconsidered predicate portion; [[synonyms:d:doṣa]]---the fault.
+
+===== Translation =====
+
+**"You say something contradictory and become angry when this is pointed out. Your explanation has the defect of a misplaced object. This is an unconsidered adjustment.**
+
+
