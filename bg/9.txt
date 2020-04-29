@@ -6,7 +6,7 @@
 ====== The Most Confidential Knowledge ======
 
 <div audio nopurple>
-{{ https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_09_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 9}}
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_09_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 9}}
 </div>
 
 <div right half last>

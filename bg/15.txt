@@ -6,7 +6,7 @@
 ====== The Yoga of the Supreme Person ======
 
 <div audio nopurple>
-{{ https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_15_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 15}}
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_15_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 15}}
 </div>
 
 <div right half last>

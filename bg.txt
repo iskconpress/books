@@ -6,7 +6,7 @@
 ====== Bhagavad-gītā As It Is ======
 
 <audio>
-{{ https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/01_Setting_The_Scene_BG_Verses_Only.mp3 |Setting the Scene}}
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/01_Setting_The_Scene_BG_Verses_Only.mp3 |Setting the Scene}}
 </audio>
 
 <div half image right last>
@@ -90,7 +90,7 @@ University of Chicago
 
 <blockquote box>“The scholarly world is again indebted to A.C. Bhaktivedanta Swami Prabhupāda. Although Bhagavad-gītā has been translated many times, Prabhupāda adds a translation of singular importance with his commentary...”
 <cite>Dr. J. Stillson Judah, Professor of the History of Religions and Director of Libraries,\\ Graduate Theological Union, Berkeley, California</cite></blockquote>
- 
+
 <blockquote box>"Srila Prabhupāda’s edition thus fills a sensitive gap in France, where many hope to become familiar with traditional Indian thought, beyond the commercial East-West hodgepodge that has arisen since the time Europeans first penetrated India."
 
 "Whether the reader be an adept of Indian spiritualism or not, a reading of the Bhagavad-gītā As It Is will be extremely profitable. For many this will be the first contact with the true India, the ancient India, the eternal India."

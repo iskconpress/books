@@ -6,7 +6,7 @@
 ====== Contents of the Gītā Summarized ======
 
 <div audio nopurple>
-{{ https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_02_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 2}}
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_02_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 2}}
 </div>
 
 <div right half last>

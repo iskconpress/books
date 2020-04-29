@@ -6,7 +6,7 @@
 ====== Karma-yoga ======
 
 <div audio nopurple>
-{{ https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_03_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 3}}
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_03_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 3}}
 </div>
 
 <div right half last>
