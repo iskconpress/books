@@ -3,6 +3,10 @@
 
 ====== The Son of Droṇa Punished ======
 
+<audio>
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Srimad-Bhagavatam-1st-Canto-Verses-Only/Ch_07_SB_1st_Canto_Verses_Only.mp3}}
+</audio>
+
   ; [[.7:1|SB 1.7.1]]
   : Ṛṣi Śaunaka asked: O Sūta, the great and transcendentally powerful Vyāsadeva heard everything from Śrī Nārada Muni. So after Nārada's departure, what did Vyāsadeva do?
 
@@ -170,4 +174,3 @@
 
   ; [[.7:58|SB 1.7.58]]
   : Thereafter, the sons of Pāṇḍu and Draupadī, overwhelmed with grief, performed the proper rituals for the dead bodies of their relatives.
-
