@@ -42,7 +42,7 @@
 */
 
 ==== CHAPTER ONE ====
-=== The Supreme Lord Is Equal to Everyone ===
+**The Supreme Lord Is Equal to Everyone**
   * [[books:sb:7:1|Summary of the Chapter]]
   * [[books:sb:7:1:1|Visnu Is Extremely Dear to Everyone]]
   * [[books:sb:7:1:4-5|Topics of the Lord Counteract Material Miseries]]
@@ -55,7 +55,7 @@
   * [[books:sb:7:1:38|Jaya and Vijaya Are Cursed by the Sages]]
 
 ==== CHAPTER TWO ====
-=== Hiranyakasipu, King of the Demons ===
+**Hiranyakasipu, King of the Demons**
 Summary of the Chapter
 Hiranyakasipu Laments His Brother’s Death
 Hiranyakasipu Vows to Kill Lord Visnu
@@ -72,7 +72,7 @@ Yamaraja Tells the Story of the Two Kulinga Birds
 Hiranyaksa's Wife and Mother Forget Their Grief
 
 ==== CHAPTER THREE ====
-=== Hiranyakasipu’s Plan to Become Immortal ===
+**Hiranyakasipu’s Plan to Become Immortal**
 Summary of the Chapter
 Hiranyakasipu Begins His Severe Austerities
 The Demigods Inform Brahma of Hiranyakasipu’s Intentions
@@ -82,7 +82,7 @@ Hiranyakasipu Prays in a Humble Mood
 The Benediction Asked by Hiranyakasipu
 
 ==== CHAPTER FOUR ====
-=== Hiranyakasipu Terrorizes the Universe ===
+**Hiranyakasipu Terrorizes the Universe**
 Summary of the Chapter
 Brahma Benedicts Hiranyakasipu
 Hiranyakasipu Conquers the Entire Universe
@@ -96,7 +96,7 @@ Ecstatic Symptoms Manifest by Prahlada
 Hiranyakasipu Torments His Own Son
 
 ==== CHAPTER FIVE ====
-=== Prahlada Maharaja, the Saintly Son of Hiranyakasipu ===
+**Prahlada Maharaja, the Saintly Son of Hiranyakasipu**
 Summary of the Chapter
 The Demons Accept Sukracarya as Their Priest
 Prahlada Instructs the King of the Demons
@@ -113,7 +113,7 @@ Prahlada Is Unaffected by the Treacheries of His Father
 Prahlada Instructs His Class Friends
 
 ==== CHAPTER SIX ====
-=== Prahlada Instructs His Demoniac Schoolmates ===
+**Prahlada Instructs His Demoniac Schoolmates**
 Chapter Summary
 Teach Every Child Krsna Consciousness
 Bodily Pleasure Is Available in Any Species of Life
@@ -130,7 +130,7 @@ Surrendering to Krsna Is Transcendental
 Transcendental Knowledge Is Difficult to Understand
 
 ==== CHAPTER SEVEN ====
-=== What Prahlada Learned in the Womb ===
+**What Prahlada Learned in the Womb**
 Chapter Summary
 The Demigods Plunder the Demons
 Narada Saves the Unborn Hero, Prahlada
@@ -146,7 +146,7 @@ Today's Actions Create Your Future Body
 Seeing Krsna Everywhere Is the Ultimate Goal
 
 ==== CHAPTER EIGHT ====
-=== Lord Nrsiiiihadeva Slays the King of the Demons ===
+**Lord Nrsiiiihadeva Slays the King of the Demons**
 Chapter Summary
 Hiranyakasipu Decides to Kill His Son Prahlada
 Prahlada Preaches to His Father
@@ -157,7 +157,7 @@ The Lord Tears Hiranyakasipu to Pieces
 The Demigods Offer Prayers to Lord Nrsimhadeva
 
 ==== CHAPTER NINE ====
-=== Prahlada Pacifies Lord Nrsimhadeva with Prayers ===
+**Prahlada Pacifies Lord Nrsimhadeva with Prayers**
 Chapter Summary
 Prahlada Approaches Lord Nrsimhadeva
 Prahlada’s Prayers to the Lord
@@ -177,7 +177,7 @@ The Lord Gives Up His Anger
 Devotees Refuse Material Benefits
 
 ==== CHAPTER TEN ====
-=== Prahlada, the Best Among Exalted Devotees ===
+**Prahlada, the Best Among Exalted Devotees**
 Chapter Summary
 Devotees Fear Materialistic Life
 Serving the Lord for Material Profit
@@ -192,7 +192,7 @@ The Demoniac Genius, Maya Danava
 Man Proposes, Krsna Disposes
 
 ==== CHAPTER ELEVEN ====
-=== The Perfect Society: Four Social Classes ===
+**The Perfect Society: Four Social Classes**
 Chapter Summary
 Our Eternal Occupational Duty
 The Qualifications of a Human Being
@@ -202,7 +202,7 @@ Chaste Women: A Social Necessity
 How to Divide Society
 
 ==== CHAPTER TWELVE ====
-=== The Perfect Society: Four Spiritual Classes ===
+**The Perfect Society: Four Spiritual Classes**
 Chapter Summary
 Brahmacari Life: Living under the Care of a Guru
 Women Are like Fire, Men Are the Butter
@@ -210,7 +210,7 @@ Understanding Vedic Knowledge Is Real Education
 Vanaprastha Life: Preparing to Meet Death
 
 ==== CHAPTER THIRTEEN ====
-=== The Behavior of a Perfect Person ===
+**The Behavior of a Perfect Person**
 Chapter Summary
 The Renounced Order of Life
 Avoid Reading Mundane Literature
@@ -222,7 +222,7 @@ The Bee and Python Are Excellent Teachers
 Those Who Know Retire from the Illusion
 
 ==== CHAPTER FOURTEEN ====
-=== Ideal Family Life ===
+**Ideal Family Life**
 Chapter Summary
 How Householders Can Obtain Liberation
 Plain Living, High Thinking
@@ -233,7 +233,7 @@ ISKCON Centers Benefit Everyone
 Everything Must Be Given to Krsna
 
 ==== CHAPTER FIFTEEN ====
-=== Instructions for Civilized Human Beings ===
+**Instructions for Civilized Human Beings**
 Chapter Summary
 Offering Food to the Lord and His Devotees
 Slaughtering Animals for Religion and Food
