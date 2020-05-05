@@ -27,8 +27,6 @@
 [{{ :krishna_art_1:077.jpg?400&nolink|}}]
 [{{ :krishna_art_1:079.jpg?400&nolink|}}]
 
-{{INLINETOC}}
-
 ===== CHAPTER ONE =====
 === The Supreme Lord Is Equal to Everyone ===
   * [[books:sb:7:1|Summary of the Chapter]]
@@ -86,19 +84,19 @@
 ===== CHAPTER FIVE =====
 === Prahlada Maharaja, the Saintly Son of Hiranyakasipu ===
   * [[books:sb:7:5|Summary of the Chapter]]
-  * [[books:sb:7:5:|The Demons Accept Sukracarya as Their Priest]]
-  * [[books:sb:7:5:|Prahlada Instructs the King of the Demons]]
-  * [[books:sb:7:5:|Prahlada Is Faithful to His Father’s Enemies]]
-  * [[books:sb:7:5:|The Priests of the Demons Pacify Prahlada]]
-  * [[books:sb:7:5:|Prahlada Is Chastised by His Teachers]]
-  * [[books:sb:7:5:|Visnu Is the Axe for Cutting Down Demons]]
-  * [[books:sb:7:5:|The Nine Processes of Devotional Service]]
-  * [[books:sb:7:5:|Hiranyakasipu Becomes Angry at His Son]]
-  * [[books:sb:7:5:|Materialists Repeatedly Chew the Chewed]]
-  * [[books:sb:7:5:|Hiranyakasipu Orders the Death of Prahlada]]
-  * [[books:sb:7:5:|The Demons Begin to Torture Prahlada]]
-  * [[books:sb:7:5:|Prahlada Is Unaffected by the Treacheries of His Father]]
-  * [[books:sb:7:5:|Prahlada Instructs His Class Friends]]
+  * [[books:sb:7:5:1|The Demons Accept Sukracarya as Their Priest]]
+  * [[books:sb:7:5:5|Prahlada Instructs the King of the Demons]]
+  * [[books:sb:7:5:6|Prahlada Is Faithful to His Father’s Enemies]]
+  * [[books:sb:7:5:8|The Priests of the Demons Pacify Prahlada]]
+  * [[books:sb:7:5:15|Prahlada Is Chastised by His Teachers]]
+  * [[books:sb:7:5:17|Visnu Is the Axe for Cutting Down Demons]]
+  * [[books:sb:7:5:23-24|The Nine Processes of Devotional Service]]
+  * [[books:sb:7:5:25|Hiranyakasipu Becomes Angry at His Son]]
+  * [[books:sb:7:5:30|Materialists Repeatedly Chew the Chewed]]
+  * [[books:sb:7:5:34|Hiranyakasipu Orders the Death of Prahlada]]
+  * [[books:sb:7:5:39-40|The Demons Begin to Torture Prahlada]]
+  * [[books:sb:7:5:45|Prahlada Is Unaffected by the Treacheries of His Father]]
+  * [[books:sb:7:5:55|Prahlada Instructs His Class Friends]]
 
 ===== CHAPTER SIX =====
 === Prahlada Instructs His Demoniac Schoolmates ===
