@@ -22,9 +22,8 @@
 
 /*[{{ :krishna_art_1:079.jpg?500&nolink|}}]*/
 
-<WRAP>
 ==== CHAPTER ONE ====
-**//The Supreme Lord Is Equal to Everyone//**
+**The Supreme Lord Is Equal to Everyone**
   * [[books:sb:7:1|Summary of the Chapter]]
   * [[books:sb:7:1:1|Visnu Is Extremely Dear to Everyone]]
   * [[books:sb:7:1:4-5|Topics of the Lord Counteract Material Miseries]]
@@ -37,21 +36,21 @@
   * [[books:sb:7:1:38|Jaya and Vijaya Are Cursed by the Sages]]
 
 ==== CHAPTER TWO ====
-//**Hiranyakasipu, King of the Demons**//
+**[[books:Sb:7:2|Hiranyakasipu, King of the Demons]]**
   * [[books:sb:7:2|Summary of the Chapter]]
-  * [[books:sb:7:2:|Hiranyakasipu Laments His Brother’s Death]]
-  * [[books:sb:7:2:|Hiranyakasipu Vows to Kill Lord Visnu]]
-  * [[books:sb:7:2:|The Assembled Demons Are Instructed by Hiranyakasipu]]
-  * [[books:sb:7:2:|The Demons Engage in Disastrous Activities]]
-  * [[books:sb:7:2:|The Demigods Wander the Earth Unseen]]
-  * [[books:sb:7:2:|Hiranyakasipu Pacifies His Nephews]]
-  * [[books:sb:7:2:|The Soul Is Eternal and Inexhaustible]]
-  * [[books:sb:7:2:|The History of King Suyajna]]
-  * [[books:sb:7:2:|Yamaraja Advised the King’s Widows]]
-  * [[books:sb:7:2:|The Material Creation Is the Plaything of the Lord]]
-  * [[books:sb:7:2:|The Encaged Living Entity Is Separate from the Body]]
-  * [[books:sb:7:2:|Yamaraja Tells the Story of the Two Kulinga Birds]]
-  * [[books:sb:7:2:|Hiranyaksa's Wife and Mother Forget Their Grief]]
+  * [[books:sb:7:2:1|Hiranyakasipu Laments His Brother’s Death]]
+  * [[books:sb:7:2:7-8|Hiranyakasipu Vows to Kill Lord Visnu]]
+  * [[books:sb:7:2:10|The Assembled Demons Are Instructed by Hiranyakasipu]]
+  * [[books:sb:7:2:13|The Demons Engage in Disastrous Activities]]
+  * [[books:sb:7:2:16|The Demigods Wander the Earth Unseen]]
+  * [[books:sb:7:2:18-19|Hiranyakasipu Pacifies His Nephews]]
+  * [[books:sb:7:2:22|The Soul Is Eternal and Inexhaustible]]
+  * [[books:sb:7:2:28|The History of King Suyajna]]
+  * [[books:sb:7:2:36|Yamaraja Advised the King’s Widows]]
+  * [[books:sb:7:2:39|The Material Creation Is the Plaything of the Lord]]
+  * [[books:sb:7:2:43|The Encaged Living Entity Is Separate from the Body]]
+  * [[books:sb:7:2:50|Yamaraja Tells the Story of the Two Kulinga Birds]]
+  * [[books:sb:7:2:61|Hiranyaksa's Wife and Mother Forget Their Grief]]
 
 ==== CHAPTER THREE ====
 **Hiranyakasipu’s Plan to Become Immortal**
@@ -249,5 +248,3 @@
     - [[books:sb:7:13|The Behavior of a Perfect Person]]
     - [[books:sb:7:14|Ideal Family Life]]
     - [[books:sb:7:15|Instructions for Civilized Human Beings]]
-
-</WRAP>
