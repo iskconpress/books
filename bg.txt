@@ -22,8 +22,8 @@
   * [[.bg:0c|Preface]]
   * [[.bg:0d|Introduction]]
 
-  - [[.bg:1|Observing the Armies on the Battlefield of Kurukṣetra]]
-  - [[.bg:2|Contents of the Gītā Summarized]]
+  - [[books:bg:1|Observing the Armies on the Battlefield of Kurukṣetra]]
+  - [[books:bg:2|Contents of the Gītā Summarized]]
   - [[books:bg:3|Karma-yoga]]
   - [[books:bg:4|Transcendental Knowledge]]
   - [[books:bg:5|Karma-yoga — Action in Kṛṣṇa Consciousness]]
