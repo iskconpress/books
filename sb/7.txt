@@ -22,8 +22,8 @@
 
 /*[{{ :krishna_art_1:079.jpg?500&nolink|}}]*/
 
-==== CHAPTER ONE ====
-**The Supreme Lord Is Equal to Everyone**
+===== CHAPTER ONE =====
+===The Supreme Lord Is Equal to Everyone===
   * [[books:sb:7:1|Summary of the Chapter]]
   * [[books:sb:7:1:1|Visnu Is Extremely Dear to Everyone]]
   * [[books:sb:7:1:4-5|Topics of the Lord Counteract Material Miseries]]
@@ -76,7 +76,7 @@
   * [[books:sb:7:4:|Ecstatic Symptoms Manifest by Prahlada]]
   * [[books:sb:7:4:|Hiranyakasipu Torments His Own Son]]
 
-==== CHAPTER FIVE ====
+===== CHAPTER FIVE =====
 **Prahlada Maharaja, the Saintly Son of Hiranyakasipu**
   * [[books:sb:7:5|Summary of the Chapter]]
   * [[books:sb:7:5:|The Demons Accept Sukracarya as Their Priest]]
@@ -93,7 +93,7 @@
   * [[books:sb:7:5:|Prahlada Is Unaffected by the Treacheries of His Father]]
   * [[books:sb:7:5:|Prahlada Instructs His Class Friends]]
 
-==== CHAPTER SIX ====
+===== CHAPTER SIX =====
 **Prahlada Instructs His Demoniac Schoolmates**
   * [[books:sb:7:6|Chapter Summary]]
   * [[books:sb:7:6:|Teach Every Child Krsna Consciousness]]
@@ -110,7 +110,7 @@
   * [[books:sb:7:6:|Surrendering to Krsna Is Transcendental]]
   * [[books:sb:7:6:|Transcendental Knowledge Is Difficult to Understand]]
 
-==== CHAPTER SEVEN ====
+===== CHAPTER SEVEN =====
 **What Prahlada Learned in the Womb**
   * [[books:sb:7:7|Chapter Summary]]
   * [[books:sb:7:7:|The Demigods Plunder the Demons]]
@@ -126,7 +126,7 @@
   * [[books:sb:7:7:|Today's Actions Create Your Future Body]]
   * [[books:sb:7:7:|Seeing Krsna Everywhere Is the Ultimate Goal]]
 
-==== CHAPTER EIGHT ====
+===== CHAPTER EIGHT =====
 **Lord Nrsimhadeva Slays the King of the Demons**
   * [[books:sb:7:8|Chapter Summary]]
   * [[books:sb:7:8:|Hiranyakasipu Decides to Kill His Son Prahlada]]
@@ -137,7 +137,7 @@
   * [[books:sb:7:8:|The Lord Tears Hiranyakasipu to Pieces]]
   * [[books:sb:7:8:|The Demigods Offer Prayers to Lord Nrsimhadeva]]
 
-==== CHAPTER NINE ====
+===== CHAPTER NINE =====
 **Prahlada Pacifies Lord Nrsimhadeva with Prayers**
   * [[books:sb:7:9|Chapter Summary]]
   * [[books:sb:7:9:|Prahlada Approaches Lord Nrsimhadeva]]
@@ -157,7 +157,7 @@
   * [[books:sb:7:9:|The Lord Gives Up His Anger]]
   * [[books:sb:7:9:|Devotees Refuse Material Benefits]]
 
-==== CHAPTER TEN ====
+===== CHAPTER TEN =====
 **Prahlada, the Best Among Exalted Devotees**
   * [[books:sb:7:10|Chapter Summary]]
   * [[books:sb:7:10:|Devotees Fear Materialistic Life]]
@@ -172,7 +172,7 @@
   * [[books:sb:7:10:|The Demoniac Genius, Maya Danava]]
   * [[books:sb:7:10:|Man Proposes, Krsna Disposes]]
 
-==== CHAPTER ELEVEN ====
+===== CHAPTER ELEVEN =====
 **The Perfect Society: Four Social Classes**
   * [[books:sb:7:11|Chapter Summary]]
   * [[books:sb:7:11:|Our Eternal Occupational Duty]]
@@ -182,7 +182,7 @@
   * [[books:sb:7:11:|Chaste Women: A Social Necessity]]
   * [[books:sb:7:11:|How to Divide Society]]
 
-==== CHAPTER TWELVE ====
+===== CHAPTER TWELVE =====
 **The Perfect Society: Four Spiritual Classes**
   * [[books:sb:7:12|Chapter Summary]]
   * [[books:sb:7:12:|Brahmacari Life: Living under the Care of a Guru]]
@@ -190,7 +190,7 @@
   * [[books:sb:7:12:|Understanding Vedic Knowledge Is Real Education]]
   * [[books:sb:7:12:|Vanaprastha Life: Preparing to Meet Death]]
 
-==== CHAPTER THIRTEEN ====
+===== CHAPTER THIRTEEN =====
 **The Behavior of a Perfect Person**
   * [[books:sb:7:13|Chapter Summary]]
   * [[books:sb:7:13:|The Renounced Order of Life]]
@@ -202,7 +202,7 @@
   * [[books:sb:7:13:|The Bee and Python Are Excellent Teachers]]
   * [[books:sb:7:13:|Those Who Know Retire from the Illusion]]
 
-==== CHAPTER FOURTEEN ====
+===== CHAPTER FOURTEEN =====
 **Ideal Family Life**
   * [[books:sb:7:14|Chapter Summary]]
   * [[books:sb:7:14:|How Householders Can Obtain Liberation]]
@@ -213,7 +213,7 @@
   * [[books:sb:7:14:|ISKCON Centers Benefit Everyone]]
   * [[books:sb:7:14:|Everything Must Be Given to Krsna]]
 
-==== CHAPTER FIFTEEN ====
+===== CHAPTER FIFTEEN =====
 **Instructions for Civilized Human Beings**
   * [[books:sb:7:15|Chapter Summary]]
   * [[books:sb:7:15:|Offering Food to the Lord and His Devotees]]
