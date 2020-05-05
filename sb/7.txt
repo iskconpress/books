@@ -22,7 +22,9 @@
 
 /*[{{ :krishna_art_1:079.jpg?500&nolink|}}]*/
 
-=== 1. The Supreme Lord Is Equal to Everyone ===
+<WRAP>
+==== CHAPTER ONE ====
+**//The Supreme Lord Is Equal to Everyone//**
   * [[books:sb:7:1|Summary of the Chapter]]
   * [[books:sb:7:1:1|Visnu Is Extremely Dear to Everyone]]
   * [[books:sb:7:1:4-5|Topics of the Lord Counteract Material Miseries]]
@@ -34,7 +36,8 @@
   * [[books:sb:7:1:32|Atheists Cannot Attain Salvation]]
   * [[books:sb:7:1:38|Jaya and Vijaya Are Cursed by the Sages]]
 
-=== 2. Hiranyakasipu, King of the Demons ===
+==== CHAPTER TWO ====
+//**Hiranyakasipu, King of the Demons**//
   * [[books:sb:7:2|Summary of the Chapter]]
   * [[books:sb:7:2:|Hiranyakasipu Laments His Brother’s Death]]
   * [[books:sb:7:2:|Hiranyakasipu Vows to Kill Lord Visnu]]
@@ -230,7 +233,6 @@
   * [[books:sb:7:15:|Krsna Lived with the Pandavas Just like an Ordinary Human Being]]
 
 
-
   ===== Chapters =====
     - [[books:sb:7:1|The Supreme Lord Is Equal to Everyone]]
     - [[books:sb:7:2|Hiraṇyakaśipu, King of the Demons]]
@@ -247,3 +249,5 @@
     - [[books:sb:7:13|The Behavior of a Perfect Person]]
     - [[books:sb:7:14|Ideal Family Life]]
     - [[books:sb:7:15|Instructions for Civilized Human Beings]]
+
+</WRAP>
