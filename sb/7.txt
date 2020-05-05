@@ -35,8 +35,8 @@
   * [[books:sb:7:1:32|Atheists Cannot Attain Salvation]]
   * [[books:sb:7:1:38|Jaya and Vijaya Are Cursed by the Sages]]
 
-==== CHAPTER TWO ====
-**[[books:Sb:7:2|Hiranyakasipu, King of the Demons]]**
+===== CHAPTER TWO =====
+**Hiranyakasipu, King of the Demons**
   * [[books:sb:7:2|Summary of the Chapter]]
   * [[books:sb:7:2:1|Hiranyakasipu Laments His Brother’s Death]]
   * [[books:sb:7:2:7-8|Hiranyakasipu Vows to Kill Lord Visnu]]
@@ -52,7 +52,7 @@
   * [[books:sb:7:2:50|Yamaraja Tells the Story of the Two Kulinga Birds]]
   * [[books:sb:7:2:61|Hiranyaksa's Wife and Mother Forget Their Grief]]
 
-==== CHAPTER THREE ====
+===== CHAPTER THREE =====
 **Hiranyakasipu’s Plan to Become Immortal**
   * [[books:sb:7:3|Summary of the Chapter]]
   * [[books:sb:7:3:|Hiranyakasipu Begins His Severe Austerities]]
@@ -62,7 +62,7 @@
   * [[books:sb:7:3:|Hiranyakasipu Prays in a Humble Mood]]
   * [[books:sb:7:3:|The Benediction Asked by Hiranyakasipu]]
 
-==== CHAPTER FOUR ====
+===== CHAPTER FOUR =====
 **Hiranyakasipu Terrorizes the Universe**
   * [[books:sb:7:4|Summary of the Chapter]]
   * [[books:sb:7:4:|Brahma Benedicts Hiranyakasipu]]
