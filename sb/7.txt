@@ -23,7 +23,7 @@
 /*[{{ :krishna_art_1:079.jpg?500&nolink|}}]*/
 
 ===== CHAPTER ONE =====
-===The Supreme Lord Is Equal to Everyone===
+=== The Supreme Lord Is Equal to Everyone ===
   * [[books:sb:7:1|Summary of the Chapter]]
   * [[books:sb:7:1:1|Visnu Is Extremely Dear to Everyone]]
   * [[books:sb:7:1:4-5|Topics of the Lord Counteract Material Miseries]]
@@ -55,12 +55,12 @@
 ===== CHAPTER THREE =====
 === Hiranyakasipu’s Plan to Become Immortal ===
   * [[books:sb:7:3|Summary of the Chapter]]
-  * [[books:sb:7:3:|Hiranyakasipu Begins His Severe Austerities]]
-  * [[books:sb:7:3:|The Demigods Inform Brahma of Hiranyakasipu’s Intentions]]
-  * [[books:sb:7:3:|Brahma, Struck with Wonder, Addresses Hiranyakasipu]]
-  * [[books:sb:7:3:|Hiranyakasipu’s Body Is Revitalized by Brahma]]
-  * [[books:sb:7:3:|Hiranyakasipu Prays in a Humble Mood]]
-  * [[books:sb:7:3:|The Benediction Asked by Hiranyakasipu]]
+  * [[books:sb:7:3:1|Hiranyakasipu Begins His Severe Austerities]]
+  * [[books:sb:7:3:6|The Demigods Inform Brahma of Hiranyakasipu’s Intentions]]
+  * [[books:sb:7:3:15-16|Brahma, Struck with Wonder, Addresses Hiranyakasipu]]
+  * [[books:sb:7:3:22|Hiranyakasipu’s Body Is Revitalized by Brahma]]
+  * [[books:sb:7:3:25|Hiranyakasipu Prays in a Humble Mood]]
+  * [[books:sb:7:3:35|The Benediction Asked by Hiranyakasipu]]
 
 ===== CHAPTER FOUR =====
 === Hiranyakasipu Terrorizes the Universe ===
@@ -231,7 +231,7 @@
   * [[books:sb:7:15:|Narada Muni's Previous Lives]]
   * [[books:sb:7:15:|Krsna Lived with the Pandavas Just like an Ordinary Human Being]]
 
-
+/*
   ===== Chapters =====
     - [[books:sb:7:1|The Supreme Lord Is Equal to Everyone]]
     - [[books:sb:7:2|Hiraṇyakaśipu, King of the Demons]]
@@ -248,3 +248,4 @@
     - [[books:sb:7:13|The Behavior of a Perfect Person]]
     - [[books:sb:7:14|Ideal Family Life]]
     - [[books:sb:7:15|Instructions for Civilized Human Beings]]
+*/
