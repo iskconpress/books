@@ -36,7 +36,7 @@
   * [[books:sb:7:1:38|Jaya and Vijaya Are Cursed by the Sages]]
 
 ===== CHAPTER TWO =====
-**Hiranyakasipu, King of the Demons**
+=== Hiranyakasipu, King of the Demons ===
   * [[books:sb:7:2|Summary of the Chapter]]
   * [[books:sb:7:2:1|Hiranyakasipu Laments His Brother’s Death]]
   * [[books:sb:7:2:7-8|Hiranyakasipu Vows to Kill Lord Visnu]]
@@ -53,7 +53,7 @@
   * [[books:sb:7:2:61|Hiranyaksa's Wife and Mother Forget Their Grief]]
 
 ===== CHAPTER THREE =====
-**Hiranyakasipu’s Plan to Become Immortal**
+=== Hiranyakasipu’s Plan to Become Immortal ===
   * [[books:sb:7:3|Summary of the Chapter]]
   * [[books:sb:7:3:|Hiranyakasipu Begins His Severe Austerities]]
   * [[books:sb:7:3:|The Demigods Inform Brahma of Hiranyakasipu’s Intentions]]
@@ -63,7 +63,7 @@
   * [[books:sb:7:3:|The Benediction Asked by Hiranyakasipu]]
 
 ===== CHAPTER FOUR =====
-**Hiranyakasipu Terrorizes the Universe**
+=== Hiranyakasipu Terrorizes the Universe ===
   * [[books:sb:7:4|Summary of the Chapter]]
   * [[books:sb:7:4:|Brahma Benedicts Hiranyakasipu]]
   * [[books:sb:7:4:|Hiranyakasipu Conquers the Entire Universe]]
@@ -77,7 +77,7 @@
   * [[books:sb:7:4:|Hiranyakasipu Torments His Own Son]]
 
 ===== CHAPTER FIVE =====
-**Prahlada Maharaja, the Saintly Son of Hiranyakasipu**
+=== Prahlada Maharaja, the Saintly Son of Hiranyakasipu ===
   * [[books:sb:7:5|Summary of the Chapter]]
   * [[books:sb:7:5:|The Demons Accept Sukracarya as Their Priest]]
   * [[books:sb:7:5:|Prahlada Instructs the King of the Demons]]
@@ -94,7 +94,7 @@
   * [[books:sb:7:5:|Prahlada Instructs His Class Friends]]
 
 ===== CHAPTER SIX =====
-**Prahlada Instructs His Demoniac Schoolmates**
+=== Prahlada Instructs His Demoniac Schoolmates ===
   * [[books:sb:7:6|Chapter Summary]]
   * [[books:sb:7:6:|Teach Every Child Krsna Consciousness]]
   * [[books:sb:7:6:|Bodily Pleasure Is Available in Any Species of Life]]
@@ -111,7 +111,7 @@
   * [[books:sb:7:6:|Transcendental Knowledge Is Difficult to Understand]]
 
 ===== CHAPTER SEVEN =====
-**What Prahlada Learned in the Womb**
+=== What Prahlada Learned in the Womb ===
   * [[books:sb:7:7|Chapter Summary]]
   * [[books:sb:7:7:|The Demigods Plunder the Demons]]
   * [[books:sb:7:7:|Narada Saves the Unborn Hero, Prahlada]]
@@ -127,7 +127,7 @@
   * [[books:sb:7:7:|Seeing Krsna Everywhere Is the Ultimate Goal]]
 
 ===== CHAPTER EIGHT =====
-**Lord Nrsimhadeva Slays the King of the Demons**
+=== Lord Nrsimhadeva Slays the King of the Demons ===
   * [[books:sb:7:8|Chapter Summary]]
   * [[books:sb:7:8:|Hiranyakasipu Decides to Kill His Son Prahlada]]
   * [[books:sb:7:8:|Prahlada Preaches to His Father]]
@@ -138,7 +138,7 @@
   * [[books:sb:7:8:|The Demigods Offer Prayers to Lord Nrsimhadeva]]
 
 ===== CHAPTER NINE =====
-**Prahlada Pacifies Lord Nrsimhadeva with Prayers**
+=== Prahlada Pacifies Lord Nrsimhadeva with Prayers ===
   * [[books:sb:7:9|Chapter Summary]]
   * [[books:sb:7:9:|Prahlada Approaches Lord Nrsimhadeva]]
   * [[books:sb:7:9:|Prahlada’s Prayers to the Lord]]
@@ -158,7 +158,7 @@
   * [[books:sb:7:9:|Devotees Refuse Material Benefits]]
 
 ===== CHAPTER TEN =====
-**Prahlada, the Best Among Exalted Devotees**
+=== Prahlada, the Best Among Exalted Devotees ===
   * [[books:sb:7:10|Chapter Summary]]
   * [[books:sb:7:10:|Devotees Fear Materialistic Life]]
   * [[books:sb:7:10:|Serving the Lord for Material Profit]]
@@ -173,7 +173,7 @@
   * [[books:sb:7:10:|Man Proposes, Krsna Disposes]]
 
 ===== CHAPTER ELEVEN =====
-**The Perfect Society: Four Social Classes**
+=== The Perfect Society: Four Social Classes ===
   * [[books:sb:7:11|Chapter Summary]]
   * [[books:sb:7:11:|Our Eternal Occupational Duty]]
   * [[books:sb:7:11:|The Qualifications of a Human Being]]
@@ -183,7 +183,7 @@
   * [[books:sb:7:11:|How to Divide Society]]
 
 ===== CHAPTER TWELVE =====
-**The Perfect Society: Four Spiritual Classes**
+=== The Perfect Society: Four Spiritual Classes ===
   * [[books:sb:7:12|Chapter Summary]]
   * [[books:sb:7:12:|Brahmacari Life: Living under the Care of a Guru]]
   * [[books:sb:7:12:|Women Are like Fire, Men Are the Butter]]
@@ -191,7 +191,7 @@
   * [[books:sb:7:12:|Vanaprastha Life: Preparing to Meet Death]]
 
 ===== CHAPTER THIRTEEN =====
-**The Behavior of a Perfect Person**
+=== The Behavior of a Perfect Person ===
   * [[books:sb:7:13|Chapter Summary]]
   * [[books:sb:7:13:|The Renounced Order of Life]]
   * [[books:sb:7:13:|Avoid Reading Mundane Literature]]
@@ -203,7 +203,7 @@
   * [[books:sb:7:13:|Those Who Know Retire from the Illusion]]
 
 ===== CHAPTER FOURTEEN =====
-**Ideal Family Life**
+=== Ideal Family Life ===
   * [[books:sb:7:14|Chapter Summary]]
   * [[books:sb:7:14:|How Householders Can Obtain Liberation]]
   * [[books:sb:7:14:|Plain Living, High Thinking]]
@@ -214,7 +214,7 @@
   * [[books:sb:7:14:|Everything Must Be Given to Krsna]]
 
 ===== CHAPTER FIFTEEN =====
-**Instructions for Civilized Human Beings**
+=== Instructions for Civilized Human Beings ===
   * [[books:sb:7:15|Chapter Summary]]
   * [[books:sb:7:15:|Offering Food to the Lord and His Devotees]]
   * [[books:sb:7:15:|Slaughtering Animals for Religion and Food]]
