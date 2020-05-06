@@ -26,7 +26,7 @@ metatag-og:description=(og-description)
 
 ====== Canto 7: The Science of God ======
 ~~NOTOC~~
-{{SIDETOC 2-2}}
+{{TOC_HERE 2-2}}
 
 <div right third last>
 [{{ :krishna_art_1:020.jpg?500&nolink |}}]
