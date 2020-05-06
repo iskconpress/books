@@ -20,8 +20,7 @@
 
 ====== Canto 7: The Science of God ======
 
-~~NOTOC~~
-~~TOC_HERE 2-2~~
+~~INLINETOC 2-2~~
 
 [{{ :krishna_art_1:020.jpg?400&nolink|}}]
 [{{ :krishna_art_1:022.jpg?400&nolink|}}]
