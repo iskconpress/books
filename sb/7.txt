@@ -28,8 +28,8 @@ metatag-og:description=(Human society, at the present moment, is not in the dark
 ~~NOTOC~~
 
 <WRAP right half last imagebox>
-[{{ :krishna_art_1:020.jpg?500&nolink |}}]
-[{{ :krishna_art_1:022.jpg?500&nolink |}}]
+[{{:krishna_art_1:020.jpg?500&nolink|}}]
+[{{:krishna_art_1:022.jpg?500&nolink|}}]
 [{{ :images:bbt.se:prahlad_snakes_large.jpg?500&nolink |}}]
 [{{ :krishna_art_1:018.jpg?500&nolink |}}]
 [{{ :krishna_art_1:077.jpg?500&nolink |}}]
