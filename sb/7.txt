@@ -22,12 +22,12 @@
 ~~NOTOC~~
 
 <div right third last>
-[{{ :krishna_art_1:020.jpg?400&nolink|}}]
-[{{ :krishna_art_1:022.jpg?400&nolink|}}]
-[{{ :images:bbt.se:prahlad_snakes_large.jpg?400&nolink|}}]
-[{{ :krishna_art_1:018.jpg?400&nolink|}}]
-[{{ :krishna_art_1:077.jpg?400&nolink|}}]
-[{{ :krishna_art_1:079.jpg?400&nolink|}}]
+[{{ :krishna_art_1:020.jpg?400&nolink |}}]
+[{{ :krishna_art_1:022.jpg?400&nolink |}}]
+[{{ :images:bbt.se:prahlad_snakes_large.jpg?400&nolink |}}]
+[{{ :krishna_art_1:018.jpg?400&nolink |}}]
+[{{ :krishna_art_1:077.jpg?400&nolink |}}]
+[{{ :krishna_art_1:079.jpg?400&nolink |}}]
 </div>
 
 <div canto>
