@@ -25,7 +25,8 @@ metatag-og:description=(og-description)
 }}
 
 ====== Canto 7: The Science of God ======
-~~TOC_HERE_CLOSED 2-2~~
+~~TOC_HERE_CLOSED~~
+~~TOC 2-2~~
 
 <WRAP right third last imagebox>
 [{{ :krishna_art_1:020.jpg?500&nolink |}}]
