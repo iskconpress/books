@@ -22,10 +22,12 @@
 
 [{{ :krishna_art_1:020.jpg?400&nolink|}}]
 [{{ :krishna_art_1:022.jpg?400&nolink|}}]
-[{{ :krishna_art_1:018.jpg?400&nolink|}}]
 [{{ :images:bbt.se:prahlad_snakes_large.jpg?400&nolink|}}]
+[{{ :krishna_art_1:018.jpg?400&nolink|}}]
 [{{ :krishna_art_1:077.jpg?400&nolink|}}]
 [{{ :krishna_art_1:079.jpg?400&nolink|}}]
+
+<div canto>
 
 ===== CHAPTER ONE =====
 === The Supreme Lord Is Equal to Everyone ===
@@ -101,35 +103,35 @@
 ===== CHAPTER SIX =====
 === Prahlada Instructs His Demoniac Schoolmates ===
   * [[books:sb:7:6|Chapter Summary]]
-  * [[books:sb:7:6:|Teach Every Child Krsna Consciousness]]
-  * [[books:sb:7:6:|Bodily Pleasure Is Available in Any Species of Life]]
-  * [[books:sb:7:6:|Economic Development Is Worthless]]
-  * [[books:sb:7:6:|How to Waste Your Life]]
-  * [[books:sb:7:6:|The Ropes of Family Affection]]
-  * [[books:sb:7:6:|Money Is Sweeter than Honey]]
-  * [[books:sb:7:6:|The Almighty Tongue and Genitals]]
-  * [[books:sb:7:6:|Educated Cats and Dogs]]
-  * [[books:sb:7:6:|Dancing Dogs in the Hands of Women]]
-  * [[books:sb:7:6:|To the Atheist the Lord Appears Nonexistent]]
-  * [[books:sb:7:6:|Nothing Is Unobtainable for Devotees]]
-  * [[books:sb:7:6:|Surrendering to Krsna Is Transcendental]]
-  * [[books:sb:7:6:|Transcendental Knowledge Is Difficult to Understand]]
+  * [[books:sb:7:6:1|Teach Every Child Krsna Consciousness]]
+  * [[books:sb:7:6:3|Bodily Pleasure Is Available in Any Species of Life]]
+  * [[books:sb:7:6:4|Economic Development Is Worthless]]
+  * [[books:sb:7:6:7|How to Waste Your Life]]
+  * [[books:sb:7:6:9|The Ropes of Family Affection]]
+  * [[books:sb:7:6:10|Money Is Sweeter than Honey]]
+  * [[books:sb:7:6:11-13|The Almighty Tongue and Genitals]]
+  * [[books:sb:7:6:16|Educated Cats and Dogs]]
+  * [[books:sb:7:6:17-18|Dancing Dogs in the Hands of Women]]
+  * [[books:sb:7:6:20-23|To the Atheist the Lord Appears Nonexistent]]
+  * [[books:sb:7:6:25|Nothing Is Unobtainable for Devotees]]
+  * [[books:sb:7:6:26|Surrendering to Krsna Is Transcendental]]
+  * [[books:sb:7:6:27|Transcendental Knowledge Is Difficult to Understand]]
 
 ===== CHAPTER SEVEN =====
 === What Prahlada Learned in the Womb ===
   * [[books:sb:7:7|Chapter Summary]]
-  * [[books:sb:7:7:|The Demigods Plunder the Demons]]
-  * [[books:sb:7:7:|Narada Saves the Unborn Hero, Prahlada]]
-  * [[books:sb:7:7:|Prahlada Hears from Narada While in the Womb]]
-  * [[books:sb:7:7:|Both the Lord and We Are Conscious Individuals]]
-  * [[books:sb:7:7:|How to Extract the Spirit Soul]]
-  * [[books:sb:7:7:|All Sober Persons Should Search for the Soul]]
-  * [[books:sb:7:7:|The Chains of Polluted Intelligence]]
-  * [[books:sb:7:7:|Accept and Serve the Bona Fide Guru]]
-  * [[books:sb:7:7:|Going to Hell Requires Great Endeavor]]
-  * [[books:sb:7:7:|Attempts for Happiness Always Yield Distress]]
-  * [[books:sb:7:7:|Today's Actions Create Your Future Body]]
-  * [[books:sb:7:7:|Seeing Krsna Everywhere Is the Ultimate Goal]]
+  * [[books:sb:7:7:4-5|The Demigods Plunder the Demons]]
+  * [[books:sb:7:7:11|Narada Saves the Unborn Hero, Prahlada]]
+  * [[books:sb:7:7:15|Prahlada Hears from Narada While in the Womb]]
+  * [[books:sb:7:7:19-20|Both the Lord and We Are Conscious Individuals]]
+  * [[books:sb:7:7:21|How to Extract the Spirit Soul]]
+  * [[books:sb:7:7:21#purport|All Sober Persons Should Search for the Soul]]
+  * [[books:sb:7:7:27|The Chains of Polluted Intelligence]]
+  * [[books:sb:7:7:30-31|Accept and Serve the Bona Fide Guru]]
+  * [[books:sb:7:7:38|Going to Hell Requires Great Endeavor]]
+  * [[books:sb:7:7:42|Attempts for Happiness Always Yield Distress]]
+  * [[books:sb:7:7:47|Today's Actions Create Your Future Body]]
+  * [[books:sb:7:7:55|Seeing Krsna Everywhere Is the Ultimate Goal]]
 
 ===== CHAPTER EIGHT =====
 === Lord Nrsimhadeva Slays the King of the Demons ===
@@ -254,3 +256,5 @@
     - [[books:sb:7:14|Ideal Family Life]]
     - [[books:sb:7:15|Instructions for Civilized Human Beings]]
 */
+
+</div>
