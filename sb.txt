@@ -6,7 +6,10 @@
 
 ====== Śrīmad-Bhāgavatam ======
 
-===== Table of cantos =====
+  * [[books:sb:0a|Preface]]
+  * [[books:sb:0b|Introduction]]
+
+===== Table of Cantos =====
 
   - [[books:sb:1|Creation]]
   - [[books:sb:2|The Cosmic Manifestation]]

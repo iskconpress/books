@@ -29,9 +29,6 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
 
 ===== Table of contents =====
 
-  * [[books:sb:1:0a|Preface]]
-  * [[books:sb:1:0b|Introduction]]
-
   - [[books:sb:1:1|Questions by the Sages]]
   - [[books:sb:1:2|Divinity and Divine Service]]
   - [[books:sb:1:3|Kṛṣṇa Is the Source of All Incarnations]]
