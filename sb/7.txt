@@ -21,7 +21,7 @@
 {{htmlmetatags>
 metatag-keywords=(prabhupada,books,iskcon,nrsimhadeva,prahlad,srimad-bhagavatam,canto,vedas,spiritual,teachings)
 metatag-media-og:image=(:krishna_art_1:079.jpg)
-metatag-og:description=(og-description)
+metatag-og:description=(Human society, at the present moment, is not in the darkness of oblivion. It has made rapid progress in the field of material comforts, education and economic development throughout the entire world. But there is a pinprick somewhere in the social body at large, and therefore there are large-scale quarrels, even over less important issues. There is need of a clue as to how humanity can become one in peace, friendship and prosperity with a common cause. Śrīmad-Bhāgavatam will fill this need, for it is a cultural presentation for the re-spiritualization of the entire human society.)
 }}
 
 ====== Canto 7: The Science of God ======
