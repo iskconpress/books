@@ -3,6 +3,10 @@
 
 ====== Birth of Lord Kṛṣṇa ======
 
+<audio>
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Krsna_Volume-1/chapter-3-verse-only.mp3|KṚṢṆA Chapter 3}}
+</audio>
+
 <WRAP half right last>
 [{{ :books:kb:03.jpg?500&direct |Kṛṣṇa played on the lap of Devakī just like an ordinary child.}}]
 [{{ :books:kb:02.jpg?direct&500 |"Therefore I request You to conceal this four-armed form of Your Lordship which holds the four symbols of Viṣṇu..."}}]
