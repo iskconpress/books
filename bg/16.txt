@@ -5,9 +5,9 @@
 
 ====== The Divine And Demoniac Natures ======
 
-<div audio nopurple>
+<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_16_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 16}}
-</div>
+</audio>
 
 <div right half last>
 [{{ :books:bg:plate38.jpg?500&direct |Plate 38. Bewildered by false ego, strength, pride, lust and anger. (p. 742)}}]

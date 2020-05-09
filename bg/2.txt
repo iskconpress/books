@@ -5,9 +5,9 @@
 
 ====== Contents of the Gītā Summarized ======
 
-<div audio nopurple>
+<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_02_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 2}}
-</div>
+</audio>
 
 <div right half last imagebox>
 [{{ :books:bg:plate07.jpg?500&nolink |Plate 7. The Blessed Lord said: The wise lament neither for the living nor the dead. [[books:bg:2:11|(Bg. 2.11)]]}}]

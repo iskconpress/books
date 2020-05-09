@@ -5,9 +5,9 @@
 
 ====== The Opulence of the Absolute ======
 
-<div audio nopurple>
+<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_10_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 10}}
-</div>
+</audio>
 
 <div right half last>
 [{{ :books:bg:plate29.jpg?500&nolink |Plate 29. Arjuna addressed Kṛṣṇa: “You are the Supreme Brahman, the ultimate, the supreme abode and purifier.” (p. 510)}}]

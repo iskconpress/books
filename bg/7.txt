@@ -5,9 +5,9 @@
 
 ====== Knowledge of the Absolute ======
 
-<div audio nopurple>
+<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_07_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 7}}
-</div>
+</audio>
 
 <div right half last>
 [{{ :books:bg:plate25.jpg?500&nolink |Plate 25. Kṛṣṇa’s material and spiritual energies. (p. 367)}}]

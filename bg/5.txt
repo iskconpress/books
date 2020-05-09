@@ -5,9 +5,9 @@
 
 ====== Karma-yoga — Action in Kṛṣṇa Consciousness ======
 
-<div audio nopurple>
+<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_05_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 5}}
-</div>
+</audio>
 
 <div right half last>
 [{{ :books:bg:plate19.jpg?500&direct |Plate 19. He who applies himself well to one of these paths achieves the results of both. (p. 276)}}]
