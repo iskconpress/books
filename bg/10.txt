@@ -9,7 +9,7 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_10_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 10}}
 </audio>
 
-<div right half last>
+<div right half last imagebox>
 [{{ :books:bg:plate29.jpg?500&nolink |Plate 29. Arjuna addressed Kṛṣṇa: “You are the Supreme Brahman, the ultimate, the supreme abode and purifier.” (p. 510)}}]
 [{{ :books:bg:plate30.jpg?500&nolink |Plate 30. “Know that all these beautiful, glorious and mighty creations spring from but a spark of My splendor.” (p. 537)
 }}]

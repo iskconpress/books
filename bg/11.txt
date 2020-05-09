@@ -9,7 +9,7 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_11_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 11}}
 </audio>
 
-<div right half last>
+<div right half last imagebox>
 [{{ :books:bg:plate31.jpg?500&nolink |Plate 31. The universal form. (p. 549)}}]
 [{{ :books:bg:plate32.jpg?500&nolink |Plate 32. At last Kṛṣṇa showed Arjuna His two-armed form. (p. 583)}}]
 </div>

@@ -9,7 +9,7 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_17_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 17}}
 </audio>
 
-<div right half last>
+<div right half last imagebox>
 [{{ :books:bg:plate40.jpg?500&direct |Plate 40. There are three kinds of faith—that in the mode of goodness, that in passion, and that in ignorance. (p. 755)}}]
 </div>
 

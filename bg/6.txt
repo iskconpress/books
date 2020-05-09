@@ -9,7 +9,7 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_06_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 6}}
 </audio>
 
-<div right half last>
+<div right half last imagebox>
 [{{ :books:bg:plate21.jpg?500&nolink |Plate 21. “One should meditate on Me within the heart and make Me the ultimate goal of life.” (p. 319)}}]
 [{{ :books:bg:plate22.jpg?500&nolink |Plate 22. One should engage oneself in the practice of yoga with undeviating determination and faith. [[books:bg:6:24#id4|(Bg. 6.24)]]}}]
 [{{ :books:bg:plate23.jpg?500&nolink |Plate 23. “The mind is restless, turbulent, obstinate and very strong, O Kṛṣṇa.” (p. 343)}}]

@@ -9,7 +9,7 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_16_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 16}}
 </audio>
 
-<div right half last>
+<div right half last imagebox>
 [{{ :books:bg:plate38.jpg?500&direct |Plate 38. Bewildered by false ego, strength, pride, lust and anger. (p. 742)}}]
 [{{ :books:bg:plate39.jpg?500&direct |Plate 39. Lust, greed and anger are the three gates leading down to hell. (p. 745)}}]
 </div>

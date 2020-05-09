@@ -9,7 +9,7 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_15_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 15}}
 </audio>
 
-<div right half last>
+<div right half last imagebox>
 [{{ :books:bg:plate35.jpg?500&direct |Plate 35. There is a banyan tree which has its roots upward and its branches down. (p. 694)}}]
 [{{ :books:bg:plate36.jpg?500&direct |Plate 36. The spiritual and material worlds. (p. 700)}}]
 [{{ :books:bg:plate37.jpg?500&direct |Plate 37. The living entity in the material world carries his different conceptions of life as the air carries aromas. (p. 704)}}]
