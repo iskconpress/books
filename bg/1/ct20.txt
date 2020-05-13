@@ -1,3 +1,0 @@
-====== Color gallery 20 ======
-
-{{gallery>gallery:ct20 ?crop }}

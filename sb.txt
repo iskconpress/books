@@ -2,7 +2,7 @@
 
 <WRAP nopurple>
 
-[{{ images:bbt.se:12_cantos_large.jpg?500&nolink}}]
+[{{ images:bbt.se:12_cantos_large.jpg?500&nolink|}}]
 
 ====== Śrīmad-Bhāgavatam ======
 
