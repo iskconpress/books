@@ -1,8 +1,10 @@
 ~~Title:Light of the Bhāgavata 1~~
 ~~bc:Text 1~~
 
-==== Light of the Bhāgavata ====
+<div hdg>
+=== Light of the Bhāgavata ===
 ====== Text 1 ======
+</div>
 
 {{ :books/light_of_the_bhagavata/lob_01.jpg?nolink |Light of the Bhagavata, Plate 1}}
 
