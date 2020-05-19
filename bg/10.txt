@@ -10,8 +10,8 @@
 </audio>
 
 <div right half last imagebox>
-[{{ :books:bg:plate29.jpg?500&nolink |Plate 29. Arjuna addressed Kṛṣṇa: “You are the Supreme Brahman, the ultimate, the supreme abode and purifier.” (p. 510)}}]
-[{{ :books:bg:plate30.jpg?500&nolink |Plate 30. “Know that all these beautiful, glorious and mighty creations spring from but a spark of My splendor.” (p. 537)
+[{{ :artwork:bhagavad-gita:plate29.jpg?500&nolink |Plate 29. Arjuna addressed Kṛṣṇa: “You are the Supreme Brahman, the ultimate, the supreme abode and purifier.” (p. 510)}}]
+[{{ :artwork:bhagavad-gita:plate30.jpg?500&nolink |Plate 30. “Know that all these beautiful, glorious and mighty creations spring from but a spark of My splendor.” (p. 537)
 }}]
 </div>
 

@@ -10,8 +10,8 @@
 </audio>
 
 <div right half last imagebox>
-[{{ :books:bg:plate19.jpg?500&direct |Plate 19. He who applies himself well to one of these paths achieves the results of both. (p. 276)}}]
-[{{ :books:bg:plate20.jpg?500&direct |Plate 20. The humble sage sees with equal vision. (p. 292)}}]
+[{{ :artwork:bhagavad-gita:plate19.jpg?500&direct |Plate 19. He who applies himself well to one of these paths achieves the results of both. (p. 276)}}]
+[{{ :artwork:bhagavad-gita:plate20.jpg?500&direct |Plate 20. The humble sage sees with equal vision. (p. 292)}}]
 </div>
 
   ; [[.5:1|Bg 5.1]]

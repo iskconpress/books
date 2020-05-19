@@ -10,7 +10,7 @@
 </audio>
 
 <div right half last imagebox>
-[{{ :books:bg:plate34.jpg?500&direct |Plate 34. The three modes of material nature. (p. 677)}}]
+[{{ :artwork:bhagavad-gita:plate34.jpg?500&direct |Plate 34. The three modes of material nature. (p. 677)}}]
 </div>
 
   ; [[.14:1|Bg 14.1]]

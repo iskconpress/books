@@ -4,7 +4,7 @@
 
 <WRAP nopurple>
 
-{{gallery> :books:cc_artwork?700x700 &random =1}}
+{{gallery> :artwork:caitanya-caritamrita?700x700 &random =1}}
 
 ====== Śrī Caitanya-caritāmṛta ======
 

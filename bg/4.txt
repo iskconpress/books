@@ -10,10 +10,10 @@
 </audio>
 
 <div right half last imagebox>
-[{{ :books:bg:plate15.jpg?500&nolink |Plate 15. The Blessed Lord first instructed this imperishable science of yoga to Vivasvān. (p. 214)}}]
-[{{ :books:bg:plate16.jpg?500&nolink |Plate 16. The Lord descends whenever there is a decline in religious principles. (p. 224)}}]
-[{{ :books:bg:plate17.jpg?500&nolink |Plate 17. “In order to deliver the pious and to annihilate the miscreants...” (p. 226)}}]
-[{{ :books:bg:plate18.jpg?500&nolink |Plate 18. “As they surrender to Me, I reward them accordingly.” (p. 232)}}]
+[{{ artwork:bhagavad-gita:plate15.jpg?500&nolink |Plate 15. The Blessed Lord first instructed this imperishable science of yoga to Vivasvān. (p. 214)}}]
+[{{ artwork:bhagavad-gita:plate16.jpg?500&nolink |Plate 16. The Lord descends whenever there is a decline in religious principles. (p. 224)}}]
+[{{ artwork:bhagavad-gita:plate17.jpg?500&nolink |Plate 17. “In order to deliver the pious and to annihilate the miscreants...” (p. 226)}}]
+[{{ artwork:bhagavad-gita:plate18.jpg?500&nolink |Plate 18. “As they surrender to Me, I reward them accordingly.” (p. 232)}}]
 </div>
 
   ; [[.4:1|Bg 4.1]]

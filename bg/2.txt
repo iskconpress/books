@@ -10,15 +10,15 @@
 </audio>
 
 <div right half last imagebox>
-[{{ :books:bg:plate07.jpg?500&nolink |Plate 7. The Blessed Lord said: The wise lament neither for the living nor the dead. [[books:bg:2:11|(Bg. 2.11)]]}}]
+[{{ artwork:bhagavad-gita:plate07.jpg?500&nolink |Plate 7. The Blessed Lord said: The wise lament neither for the living nor the dead. [[books:bg:2:11|(Bg. 2.11)]]}}]
 
-[{{ :books:bg:plate08.jpg?500&nolink |Plate 8. The soul changes bodies as a person changes garments. [[books:bg:2:13|(Bg. 2.13)]]}}]
+[{{ artwork:bhagavad-gita:plate08.jpg?500&nolink |Plate 8. The soul changes bodies as a person changes garments. [[books:bg:2:13|(Bg. 2.13)]]}}]
 
-[{{ :books:bg:plate09.jpg?500&nolink |Plate 9. The body changes but the soul remains the same. (p. 83-84)}}]
+[{{ artwork:bhagavad-gita:plate09.jpg?500&nolink |Plate 9. The body changes but the soul remains the same. (p. 83-84)}}]
 
-[{{ :books:bg:plate10.jpg?500&nolink |Plate 10. Kṛṣṇa and the living entity are seated on the tree of the body. [[books:bg:2:22|(p. 102)]]}}]
+[{{ artwork:bhagavad-gita:plate10.jpg?500&nolink |Plate 10. Kṛṣṇa and the living entity are seated on the tree of the body. [[books:bg:2:22|(p. 102)]]}}]
 
-[{{ :books:bg:plate11.jpg?500&nolink |Plate 11. While contemplating the objects of the senses, a person develops attachment for them. (p. 149)}}]
+[{{ artwork:bhagavad-gita:plate11.jpg?500&nolink |Plate 11. While contemplating the objects of the senses, a person develops attachment for them. (p. 149)}}]
 </div>
 
   ; [[.2:1|Bg 2.1]]

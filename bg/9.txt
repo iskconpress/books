@@ -10,7 +10,7 @@
 </audio>
 
 <div right half last imagebox>
-[{{ :books:bg:plate28.jpg?500&nolink |Plate 28. “Fools deride Me when I descend in the human form.” (p. 459)}}]
+[{{ :artwork:bhagavad-gita:plate28.jpg?500&nolink |Plate 28. “Fools deride Me when I descend in the human form.” (p. 459)}}]
 </div>
 
   ; [[.9:1|Bg 9.1]]

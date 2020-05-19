@@ -10,8 +10,8 @@
 </audio>
 
 <div right half last imagebox>
-[{{ :books:bg:plate25.jpg?500&nolink |Plate 25. Kṛṣṇa’s material and spiritual energies. (p. 367)}}]
-[{{ :books:bg:plate26.jpg?500&nolink |Plate 26. Four kinds of pious men surrender to Kṛṣṇa, and four kinds of impious men do not. (p. 382)}}]
+[{{ :artwork:bhagavad-gita:plate25.jpg?500&nolink |Plate 25. Kṛṣṇa’s material and spiritual energies. (p. 367)}}]
+[{{ :artwork:bhagavad-gita:plate26.jpg?500&nolink |Plate 26. Four kinds of pious men surrender to Kṛṣṇa, and four kinds of impious men do not. (p. 382)}}]
 </div>
 
   ; [[.7:1|Bg 7.1]]

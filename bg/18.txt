@@ -10,10 +10,10 @@
 </audio>
 
 <div right half last imagebox>
-[{{ :books:bg:plate41.jpg?500&direct |Plate 41. The place of action, the performer, the senses, the endeavor and ultimately the Supersoul. These are the five factors of action. (p. 790)}}]
-[{{ :books:bg:plate42.jpg?500&direct |Plate 42. By worship of the Lord, man can, in the performance of his own duty, become perfect. (p. 812)}}]
-[{{ :books:bg:plate43.jpg?500&direct |Plate 43. “Always think of Me and become My devotee. Worship Me and offer your homage unto Me.” (p. 834)}}]
-[{{ :books:bg:plate44.jpg?500&direct |Plate 44. “Wherever there is Kṛṣṇa and Arjuna there will certainly be opulence, victory, extraordinary power and morality.” (p. 847)}}]
+[{{ :artwork:bhagavad-gita:plate41.jpg?500&direct |Plate 41. The place of action, the performer, the senses, the endeavor and ultimately the Supersoul. These are the five factors of action. (p. 790)}}]
+[{{ :artwork:bhagavad-gita:plate42.jpg?500&direct |Plate 42. By worship of the Lord, man can, in the performance of his own duty, become perfect. (p. 812)}}]
+[{{ :artwork:bhagavad-gita:plate43.jpg?500&direct |Plate 43. “Always think of Me and become My devotee. Worship Me and offer your homage unto Me.” (p. 834)}}]
+[{{ :artwork:bhagavad-gita:plate44.jpg?500&direct |Plate 44. “Wherever there is Kṛṣṇa and Arjuna there will certainly be opulence, victory, extraordinary power and morality.” (p. 847)}}]
 </div>
 
   ; [[.18:1|Bg 18.1]]

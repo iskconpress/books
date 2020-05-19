@@ -1,10 +1,9 @@
 ~~bc:Ādi-līlā~~
 ~~Title:Śrī Caitanya-caritāmṛta Ādi-līlā~~
 
-[{{ :books:cc_artwork:adi_lila_volume_1:front_cover.jpg?400&nolink|}}]
+[{{ :artwork:caitanya-caritamrita:adi_lila_volume_1:front_cover.jpg?400&nolink|}}]
 
 ====== Śrī Caitanya-caritāmṛta Ādi-līlā ======
-
 
   * [[books:cc:adi:0a|Preface]]
   * [[books:cc:adi:0b|Introduction]]
