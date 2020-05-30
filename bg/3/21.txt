@@ -1,9 +1,9 @@
 {{description>Whatever action is performed by a great man, common men follow in his footsteps. And whatever standards he sets by exemplary acts, all the world pursues.}}
 
 ~~bc:Text 21~~
-~~Title:Bhagavad-gītā 3.21~~
+~~Title:Bhagavad-gītā As It Is 3.21~~
 
-====== Bg 3.21 ======
+====== Bg. 3.21 ======
 
 > यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।
 > स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥२१॥

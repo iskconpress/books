@@ -1,9 +1,9 @@
 {{description>Your enemies will describe you in many unkind words and scorn your ability. What could be more painful for you?}}
 
 ~~bc:Text 36~~
-~~Title:Bhagavad-gītā 2.36~~
+~~Title:Bhagavad-gītā As It Is 2.36~~
 
-====== Bg 2.36 ======
+====== Bg. 2.36 ======
 
 > अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः ।
 > निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम् ॥३६॥

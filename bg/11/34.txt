@@ -1,9 +1,9 @@
 {{description>The Blessed Lord said: All the great warriors—Droṇa, Bhīṣma, Jayadratha, Karṇa—are already destroyed. Simply fight, and you will vanquish your enemies.}}
 
 ~~bc:Text 34~~
-~~Title:Bhagavad-gītā 11.34~~
+~~Title:Bhagavad-gītā As It Is 11.34~~
 
-====== Bg 11.34 ======
+====== Bg. 11.34 ======
 
 > द्रोणं च भीष्मं च जयद्रथं च
 > कर्णं तथान्यानपि योधवीरान् ।

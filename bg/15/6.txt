@@ -1,9 +1,9 @@
 {{description>That abode of Mine is not illumined by the sun or moon, nor by electricity. One who reaches it never returns to this material world.}}
 
 ~~bc:Text 6~~
-~~Title:Bhagavad-gītā 15.6~~
+~~Title:Bhagavad-gītā As It Is 15.6~~
 
-====== Bg 15.6 ======
+====== Bg. 15.6 ======
 
 > न तद्भासयते सूर्यो न शशाङ्को न पावकः ।
 > यद्गत्वा न निवर्तन्ते तद्धाम परमं मम ॥६॥

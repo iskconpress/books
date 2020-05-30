@@ -1,9 +1,9 @@
 {{description>Although You are one, You are spread throughout the sky and the planets and all space between. O great one, as I behold this terrible form, I see that all the planetary systems are perplexed.}}
 
 ~~bc:Text 20~~
-~~Title:Bhagavad-gītā 11.20~~
+~~Title:Bhagavad-gītā As It Is 11.20~~
 
-====== Bg 11.20 ======
+====== Bg. 11.20 ======
 
 > द्यावापृथिव्योरिदमन्तरं हि
 > व्याप्तं त्वयैकेन दिशश्च सर्वाः ।

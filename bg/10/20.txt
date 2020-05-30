@@ -1,9 +1,9 @@
 {{description>I am the Self, O Guḍākeśa, seated in the hearts of all creatures. I am the beginning, the middle and the end of all beings.}}
 
 ~~bc:Text 20~~
-~~Title:Bhagavad-gītā 10.20~~
+~~Title:Bhagavad-gītā As It Is 10.20~~
 
-====== Bg 10.20 ======
+====== Bg. 10.20 ======
 
 > अहमात्मा गुडाकेश सर्वभूताशयस्थितः ।
 > अहमादिश्च मध्यं च भूतानामन्त एव च ॥२०॥

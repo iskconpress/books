@@ -1,9 +1,9 @@
 {{description>My intelligence is bewildered by Your equivocal instructions. Therefore, please tell me decisively what is most beneficial for me.}}
 
 ~~bc:Text 2~~
-~~Title:Bhagavad-gītā 3.2~~
+~~Title:Bhagavad-gītā As It Is 3.2~~
 
-====== Bg 3.2 ======
+====== Bg. 3.2 ======
 
 > व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।
 > तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥२॥

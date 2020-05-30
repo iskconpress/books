@@ -1,9 +1,9 @@
 {{description>That happiness which is derived from contact of the senses with their objects and which appears like nectar at first but poison at the end is said to be of the nature of passion.}}
 
 ~~bc:Text 38~~
-~~Title:Bhagavad-gītā 18.38~~
+~~Title:Bhagavad-gītā As It Is 18.38~~
 
-====== Bg 18.38 ======
+====== Bg. 18.38 ======
 
 > विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् ।
 > परिणामे विषमिव तत्सुखं राजसं स्मृतम् ॥३८॥

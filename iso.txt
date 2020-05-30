@@ -6,9 +6,9 @@
 {{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Sri_Isopanisad_With_Purports.mp3|Śrī Īśopaniṣad}}
 </audio>
 
-<div half right column last>
+<WRAP half right column last>
 [{{ :krishna_art_1:105.jpg?500&nolink |}}]
-</div>
+</WRAP>
 
 <WRAP nopurple>
 

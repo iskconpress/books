@@ -1,9 +1,9 @@
 {{description>When your intelligence has passed out of the dense forest of delusion, you shall become indifferent to all that has been heard and all that is to be heard.}}
 
 ~~bc:Text 52~~
-~~Title:Bhagavad-gītā 2.52~~
+~~Title:Bhagavad-gītā As It Is 2.52~~
 
-====== Bg 2.52 ======
+====== Bg. 2.52 ======
 
 > यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति ।
 > तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ॥५२॥

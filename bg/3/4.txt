@@ -1,9 +1,9 @@
 {{description>Not by merely abstaining from work can one achieve freedom from reaction, nor by renunciation alone can one attain perfection.}}
 
 ~~bc:Text 4~~
-~~Title:Bhagavad-gītā 3.4~~
+~~Title:Bhagavad-gītā As It Is 3.4~~
 
-====== Bg 3.4 ======
+====== Bg. 3.4 ======
 
 > न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।
 > न च संन्यसनादेव सिद्धिं समधिगच्छति ॥४॥

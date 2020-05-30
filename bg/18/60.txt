@@ -1,9 +1,9 @@
 {{description>Under illusion you are now declining to act according to My direction. But, compelled by your own nature, you will act all the same, O son of Kuntī.}}
 
 ~~bc:Text 60~~
-~~Title:Bhagavad-gītā 18.60~~
+~~Title:Bhagavad-gītā As It Is 18.60~~
 
-====== Bg 18.60 ======
+====== Bg. 18.60 ======
 
 > स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा ।
 > कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोपि तत् ॥६०॥

@@ -1,9 +1,9 @@
 {{description>Here in this army there are many heroic bowmen equal in fighting to Bhīma and Arjuna; there are also great fighters like Yuyudhāna, Virāṭa and Drupada.}}
 
 ~~bc:Text 4~~
-~~Title:Bhagavad-gītā 1.4~~
+~~Title:Bhagavad-gītā As It Is 1.4~~
 
-====== Bg 1.4 ======
+====== Bg. 1.4 ======
 
 > अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।
 > युयुधानो विराटश्च द्रुपदश्च महारथः ॥४॥

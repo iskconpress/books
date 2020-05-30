@@ -6,11 +6,11 @@
 
 <WRAP nopurple>
 
-<div half column right>
+<WRAP half column right>
 [{{ :books:covers:1970-krsna_book_vol_1.jpg?450&nolink|}}]
 
 [{{ :books:covers:1970-krsna_book_vol_2.jpg?450&nolink|}}]
-</div>
+</WRAP>
 
 ===== Table of Contents =====
 

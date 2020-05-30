@@ -1,9 +1,9 @@
 {{description>That knowledge of the field of activities and of the knower of activities is described by various sages in various Vedic writings—especially in the Vedānta-sūtra—and is presented with all reasoning as to cause and effect.}}
 
 ~~bc:Text 5~~
-~~Title:Bhagavad-gītā 13.5~~
+~~Title:Bhagavad-gītā As It Is 13.5~~
 
-====== Bg 13.5 ======
+====== Bg. 13.5 ======
 
 > ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् ।
 > ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः ॥५॥

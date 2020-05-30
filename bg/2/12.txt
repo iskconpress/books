@@ -1,9 +1,9 @@
 {{description>Never was there a time when I did not exist, nor you, nor all these kings; nor in the future shall any of us cease to be.}}
 
 ~~bc:Text 12~~
-~~Title:Bhagavad-gītā 2.12~~
+~~Title:Bhagavad-gītā As It Is 2.12~~
 
-====== Bg 2.12 ======
+====== Bg. 2.12 ======
 
 > न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः ।
 > न चैव न भविष्यामः सर्वे वयमतः परम् ॥१२॥

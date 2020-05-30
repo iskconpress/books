@@ -1,9 +1,9 @@
 {{description>Perform your prescribed duty, for action is better than inaction. A man cannot even maintain his physical body without work.}}
 
 ~~bc:Text 8~~
-~~Title:Bhagavad-gītā 3.8~~
+~~Title:Bhagavad-gītā As It Is 3.8~~
 
-====== Bg 3.8 ======
+====== Bg. 3.8 ======
 
 > नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।
 > शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ॥८॥

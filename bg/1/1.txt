@@ -1,9 +1,9 @@
 {{description>Dhṛtarāṣṭra said: O Sañjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?}}
 
 ~~bc:Text 1~~
-~~Title:Bhagavad-gītā 1.1~~
+~~Title:Bhagavad-gītā As It Is 1.1~~
 
-====== Bg 1.1 ======
+====== Bg. 1.1 ======
 
 > धृतराष्ट्र उवाच ।
 > धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।

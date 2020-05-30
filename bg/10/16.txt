@@ -1,9 +1,9 @@
 {{description>Please tell me in detail of Your divine powers by which You pervade all these worlds and abide in them.}}
 
 ~~bc:Text 16~~
-~~Title:Bhagavad-gītā 10.16~~
+~~Title:Bhagavad-gītā As It Is 10.16~~
 
-====== Bg 10.16 ======
+====== Bg. 10.16 ======
 
 > वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः ।
 > याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ॥१६॥

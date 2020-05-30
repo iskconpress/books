@@ -1,9 +1,9 @@
 {{description>The Blessed Lord said: Again I shall declare to you this supreme wisdom, the best of all knowledge, knowing which all the sages have attained to supreme perfection.}}
 
 ~~bc:Text 1~~
-~~Title:Bhagavad-gītā 14.1~~
+~~Title:Bhagavad-gītā As It Is 14.1~~
 
-====== Bg 14.1 ======
+====== Bg. 14.1 ======
 
 > श्रीभगवानुवाच ।
 > परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् ।

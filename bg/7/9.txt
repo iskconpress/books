@@ -1,9 +1,9 @@
 {{description>I am the original fragrance of the earth, and I am the heat in fire. I am the life of all that lives, and I am the penances of all ascetics.}}
 
 ~~bc:Text 9~~
-~~Title:Bhagavad-gītā 7.9~~
+~~Title:Bhagavad-gītā As It Is 7.9~~
 
-====== Bg 7.9 ======
+====== Bg. 7.9 ======
 
 > पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ ।
 > जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ॥९॥

@@ -1,9 +1,9 @@
 {{description>The great generals who have highly esteemed your name and fame will think that you have left the battlefield out of fear only, and thus they will consider you a coward.}}
 
 ~~bc:Text 35~~
-~~Title:Bhagavad-gītā 2.35~~
+~~Title:Bhagavad-gītā As It Is 2.35~~
 
-====== Bg 2.35 ======
+====== Bg. 2.35 ======
 
 > भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः ।
 > येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम् ॥३५॥

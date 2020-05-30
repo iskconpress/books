@@ -1,9 +1,9 @@
 {{description>Due to the evil deeds of the destroyers of family tradition, all kinds of community projects and family welfare activities are devastated.}}
 
 ~~bc:Text 42~~
-~~Title:Bhagavad-gītā 1.42~~
+~~Title:Bhagavad-gītā As It Is 1.42~~
 
-====== Bg 1.42 ======
+====== Bg. 1.42 ======
 
 > दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः ।
 > उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ॥४२॥

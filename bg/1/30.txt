@@ -1,9 +1,9 @@
 {{description>I am now unable to stand here any longer. I am forgetting myself, and my mind is reeling. I foresee only evil, O killer of the Keśī demon.}}
 
 ~~bc:Text 30~~
-~~Title:Bhagavad-gītā 1.30~~
+~~Title:Bhagavad-gītā As It Is 1.30~~
 
-====== Bg 1.30 ======
+====== Bg. 1.30 ======
 
 > न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ।
 > निमित्तानि च पश्यामि विपरीतानि केशव ॥३०॥

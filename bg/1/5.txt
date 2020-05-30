@@ -1,9 +1,9 @@
 {{description>There are also great, heroic, powerful fighters like Dhṛṣṭaketu, Cekitāna, Kāśirāja, Purujit, Kuntibhoja and Śaibya.}}
 
 ~~bc:Text 5~~
-~~Title:Bhagavad-gītā 1.5~~
+~~Title:Bhagavad-gītā As It Is 1.5~~
 
-====== Bg 1.5 ======
+====== Bg. 1.5 ======
 
 > धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।
 > पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुंगवः ॥५॥

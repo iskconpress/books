@@ -1,9 +1,9 @@
 {{description>The soul can never be cut into pieces by any weapon, nor can he be burned by fire, nor moistened by water, nor withered by the wind.}}
 
 ~~bc:Text 23~~
-~~Title:Bhagavad-gītā 2.23~~
+~~Title:Bhagavad-gītā As It Is 2.23~~
 
-====== Bg 2.23 ======
+====== Bg. 2.23 ======
 
 > नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः ।
 > न चैनं क्लेदयन्त्यापो न शोषयति मारुतः ॥२३॥

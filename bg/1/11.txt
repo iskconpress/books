@@ -1,9 +1,9 @@
 {{description>Now all of you must give full support to Grandfather Bhīṣma, standing at your respective strategic points in the phalanx of the army.}}
 
 ~~bc:Text 11~~
-~~Title:Bhagavad-gītā 1.11~~
+~~Title:Bhagavad-gītā As It Is 1.11~~
 
-====== Bg 1.11 ======
+====== Bg. 1.11 ======
 
 > अयनेषु च सर्वेषु यथाभागमवस्थिताः ।
 > भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ॥११॥

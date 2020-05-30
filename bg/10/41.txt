@@ -1,9 +1,9 @@
 {{description>Know that all beautiful, glorious, and mighty creations spring from but a spark of My splendor.}}
 
 ~~bc:Text 41~~
-~~Title:Bhagavad-gītā 10.41~~
+~~Title:Bhagavad-gītā As It Is 10.41~~
 
-====== Bg 10.41 ======
+====== Bg. 10.41 ======
 
 > यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा ।
 > तत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ॥४१॥

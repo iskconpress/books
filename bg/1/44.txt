@@ -1,9 +1,9 @@
 {{description>Alas, how strange it is that we are preparing to commit greatly sinful acts, driven by the desire to enjoy royal happiness.}}
 
 ~~bc:Text 44~~
-~~Title:Bhagavad-gītā 1.44~~
+~~Title:Bhagavad-gītā As It Is 1.44~~
 
-====== Bg 1.44 ======
+====== Bg. 1.44 ======
 
 > अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।
 > यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ॥४४॥

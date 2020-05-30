@@ -1,9 +1,9 @@
 {{description>Those who are demoniac do not know what is to be done and what is not to be done. Neither cleanliness nor proper behavior nor truth is found in them.}}
 
 ~~bc:Text 7~~
-~~Title:Bhagavad-gītā 16.7~~
+~~Title:Bhagavad-gītā As It Is 16.7~~
 
-====== Bg 16.7 ======
+====== Bg. 16.7 ======
 
 > प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः ।
 > न शौचं नापि चाचारो न सत्यं तेषु विद्यते ॥७॥

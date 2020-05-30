@@ -1,7 +1,7 @@
 {{description>Lord Krishna grants Arjuna divine vision and reveals His spectacular unlimited form as the cosmic universe. Thus He conclusively establishes His divinity. Krishna explains that His own all-beautiful humanlike form is the original form of Godhead. One can perceive this form only by pure devotional service.}}
 
 ~~bc:Chapter 11~~
-~~Title:Bhagavad-gītā 11: The Universal Form~~
+~~Title:Bhagavad-gītā As It Is 11: The Universal Form~~
 
 ====== The Universal Form ======
 
@@ -9,10 +9,11 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_11_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 11}}
 </audio>
 
-<div right half last imagebox>
-[{{ :artwork:bhagavad-gita:plate31.jpg?500&nolink |Plate 31. The universal form. (p. 549)}}]
-[{{ :artwork:bhagavad-gita:plate32.jpg?500&nolink |Plate 32. At last Kṛṣṇa showed Arjuna His two-armed form. (p. 583)}}]
-</div>
+<WRAP right half last imagebox>
+[{{ :artwork:bhagavad-gita:plate31.jpg?500&nolink |Plate 31. The universal form. [[books:bg:10:10-11|(Bg. 11.10-11)]]}}]
+
+[{{ :artwork:bhagavad-gita:plate32.jpg?500&nolink |Plate 32. At last Kṛṣṇa showed Arjuna His two-armed form. [[books:bg:11:50|(Bg. 11.50)]]}}]
+</WRAP>
 
   ; [[.11:1|Bg 11.1]]
   : Arjuna said: I have heard Your instruction on confidential spiritual matters which You have so kindly delivered unto me, and my illusion is now dispelled.

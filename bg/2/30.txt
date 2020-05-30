@@ -1,9 +1,9 @@
 {{description>O descendant of Bharata, he who dwells in the body is eternal and can never be slain. Therefore you need not grieve for any creature.}}
 
 ~~bc:Text 30~~
-~~Title:Bhagavad-gītā 2.30~~
+~~Title:Bhagavad-gītā As It Is 2.30~~
 
-====== Bg 2.30 ======
+====== Bg. 2.30 ======
 
 > देही नित्यमवध्योऽयं देहे सर्वस्य भारत ।
 > तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ॥३०॥

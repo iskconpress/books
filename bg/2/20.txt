@@ -1,9 +1,9 @@
 {{description>For the soul there is never birth nor death. Nor, having once been, does he ever cease to be. He is unborn, eternal, ever-existing, undying and primeval. He is not slain when the body is slain.}}
 
 ~~bc:Text 20~~
-~~Title:Bhagavad-gītā 2.20~~
+~~Title:Bhagavad-gītā As It Is 2.20~~
 
-====== Bg 2.20 ======
+====== Bg. 2.20 ======
 
 > न जायते म्रियते वा कदाचिन्
 > नायं भूत्वा भविता वा न भूयः ।

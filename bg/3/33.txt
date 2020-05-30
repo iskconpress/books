@@ -1,9 +1,9 @@
 {{description>Even a man of knowledge acts according to his own nature, for everyone follows his nature. What can repression accomplish?}}
 
 ~~bc:Text 33~~
-~~Title:Bhagavad-gītā 3.33~~
+~~Title:Bhagavad-gītā As It Is 3.33~~
 
-====== Bg 3.33 ======
+====== Bg. 3.33 ======
 
 > सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।
 > प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ॥३३॥

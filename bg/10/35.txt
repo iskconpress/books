@@ -1,9 +1,9 @@
 {{description>Of hymns I am the Bṛhat-sāma sung to the Lord Indra, and of poetry I am the Gāyatrī verse, sung daily by brāhmaṇas. Of months I am November and December, and of seasons I am flower-bearing spring.}}
 
 ~~bc:Text 35~~
-~~Title:Bhagavad-gītā 10.35~~
+~~Title:Bhagavad-gītā As It Is 10.35~~
 
-====== Bg 10.35 ======
+====== Bg. 10.35 ======
 
 > बृहत्साम तथा साम्नां गायत्री छन्दसामहम् ।
 > मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ॥३५॥

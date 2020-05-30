@@ -1,9 +1,9 @@
 {{description>Let me see those who have come here to fight, wishing to please the evil-minded son of Dhṛtarāṣṭra.}}
 
 ~~bc:Text 23~~
-~~Title:Bhagavad-gītā 1.23~~
+~~Title:Bhagavad-gītā As It Is 1.23~~
 
-====== Bg 1.23 ======
+====== Bg. 1.23 ======
 
 > योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।
 > धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ॥२३॥

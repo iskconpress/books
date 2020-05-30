@@ -1,9 +1,9 @@
 {{description>For one who has conquered the mind, the Supersoul is already reached, for he has attained tranquility. To such a man happiness and distress, heat and cold, honor and dishonor are all the same.}}
 
 ~~bc:Text 7~~
-~~Title:Bhagavad-gītā 6.7~~
+~~Title:Bhagavad-gītā As It Is 6.7~~
 
-====== Bg 6.7 ======
+====== Bg. 6.7 ======
 
 > जितात्मनः प्रशान्तस्य परमात्मा समाहितः ।
 > शीतोष्णसुखदुःखेषु तथा मानापमानयोः ॥७॥

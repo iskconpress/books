@@ -1,9 +1,9 @@
 {{description>It is said that the soul is invisible, inconceivable, immutable, and unchangeable. Knowing this, you should not grieve for the body.}}
 
 ~~bc:Text 25~~
-~~Title:Bhagavad-gītā 2.25~~
+~~Title:Bhagavad-gītā As It Is 2.25~~
 
-====== Bg 2.25 ======
+====== Bg. 2.25 ======
 
 > अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते ।
 > तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ॥२५॥

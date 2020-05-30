@@ -1,9 +1,9 @@
 {{description>As the rivers flow into the sea, so all these great warriors enter Your blazing mouths and perish.}}
 
 ~~bc:Text 28~~
-~~Title:Bhagavad-gītā 11.28~~
+~~Title:Bhagavad-gītā As It Is 11.28~~
 
-====== Bg 11.28 ======
+====== Bg. 11.28 ======
 
 > यथा नदीनां बहवोऽम्बुवेगाः
 > समुद्रमेवाभिमुखा द्रवन्ति ।

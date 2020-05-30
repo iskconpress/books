@@ -1,9 +1,9 @@
 {{description>Some learned men declare that all kinds of fruitive activities should be given up, but there are yet other sages who maintain that acts of sacrifice, charity and penance should never be abandoned.}}
 
 ~~bc:Text 3~~
-~~Title:Bhagavad-gītā 18.3~~
+~~Title:Bhagavad-gītā As It Is 18.3~~
 
-====== Bg 18.3 ======
+====== Bg. 18.3 ======
 
 > त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः ।
 > यज्ञदानतपःकर्म न त्याज्यमिति चापरे ॥३॥

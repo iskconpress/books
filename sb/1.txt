@@ -7,7 +7,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
 
 ~~NOTOC~~
 
-<div canto>
+<WRAP canto>
 
 ====== Canto 1: Creation ======
 
@@ -359,4 +359,4 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * Index of Sanskrit Verses
   * General Index
 
-</div>
+</WRAP>

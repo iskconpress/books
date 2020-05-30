@@ -1,9 +1,9 @@
 {{description>There are three gates leading to this hell—lust, anger, and greed. Every sane man should give these up, for they lead to the degradation of the soul.}}
 
 ~~bc:Text 21~~
-~~Title:Bhagavad-gītā 16.21~~
+~~Title:Bhagavad-gītā As It Is 16.21~~
 
-====== Bg 16.21 ======
+====== Bg. 16.21 ======
 
 > त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।
 > कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥२१॥

@@ -1,9 +1,9 @@
 {{description>Heroism, power, determination, resourcefulness, courage in battle, generosity, and leadership are the qualities of work for the kṣatriyas.}}
 
 ~~bc:Text 43~~
-~~Title:Bhagavad-gītā 18.43~~
+~~Title:Bhagavad-gītā As It Is 18.43~~
 
-====== Bg 18.43 ======
+====== Bg. 18.43 ======
 
 > शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् ।
 > दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ॥४३॥

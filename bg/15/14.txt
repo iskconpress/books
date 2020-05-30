@@ -1,9 +1,9 @@
 {{description>I am the fire of digestion in every living body, and I am the air of life, outgoing and incoming, by which I digest the four kinds of foodstuff.}}
 
 ~~bc:Text 14~~
-~~Title:Bhagavad-gītā 15.14~~
+~~Title:Bhagavad-gītā As It Is 15.14~~
 
-====== Bg 15.14 ======
+====== Bg. 15.14 ======
 
 > अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः ।
 > प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ॥१४॥

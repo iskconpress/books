@@ -1,9 +1,9 @@
 {{description>If, however, you do not fight this religious war, then you will certainly incur sins for neglecting your duties and thus lose your reputation as a fighter.}}
 
 ~~bc:Text 33~~
-~~Title:Bhagavad-gītā 2.33~~
+~~Title:Bhagavad-gītā As It Is 2.33~~
 
-====== Bg 2.33 ======
+====== Bg. 2.33 ======
 
 > अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि ।
 > ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि ॥३३॥

@@ -1,9 +1,9 @@
 {{description>There are personalities like yourself, Bhīṣma, Karṇa, Kṛpa, Aśvatthāmā, Vikarṇa and the son of Somadatta called Bhuriśravā, who are always victorious in battle.}}
 
 ~~bc:Text 8~~
-~~Title:Bhagavad-gītā 1.8~~
+~~Title:Bhagavad-gītā As It Is 1.8~~
 
-====== Bg 1.8 ======
+====== Bg. 1.8 ======
 
 > भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः ।
 > अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥८॥

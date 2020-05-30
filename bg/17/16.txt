@@ -1,9 +1,9 @@
 {{description>And serenity, simplicity, gravity, self-control and purity of thought are the austerities of the mind.}}
 
 ~~bc:Text 16~~
-~~Title:Bhagavad-gītā 17.16~~
+~~Title:Bhagavad-gītā As It Is 17.16~~
 
-====== Bg 17.16 ======
+====== Bg. 17.16 ======
 
 > मनः प्रसादः सौम्यत्वं मौनमात्मविनिग्रहः ।
 > भावसंशुद्धिरित्येतत्तपो मानसमुच्यते ॥१६॥

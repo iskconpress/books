@@ -1,9 +1,9 @@
 {{description>Self-complacent and always impudent, deluded by wealth and false prestige, they sometimes perform sacrifices in name only without following any rules or regulations.}}
 
 ~~bc:Text 17~~
-~~Title:Bhagavad-gītā 16.17~~
+~~Title:Bhagavad-gītā As It Is 16.17~~
 
-====== Bg 16.17 ======
+====== Bg. 16.17 ======
 
 > आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः ।
 > यजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ॥१७॥

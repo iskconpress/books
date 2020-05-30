@@ -1,9 +1,9 @@
 {{description>But those who, out of envy, disregard these teachings and do not practice them regularly, are to be considered bereft of all knowledge, befooled, and doomed to ignorance and bondage.}}
 
 ~~bc:Text 32~~
-~~Title:Bhagavad-gītā 3.32~~
+~~Title:Bhagavad-gītā As It Is 3.32~~
 
-====== Bg 3.32 ======
+====== Bg. 3.32 ======
 
 > ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।
 > सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ॥३२॥

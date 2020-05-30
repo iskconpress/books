@@ -1,9 +1,9 @@
 {{description>In charge of the various necessities of life, the demigods, being satisfied by the performance of yajña [sacrifice], supply all necessities to man. But he who enjoys these gifts, without offering them to the demigods in return, is certainly a thief.}}
 
 ~~bc:Text 12~~
-~~Title:Bhagavad-gītā 3.12~~
+~~Title:Bhagavad-gītā As It Is 3.12~~
 
-====== Bg 3.12 ======
+====== Bg. 3.12 ======
 
 > इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।
 > तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥१२॥

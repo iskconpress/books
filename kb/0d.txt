@@ -3,9 +3,9 @@
 
 ====== Introduction ======
 
-<div audio nopurple>
+<WRAP audio nopurple>
 {{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Krsna_Volume-1/introduction-verse-only.mp3|Introduction to KṚṢṆA, The Supreme Personality of Godhead}}
-</div>
+</WRAP>
 
 > Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! he
 > Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! Kṛṣṇa! he

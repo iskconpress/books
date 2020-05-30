@@ -1,9 +1,9 @@
 {{description>Whatever state of being one remembers when he quits his body, that state he will attain without fail.}}
 
 ~~bc:Text 6~~
-~~Title:Bhagavad-gītā 8.6~~
+~~Title:Bhagavad-gītā As It Is 8.6~~
 
-====== Bg 8.6 ======
+====== Bg. 8.6 ======
 
 > यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।
 > तं तमेवैति कौन्तेय सदा तद्भावभावितः ॥६॥

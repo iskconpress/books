@@ -1,9 +1,9 @@
 {{description>In the presence of Bhīṣma, Droṇa and all other chieftains of the world, Hṛṣīkeśa, the Lord, said, Just behold, Pārtha, all the Kurus who are assembled here.}}
 
 ~~bc:Text 25~~
-~~Title:Bhagavad-gītā 1.25~~
+~~Title:Bhagavad-gītā As It Is 1.25~~
 
-====== Bg 1.25 ======
+====== Bg. 1.25 ======
 
 > भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।
 > उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥२५॥

@@ -1,9 +1,9 @@
 {{description>I see all people rushing with full speed into Your mouths as moths dash into a blazing fire.}}
 
 ~~bc:Text 29~~
-~~Title:Bhagavad-gītā 11.29~~
+~~Title:Bhagavad-gītā As It Is 11.29~~
 
-====== Bg 11.29 ======
+====== Bg. 11.29 ======
 
 > यथा प्रदीप्तं ज्वलनं पतङ्गा
 > विशन्ति नाशाय समृद्धवेगाः ।

@@ -1,9 +1,9 @@
 {{description>Considering your specific duty as a kṣatriya, you should know that there is no better engagement for you than fighting on religious principles; and so there is no need for hesitation.}}
 
 ~~bc:Text 31~~
-~~Title:Bhagavad-gītā 2.31~~
+~~Title:Bhagavad-gītā As It Is 2.31~~
 
-====== Bg 2.31 ======
+====== Bg. 2.31 ======
 
 > स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि ।
 > धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ॥३१॥

@@ -1,7 +1,7 @@
 {{description>Arjuna submits to Lord Krishna as His disciple, and Krishna begins His teachings to Arjuna by explaining the fundamental distinction between the temporary material body and the eternal spiritual soul. The Lord explains the process of transmigration, the nature of selfless service to the Supreme and the characteristics of a self-realized person.}}
 
 ~~bc:Chapter 2~~
-~~Title:Bhagavad-gītā 2: Contents of the Gītā Summarized~~
+~~Title:Bhagavad-gītā As It Is 2: Contents of the Gītā Summarized~~
 
 ====== Contents of the Gītā Summarized ======
 
@@ -9,7 +9,7 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_02_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 2}}
 </audio>
 
-<div right half last imagebox>
+<WRAP right half last imagebox>
 [{{ artwork:bhagavad-gita:plate07.jpg?500&nolink |Plate 7. The Blessed Lord said: The wise lament neither for the living nor the dead. [[books:bg:2:11|(Bg. 2.11)]]}}]
 
 [{{ artwork:bhagavad-gita:plate08.jpg?500&nolink |Plate 8. The soul changes bodies as a person changes garments. [[books:bg:2:13|(Bg. 2.13)]]}}]
@@ -19,7 +19,7 @@
 [{{ artwork:bhagavad-gita:plate10.jpg?500&nolink |Plate 10. Kṛṣṇa and the living entity are seated on the tree of the body. [[books:bg:2:22|(p. 102)]]}}]
 
 [{{ artwork:bhagavad-gita:plate11.jpg?500&nolink |Plate 11. While contemplating the objects of the senses, a person develops attachment for them. (p. 149)}}]
-</div>
+</WRAP>
 
   ; [[.2:1|Bg 2.1]]
   : Sañjaya said: Seeing Arjuna full of compassion and very sorrowful, his eyes brimming with tears, Madhusūdana, Kṛṣṇa, spoke the following words.

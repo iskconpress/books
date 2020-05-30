@@ -1,9 +1,9 @@
 {{description>O Pārtha, happy are the kṣatriyas to whom such fighting opportunities come unsought, opening for them the doors of the heavenly planets.}}
 
 ~~bc:Text 32~~
-~~Title:Bhagavad-gītā 2.32~~
+~~Title:Bhagavad-gītā As It Is 2.32~~
 
-====== Bg 2.32 ======
+====== Bg. 2.32 ======
 
 > यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् ।
 > सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ॥३२॥

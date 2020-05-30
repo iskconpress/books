@@ -1,9 +1,9 @@
 {{description>I am all-devouring death, and I am the generator of all things yet to be. Among women I am fame, fortune, speech, memory, intelligence, faithfulness and patience.}}
 
 ~~bc:Text 34~~
-~~Title:Bhagavad-gītā 10.34~~
+~~Title:Bhagavad-gītā As It Is 10.34~~
 
-====== Bg 10.34 ======
+====== Bg. 10.34 ======
 
 > मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् ।
 > कीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा ॥३४॥

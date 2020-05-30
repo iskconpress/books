@@ -1,9 +1,9 @@
 {{description>And yet everything that is created does not rest in Me. Behold My mystic opulence! Although I am the maintainer of all living entities, and although I am everywhere, still My Self is the very source of creation.}}
 
 ~~bc:Text 5~~
-~~Title:Bhagavad-gītā 9.5~~
+~~Title:Bhagavad-gītā As It Is 9.5~~
 
-====== Bg 9.5 ======
+====== Bg. 9.5 ======
 
 > न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।
 > भूतभृन्न च भूतस्थो ममात्मा भूतभावनः ॥५॥

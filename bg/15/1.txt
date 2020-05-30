@@ -1,9 +1,9 @@
 {{description>The Blessed Lord said: There is a banyan tree which has its roots upward and its branches down and whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas.}}
 
 ~~bc:Text 1~~
-~~Title:Bhagavad-gītā 15.1~~
+~~Title:Bhagavad-gītā As It Is 15.1~~
 
-====== Bg 15.1 ======
+====== Bg. 15.1 ======
 
 > श्रीभगवानुवाच ।
 > ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् ।

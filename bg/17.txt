@@ -1,7 +1,7 @@
 {{description>There are three types of faith, corresponding to and evolving from the three modes of material nature. Acts performed by those whose faith is in passion and ignorance yield only impermanent, material results, whereas acts performed in goodness, in accord with scriptural injunctions, purify the heart and lead to pure faith in Lord Krishna and devotion to Him.}}
 
 ~~bc:Chapter 17~~
-~~Title:Bhagavad-gītā 17: The Divisions of Faith~~
+~~Title:Bhagavad-gītā As It Is 17: The Divisions of Faith~~
 
 ====== The Divisions of Faith ======
 
@@ -9,9 +9,9 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_17_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 17}}
 </audio>
 
-<div right half last imagebox>
-[{{ :artwork:bhagavad-gita:plate40.jpg?500&direct |Plate 40. There are three kinds of faith—that in the mode of goodness, that in passion, and that in ignorance. (p. 755)}}]
-</div>
+<WRAP right half last imagebox>
+[{{ :artwork:bhagavad-gita:plate40.jpg?500&direct |Plate 40. There are three kinds of faith—that in the mode of goodness, that in passion, and that in ignorance. [[books:bg:17:4|(Bg. 17.4)]]}}]
+</WRAP>
 
   ; [[.17:1|Bg 17.1]]
   : Arjuna said, O Kṛṣṇa, what is the situation of one who does not follow the principles of scripture but worships according to his own imagination? Is he in goodness, in passion or in ignorance?

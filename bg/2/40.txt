@@ -1,9 +1,9 @@
 {{description>In this endeavor there is no loss or diminution, and a little advancement on this path can protect one from the most dangerous type of fear.}}
 
 ~~bc:Text 40~~
-~~Title:Bhagavad-gītā 2.40~~
+~~Title:Bhagavad-gītā As It Is 2.40~~
 
-====== Bg 2.40 ======
+====== Bg. 2.40 ======
 
 > नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।
 > स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ॥४०॥

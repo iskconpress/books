@@ -1,9 +1,9 @@
 {{description>People will always speak of your infamy, and for one who has been honored, dishonor is worse than death.}}
 
 ~~bc:Text 34~~
-~~Title:Bhagavad-gītā 2.34~~
+~~Title:Bhagavad-gītā As It Is 2.34~~
 
-====== Bg 2.34 ======
+====== Bg. 2.34 ======
 
 > अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम् ।
 > सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते ॥३४॥

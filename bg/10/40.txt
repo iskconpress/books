@@ -1,9 +1,9 @@
 {{description>O mighty conqueror of enemies, there is no end to My divine manifestations. What I have spoken to you is but a mere indication of My infinite opulences.}}
 
 ~~bc:Text 40~~
-~~Title:Bhagavad-gītā 10.40~~
+~~Title:Bhagavad-gītā As It Is 10.40~~
 
-====== Bg 10.40 ======
+====== Bg. 10.40 ======
 
 > नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप ।
 > एष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ॥४०॥

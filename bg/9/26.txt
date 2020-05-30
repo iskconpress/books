@@ -1,9 +1,9 @@
 {{description>If one offers Me with love and devotion a leaf, a flower, fruit or water, I will accept it.}}
 
 ~~bc:Text 26~~
-~~Title:Bhagavad-gītā 9.26~~
+~~Title:Bhagavad-gītā As It Is 9.26~~
 
-====== Bg 9.26 ======
+====== Bg. 9.26 ======
 
 > पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।
 > तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥२६॥

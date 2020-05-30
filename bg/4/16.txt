@@ -1,9 +1,9 @@
 {{description>Even the intelligent are bewildered in determining what is action and what is inaction. Now I shall explain to you what action is, knowing which you shall be liberated from all sins.}}
 
 ~~bc:Text 16~~
-~~Title:Bhagavad-gītā 4.16~~
+~~Title:Bhagavad-gītā As It Is 4.16~~
 
-====== Bg 4.16 ======
+====== Bg. 4.16 ======
 
 > किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः ।
 > तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥१६॥

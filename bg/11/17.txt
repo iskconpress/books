@@ -1,9 +1,9 @@
 {{description>Your form, adorned with various crowns, clubs and discs, is difficult to see because of its glaring effulgence, which is fiery and immeasurable like the sun.}}
 
 ~~bc:Text 17~~
-~~Title:Bhagavad-gītā 11.17~~
+~~Title:Bhagavad-gītā As It Is 11.17~~
 
-====== Bg 11.17 ======
+====== Bg. 11.17 ======
 
 > किरीटिनं गदिनं चक्रिणं च
 > तेजोराशिं सर्वतो दीप्तिमन्तम् ।

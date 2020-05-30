@@ -1,9 +1,9 @@
 {{description>Those ostentatious penances and austerities which are performed in order to gain respect, honor and reverence are said to be in the mode of passion. They are neither stable nor permanent.}}
 
 ~~bc:Text 18~~
-~~Title:Bhagavad-gītā 17.18~~
+~~Title:Bhagavad-gītā As It Is 17.18~~
 
-====== Bg 17.18 ======
+====== Bg. 17.18 ======
 
 > सत्कारमानपूजार्थं तपो दम्भेन चैव यत् ।
 > क्रियते तदिह प्रोक्तं राजसं चलमध्रुवम् ॥१८॥
