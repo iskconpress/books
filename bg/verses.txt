@@ -13,7 +13,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * abhayaṁ sattva-saṁśuddhir, [[books:bg:16:1-3|16.1]]
   * abhisandhāya tu phalaṁ, [[books:bg:17:12|17.12]]
   * abhito brahma-nirvāṇaṁ, [[books:bg:5:26|5.26]]
-  * abhyāsād ramate yatra, [[books:bg:18:36|18.36]]
+  * abhyāsād ramate yatra, [[books:bg:18:36-37|18.36]]
   * abhyāsa-yoga-yuktena, [[books:bg:8:8|8.8]]
 
   * abhyāsa-yogena tato, [[books:bg:12:9|12.9]]
@@ -23,7 +23,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * ā-brahma-bhuvanāl lokāḥ, [[books:bg:8:16|8.16]]
 
   * ācaraty ātmanaḥ śreyas, [[books:bg:16:22|16.22]]
-  * ācāryāḥ pitaraḥ putrās, [[books:bg:1:33|1.33]]
+  * ācāryāḥ pitaraḥ putrās, [[books:bg:1:32-35|1.33]]
   * ācāryam upasaṅgamya, [[books:bg:1:2|1.2]]
   * ācāryān mātulān bhrātṝn, [[books:bg:1:26|1.26]]
   * ācāryopāsanaṁ śaucaṁ, [[books:bg:13:8-12|13.8]]
@@ -37,7 +37,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * adhaś cordhvaṁ prasṛtās, [[books:bg:15:2|15.2]]
   * adhibhūtaṁ ca kiṁ proktam, [[books:bg:8:1|8.1]]
   * adhibhūtaṁ kṣaro bhāvaḥ, [[books:bg:8:4|8.4]]
-  * adhiṣṭhānaṁ tathā kartā, [[books:bg:18:14|18.14]]
+  * adhiṣṭhānaṁ tathā kartā, [[books:bg:18:13-14|18.14]]
   * adhiṣṭhāya manaś cāyaṁ, [[books:bg:15:9|15.9]]
 
   * adhiyajñaḥ kathaṁ ko ’tra, [[books:bg:8:2|8.2]]
@@ -46,10 +46,10 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * adhyātma-vidyā vidyānāṁ,[[books:bg:10:32|10.32]]
   * adhyeṣyate ca ya imaṁ, [[books:bg:18:70|18.70]]
 
-  * āḍhyo ’bhijanavān asmi, [[books:bg:16:15|16.15]]
+  * āḍhyo ’bhijanavān asmi, [[books:bg:16:13-15|16.15]]
   * ādityānām ahaṁ viṣṇur, [[books:bg:10:21|10.21]]
   * adṛṣṭa-pūrvaṁ hṛṣito ’smi, [[books:bg:11:45|11.45]]
-  * adveṣṭā sarva-bhūtānāṁ, [[books:bg:12:13|12.13]]
+  * adveṣṭā sarva-bhūtānāṁ, [[books:bg:12:13-14|12.13]]
   * ādy-antavantaḥ kaunteya, [[books:bg:5:22|5.22]]
 
   * āgamāpāyino ’nityās, [[books:bg:2:14|2.14]]
@@ -70,17 +70,17 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * ahaṅkāra itīyaṁ me, [[books:bg:7:4|7.4]]
   * ahaṅkāraṁ balaṁ darpaṁ, [[books:bg:16:18|16.18]]
 
-  * ahaṅkāraṁ balaṁ darpaṁ, [[books:bg:18:53|18.53]]
+  * ahaṅkāraṁ balaṁ darpaṁ, [[books:bg:18:51-53|18.53]]
   * ahaṅkāra-vimūḍhātmā, [[books:bg:3:27|3.27]]
-  * āhārā rājasasyeṣṭā, [[books:bg:17:9|17.9]]
+  * āhārā rājasasyeṣṭā, [[books:bg:17:8-10|17.9]]
   * āhāras tv api sarvasya, [[books:bg:17:7|17.7]]
-  * ahiṁsā samatā tuṣṭis, [[books:bg:10:5|10.5]]
+  * ahiṁsā samatā tuṣṭis, [[books:bg:10:4-5|10.5]]
 
-  * ahiṁsā satyam akrodhas, [[books:bg:16:2|16.2]]
+  * ahiṁsā satyam akrodhas, [[books:bg:16:1-3|16.2]]
   * aho bata mahat pāpaṁ, [[books:bg:1:44|1.44]]
   * āhus tvām ṛṣayaḥ sarve, [[books:bg:10:12-13|10.13]]
   * airāvataṁ gajendrāṇāṁ, [[books:bg:10:27|10.27]]
-  * ajānatā mahimānaṁ tavedaṁ, [[books:bg:11:41|11.41]]
+  * ajānatā mahimānaṁ tavedaṁ, [[books:bg:11:41-42|11.41]]
 
   * ajñānaṁ cābhijātasya, [[books:bg:16:4|16.4]]
   * ajñānenāvṛtaṁ jñānaṁ, [[books:bg:5:15|5.15]]
@@ -94,7 +94,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * akṣaraṁ brahma paramaṁ, [[books:bg:8:3|8.3]]
   * akṣarāṇām a-kāro ’smi, [[books:bg:10:33|10.33]]
   * amānitvam adambhitvam, [[books:bg:13:8-12|13.8]]
-  * amī ca tvāṁ dhṛtarāṣṭrasya, [[books:bg:11:26|11.26]]
+  * amī ca tvāṁ dhṛtarāṣṭrasya, [[books:bg:11:26-27|11.26]]
   * amī hi tvāṁ sura-saṅghā, [[books:bg:11:21|11.21]]
   * amṛtaṁ caiva mṛtyuś ca, [[books:bg:9:19|9.19]]
 
@@ -104,11 +104,11 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * ananta deveśa jagan-nivāsa, [[books:bg:11:37|11.37]]
   * anantaś cāsmi nāgānāṁ, [[books:bg:10:29|10.29]]
 
-  * anantavijayaṁ rājā, [[books:bg:1:16|1.16]]
+  * anantavijayaṁ rājā, [[books:bg:1:16-18|1.16]]
   * ananta-vīryāmita-vikramas, [[books:bg:11:40|11.40]]
   * ananya-cetāḥ satataṁ, [[books:bg:8:14|8.14]]
   * ananyāś cintayanto māṁ, [[books:bg:9:22|9.22]]
-  * ananyenaiva yogena, [[books:bg:12:6|12.6]]
+  * ananyenaiva yogena, [[books:bg:12:6-7|12.6]]
 
   * anapekṣaḥ śucir dakṣa, [[books:bg:12:16|12.16]]
   * anārya-juṣṭam asvargyam, [[books:bg:2:2|2.2]]
@@ -118,13 +118,13 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * aneka-bāhūdara-vaktra, [[books:bg:11:16|11.16]]
   * aneka-citta-vibhrāntā, [[books:bg:16:16|16.16]]
-  * aneka-divyābharaṇaṁ, [[books:bg:11:10|11.10]]
+  * aneka-divyābharaṇaṁ, [[books:bg:11:10-11|11.10]]
   * aneka-janma-saṁsiddhas, [[books:bg:6:45|6.45]]
-  * aneka-vaktra-nayanam, [[books:bg:11:10|11.10]]
+  * aneka-vaktra-nayanam, [[books:bg:11:10-11|11.10]]
 
   * anena prasaviṣyadhvam, [[books:bg:3:10|3.10]]
   * anicchann api vārṣṇeya, [[books:bg:3:36|3.36]]
-  * aniketaḥ sthira-matir, [[books:bg:12:19|12.19]]
+  * aniketaḥ sthira-matir, [[books:bg:12:18-19|12.19]]
   * aniṣṭam iṣṭaṁ miśraṁ ca, [[books:bg:18:12|18.12]]
   * anityam asukhaṁ lokam, [[books:bg:9:33|9.33]]
 
@@ -153,7 +153,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * api ced asi pāpebhyaḥ, [[books:bg:4:36|4.36]]
 
   * api cet su-durācāro, [[books:bg:9:30|9.30]]
-  * api trailokya-rājyasya, [[books:bg:1:35|1.35]]
+  * api trailokya-rājyasya, [[books:bg:1:32-35|1.35]]
   * aprakāśo ’pravṛttiś ca, [[books:bg:14:13|14.13]]
   * aprāpya māṁ nivartante, [[books:bg:9:3|9.3]]
   * aprāpya yoga-saṁsiddhiṁ, [[books:bg:6:37|6.37]]
@@ -173,12 +173,12 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * asaṁśayaṁ mahā-bāho, [[books:bg:6:35|6.35]]
   * asaṁśayaṁ samagraṁ māṁ, [[books:bg:7:1|7.1]]
   * asaṁyatātmanā yogo,[[books:bg:6:36|6.36]]
-  * āśā-pāśa-śatair baddhāḥ, [[books:bg:16:12|16.12]]
-  * aśāstra-vihitaṁ ghoraṁ, [[books:bg:17:5|17.5]]
+  * āśā-pāśa-śatair baddhāḥ, [[books:bg:16:11-12|16.12]]
+  * aśāstra-vihitaṁ ghoraṁ, [[books:bg:17:5-6|17.5]]
 
   * asat-kṛtam avajñātaṁ, [[books:bg:17:22|17.22]]
   * asatyam apratiṣṭhaṁ te, [[books:bg:16:8|16.8]]
-  * asau mayā hataḥ śatrur, [[books:bg:16:14|16.14]]
+  * asau mayā hataḥ śatrur, [[books:bg:16:13-15|16.14]]
   * āścarya-vac cainam anyaḥ, [[books:bg:2:29|2.29]]
   * āścarya-vat paśyati kaścid, [[books:bg:2:29|2.29]]
 
@@ -194,7 +194,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * aśvatthaḥ sarva-vṛkṣāṇāṁ, [[books:bg:10:26|10.26]]
   * aśvatthāmā vikarṇaś ca, [[books:bg:1:8|1.8]]
 
-  * aśvattham enaṁ su-virūḍha-, [[books:bg:15:3|15.3]]
+  * aśvattham enaṁ su-virūḍha-, [[books:bg:15:3-4|15.3]]
   * atattvārtha-vad alpaṁ ca, [[books:bg:18:22|18.22]]
   * atha cainaṁ nitya-jātaṁ, [[books:bg:2:26|2.26]]
   * atha cet tvam ahaṅkārān, [[books:bg:18:58|18.58]]
@@ -243,7 +243,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * ayatiḥ śraddhayopeto, [[books:bg:6:37|6.37]]
 
   * āyudhānām ahaṁ vajraṁ, [[books:bg:10:28|10.28]]
-  * āyuḥ-sattva-balārogya-, [[books:bg:17:8|17.8]]
+  * āyuḥ-sattva-balārogya-, [[books:bg:17:8-10|17.8]]
   * ayuktaḥ kāma-kāreṇa, [[books:bg:5:12|5.12]]
   * ayuktaḥ prākṛtaḥ stabdhaḥ, [[books:bg:18:28|18.28]]
 
@@ -271,8 +271,8 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * bhavāmi na cirāt pārtha, [[books:bg:12:6-7|12.7]]
   * bhavān bhīṣmaś ca karṇaś ca, [[books:bg:1:8|1.8]]
-  * bhavanti bhāvā bhūtānāṁ, [[books:bg:10:5|10.5]]
-  * bhavanti sampadaṁ daivīm, [[books:bg:16:3|16.3]]
+  * bhavanti bhāvā bhūtānāṁ, [[books:bg:10:4-5|10.5]]
+  * bhavanti sampadaṁ daivīm, [[books:bg:16:1-3|16.3]]
   * bhavāpyayau hi bhūtānāṁ, [[books:bg:11:2|11.2]]
 
   * bhāva-saṁśuddhir ity etat, [[books:bg:17:16|17.16]]
@@ -283,7 +283,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * bhīṣma-droṇa-pramukhataḥ, [[books:bg:1:25|1.25]]
   * bhīṣmam evābhirakṣantu, [[books:bg:1:11|1.11]]
-  * bhīṣmo droṇaḥ sūta-putras, [[books:bg:11:26|11.26]]
+  * bhīṣmo droṇaḥ sūta-putras, [[books:bg:11:26-27|11.26]]
   * bhogaiśvarya-prasaktānāṁ, [[books:bg:2:44|2.44]]
   * bhoktāraṁ yajña-tapasāṁ, [[books:bg:5:29|5.29]]
 
@@ -323,10 +323,10 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * buddher bhedaṁ dhṛteś caiva, [[books:bg:18:29|18.29]]
   * buddhir buddhimatām asmi, [[books:bg:7:10|7.10]]
 
-  * buddhir jñānam asammohaḥ, [[books:bg:10:4|10.4]]
+  * buddhir jñānam asammohaḥ, [[books:bg:10:4-5|10.4]]
   * buddhi-yogam upāśritya, [[books:bg:18:57|18.57]]
   * buddhi-yukto jahātīha, [[books:bg:2:50|2.50]]
-  * buddhyā viśuddhayā yukto, [[books:bg:18:51|18.51]]
+  * buddhyā viśuddhayā yukto, [[books:bg:18:51-53|18.51]]
   * buddhyā yukto yayā pārtha, [[books:bg:2:39|2.39]]
 
 ===== C =====
@@ -339,7 +339,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * chinna-dvaidhā yatātmānaḥ, [[books:bg:5:25|5.25]]
   * chittvainaṁ saṁśayaṁ yogam, [[books:bg:4:42|4.42]]
-  * cintām aparimeyāṁ ca, [[books:bg:16:11|16.11]]
+  * cintām aparimeyāṁ ca, [[books:bg:16:11-12|16.11]]
 
 ===== D =====
 
@@ -349,7 +349,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * daivī hy eṣā guṇa-mayī, [[books:bg:7:14|7.14]]
   * daivī sampad vimokṣāya, [[books:bg:16:5|16.5]]
   * daivo vistaraśaḥ prokta, [[books:bg:16:6|16.6]]
-  * dambhāhaṅkāra-saṁyuktāḥ, [[books:bg:17:5|17.5]]
+  * dambhāhaṅkāra-saṁyuktāḥ, [[books:bg:17:5-6|17.5]]
   * dambho darpo ’bhimānaś ca, [[books:bg:16:4|16.4]]
 
   * daṁṣṭrā-karālāni ca te, [[books:bg:11:25|11.25]]
@@ -360,7 +360,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * darśayām āsa pārthāya, [[books:bg:11:9|11.9]]
   * dātavyam iti yad dānaṁ, [[books:bg:17:20|17.20]]
-  * dayā bhūteṣv aloluptvaṁ, [[books:bg:16:2|16.2]]
+  * dayā bhūteṣv aloluptvaṁ, [[books:bg:16:1-3|16.2]]
   * dehī nityam avadhyo ’yaṁ, [[books:bg:2:30|2.30]]
   * dehino ’smin yathā dehe, [[books:bg:2:13|2.13]]
 
@@ -378,20 +378,20 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * dhārtarāṣṭrā raṇe hanyus, [[books:bg:1:45|1.45]]
   * dhārtarāṣṭrasya durbuddher, [[books:bg:1:23|1.23]]
-  * dhṛṣṭadyumno virāṭaś ca, [[books:bg:1:17|1.17]]
+  * dhṛṣṭadyumno virāṭaś ca, [[books:bg:1:16-18|1.17]]
   * dhṛṣṭaketuś cekitānaḥ, [[books:bg:1:5|1.5]]
   * dhṛtyā yayā dhārayate, [[books:bg:18:33|18.33]]
 
   * dhūmenāvriyate vahnir, [[books:bg:3:38|3.38]]
   * dhūmo rātris tathā kṛṣṇaḥ, [[books:bg:8:25|8.25]]
   * dhyānāt karma-phala-tyāgas, [[books:bg:12:12|12.12]]
-  * dhyāna-yoga-paro nityaṁ, [[books:bg:18:52|18.52]]
+  * dhyāna-yoga-paro nityaṁ, [[books:bg:18:51-53|18.52]]
   * dhyānenātmani paśyanti, [[books:bg:13:25|13.25]]
 
   * dhyāyato viṣayān puṁsaḥ, [[books:bg:2:62|2.62]]
   * diśo na jāne na labhe ca, [[books:bg:11:25|11.25]]
   * divi sūrya-sahasrasya, [[books:bg:11:12|11.12]]
-  * divya-mālyāmbara-dharaṁ, [[books:bg:11:11|11.11]]
+  * divya-mālyāmbara-dharaṁ, [[books:bg:11:10-11|11.11]]
   * divyaṁ dadāmi te cakṣuḥ, [[books:bg:11:8|11.8]]
 
   * dīyate ca parikliṣṭaṁ, [[books:bg:17:21|17.21]]
@@ -406,7 +406,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * dṛṣṭvedaṁ mānuṣaṁ rūpaṁ, [[books:bg:11:51|11.51]]
   * dṛṣṭvemaṁ sva-janaṁ kṛṣṇa, [[books:bg:1:28|1.28]]
 
-  * drupado draupadeyāś ca, [[books:bg:1:18|1.18]]
+  * drupado draupadeyāś ca, [[books:bg:1:16-18|1.18]]
   * duḥkham ity eva yat karma, [[books:bg:18:8|18.8]]
   * duḥkheṣv anudvigna-manāḥ, [[books:bg:2:56|2.56]]
   * dūreṇa hy avaraṁ karma, [[books:bg:2:49|2.49]]
@@ -425,7 +425,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * ekaṁ sāṅkhyaṁ ca yogaṁ ca, [[books:bg:5:5|5.5]]
   * ekatvena pṛthaktvena, [[books:bg:9:15|9.15]]
   * ekayā yāty anāvṛttim, [[books:bg:8:26|8.26]]
-  * eko ’tha vāpy acyuta, [[books:bg:11:42|11.42]]
+  * eko ’tha vāpy acyuta, [[books:bg:11:41-42|11.42]]
 
   * eṣā brāhmī sthitiḥ pārtha, [[books:bg:2:72|2.72]]
   * eṣā te ’bhihitā sāṅkhye, [[books:bg:2:39|2.39]]
@@ -434,7 +434,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * etad buddhvā buddhimān, [[books:bg:15:20|15.20]]
 
   * etad dhi durlabha-taraṁ, [[books:bg:6:42|6.42]]
-  * etad veditum icchāmi, [[books:bg:13:1|13.1]]
+  * etad veditum icchāmi, [[books:bg:13:1-2|13.1]]
   * etad-yonīni bhūtāni, [[books:bg:7:6|7.6]]
   * etad yo vetti taṁ prāhuḥ, [[books:bg:13:2|13.2]]
   * etair vimohayaty eṣa, [[books:bg:3:40|3.40]]
@@ -445,10 +445,10 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * etāṁ vibhūtiṁ yogaṁ ca, [[books:bg:10:7|10.7]]
   * etan me saṁśayaṁ kṛṣṇa, [[books:bg:6:39|6.39]]
 
-  * etān na hantum icchāmi, [[books:bg:1:34|1.34]]
+  * etān na hantum icchāmi, [[books:bg:1:32-35|1.34]]
   * etāny api tu karmāṇi, [[books:bg:18:6|18.6]]
   * etasyāhaṁ na paśyāmi, [[books:bg:6:33|6.33]]
-  * etat kṣetraṁ samāsena, [[books:bg:13:7|13.7]]
+  * etat kṣetraṁ samāsena, [[books:bg:13:6-7|13.7]]
   * evaṁ bahu-vidhā yajñā, [[books:bg:4:32|4.32]]
 
   * evaṁ buddheḥ paraṁ, [[books:bg:3:43|3.43]]
@@ -481,7 +481,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * gṛhītvaitāni saṁyāti, [[books:bg:15:8|15.8]]
   * guṇā guṇeṣu vartanta, [[books:bg:3:28|3.28]]
   * guṇān etān atītya trīn, [[books:bg:14:20|14.20]]
-  * guṇā vartanta ity evaṁ, [[books:bg:14:23|14.23]]
+  * guṇā vartanta ity evaṁ, [[books:bg:14:22-25|14.23]]
   * guṇebhyaś ca paraṁ vetti, [[books:bg:14:19|14.19]]
 
   * gurūn ahatvā hi, [[books:bg:2:5|2.5]]
@@ -500,13 +500,13 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
 ===== I =====
 
-  * icchā dveṣaḥ sukhaṁ, [[books:bg:13:7|13.7]]
+  * icchā dveṣaḥ sukhaṁ, [[books:bg:13:6-7|13.7]]
 
   * icchā-dveṣa-samutthena, [[books:bg:7:27|7.27]]
-  * idam adya mayā labdham, [[books:bg:16:13|16.13]]
-  * idam astīdam api me, [[books:bg:16:13|16.13]]
+  * idam adya mayā labdham, [[books:bg:16:13-15|16.13]]
+  * idam astīdam api me, [[books:bg:16:13-15|16.13]]
   * idaṁ jñānam upāśritya, [[books:bg:14:2|14.2]]
-  * idaṁ śarīraṁ kaunteya, [[books:bg:13:2|13.2]]
+  * idaṁ śarīraṁ kaunteya, [[books:bg:13:1-2|13.2]]
 
   * idaṁ te nātapaskāya, [[books:bg:18:67|18.67]]
   * idaṁ tu te guhya-tamaṁ, [[books:bg:9:1|9.1]]
@@ -514,19 +514,19 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * ihaika-sthaṁ jagat kṛtsnaṁ, [[books:bg:11:7|11.7]]
   * ihaiva tair jitaḥ sargo, [[books:bg:5:19|5.19]]
 
-  * īhante kāma-bhogārtham, [[books:bg:16:12|16.12]]
+  * īhante kāma-bhogārtham, [[books:bg:16:11-12|16.12]]
   * ijyate bharata-śreṣṭha, [[books:bg:17:12|17.12]]
   * īkṣate yoga-yuktātmā, [[books:bg:6:29|6.29]]
   * imaṁ vivasvate yogaṁ, [[books:bg:4:1|4.1]]
   * indriyāṇāṁ hi caratāṁ, [[books:bg:2:67|2.67]]
 
   * indriyāṇāṁ manaś cāsmi, [[books:bg:10:22|10.22]]
-  * indriyāṇi daśaikaṁ ca, [[books:bg:13:6|13.6]]
+  * indriyāṇi daśaikaṁ ca, [[books:bg:13:6-7|13.6]]
   * indriyāṇi mano buddhir, [[books:bg:3:40|3.40]]
   * indriyāṇīndriyārthebhyas, [[books:bg:2:58|2.58]]
   * indriyāṇīndriyārthebhyas, [[books:bg:2:68|2.68]]
 
-  * indriyāṇīndriyārtheṣu, [[books:bg:5:9|5.9]]
+  * indriyāṇīndriyārtheṣu, [[books:bg:5:8-9|5.9]]
   * indriyāṇi parāṇy āhur, [[books:bg:3:42|3.42]]
   * indriyāṇi pramāthīni, [[books:bg:2:60|2.60]]
   * indriyārthān vimūḍhātmā, [[books:bg:3:6|3.6]]
@@ -538,7 +538,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * iṣubhiḥ pratiyotsyāmi, [[books:bg:2:4|2.4]]
   * īśvaraḥ sarva-bhūtānāṁ, [[books:bg:18:61|18.61]]
 
-  * īśvaro ’ham ahaṁ bhogī, [[books:bg:16:14|16.14]]
+  * īśvaro ’ham ahaṁ bhogī, [[books:bg:16:13-15|16.14]]
   * iti guhya-tamaṁ śāstram, [[books:bg:15:20|15.20]]
   * iti kṣetraṁ tathā jñānaṁ, [[books:bg:13:19|13.19]]
   * iti māṁ yo ’bhijānāti, [[books:bg:4:14|4.14]]
@@ -601,7 +601,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * kaccid etac chrutaṁ pārtha, [[books:bg:18:72|18.72]]
   * kaccin nobhaya-vibhraṣṭaś, [[books:bg:6:38|6.38]]
   * kair liṅgais trīn guṇān etān, [[books:bg:14:21|14.21]]
-  * kair mayā saha yoddhavyam, [[books:bg:1:22|1.22]]
+  * kair mayā saha yoddhavyam, [[books:bg:1:21-22|1.22]]
 
   * kālo ’smi loka-kṣaya-kṛt, [[books:bg:11:32|11.32]]
   * kalpa-kṣaye punas tāni, [[books:bg:9:7|9.7]]
@@ -613,16 +613,16 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * kāma-krodhodbhavaṁ vegaṁ, [[books:bg:5:23|5.23]]
   * kāmam āśritya duṣpūraṁ, [[books:bg:16:10|16.10]]
   * kāma-rūpeṇa kaunteya, [[books:bg:3:39|3.39]]
-  * kāmātmānaḥ svarga-parā, [[books:bg:2:43|2.43]]
+  * kāmātmānaḥ svarga-parā, [[books:bg:2:42-43|2.43]]
 
-  * kāmopabhoga-paramā, [[books:bg:16:11|16.11]]
+  * kāmopabhoga-paramā, [[books:bg:16:11-12|16.11]]
   * kāmyānāṁ karmaṇāṁ, [[books:bg:18:2|18.2]]
   * kāṅkṣantaḥ karmaṇāṁ, [[books:bg:4:12|4.12]]
   * kāraṇaṁ guṇa-saṅgo ’sya, [[books:bg:13:22|13.22]]
   * karaṇaṁ karma karteti, [[books:bg:18:18|18.18]]
 
   * karma brahmodbhavaṁ, [[books:bg:3:15|3.15]]
-  * karma caiva tad-arthīyaṁ, [[books:bg:17:27|17.27]]
+  * karma caiva tad-arthīyaṁ, [[books:bg:17:26-27|17.27]]
   * karma-jaṁ buddhi-yuktā hi, [[books:bg:2:51|2.51]]
   * karma-jān viddhi tān sarvān, [[books:bg:4:32|4.32]]
   * karmaṇaḥ sukṛtasyāhuḥ, [[books:bg:14:16|14.16]]
@@ -639,7 +639,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * karmibhyaś cādhiko yogī, [[books:bg:6:46|6.46]]
   * kārpaṇya-doṣopahata-, [[books:bg:2:7|2.7]]
 
-  * karṣayantaḥ śarīra-sthaṁ, [[books:bg:17:6|17.6]]
+  * karṣayantaḥ śarīra-sthaṁ, [[books:bg:17:5-6|17.6]]
   * kartavyānīti me pārtha, [[books:bg:18:6|18.6]]
   * kartuṁ necchasi yan mohāt, [[books:bg:18:60|18.60]]
   * kārya-kāraṇa-kartṛtve, [[books:bg:13:21|13.21]]
@@ -647,26 +647,26 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * kāryate hy avaśaḥ karma, [[books:bg:3:5|3.5]]
   * kasmāc ca te na nameran, [[books:bg:11:37|11.37]]
-  * kāśyaś ca parameṣv-āsaḥ, [[books:bg:1:17|1.17]]
+  * kāśyaś ca parameṣv-āsaḥ, [[books:bg:1:16-18|1.17]]
   * kathaṁ bhīṣmam ahaṁ, [[books:bg:2:4|2.4]]
   * katham etad vijānīyāṁ, [[books:bg:4:4|4.4]]
 
-  * kathaṁ na jñeyam asmābhiḥ, [[books:bg:1:38|1.38]]
+  * kathaṁ na jñeyam asmābhiḥ, [[books:bg:1:37-38|1.38]]
   * kathaṁ sa puruṣaḥ pārtha, [[books:bg:2:21|2.21]]
   * kathaṁ vidyām ahaṁ, [[books:bg:10:17|10.17]]
   * kathayantaś ca māṁ nityaṁ, [[books:bg:10:9|10.9]]
-  * kaṭv-amla-lavaṇāty-uṣṇa-, [[books:bg:17:9|17.9]]
+  * kaṭv-amla-lavaṇāty-uṣṇa-, [[books:bg:17:8-10|17.9]]
 
   * kaunteya pratijānīhi, [[books:bg:9:31|9.31]]
   * kaviṁ purāṇam anuśāsitāram, [[books:bg:8:9|8.9]]
   * kāyena manasā buddhyā, [[books:bg:5:11|5.11]]
-  * kecid vilagnā, [[books:bg:11:27|11.27]]
+  * kecid vilagnā, [[books:bg:11:26-27|11.27]]
   * keśavārjunayoḥ puṇyaṁ, [[books:bg:18:76|18.76]]
 
   * keṣu keṣu ca bhāveṣu, [[books:bg:10:17|10.17]]
   * kim-ācāraḥ kathaṁ caitāṁs, [[books:bg:14:21|14.21]]
   * kiṁ karma kim akarmeti, [[books:bg:4:16|4.16]]
-  * kiṁ no rājyena govinda, [[books:bg:1:32|1.32]]
+  * kiṁ no rājyena govinda, [[books:bg:1:32-35|1.32]]
   * kiṁ punar brāhmaṇāḥ puṇyā, [[books:bg:9:33|9.33]]
 
   * kiṁ tad brahma kim, [[books:bg:8:1|8.1]]
@@ -678,7 +678,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * kleśo ’dhikataras teṣām, [[books:bg:12:5|12.5]]
   * kriyate bahulāyāsaṁ, [[books:bg:18:24|18.24]]
   * kriyate tad iha proktaṁ, [[books:bg:17:18|17.18]]
-  * kriyā-viśeṣa-bahulāṁ, [[books:bg:2:43|2.43]]
+  * kriyā-viśeṣa-bahulāṁ, [[books:bg:2:42-43|2.43]]
   * krodhād bhavati sammohaḥ, [[books:bg:2:63|2.63]]
 
   * kṛpayā parayāviṣṭo, [[books:bg:1:27|1.27]]
@@ -695,8 +695,8 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * kṣipraṁ hi mānuṣe loke, [[books:bg:4:12|4.12]]
   * kṣudraṁ hṛdaya-daurbalyaṁ, [[books:bg:2:3|2.3]]
-  * kula-kṣaya-kṛtaṁ doṣaṁ, [[books:bg:1:37|1.37]]
-  * kula-kṣaya-kṛtaṁ doṣaṁ, [[books:bg:1:38|1.38]]
+  * kula-kṣaya-kṛtaṁ doṣaṁ, [[books:bg:1:37-38|1.37]]
+  * kula-kṣaya-kṛtaṁ doṣaṁ, [[books:bg:1:37-38|1.38]]
   * kula-kṣaye praṇaśyanti, [[books:bg:1:39|1.39]]
 
   * kuru karmaiva tasmāt tvaṁ, [[books:bg:4:15|4.15]]
@@ -724,7 +724,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * mad-bhāvā mānasā jātā, [[books:bg:10:6|10.6]]
   * mādhavaḥ pāṇḍavaś caiva, [[books:bg:1:14|1.14]]
-  * mahā-bhūtāny ahaṅkāro, [[books:bg:13:6|13.6]]
+  * mahā-bhūtāny ahaṅkāro, [[books:bg:13:6-7|13.6]]
   * maharṣayaḥ sapta pūrve, [[books:bg:10:6|10.6]]
   * maharṣīṇāṁ bhṛgur ahaṁ, [[books:bg:10:25|10.25]]
 
@@ -741,7 +741,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * mama vartmānuvartante, [[books:bg:4:11|4.11]]
 
   * mama yonir mahad brahma, [[books:bg:14:3|14.3]]
-  * māṁ caivāntaḥ śarīra-sthaṁ, [[books:bg:17:6|17.6]]
+  * māṁ caivāntaḥ śarīra-sthaṁ, [[books:bg:17:5-6|17.6]]
   * māṁ ca yo ’vyabhicāreṇa, [[books:bg:14:26|14.26]]
   * mām evaiṣyasi satyaṁ te, [[books:bg:18:65|18.65]]
   * mām evaiṣyasi yuktvaivam, [[books:bg:9:34|9.34]]
@@ -752,9 +752,9 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * mām upetya tu kaunteya, [[books:bg:8:16|8.16]]
   * manaḥ-prasādaḥ, [[books:bg:17:16|17.16]]
 
-  * manaḥ saṁyamya mac-citto, [[books:bg:6:14|6.14]]
+  * manaḥ saṁyamya mac-citto, [[books:bg:6:13-14|6.14]]
   * manaḥ-ṣaṣṭhānīndriyāṇi, [[books:bg:15:7|15.7]]
-  * mānāpamānayos tulyas, [[books:bg:14:25|14.25]]
+  * mānāpamānayos tulyas, [[books:bg:14:22-25|14.25]]
   * manasaivendriya-grāmaṁ, [[books:bg:6:24|6.24]]
   * manasas tu parā buddhir, [[books:bg:3:42|3.42]]
 
@@ -776,7 +776,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * matta eveti tān viddhi, [[books:bg:7:12|7.12]]
   * mattaḥ parataraṁ nānyat, [[books:bg:7:7|7.7]]
 
-  * mātulāḥ śvaśurāḥ pautrāḥ, [[books:bg:1:34|1.34]]
+  * mātulāḥ śvaśurāḥ pautrāḥ, [[books:bg:1:32-35|1.34]]
   * maunaṁ caivāsmi, [[books:bg:10:38|10.38]]
   * mayādhyakṣeṇa prakṛtiḥ, [[books:bg:9:10|9.10]]
   * mayā hatāṁs tvaṁ jahi mā, [[books:bg:11:34|11.34]]
@@ -790,7 +790,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * mayi sarvāṇi karmāṇi, [[books:bg:3:30|3.30]]
   * mayy arpita-mano-buddhir, [[books:bg:8:7|8.7]]
-  * mayy arpita-mano-buddhir, [[books:bg:12:14|12.14]]
+  * mayy arpita-mano-buddhir, [[books:bg:12:13-14|12.14]]
   * mayy āsakta-manāḥ pārtha, [[books:bg:7:1|7.1]]
   * mayy āveśya mano ye māṁ, [[books:bg:12:2|12.2]]
 
@@ -835,7 +835,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * na cāti-svapna-śīlasya, [[books:bg:6:16|6.16]]
   * nādatte kasyacit pāpaṁ, [[books:bg:5:15|5.15]]
-  * na dveṣṭi sampravṛttāni, [[books:bg:14:22|14.22]]
+  * na dveṣṭi sampravṛttāni, [[books:bg:14:22-25|14.22]]
   * na dveṣṭy akuśalaṁ karma, [[books:bg:18:10|18.10]]
   * nāhaṁ prakāśaḥ sarvasya, [[books:bg:7:25|7.25]]
 
@@ -861,7 +861,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * na karmaṇām anārambhān, [[books:bg:3:4|3.4]]
   * na karma-phala-saṁyogaṁ, [[books:bg:5:14|5.14]]
   * na kartṛtvaṁ na karmāṇi, [[books:bg:5:14|5.14]]
-  * nakulaḥ sahadevaś ca, [[books:bg:1:16|1.16]]
+  * nakulaḥ sahadevaś ca, [[books:bg:1:16-18|1.16]]
 
   * namaḥ purastād atha, [[books:bg:11:40|11.40]]
   * na māṁ duṣkṛtino mūḍhāḥ, [[books:bg:7:15|7.15]]
@@ -883,7 +883,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * na prahṛṣyet priyaṁ prāpya, [[books:bg:5:20|5.20]]
   * narake niyataṁ vāso, [[books:bg:1:43|1.43]]
-  * na rūpam asyeha, [[books:bg:15:3|15.3]]
+  * na rūpam asyeha, [[books:bg:15:3-4|15.3]]
   * na sa siddhim avāpnoti, [[books:bg:16:23|16.23]]
   * nāsato vidyate bhāvo, [[books:bg:2:16|2.16]]
 
@@ -901,7 +901,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * na tvat-samo ’sty, [[books:bg:11:43|11.43]]
   * nāty-aśnatas tu yogo ’sti, [[books:bg:6:16|6.16]]
-  * nāty-ucchritaṁ nāti-nīcaṁ, [[books:bg:6:11|6.11]]
+  * nāty-ucchritaṁ nāti-nīcaṁ, [[books:bg:6:11-12|6.11]]
   * nava-dvāre pure dehī, [[books:bg:5:13|5.13]]
   * na veda-yajñādhyayanair, [[books:bg:11:48|11.48]]
 
@@ -914,7 +914,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * nehābhikrama-nāśo ’sti, [[books:bg:2:40|2.40]]
   * nibadhnanti mahā-bāho, [[books:bg:14:5|14.5]]
   * nidrālasya-pramādotthaṁ, [[books:bg:18:39|18.39]]
-  * nihatya dhārtarāṣṭrān naḥ, [[books:bg:1:35|1.35]]
+  * nihatya dhārtarāṣṭrān naḥ, [[books:bg:1:32-35|1.35]]
   * nimittāni ca paśyāmi, [[books:bg:1:30|1.30]]
 
   * nindantas tava sāmarthyaṁ, [[books:bg:2:36|2.36]]
@@ -925,7 +925,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * nirdvandvo nitya-sattva-stho, [[books:bg:2:45|2.45]]
   * nirmamo nirahaṅkāraḥ, [[books:bg:2:71|2.71]]
-  * nirmamo nirahaṅkāraḥ, [[books:bg:12:13|12.13]]
+  * nirmamo nirahaṅkāraḥ, [[books:bg:12:13-14|12.13]]
   * nirmāna-mohā jita-saṅga-, [[books:bg:15:5|15.5]]
   * nirvairaḥ sarva-bhūteṣu, [[books:bg:11:55|11.55]]
 
@@ -948,7 +948,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
 ===== P =====
 
-  * pañcaitāni mahā-bāho, [[books:bg:18:13|18.13]]
+  * pañcaitāni mahā-bāho, [[books:bg:18:13-14|18.13]]
   * pāñcajanyaṁ hṛṣīkeśo, [[books:bg:1:15|1.15]]
   * pāpam evāśrayed asmān, [[books:bg:1:36|1.36]]
   * pāpmānaṁ prajahi hy enaṁ, [[books:bg:3:41|3.41]]
@@ -996,10 +996,10 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * prajahāti yadā kāmān, [[books:bg:2:55|2.55]]
 
   * prajanaś cāsmi kandarpaḥ, [[books:bg:10:28|10.28]]
-  * prakāśaṁ ca pravṛttiṁ ca, [[books:bg:14:22|14.22]]
+  * prakāśaṁ ca pravṛttiṁ ca, [[books:bg:14:22-25|14.22]]
   * prakṛteḥ kriyamāṇāni, [[books:bg:3:27|3.27]]
   * prakṛter guṇa-sammūḍhāḥ, [[books:bg:3:29|3.29]]
-  * prakṛtiṁ puruṣaṁ caiva, [[books:bg:13:1|13.1]]
+  * prakṛtiṁ puruṣaṁ caiva, [[books:bg:13:1-2|13.1]]
 
   * prakṛtiṁ puruṣaṁ caiva, [[books:bg:13:20|13.20]]
   * prakṛtiṁ svām adhiṣṭhāya, [[books:bg:4:6|4.6]]
@@ -1007,14 +1007,14 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * prakṛtiṁ yānti bhūtāni, [[books:bg:3:33|3.33]]
   * prakṛtyaiva ca karmāṇi, [[books:bg:13:30|13.30]]
 
-  * pralapan visṛjan gṛhṇann, [[books:bg:5:9|5.9]]
+  * pralapan visṛjan gṛhṇann, [[books:bg:5:8-9|5.9]]
   * pramādālasya-nidrābhis, [[books:bg:14:8|14.8]]
   * pramāda-mohau tamaso, [[books:bg:14:17|14.17]]
   * praṇamya śirasā devaṁ, [[books:bg:11:14|11.14]]
   * prāṇāpāna-gatī ruddhvā, [[books:bg:4:29|4.29]]
 
   * prāṇāpāna-samāyuktaḥ, [[books:bg:15:14|15.14]]
-  * prāṇāpānau samau kṛtvā, [[books:bg:5:27|5.27]]
+  * prāṇāpānau samau kṛtvā, [[books:bg:5:27-28|5.27]]
   * praṇavaḥ sarva-vedeṣu, [[books:bg:7:8|7.8]]
   * prāpya puṇya-kṛtāṁ lokān, [[books:bg:6:41|6.41]]
   * prasāde sarva-duḥkhānāṁ, [[books:bg:2:65|2.65]]
@@ -1023,9 +1023,9 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * prasaṅgena phalākāṅkṣī, [[books:bg:18:34|18.34]]
   * prasanna-cetaso hy āśu, [[books:bg:2:65|2.65]]
   * praśānta-manasaṁ hy enaṁ, [[books:bg:6:27|6.27]]
-  * praśāntātmā vigata-bhīr, [[books:bg:6:14|6.14]]
+  * praśāntātmā vigata-bhīr, [[books:bg:6:13-14|6.14]]
 
-  * praśaste karmaṇi tathā, [[books:bg:17:26|17.26]]
+  * praśaste karmaṇi tathā, [[books:bg:17:26-27|17.26]]
   * pratyakṣāvagamaṁ, [[books:bg:9:2|9.2]]
   * pravartante vidhānoktāḥ, [[books:bg:17:24|17.24]]
   * pravṛtte śastra-sampāte, [[books:bg:1:20|1.20]]
@@ -1073,7 +1073,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * rākṣasīm āsurīṁ caiva, [[books:bg:9:12|9.12]]
   * rasa-varjaṁ raso ’py asya, [[books:bg:2:59|2.59]]
   * raso ’ham apsu kaunteya, [[books:bg:7:8|7.8]]
-  * rasyāḥ snigdhāḥ sthirā hṛdyā, [[books:bg:17:8|17.8]]
+  * rasyāḥ snigdhāḥ sthirā hṛdyā, [[books:bg:17:8-10|17.8]]
 
   * rātriṁ yuga-sahasrāntāṁ, [[books:bg:8:17|8.17]]
   * rātry-āgame pralīyante, [[books:bg:8:18|8.18]]
@@ -1087,13 +1087,13 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
 ===== S =====
 
-  * śabdādīn viṣayāṁs tyaktvā, [[books:bg:18:51|18.51]]
+  * śabdādīn viṣayāṁs tyaktvā, [[books:bg:18:51-53|18.51]]
   * śabdādīn viṣayān anya, [[books:bg:4:26|4.26]]
 
   * sa brahma-yoga-yuktātmā, [[books:bg:5:21|5.21]]
   * sa buddhimān manuṣyeṣu, [[books:bg:4:18|4.18]]
   * sa ca yo yat-prabhāvaś ca, [[books:bg:13:4|13.4]]
-  * sad-bhāve sādhu-bhāve ca, [[books:bg:17:26|17.26]]
+  * sad-bhāve sādhu-bhāve ca, [[books:bg:17:26-27|17.26]]
   * sādhibhūtādhidaivaṁ māṁ, [[books:bg:7:30|7.30]]
 
   * sādhur eva sa mantavyaḥ, [[books:bg:9:30|9.30]]
@@ -1109,20 +1109,20 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * saha-yajñāḥ prajāḥ sṛṣṭvā, [[books:bg:3:10|3.10]]
 
   * sa kāleneha mahatā, [[books:bg:4:2|4.2]]
-  * sakheti matvā prasabhaṁ, [[books:bg:11:41|11.41]]
+  * sakheti matvā prasabhaṁ, [[books:bg:11:41-42|11.41]]
   * śaknotīhaiva yaḥ soḍhuṁ, [[books:bg:5:23|5.23]]
   * sa kṛtvā rājasaṁ tyāgaṁ, [[books:bg:18:8|18.8]]
   * saktāḥ karmaṇy avidvāṁso, [[books:bg:3:25|3.25]]
 
   * śakya evaṁ-vidho draṣṭuṁ, [[books:bg:11:53|11.53]]
   * samādhāv acalā buddhis, [[books:bg:2:53|2.53]]
-  * sama-duḥkha-sukhaḥ, [[books:bg:14:24|14.24]]
+  * sama-duḥkha-sukhaḥ, [[books:bg:14:22-25|14.24]]
   * sama-duḥkha-sukhaṁ, [[books:bg:2:15|2.15]]
   * samaḥ sarveṣu bhūteṣu, [[books:bg:18:54|18.54]]
 
-  * samaḥ śatrau ca mitre ca, [[books:bg:12:18|12.18]]
+  * samaḥ śatrau ca mitre ca, [[books:bg:12:18-19|12.18]]
   * samaḥ siddhāv asiddhau ca, [[books:bg:4:22|4.22]]
-  * samaṁ kāya-śiro-grīvaṁ, [[books:bg:6:13|6.13]]
+  * samaṁ kāya-śiro-grīvaṁ, [[books:bg:6:13-14|6.13]]
   * samaṁ paśyan hi sarvatra, [[books:bg:13:29|13.29]]
   * samaṁ sarveṣu bhūteṣu, [[books:bg:13:28|13.28]]
 
@@ -1132,7 +1132,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * śamo damas tapaḥ śaucaṁ, [[books:bg:18:42|18.42]]
   * samo ’haṁ sarva-bhūteṣu, [[books:bg:9:29|9.29]]
 
-  * samprekṣya nāsikāgraṁ svaṁ, [[books:bg:6:13|6.13]]
+  * samprekṣya nāsikāgraṁ svaṁ, [[books:bg:6:13-14|6.13]]
   * saṁvādam imam aśrauṣam, [[books:bg:18:74|18.74]]
   * śanaiḥ śanair uparamed, [[books:bg:6:25|6.25]]
   * saṅgaṁ tyaktvā phalaṁ caiva, [[books:bg:18:9|18.9]]
@@ -1144,8 +1144,8 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * saṅkaro narakāyaiva, [[books:bg:1:41|1.41]]
   * sāṅkhya-yogau pṛthag bālāḥ, [[books:bg:5:4|5.4]]
 
-  * sāṅkhye kṛtānte proktāni, [[books:bg:18:13|18.13]]
-  * sanniyamyendriya-grāmaṁ, [[books:bg:12:4|12.4]]
+  * sāṅkhye kṛtānte proktāni, [[books:bg:18:13-14|18.13]]
+  * sanniyamyendriya-grāmaṁ, [[books:bg:12:3-4|12.4]]
   * sannyāsaḥ karma-yogaś ca, [[books:bg:5:2|5.2]]
   * sannyāsaṁ karmaṇāṁ kṛṣṇa, [[books:bg:5:1|5.1]]
   * sannyāsas tu mahā-bāho, [[books:bg:5:6|5.6]]
@@ -1153,7 +1153,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * sannyāsasya mahā-bāho, [[books:bg:18:1|18.1]]
   * sannyāsa-yoga-yuktātmā, [[books:bg:9:28|9.28]]
   * śāntiṁ nirvāṇa-paramāṁ, [[books:bg:6:15|6.15]]
-  * santuṣṭaḥ satataṁ yogī, [[books:bg:12:14|12.14]]
+  * santuṣṭaḥ satataṁ yogī, [[books:bg:12:13-14|12.14]]
   * sargāṇām ādir antaś ca, [[books:bg:10:32|10.32]]
 
   * sarge ’pi nopajāyante, [[books:bg:14:2|14.2]]
@@ -1188,11 +1188,11 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * sarvārambhā hi doṣeṇa, [[books:bg:18:48|18.48]]
   * sarvārambha-parityāgī, [[books:bg:12:16|12.16]]
-  * sarvārambha-parityāgī, [[books:bg:14:25|14.25]]
+  * sarvārambha-parityāgī, [[books:bg:14:22-25|14.25]]
   * sarvārthān viparītāṁś ca, [[books:bg:18:32|18.32]]
   * sarva-saṅkalpa-sannyāsī, [[books:bg:6:4|6.4]]
 
-  * sarvāścarya-mayaṁ devam, [[books:bg:11:11|11.11]]
+  * sarvāścarya-mayaṁ devam, [[books:bg:11:10-11|11.11]]
   * sarvasya cāhaṁ hṛdi, [[books:bg:15:15|15.15]]
   * sarvasya dhātāram acintya-, [[books:bg:8:9|8.9]]
   * sarvataḥ pāṇi-pādaṁ tat, [[books:bg:13:14|13.14]]
@@ -1200,7 +1200,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * sarvathā vartamāno ’pi, [[books:bg:6:31|6.31]]
   * sarvathā vartamāno ’pi, [[books:bg:13:24|13.24]]
-  * sarvatra-gam acintyaṁ ca, [[books:bg:12:3|12.3]]
+  * sarvatra-gam acintyaṁ ca, [[books:bg:12:3-4|12.3]]
   * sarvatrāvasthito dehe, [[books:bg:13:33|13.33]]
   * sarva-yoniṣu kaunteya, [[books:bg:14:4|14.4]]
 
@@ -1220,7 +1220,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * sattvānurūpā sarvasya, [[books:bg:17:3|17.3]]
   * sattvāt sañjāyate jñānaṁ, [[books:bg:14:17|14.17]]
   * sāttvikī rājasī caiva, [[books:bg:17:2|17.2]]
-  * saubhadraś ca mahā-bāhuḥ, [[books:bg:1:18|1.18]]
+  * saubhadraś ca mahā-bāhuḥ, [[books:bg:1:16-18|1.18]]
 
   * saubhadro draupadeyāś ca, [[books:bg:1:6|1.6]]
   * śauryaṁ tejo dhṛtir, [[books:bg:18:43|18.43]]
@@ -1238,12 +1238,12 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * siddhy-asiddhyor nirvikāraḥ, [[books:bg:18:26|18.26]]
   * siṁha-nādaṁ vinadyoccaiḥ, [[books:bg:1:12|1.12]]
   * śītoṣṇa-sukha-duḥkheṣu, [[books:bg:6:7|6.7]]
-  * śītoṣṇa-sukha-duḥkheṣu, [[books:bg:12:18|12.18]]
+  * śītoṣṇa-sukha-duḥkheṣu, [[books:bg:12:18-19|12.18]]
 
   * smṛti-bhraṁśād buddhi-nāśo, [[books:bg:2:63|2.63]]
   * so ’pi muktaḥ śubhāl, [[books:bg:18:71|18.71]]
   * so ’vikalpena yogena, [[books:bg:10:7|10.7]]
-  * sparśān kṛtvā bahir, [[books:bg:5:27|5.27]]
+  * sparśān kṛtvā bahir, [[books:bg:5:27-28|5.27]]
   * śraddadhānā mat-paramā, [[books:bg:12:20|12.20]]
 
   * śraddhā-mayo ’yaṁ puruṣo, [[books:bg:17:3|17.3]]
@@ -1276,7 +1276,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * śubhāśubha-parityāgī, [[books:bg:12:17|12.17]]
   * śubhāśubha-phalair evaṁ, [[books:bg:9:28|9.28]]
 
-  * śucau deśe pratiṣṭhāpya, [[books:bg:6:11|6.11]]
+  * śucau deśe pratiṣṭhāpya, [[books:bg:6:11-12|6.11]]
   * śucīnāṁ śrīmatāṁ gehe, [[books:bg:6:41|6.41]]
   * su-durdarśam idaṁ rūpaṁ, [[books:bg:11:52|11.52]]
   * suhṛdaṁ sarva-bhūtānāṁ, [[books:bg:5:29|5.29]]
@@ -1284,8 +1284,8 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * sukha-duḥkhe same kṛtvā, [[books:bg:2:38|2.38]]
   * sukham ātyantikaṁ yat tad, [[books:bg:6:20-23|6.21]]
-  * sukhaṁ duḥkhaṁ bhavo, [[books:bg:10:4|10.4]]
-  * sukhaṁ tv idānīṁ, [[books:bg:18:36|18.36]]
+  * sukhaṁ duḥkhaṁ bhavo, [[books:bg:10:4-5|10.4]]
+  * sukhaṁ tv idānīṁ, [[books:bg:18:36-37|18.36]]
   * sukhaṁ vā yadi vā, [[books:bg:6:32|6.32]]
 
   * sukha-saṅgena badhnāti, [[books:bg:14:6|14.6]]
@@ -1328,7 +1328,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * tadvat kāmā yaṁ praviśanti, [[books:bg:2:70|2.70]]
   * tad viddhi praṇipātena, [[books:bg:4:34|4.34]]
-  * ta ime ’vasthitā yuddhe, [[books:bg:1:33|1.33]]
+  * ta ime ’vasthitā yuddhe, [[books:bg:1:32-35|1.33]]
   * tair dattān apradāyaibhyo, [[books:bg:3:12|3.12]]
   * tamas tv ajñāna-jaṁ viddhi, [[books:bg:14:8|14.8]]
 
@@ -1402,7 +1402,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * tato yuddhāya yujyasva, [[books:bg:2:38|2.38]]
   * tat-prasādāt parāṁ śāntiṁ, [[books:bg:18:62|18.62]]
   * tatra cāndramasaṁ jyotir, [[books:bg:8:25|8.25]]
-  * tatraikāgraṁ manaḥ kṛtvā, [[books:bg:6:12|6.12]]
+  * tatraikāgraṁ manaḥ kṛtvā, [[books:bg:6:11-12|6.12]]
 
   * tatraika-sthaṁ jagat, [[books:bg:11:13|11.13]]
   * tatraivaṁ sati kartāram, [[books:bg:18:16|18.16]]
@@ -1412,7 +1412,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * tatra śrīr vijayo bhūtir, [[books:bg:18:78|18.78]]
   * tatra taṁ buddhi-saṁyogaṁ, [[books:bg:6:43|6.43]]
-  * tat sukhaṁ sāttvikaṁ, [[books:bg:18:37|18.37]]
+  * tat sukhaṁ sāttvikaṁ, [[books:bg:18:36-37|18.37]]
   * tat svayaṁ yoga-saṁsiddhaḥ, [[books:bg:4:38|4.38]]
   * tat tad evāvagaccha tvaṁ, [[books:bg:10:41|10.41]]
 
@@ -1431,7 +1431,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * tenaiva rūpeṇa catur-, [[books:bg:11:46|11.46]]
   * te ’pi cātitaranty eva, [[books:bg:13:26|13.26]]
   * te ’pi mām eva kaunteya, [[books:bg:9:23|9.23]]
-  * te prāpnuvanti mām eva, [[books:bg:12:4|12.4]]
+  * te prāpnuvanti mām eva, [[books:bg:12:3-4|12.4]]
   * te puṇyam āsādya, [[books:bg:9:20|9.20]]
 
   * teṣām āditya-vaj jñānaṁ, [[books:bg:5:16|5.16]]
@@ -1449,8 +1449,8 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * tribhir guṇa-mayair bhāvair, [[books:bg:7:13|7.13]]
   * tri-vidhā bhavati śraddhā, [[books:bg:17:2|17.2]]
   * tri-vidhaṁ narakasyedaṁ, [[books:bg:16:21|16.21]]
-  * tulya-nindā-stutir maunī, [[books:bg:12:19|12.19]]
-  * tulya-priyāpriyo dhīras, [[books:bg:14:24|14.24]]
+  * tulya-nindā-stutir maunī, [[books:bg:12:18-19|12.19]]
+  * tulya-priyāpriyo dhīras, [[books:bg:14:22-25|14.24]]
 
   * tvad-anyaḥ saṁśayasyāsya, [[books:bg:6:39|6.39]]
   * tvam ādi-devaḥ puruṣaḥ, [[books:bg:11:38|11.38]]
@@ -1471,17 +1471,17 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * ubhau tau na vijānīto, [[books:bg:2:19|2.19]]
   * ubhayor api dṛṣṭo ’ntas, [[books:bg:2:16|2.16]]
   * uccaiḥśravasam aśvānāṁ, [[books:bg:10:27|10.27]]
-  * ucchiṣṭam api cāmedhyaṁ, [[books:bg:17:10|17.10]]
+  * ucchiṣṭam api cāmedhyaṁ, [[books:bg:17:8-10|17.10]]
 
   * udārāḥ sarva evaite, [[books:bg:7:18|7.18]]
   * udāsīna-vad āsīnam, [[books:bg:9:9|9.9]]
-  * udāsīna-vad āsīno, [[books:bg:14:23|14.23]]
+  * udāsīna-vad āsīno, [[books:bg:14:22-25|14.23]]
   * uddhared ātmanātmānaṁ, [[books:bg:6:5|6.5]]
   * upadekṣyanti te jñānaṁ, [[books:bg:4:34|4.34]]
 
   * upadraṣṭānumantā ca, [[books:bg:13:23|13.23]]
   * upaiti śānta-rajasaṁ, [[books:bg:6:27|6.27]]
-  * upaviśyāsane yuñjyād, [[books:bg:6:12|6.12]]
+  * upaviśyāsane yuñjyād, [[books:bg:6:11-12|6.12]]
   * ūrdhvaṁ gacchanti, [[books:bg:14:18|14.18]]
   * ūrdhva-mūlam adhaḥ, [[books:bg:15:1|15.1]]
 
@@ -1520,13 +1520,13 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * vidhi-hīnam asṛṣṭānnaṁ, [[books:bg:17:13|17.13]]
   * vidyā-vinaya-sampanne, [[books:bg:5:18|5.18]]
-  * vigatecchā-bhaya-krodho, [[books:bg:5:28|5.28]]
+  * vigatecchā-bhaya-krodho, [[books:bg:5:27-28|5.28]]
   * vihāya kāmān yaḥ sarvān, [[books:bg:2:71|2.71]]
   * vijñātum icchāmi, [[books:bg:11:31|11.31]]
 
   * vikārāṁś ca guṇāṁś caiva, [[books:bg:13:20|13.20]]
   * vimṛśyaitad aśeṣeṇa, [[books:bg:18:63|18.63]]
-  * vimucya nirmamaḥ śānto, [[books:bg:18:53|18.53]]
+  * vimucya nirmamaḥ śānto, [[books:bg:18:51-53|18.53]]
   * vimūḍhā nānupaśyanti, [[books:bg:15:10|15.10]]
   * vināśam avyayasyāsya, [[books:bg:2:17|2.17]]
 
@@ -1544,9 +1544,9 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * vīta-rāga-bhaya-krodhaḥ, [[books:bg:2:56|2.56]]
   * vivasvān manave prāha, [[books:bg:4:1|4.1]]
-  * vividhāś ca pṛthak ceṣṭā, [[books:bg:18:14|18.14]]
+  * vividhāś ca pṛthak ceṣṭā, [[books:bg:18:13-14|18.14]]
   * vivikta-deśa-sevitvam, [[books:bg:13:8-12|13.11]]
-  * vivikta-sevī laghv-āśī, [[books:bg:18:52|18.52]]
+  * vivikta-sevī laghv-āśī, [[books:bg:18:51-53|18.52]]
 
   * vṛṣṇīnāṁ vāsudevo ’smi, [[books:bg:10:37|10.37]]
   * vyāmiśreṇeva vākyena, [[books:bg:3:2|3.2]]
@@ -1563,7 +1563,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * yac candramasi yac cāgnau, [[books:bg:15:12|15.12]]
   * yac cāpi sarva-bhūtānāṁ, [[books:bg:10:39|10.39]]
 
-  * yac cāvahāsārtham asat-, [[books:bg:11:42|11.42]]
+  * yac cāvahāsārtham asat-, [[books:bg:11:41-42|11.42]]
   * yac chreya etayor ekaṁ, [[books:bg:5:1|5.1]]
   * yac chreyaḥ syān niścitaṁ, [[books:bg:2:7|2.7]]
   * yadā bhūta-pṛthag-bhāvam, [[books:bg:13:31|13.31]]
@@ -1620,7 +1620,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * yajña-śiṣṭāśinaḥ santo, [[books:bg:3:13|3.13]]
   * yajñas tapas tathā dānaṁ, [[books:bg:17:7|17.7]]
   * yajñāyācarataḥ karma, [[books:bg:4:23|4.23]]
-  * yajñe tapasi dāne ca, [[books:bg:17:27|17.27]]
+  * yajñe tapasi dāne ca, [[books:bg:17:26-27|17.27]]
   * yajño dānaṁ tapaś caiva, [[books:bg:18:5|18.5]]
 
   * yakṣye dāsyāmi modiṣya, [[books:bg:16:15|16.15]]
@@ -1655,8 +1655,8 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
 
   * yatate ca tato bhūyaḥ, [[books:bg:6:43|6.43]]
   * yatato hy api kaunteya, [[books:bg:2:60|2.60]]
-  * yāta-yāmaṁ gata-rasaṁ, [[books:bg:17:10|17.10]]
-  * yatendriya-mano-buddhir, [[books:bg:5:28|5.28]]
+  * yāta-yāmaṁ gata-rasaṁ, [[books:bg:17:8-10|17.10]]
+  * yatendriya-mano-buddhir, [[books:bg:5:27-28|5.28]]
   * yathā dīpo nivāta-stho, [[books:bg:6:19|6.19]]
 
   * yathaidhāṁsi samiddho, [[books:bg:4:37|4.37]]
@@ -1675,7 +1675,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * yatra yogeśvaraḥ kṛṣṇo, [[books:bg:18:78|18.78]]
   * yatroparamate cittaṁ, [[books:bg:6:20|6.20]]
   * yat sāṅkhyaiḥ prāpyate, [[books:bg:5:5|5.5]]
-  * yat tad agre viṣam iva, [[books:bg:18:37|18.37]]
+  * yat tad agre viṣam iva, [[books:bg:18:36-37|18.37]]
 
   * yat tapasyasi kaunteya, [[books:bg:9:27|9.27]]
   * yat te ’haṁ prīyamāṇāya, [[books:bg:10:1|10.1]]
@@ -1699,7 +1699,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * ye me matam idaṁ nityam, [[books:bg:3:31|3.31]]
   * yena bhūtāny aśeṣāṇi, [[books:bg:4:35|4.35]]
   * ye ’py anya-devatā-bhaktā, [[books:bg:9:23|9.23]]
-  * yeṣām arthe kāṅkṣitaṁ no, [[books:bg:1:32|1.32]]
+  * yeṣām arthe kāṅkṣitaṁ no, [[books:bg:1:32-35|1.32]]
 
   * yeṣāṁ ca tvaṁ bahu-mato, [[books:bg:2:35|2.35]]
   * yeṣāṁ tv anta-gataṁ pāpaṁ, [[books:bg:7:28|7.28]]
@@ -1707,7 +1707,7 @@ This index gives a listing of the ﬁrst and third lines of each four-line Sansk
   * ye tu dharmāmṛtam idaṁ, [[books:bg:12:20|12.20]]
   * ye tu sarvāṇi karmāṇi, [[books:bg:12:6|12.6]]
 
-  * ye tv akṣaram anirdeśyam, [[books:bg:12:3|12.3]]
+  * ye tv akṣaram anirdeśyam, [[books:bg:12:3-4|12.3]]
   * ye tv etad abhyasūyanto, [[books:bg:3:32|3.32]]
   * ye yathā māṁ prapadyante, [[books:bg:4:11|4.11]]
   * yogaṁ yogeśvarāt kṛṣṇāt, [[books:bg:18:75|18.75]]
