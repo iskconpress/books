@@ -1,3 +1,0 @@
-{{SIDETOC}}
-
-{{page>sidebar}}
