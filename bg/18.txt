@@ -6,8 +6,7 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-Gita-Verses-Purports/Ch_18_BG_With_Purports.mp3 |Bhagavad-gītā As It Is Chapter 18}}
 </audio>
 
-~~NOTOC 1-1~~
-~~TOC_HERE~~
+~~TOC 1-1~~
 
 <div right half last imagebox>
 [{{ :artwork:bhagavad-gita:plate41.jpg?500&direct |Plate 41. The place of action, the performer, the senses, the endeavor and ultimately the Supersoul. These are the five factors of action. (p. 790)}}]
