@@ -6,7 +6,7 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-Gita-Verses-Purports/Ch_18_BG_With_Purports.mp3 |Bhagavad-gītā As It Is Chapter 18}}
 </audio>
 
-~~TOC 1-1 closed~~
+~~NOTOC 1-1~~
 ~~TOC_HERE~~
 
 <div right half last imagebox>
