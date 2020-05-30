@@ -15,7 +15,7 @@
 [{{ :artwork:bhagavad-gita:plate44.jpg?500&direct |Plate 44. “Wherever there is Kṛṣṇa and Arjuna there will certainly be opulence, victory, extraordinary power and morality.” (p. 847)}}]
 </div>
 
-{{namespace>books:bg:18 &header}}
+{{namespace>books:bg:18 &header &footer}}
 
 ~~bc:Chapter 18~~
 ~~Title:Bhagavad-gītā 18: Conclusion — The Perfection of Renunciation~~
