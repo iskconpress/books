@@ -1,7 +1,7 @@
-{{description>Bhakti, devotional service, dissolves the subtle body of the living entity without separate effort, just as fire in the stomach digests all that we eat.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 3.25.33~~
+~~bc:Text 33~~
+
+{{description>Bhakti, devotional service, dissolves the subtle body of the living entity without separate effort, just as fire in the stomach digests all that we eat.}}
 
 ====== SB 3.25.33 ======
 

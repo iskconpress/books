@@ -1,7 +1,7 @@
-{{description>My dear mother, O daughter of Manu, a devotee who applies the science of devotional service and mystic yoga in this way can achieve the abode of the Supreme Person simply by that devotional service.}}
-
-~~bc:Text 35~~
 ~~Title: Śrīmad Bhāgavatam 3.29.35~~
+~~bc:Text 35~~
+
+{{description>My dear mother, O daughter of Manu, a devotee who applies the science of devotional service and mystic yoga in this way can achieve the abode of the Supreme Person simply by that devotional service.}}
 
 ====== SB 3.29.35 ======
 

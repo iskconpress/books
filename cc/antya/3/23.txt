@@ -1,7 +1,7 @@
-{{description>"You are the most neutral among My associates. This is very good, for without being neutral one cannot protect religious principles.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 3.23~~
 ~~bc:Text 23~~
-~~Title:Caitanya-caritāmṛta, Antya 3.23~~
+
+{{description>"You are the most neutral among My associates. This is very good, for without being neutral one cannot protect religious principles.}}
 
 ====== CC Antya 3.23 ======
 

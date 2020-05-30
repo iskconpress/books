@@ -1,7 +1,7 @@
-{{description>Having gone through all the miserable, hellish conditions and having passed in a regular order through the lowest forms of animal life prior to human birth, and having thus been purged of his sins, one is reborn again as a human being on this earth.}}
-
-~~bc:Text 34~~
 ~~Title: Śrīmad Bhāgavatam 3.30.34~~
+~~bc:Text 34~~
+
+{{description>Having gone through all the miserable, hellish conditions and having passed in a regular order through the lowest forms of animal life prior to human birth, and having thus been purged of his sins, one is reborn again as a human being on this earth.}}
 
 ====== SB 3.30.34 ======
 

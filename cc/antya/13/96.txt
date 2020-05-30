@@ -1,7 +1,7 @@
-{{description>"You are a respectable gentleman, a learned scholar and a great devotee," he said. "Please do not try to serve me. Just come with me in a happy mood."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 13.96~~
 ~~bc:Text 96~~
-~~Title:Caitanya-caritāmṛta, Antya 13.96~~
+
+{{description>"You are a respectable gentleman, a learned scholar and a great devotee," he said. "Please do not try to serve me. Just come with me in a happy mood."}}
 
 ====== CC Antya 13.96 ======
 

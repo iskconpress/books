@@ -1,7 +1,7 @@
-{{description>The demigods, qualified by the superexcellent quality of the mode of goodness, are situated in the heavenly planets, whereas the human beings, because of their nature in the mode of passion, live on the earth in company with their subordinates.}}
-
-~~bc:Text 28~~
 ~~Title: Śrīmad Bhāgavatam 3.6.28~~
+~~bc:Text 28~~
+
+{{description>The demigods, qualified by the superexcellent quality of the mode of goodness, are situated in the heavenly planets, whereas the human beings, because of their nature in the mode of passion, live on the earth in company with their subordinates.}}
 
 ====== SB 3.6.28 ======
 

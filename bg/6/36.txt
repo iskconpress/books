@@ -1,7 +1,7 @@
-{{description>For one whose mind is unbridled, self-realization is difficult work. But he whose mind is controlled and who strives by right means is assured of success. That is My opinion.}}
-
-~~bc:Text 36~~
 ~~Title:Bhagavad-gītā As It Is 6.36~~
+~~bc:Text 36~~
+
+{{description>For one whose mind is unbridled, self-realization is difficult work. But he whose mind is controlled and who strives by right means is assured of success. That is My opinion.}}
 
 ====== Bg. 6.36 ======
 

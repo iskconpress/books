@@ -1,7 +1,7 @@
-{{description>An upstart living being who commits offenses by torturing those who are offenseless shall be directly uprooted by me, even though he be a denizen of heaven with armor and decorations.}}
-
-~~bc:Text 15~~
 ~~Title: Śrīmad Bhāgavatam 1.17.15~~
+~~bc:Text 15~~
+
+{{description>An upstart living being who commits offenses by torturing those who are offenseless shall be directly uprooted by me, even though he be a denizen of heaven with armor and decorations.}}
 
 ====== SB 1.17.15 ======
 

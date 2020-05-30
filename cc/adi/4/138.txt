@@ -1,7 +1,7 @@
-{{description>"My sweetness is wonderful, infinite and full. No one in the three worlds can find its limit.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 4.138~~
 ~~bc:Text 138~~
-~~Title:Caitanya-caritāmṛta, Ādi 4.138~~
+
+{{description>"My sweetness is wonderful, infinite and full. No one in the three worlds can find its limit.}}
 
 ====== CC Ādi 4.138 ======
 

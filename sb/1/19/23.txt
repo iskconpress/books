@@ -1,7 +1,7 @@
-{{description>The King said: O great sages, you have all very kindly assembled here, having come from all parts of the universe. You are all as good as supreme knowledge personified, who resides in the planet above the three worlds [Satyaloka]. Consequently you are naturally inclined to do good to others, and but for this you have no interest, either in this life or in the next.}}
-
-~~bc:Text 23~~
 ~~Title: Śrīmad Bhāgavatam 1.19.23~~
+~~bc:Text 23~~
+
+{{description>The King said: O great sages, you have all very kindly assembled here, having come from all parts of the universe. You are all as good as supreme knowledge personified, who resides in the planet above the three worlds [Satyaloka]. Consequently you are naturally inclined to do good to others, and but for this you have no interest, either in this life or in the next.}}
 
 ====== SB 1.19.23 ======
 

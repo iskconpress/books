@@ -1,7 +1,7 @@
-{{description>Hearing of the pitiable condition of King Indra, the demons, following the instructions of their guru, Śukrācārya, equipped themselves with weapons and declared war against the demigods.}}
-
-~~bc:Text 18~~
 ~~Title: Śrīmad Bhāgavatam 6.7.18~~
+~~bc:Text 18~~
+
+{{description>Hearing of the pitiable condition of King Indra, the demons, following the instructions of their guru, Śukrācārya, equipped themselves with weapons and declared war against the demigods.}}
 
 ====== SB 6.7.18 ======
 

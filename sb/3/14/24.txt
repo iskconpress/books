@@ -1,7 +1,7 @@
-{{description>Lord Śiva, the king of the ghosts, sitting on the back of his bull carrier, travels at this time, accompanied by ghosts who follow him for their welfare.}}
-
-~~bc:Text 24~~
 ~~Title: Śrīmad Bhāgavatam 3.14.24~~
+~~bc:Text 24~~
+
+{{description>Lord Śiva, the king of the ghosts, sitting on the back of his bull carrier, travels at this time, accompanied by ghosts who follow him for their welfare.}}
 
 ====== SB 3.14.24 ======
 

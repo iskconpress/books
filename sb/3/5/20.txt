@@ -1,7 +1,7 @@
-{{description>I know that you are now Vidura due to the cursing of Māṇḍavya Muni and that formerly you were King Yamarāja, the great controller of living entities after their death. You were begotten by the son of Satyavatī, Vyāsadeva, in the kept wife of his brother.}}
-
-~~bc:Text 20~~
 ~~Title: Śrīmad Bhāgavatam 3.5.20~~
+~~bc:Text 20~~
+
+{{description>I know that you are now Vidura due to the cursing of Māṇḍavya Muni and that formerly you were King Yamarāja, the great controller of living entities after their death. You were begotten by the son of Satyavatī, Vyāsadeva, in the kept wife of his brother.}}
 
 ====== SB 3.5.20 ======
 

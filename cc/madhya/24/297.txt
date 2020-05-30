@@ -1,7 +1,7 @@
-{{description>" 'Of words having the same form and case termination, the last one is the only one retained.'}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 24.297~~
 ~~bc:Text 297~~
-~~Title:Caitanya-caritāmṛta, Madhya 24.297~~
+
+{{description>" 'Of words having the same form and case termination, the last one is the only one retained.'}}
 
 ====== CC Madhya 24.297 ======
 

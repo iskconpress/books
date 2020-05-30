@@ -1,7 +1,7 @@
-{{description>As a serpent living within the cavity of a tree wishes to leave when there is a forest fire, so the city's police superintendent, the snake, wished to leave the city due to the fire's severe heat.}}
-
-~~bc:Text 14~~
 ~~Title: Śrīmad Bhāgavatam 4.28.14~~
+~~bc:Text 14~~
+
+{{description>As a serpent living within the cavity of a tree wishes to leave when there is a forest fire, so the city's police superintendent, the snake, wished to leave the city due to the fire's severe heat.}}
 
 ====== SB 4.28.14 ======
 

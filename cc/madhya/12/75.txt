@@ -1,7 +1,7 @@
-{{description>"The King gave a special order for me to do without delay whatever Your Lordship orders.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 12.75~~
 ~~bc:Text 75~~
-~~Title:Caitanya-caritāmṛta, Madhya 12.75~~
+
+{{description>"The King gave a special order for me to do without delay whatever Your Lordship orders.}}
 
 ====== CC Madhya 12.75 ======
 

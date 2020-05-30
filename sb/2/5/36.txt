@@ -1,7 +1,7 @@
-{{description>Great philosophers imagine that the complete planetary systems in the universe are displays of the different upper and lower limbs of the universal body of the Lord.}}
-
-~~bc:Text 36~~
 ~~Title: Śrīmad Bhāgavatam 2.5.36~~
+~~bc:Text 36~~
+
+{{description>Great philosophers imagine that the complete planetary systems in the universe are displays of the different upper and lower limbs of the universal body of the Lord.}}
 
 ====== SB 2.5.36 ======
 

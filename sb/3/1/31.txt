@@ -1,7 +1,7 @@
-{{description>O Uddhava, does Yuyudhāna fare well? He learned the intricacies of the military art from Arjuna and attained the transcendental destination which is very difficult to reach even for great renouncers.}}
-
-~~bc:Text 31~~
 ~~Title: Śrīmad Bhāgavatam 3.1.31~~
+~~bc:Text 31~~
+
+{{description>O Uddhava, does Yuyudhāna fare well? He learned the intricacies of the military art from Arjuna and attained the transcendental destination which is very difficult to reach even for great renouncers.}}
 
 ====== SB 3.1.31 ======
 

@@ -1,7 +1,7 @@
-{{description>The sage Maitreya continued: My dear Vidura, when everyone was thus praising Dhruva Mahārāja, the King was very happy, and he had Dhruva and his brother seated on the back of a she-elephant. Thus he returned to his capital, where he was praised by all classes of men.}}
-
-~~bc:Text 53~~
 ~~Title: Śrīmad Bhāgavatam 4.9.53~~
+~~bc:Text 53~~
+
+{{description>The sage Maitreya continued: My dear Vidura, when everyone was thus praising Dhruva Mahārāja, the King was very happy, and he had Dhruva and his brother seated on the back of a she-elephant. Thus he returned to his capital, where he was praised by all classes of men.}}
 
 ====== SB 4.9.53 ======
 

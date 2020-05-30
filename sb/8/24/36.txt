@@ -1,7 +1,7 @@
-{{description>Then, as the boat is tossed about by the powerful winds, attach the vessel to My horn by means of the great serpent Vāsuki, for I shall be present by your side.}}
-
-~~bc:Text 36~~
 ~~Title: Śrīmad Bhāgavatam 8.24.36~~
+~~bc:Text 36~~
+
+{{description>Then, as the boat is tossed about by the powerful winds, attach the vessel to My horn by means of the great serpent Vāsuki, for I shall be present by your side.}}
 
 ====== SB 8.24.36 ======
 

@@ -1,7 +1,7 @@
-{{description>You have undertaken sacred vows. God will bless you. Hence you should worship the Lord with great faith, through sensory control, religious observances, austerities and gifts of your money in charity.}}
-
-~~bc:Text 3~~
 ~~Title: Śrīmad Bhāgavatam 3.24.3~~
+~~bc:Text 3~~
+
+{{description>You have undertaken sacred vows. God will bless you. Hence you should worship the Lord with great faith, through sensory control, religious observances, austerities and gifts of your money in charity.}}
 
 ====== SB 3.24.3 ======
 

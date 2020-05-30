@@ -1,7 +1,7 @@
-{{description>A few months passed, and Arjuna did not return. Mahārāja Yudhiṣṭhira then began to observe some inauspicious omens, which were fearful in themselves.}}
-
-~~bc:Text 2~~
 ~~Title: Śrīmad Bhāgavatam 1.14.2~~
+~~bc:Text 2~~
+
+{{description>A few months passed, and Arjuna did not return. Mahārāja Yudhiṣṭhira then began to observe some inauspicious omens, which were fearful in themselves.}}
 
 ====== SB 1.14.2 ======
 

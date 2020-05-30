@@ -1,7 +1,7 @@
-{{description>Odor, although one, becomes many—as mixed, offensive, fragrant, mild, strong, acidic and so on—according to the proportions of associated substances.}}
-
-~~bc:Text 45~~
 ~~Title: Śrīmad Bhāgavatam 3.26.45~~
+~~bc:Text 45~~
+
+{{description>Odor, although one, becomes many—as mixed, offensive, fragrant, mild, strong, acidic and so on—according to the proportions of associated substances.}}
 
 ====== SB 3.26.45 ======
 

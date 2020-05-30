@@ -1,7 +1,7 @@
-{{description>If one can afford to, one should offer the Deity fine rice boiled in milk with clarified butter and molasses. While chanting the same original mantra, one should offer all this to the fire.}}
-
-~~bc:Text 40~~
 ~~Title: Śrīmad Bhāgavatam 8.16.40~~
+~~bc:Text 40~~
+
+{{description>If one can afford to, one should offer the Deity fine rice boiled in milk with clarified butter and molasses. While chanting the same original mantra, one should offer all this to the fire.}}
 
 ====== SB 8.16.40 ======
 

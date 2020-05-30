@@ -1,7 +1,7 @@
-{{description>In a house inside the lake she saw one thousand girls, all in the prime of youth and fragrant like lotuses.}}
-
-~~bc:Text 26~~
 ~~Title: Śrīmad Bhāgavatam 3.23.26~~
+~~bc:Text 26~~
+
+{{description>In a house inside the lake she saw one thousand girls, all in the prime of youth and fragrant like lotuses.}}
 
 ====== SB 3.23.26 ======
 

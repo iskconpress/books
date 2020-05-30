@@ -1,7 +1,7 @@
-{{description>Softness and hardness and cold and heat are the distinguishing attributes of touch, which is characterized as the subtle form of air.}}
-
-~~bc:Text 36~~
 ~~Title: Śrīmad Bhāgavatam 3.26.36~~
+~~bc:Text 36~~
+
+{{description>Softness and hardness and cold and heat are the distinguishing attributes of touch, which is characterized as the subtle form of air.}}
 
 ====== SB 3.26.36 ======
 

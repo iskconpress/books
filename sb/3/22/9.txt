@@ -1,7 +1,7 @@
-{{description>My daughter is the sister of Priyavrata and Uttānapāda. She is seeking a suitable husband in terms of age, character and good qualities.}}
-
-~~bc:Text 9~~
 ~~Title: Śrīmad Bhāgavatam 3.22.9~~
+~~bc:Text 9~~
+
+{{description>My daughter is the sister of Priyavrata and Uttānapāda. She is seeking a suitable husband in terms of age, character and good qualities.}}
 
 ====== SB 3.22.9 ======
 

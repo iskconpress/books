@@ -1,7 +1,7 @@
-{{description>Have you contacted a woman of impeachable character, or have you not properly treated a deserving woman? Or have you been defeated on the way by someone who is inferior or equal to you?}}
-
-~~bc:Text 42~~
 ~~Title: Śrīmad Bhāgavatam 1.14.42~~
+~~bc:Text 42~~
+
+{{description>Have you contacted a woman of impeachable character, or have you not properly treated a deserving woman? Or have you been defeated on the way by someone who is inferior or equal to you?}}
 
 ====== SB 1.14.42 ======
 

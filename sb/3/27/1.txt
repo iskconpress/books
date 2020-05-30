@@ -1,7 +1,7 @@
-{{description>The Personality of Godhead Kapila continued: When the living entity is thus unaffected by the modes of material nature, because he is unchanging and does not claim proprietorship, he remains apart from the reactions of the modes, although abiding in a material body, just as the sun remains aloof from its reflection on water.}}
-
-~~bc:Text 1~~
 ~~Title: Śrīmad Bhāgavatam 3.27.1~~
+~~bc:Text 1~~
+
+{{description>The Personality of Godhead Kapila continued: When the living entity is thus unaffected by the modes of material nature, because he is unchanging and does not claim proprietorship, he remains apart from the reactions of the modes, although abiding in a material body, just as the sun remains aloof from its reflection on water.}}
 
 ====== SB 3.27.1 ======
 

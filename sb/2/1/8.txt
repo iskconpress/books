@@ -1,7 +1,7 @@
-{{description>At the end of the Dvāpara-yuga, I studied this great supplement of Vedic literature named Śrīmad-Bhāgavatam, which is equal to all the Vedas, from my father, Śrīla Dvaipāyana Vyāsadeva.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 2.1.8~~
+~~bc:Text 8~~
+
+{{description>At the end of the Dvāpara-yuga, I studied this great supplement of Vedic literature named Śrīmad-Bhāgavatam, which is equal to all the Vedas, from my father, Śrīla Dvaipāyana Vyāsadeva.}}
 
 ====== SB 2.1.8 ======
 

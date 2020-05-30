@@ -1,7 +1,7 @@
-{{description>You beggar, since you don't understand your position, why should you unnecessarily talk so much? Don't all of you wait at our house, depending on us for your livelihood like crows?}}
-
-~~bc:Text 16~~
 ~~Title: Śrīmad Bhāgavatam 9.18.16~~
+~~bc:Text 16~~
+
+{{description>You beggar, since you don't understand your position, why should you unnecessarily talk so much? Don't all of you wait at our house, depending on us for your livelihood like crows?}}
 
 ====== SB 9.18.16 ======
 

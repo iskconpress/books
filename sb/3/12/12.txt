@@ -1,7 +1,7 @@
-{{description>Lord Brahmā said: My dear boy Rudra, you have eleven other names: Manyu, Manu, Mahinasa, Mahān, Śiva, Ṛtadhvaja, Ugraretā, Bhava, Kāla, Vāmadeva and Dhṛtavrata.}}
-
-~~bc:Text 12~~
 ~~Title: Śrīmad Bhāgavatam 3.12.12~~
+~~bc:Text 12~~
+
+{{description>Lord Brahmā said: My dear boy Rudra, you have eleven other names: Manyu, Manu, Mahinasa, Mahān, Śiva, Ṛtadhvaja, Ugraretā, Bhava, Kāla, Vāmadeva and Dhṛtavrata.}}
 
 ====== SB 3.12.12 ======
 

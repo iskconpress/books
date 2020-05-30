@@ -1,7 +1,7 @@
-{{description>"I really had no business in coming to Bengal, but I have come just to see you two brothers.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 1.212~~
 ~~bc:Text 212~~
-~~Title:Caitanya-caritāmṛta, Madhya 1.212~~
+
+{{description>"I really had no business in coming to Bengal, but I have come just to see you two brothers.}}
 
 ====== CC Madhya 1.212 ======
 

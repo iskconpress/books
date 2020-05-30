@@ -1,7 +1,7 @@
-{{description>"Please go to the sister of Śikhi Māhiti. In my name, ask her for a māna of white rice and bring it here."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 2.103~~
 ~~bc:Text 103~~
-~~Title:Caitanya-caritāmṛta, Antya 2.103~~
+
+{{description>"Please go to the sister of Śikhi Māhiti. In my name, ask her for a māna of white rice and bring it here."}}
 
 ====== CC Antya 2.103 ======
 

@@ -1,7 +1,7 @@
-{{description>" 'One whose faith is not very strong, who is just beginning, should be considered a neophyte devotee.'}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 22.70~~
 ~~bc:Text 70~~
-~~Title:Caitanya-caritāmṛta, Madhya 22.70~~
+
+{{description>" 'One whose faith is not very strong, who is just beginning, should be considered a neophyte devotee.'}}
 
 ====== CC Madhya 22.70 ======
 

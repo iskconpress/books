@@ -1,7 +1,7 @@
-{{description>Because of the bits of sand thrown about by Tṛṇāvarta, people could not see themselves or anyone else, and thus they were illusioned and disturbed.}}
-
-~~bc:Text 23~~
 ~~Title: Śrīmad Bhāgavatam 10.7.23~~
+~~bc:Text 23~~
+
+{{description>Because of the bits of sand thrown about by Tṛṇāvarta, people could not see themselves or anyone else, and thus they were illusioned and disturbed.}}
 
 ====== SB 10.7.23 ======
 

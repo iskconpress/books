@@ -1,7 +1,7 @@
-{{description>Your mind has been perturbed upon seeing this horrible feature of Mine. Now let it be finished. My devotee, be free from all disturbance. With a peaceful mind you can now see the form you desire.}}
-
-~~bc:Text 49~~
 ~~Title:Bhagavad-gītā As It Is 11.49~~
+~~bc:Text 49~~
+
+{{description>Your mind has been perturbed upon seeing this horrible feature of Mine. Now let it be finished. My devotee, be free from all disturbance. With a peaceful mind you can now see the form you desire.}}
 
 ====== Bg. 11.49 ======
 

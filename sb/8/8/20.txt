@@ -1,7 +1,7 @@
-{{description>The goddess of fortune, examining the assembly, thought in this way: Someone who has undergone great austerity has not yet conquered anger. Someone possesses knowledge, but he has not conquered material desires. Someone is a very great personality, but he cannot conquer lusty desires. Even a great personality depends on something else. How, then, can he be the supreme controller?}}
-
-~~bc:Text 20~~
 ~~Title: Śrīmad Bhāgavatam 8.8.20~~
+~~bc:Text 20~~
+
+{{description>The goddess of fortune, examining the assembly, thought in this way: Someone who has undergone great austerity has not yet conquered anger. Someone possesses knowledge, but he has not conquered material desires. Someone is a very great personality, but he cannot conquer lusty desires. Even a great personality depends on something else. How, then, can he be the supreme controller?}}
 
 ====== SB 8.8.20 ======
 

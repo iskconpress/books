@@ -1,7 +1,7 @@
-{{description>"I am the only gardener. How many places can I go? How many fruits can I pick and distribute?}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 9.34~~
 ~~bc:Text 34~~
-~~Title:Caitanya-caritāmṛta, Ādi 9.34~~
+
+{{description>"I am the only gardener. How many places can I go? How many fruits can I pick and distribute?}}
 
 ====== CC Ādi 9.34 ======
 

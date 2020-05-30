@@ -1,7 +1,7 @@
-{{description>O god of the demigods, sustainer of the universe, head jewel of all the demigods in other planets, you know the intentions of all living entities, in both the spiritual and material worlds.}}
-
-~~bc:Text 4~~
 ~~Title: Śrīmad Bhāgavatam 3.15.4~~
+~~bc:Text 4~~
+
+{{description>O god of the demigods, sustainer of the universe, head jewel of all the demigods in other planets, you know the intentions of all living entities, in both the spiritual and material worlds.}}
 
 ====== SB 3.15.4 ======
 

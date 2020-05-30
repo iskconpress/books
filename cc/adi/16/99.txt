@@ -1,7 +1,7 @@
-{{description>"You are the most learned scholar and the topmost of all great poets, for otherwise how could such fine poetry come from your mouth?}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 16.99~~
 ~~bc:Text 99~~
-~~Title:Caitanya-caritāmṛta, Ādi 16.99~~
+
+{{description>"You are the most learned scholar and the topmost of all great poets, for otherwise how could such fine poetry come from your mouth?}}
 
 ====== CC Ādi 16.99 ======
 

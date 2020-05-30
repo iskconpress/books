@@ -1,7 +1,7 @@
-{{description>My dear father, you know everything, and you are the controller of all. Therefore may all that I have inquired from you be kindly instructed to me so that I may be able to understand it as your student.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 2.5.8~~
+~~bc:Text 8~~
+
+{{description>My dear father, you know everything, and you are the controller of all. Therefore may all that I have inquired from you be kindly instructed to me so that I may be able to understand it as your student.}}
 
 ====== SB 2.5.8 ======
 

@@ -1,7 +1,7 @@
-{{description>As the moon reflected on water appears to the seer to tremble due to being associated with the quality of the water, so the self associated with matter appears to be qualified as matter.}}
-
-~~bc:Text 11~~
 ~~Title: Śrīmad Bhāgavatam 3.7.11~~
+~~bc:Text 11~~
+
+{{description>As the moon reflected on water appears to the seer to tremble due to being associated with the quality of the water, so the self associated with matter appears to be qualified as matter.}}
 
 ====== SB 3.7.11 ======
 

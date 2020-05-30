@@ -1,7 +1,7 @@
-{{description>The Blessed Lord said: Again I shall declare to you this supreme wisdom, the best of all knowledge, knowing which all the sages have attained to supreme perfection.}}
-
-~~bc:Text 1~~
 ~~Title:Bhagavad-gītā As It Is 14.1~~
+~~bc:Text 1~~
+
+{{description>The Blessed Lord said: Again I shall declare to you this supreme wisdom, the best of all knowledge, knowing which all the sages have attained to supreme perfection.}}
 
 ====== Bg. 14.1 ======
 

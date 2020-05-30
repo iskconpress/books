@@ -1,7 +1,7 @@
-{{description>This cosmic manifestation is as it is now, it was the same in the past, and it will continue in the same way in the future.}}
-
-~~bc:Text 13~~
 ~~Title: Śrīmad Bhāgavatam 3.10.13~~
+~~bc:Text 13~~
+
+{{description>This cosmic manifestation is as it is now, it was the same in the past, and it will continue in the same way in the future.}}
 
 ====== SB 3.10.13 ======
 

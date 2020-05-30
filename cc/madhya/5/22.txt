@@ -1,7 +1,7 @@
-{{description>"You are a most aristocratic family man, well educated and very rich. I am not at all aristocratic, and I am without a decent education and have no wealth.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 5.22~~
 ~~bc:Text 22~~
-~~Title:Caitanya-caritāmṛta, Madhya 5.22~~
+
+{{description>"You are a most aristocratic family man, well educated and very rich. I am not at all aristocratic, and I am without a decent education and have no wealth.}}
 
 ====== CC Madhya 5.22 ======
 

@@ -1,7 +1,7 @@
-{{description>"Śrīla Rāmānanda Rāya has taken these two girls to a solitary place in his garden, where he is teaching and directing them to dance according to the songs he has composed for his drama.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 5.14~~
 ~~bc:Text 14~~
-~~Title:Caitanya-caritāmṛta, Antya 5.14~~
+
+{{description>"Śrīla Rāmānanda Rāya has taken these two girls to a solitary place in his garden, where he is teaching and directing them to dance according to the songs he has composed for his drama.}}
 
 ====== CC Antya 5.14 ======
 

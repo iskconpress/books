@@ -1,7 +1,7 @@
-{{description>A vānaprastha should prepare a thatched cottage or take shelter of a cave in a mountain only to keep the sacred fire, but he should personally practice enduring snowfall, wind, fire, rain and the shining of the sun.}}
-
-~~bc:Text 20~~
 ~~Title: Śrīmad Bhāgavatam 7.12.20~~
+~~bc:Text 20~~
+
+{{description>A vānaprastha should prepare a thatched cottage or take shelter of a cave in a mountain only to keep the sacred fire, but he should personally practice enduring snowfall, wind, fire, rain and the shining of the sun.}}
 
 ====== SB 7.12.20 ======
 

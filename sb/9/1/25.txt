@@ -1,7 +1,7 @@
-{{description>There in the north, at the bottom of Mount Meru, is a forest known as Sukumāra where Lord Śiva always enjoys with Umā. Sudyumna entered that forest.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 9.1.25~~
+~~bc:Text 25~~
+
+{{description>There in the north, at the bottom of Mount Meru, is a forest known as Sukumāra where Lord Śiva always enjoys with Umā. Sudyumna entered that forest.}}
 
 ====== SB 9.1.25 ======
 

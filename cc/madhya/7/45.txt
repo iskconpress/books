@@ -1,7 +1,7 @@
-{{description>"Please permit Me to go, for I must tour South India. With your permission, I shall soon return very happily."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 7.45~~
 ~~bc:Text 45~~
-~~Title:Caitanya-caritāmṛta, Madhya 7.45~~
+
+{{description>"Please permit Me to go, for I must tour South India. With your permission, I shall soon return very happily."}}
 
 ====== CC Madhya 7.45 ======
 

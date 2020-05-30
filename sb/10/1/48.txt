@@ -1,7 +1,7 @@
-{{description>As long as he has intelligence and bodily strength, an intelligent person must try to avoid death. This is the duty of every embodied person. But if death cannot be avoided in spite of one's endeavors, a person facing death commits no offense.}}
-
-~~bc:Text 48~~
 ~~Title: Śrīmad Bhāgavatam 10.1.48~~
+~~bc:Text 48~~
+
+{{description>As long as he has intelligence and bodily strength, an intelligent person must try to avoid death. This is the duty of every embodied person. But if death cannot be avoided in spite of one's endeavors, a person facing death commits no offense.}}
 
 ====== SB 10.1.48 ======
 

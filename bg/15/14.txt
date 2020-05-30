@@ -1,7 +1,7 @@
-{{description>I am the fire of digestion in every living body, and I am the air of life, outgoing and incoming, by which I digest the four kinds of foodstuff.}}
-
-~~bc:Text 14~~
 ~~Title:Bhagavad-gītā As It Is 15.14~~
+~~bc:Text 14~~
+
+{{description>I am the fire of digestion in every living body, and I am the air of life, outgoing and incoming, by which I digest the four kinds of foodstuff.}}
 
 ====== Bg. 15.14 ======
 

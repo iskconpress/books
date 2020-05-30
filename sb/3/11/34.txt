@@ -1,7 +1,7 @@
-{{description>The one hundred years of Brahmā's life are divided into two parts, the first half and the second half. The first half of the duration of Brahmā's life is already over, and the second half is now current.}}
-
-~~bc:Text 34~~
 ~~Title: Śrīmad Bhāgavatam 3.11.34~~
+~~bc:Text 34~~
+
+{{description>The one hundred years of Brahmā's life are divided into two parts, the first half and the second half. The first half of the duration of Brahmā's life is already over, and the second half is now current.}}
 
 ====== SB 3.11.34 ======
 

@@ -1,7 +1,7 @@
-{{description>O my dear hero, who in this world will not accept a husband like you? You are so famous, so magnanimous, so beautiful and so easily gotten.}}
-
-~~bc:Text 41~~
 ~~Title: Śrīmad Bhāgavatam 4.25.41~~
+~~bc:Text 41~~
+
+{{description>O my dear hero, who in this world will not accept a husband like you? You are so famous, so magnanimous, so beautiful and so easily gotten.}}
 
 ====== SB 4.25.41 ======
 

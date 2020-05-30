@@ -1,7 +1,7 @@
-{{description>By churning the ocean of milk, Ajita produced nectar for the demigods. In the form of a tortoise, He moved here and there, carrying on His back the great mountain known as Mandara.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 8.5.10~~
+~~bc:Text 10~~
+
+{{description>By churning the ocean of milk, Ajita produced nectar for the demigods. In the form of a tortoise, He moved here and there, carrying on His back the great mountain known as Mandara.}}
 
 ====== SB 8.5.10 ======
 

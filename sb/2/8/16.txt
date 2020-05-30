@@ -1,7 +1,7 @@
-{{description>Also, please describe the inner and outer space of the universe by specific divisions, as well as the character and activities of the great souls, and also the characteristics of the different classifications of the castes and orders of social life.}}
-
-~~bc:Text 16~~
 ~~Title: Śrīmad Bhāgavatam 2.8.16~~
+~~bc:Text 16~~
+
+{{description>Also, please describe the inner and outer space of the universe by specific divisions, as well as the character and activities of the great souls, and also the characteristics of the different classifications of the castes and orders of social life.}}
 
 ====== SB 2.8.16 ======
 

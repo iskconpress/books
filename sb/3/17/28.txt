@@ -1,7 +1,7 @@
-{{description>You are the guardian of an entire sphere and a ruler of wide fame. Having crushed the might of arrogant and conceited warriors and having conquered all the Daityas and Dānavas in the world, you once performed a Rājasūya sacrifice to the Lord.}}
-
-~~bc:Text 28~~
 ~~Title: Śrīmad Bhāgavatam 3.17.28~~
+~~bc:Text 28~~
+
+{{description>You are the guardian of an entire sphere and a ruler of wide fame. Having crushed the might of arrogant and conceited warriors and having conquered all the Daityas and Dānavas in the world, you once performed a Rājasūya sacrifice to the Lord.}}
 
 ====== SB 3.17.28 ======
 

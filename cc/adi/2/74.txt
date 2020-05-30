@@ -1,7 +1,7 @@
-{{description>" 'One should not state a predicate before its subject, for it cannot thus stand without proper support.'}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.74~~
 ~~bc:Text 74~~
-~~Title:Caitanya-caritāmṛta, Ādi 2.74~~
+
+{{description>" 'One should not state a predicate before its subject, for it cannot thus stand without proper support.'}}
 
 ====== CC Ādi 2.74 ======
 

@@ -1,7 +1,7 @@
-{{description>Vasudeva said: My dear brother-in-law Kaṁsa, you are the pride of your family, the Bhoja dynasty, and great heroes praise your qualities. How could such a qualified person as you kill a woman, your own sister, especially on the occasion of her marriage?}}
-
-~~bc:Text 37~~
 ~~Title: Śrīmad Bhāgavatam 10.1.37~~
+~~bc:Text 37~~
+
+{{description>Vasudeva said: My dear brother-in-law Kaṁsa, you are the pride of your family, the Bhoja dynasty, and great heroes praise your qualities. How could such a qualified person as you kill a woman, your own sister, especially on the occasion of her marriage?}}
 
 ====== SB 10.1.37 ======
 

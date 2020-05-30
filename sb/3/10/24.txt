@@ -1,7 +1,7 @@
-{{description>The dog, jackal, tiger, fox, cat, rabbit, sajāru, lion, monkey, elephant, tortoise, alligator, gosāpa, etc., all have five nails in their claws. They are known as pañca-nakhas, or animals having five nails.}}
-
-~~bc:Text 24~~
 ~~Title: Śrīmad Bhāgavatam 3.10.24~~
+~~bc:Text 24~~
+
+{{description>The dog, jackal, tiger, fox, cat, rabbit, sajāru, lion, monkey, elephant, tortoise, alligator, gosāpa, etc., all have five nails in their claws. They are known as pañca-nakhas, or animals having five nails.}}
 
 ====== SB 3.10.24 ======
 

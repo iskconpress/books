@@ -1,7 +1,7 @@
-{{description>The blazing fire is different from the flames, from the sparks and from the smoke, although all are intimately connected because they are born from the same blazing wood.}}
-
-~~bc:Text 40~~
 ~~Title: Śrīmad Bhāgavatam 3.28.40~~
+~~bc:Text 40~~
+
+{{description>The blazing fire is different from the flames, from the sparks and from the smoke, although all are intimately connected because they are born from the same blazing wood.}}
 
 ====== SB 3.28.40 ======
 

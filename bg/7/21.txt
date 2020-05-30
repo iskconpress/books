@@ -1,7 +1,7 @@
-{{description>I am in everyone's heart as the Supersoul. As soon as one desires to worship the demigods, I make his faith steady so that he can devote himself to some particular deity.}}
-
-~~bc:Text 21~~
 ~~Title:Bhagavad-gītā As It Is 7.21~~
+~~bc:Text 21~~
+
+{{description>I am in everyone's heart as the Supersoul. As soon as one desires to worship the demigods, I make his faith steady so that he can devote himself to some particular deity.}}
 
 ====== Bg. 7.21 ======
 

@@ -1,7 +1,7 @@
-{{description>This phenomenal material world is expanded to a diameter of four billion miles, as a combination of eight material elements transformed into sixteen further categories, within and without, as follows.}}
-
-~~bc:Text 40~~
 ~~Title: Śrīmad Bhāgavatam 3.11.40~~
+~~bc:Text 40~~
+
+{{description>This phenomenal material world is expanded to a diameter of four billion miles, as a combination of eight material elements transformed into sixteen further categories, within and without, as follows.}}
 
 ====== SB 3.11.40 ======
 

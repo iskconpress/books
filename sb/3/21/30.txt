@@ -1,7 +1,7 @@
-{{description>With your heart cleansed by properly carrying out My command, resigning to Me the fruits of all your acts, you will finally attain to Me.}}
-
-~~bc:Text 30~~
 ~~Title: Śrīmad Bhāgavatam 3.21.30~~
+~~bc:Text 30~~
+
+{{description>With your heart cleansed by properly carrying out My command, resigning to Me the fruits of all your acts, you will finally attain to Me.}}
 
 ====== SB 3.21.30 ======
 

@@ -1,7 +1,7 @@
-{{description>"This verse repeats the word 'eva' ['certainly'] three times for emphasis, and it also three times repeats 'harer nāma' ['the holy name of the Lord'], just to make common people understand.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 17.23~~
 ~~bc:Text 23~~
-~~Title:Caitanya-caritāmṛta, Ādi 17.23~~
+
+{{description>"This verse repeats the word 'eva' ['certainly'] three times for emphasis, and it also three times repeats 'harer nāma' ['the holy name of the Lord'], just to make common people understand.}}
 
 ====== CC Ādi 17.23 ======
 

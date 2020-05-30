@@ -1,7 +1,7 @@
-{{description>"Do not go near there. I forbid you. If you go, that ghost will catch you all."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 18.59~~
 ~~bc:Text 59~~
-~~Title:Caitanya-caritāmṛta, Antya 18.59~~
+
+{{description>"Do not go near there. I forbid you. If you go, that ghost will catch you all."}}
 
 ====== CC Antya 18.59 ======
 

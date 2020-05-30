@@ -1,7 +1,7 @@
-{{description>"This pot of sweet rice is just behind My cloth curtain. You did not see it because of My tricks.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 4.128~~
 ~~bc:Text 128~~
-~~Title:Caitanya-caritāmṛta, Madhya 4.128~~
+
+{{description>"This pot of sweet rice is just behind My cloth curtain. You did not see it because of My tricks.}}
 
 ====== CC Madhya 4.128 ======
 

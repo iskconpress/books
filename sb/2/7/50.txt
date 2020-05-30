@@ -1,7 +1,7 @@
-{{description>My dear son, I have now explained in brief the Supreme Personality of Godhead, who is creator of the manifested worlds. Without Him, Hari, the Lord, there are no other causes of the phenomenal and noumenal existences.}}
-
-~~bc:Text 50~~
 ~~Title: Śrīmad Bhāgavatam 2.7.50~~
+~~bc:Text 50~~
+
+{{description>My dear son, I have now explained in brief the Supreme Personality of Godhead, who is creator of the manifested worlds. Without Him, Hari, the Lord, there are no other causes of the phenomenal and noumenal existences.}}
 
 ====== SB 2.7.50 ======
 

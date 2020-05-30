@@ -1,7 +1,7 @@
-{{description>"Everyone is asking why I have come to this village of Rāmakeli. No one knows My intentions.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 1.213~~
 ~~bc:Text 213~~
-~~Title:Caitanya-caritāmṛta, Madhya 1.213~~
+
+{{description>"Everyone is asking why I have come to this village of Rāmakeli. No one knows My intentions.}}
 
 ====== CC Madhya 1.213 ======
 

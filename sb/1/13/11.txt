@@ -1,7 +1,7 @@
-{{description>My uncle, you must have visited Dvārakā. In that holy place are our friends and well-wishers, the descendants of Yadu, who are always rapt in the service of the Lord Śrī Kṛṣṇa. You might have seen them or heard about them. Are they all living happily in their abodes?}}
-
-~~bc:Text 11~~
 ~~Title: Śrīmad Bhāgavatam 1.13.11~~
+~~bc:Text 11~~
+
+{{description>My uncle, you must have visited Dvārakā. In that holy place are our friends and well-wishers, the descendants of Yadu, who are always rapt in the service of the Lord Śrī Kṛṣṇa. You might have seen them or heard about them. Are they all living happily in their abodes?}}
 
 ====== SB 1.13.11 ======
 

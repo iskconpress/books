@@ -1,7 +1,7 @@
-{{description>"I do not know the strength of Rādhā's love, with which She always overwhelms Me.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 4.123~~
 ~~bc:Text 123~~
-~~Title:Caitanya-caritāmṛta, Ādi 4.123~~
+
+{{description>"I do not know the strength of Rādhā's love, with which She always overwhelms Me.}}
 
 ====== CC Ādi 4.123 ======
 

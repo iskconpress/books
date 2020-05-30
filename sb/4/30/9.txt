@@ -1,7 +1,7 @@
-{{description>The Lord continued: Those who remember you every evening of every day will become friendly with their brothers and with all other living entities.}}
-
-~~bc:Text 9~~
 ~~Title: Śrīmad Bhāgavatam 4.30.9~~
+~~bc:Text 9~~
+
+{{description>The Lord continued: Those who remember you every evening of every day will become friendly with their brothers and with all other living entities.}}
 
 ====== SB 4.30.9 ======
 

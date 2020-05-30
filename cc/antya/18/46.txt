@@ -1,7 +1,7 @@
-{{description>"My dear fisherman," he said, "why are you behaving like this? Have you seen someone hereabouts? What is the cause of your behavior? Please tell us."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 18.46~~
 ~~bc:Text 46~~
-~~Title:Caitanya-caritāmṛta, Antya 18.46~~
+
+{{description>"My dear fisherman," he said, "why are you behaving like this? Have you seen someone hereabouts? What is the cause of your behavior? Please tell us."}}
 
 ====== CC Antya 18.46 ======
 

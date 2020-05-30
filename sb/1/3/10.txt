@@ -1,7 +1,7 @@
-{{description>The fifth incarnation, named Lord Kapila, is foremost among perfected beings. He gave an exposition of the creative elements and metaphysics to Āsuri Brāhmaṇa, for in course of time this knowledge had been lost.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 1.3.10~~
+~~bc:Text 10~~
+
+{{description>The fifth incarnation, named Lord Kapila, is foremost among perfected beings. He gave an exposition of the creative elements and metaphysics to Āsuri Brāhmaṇa, for in course of time this knowledge had been lost.}}
 
 ====== SB 1.3.10 ======
 

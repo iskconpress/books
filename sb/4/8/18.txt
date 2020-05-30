@@ -1,7 +1,7 @@
-{{description>Sunīti said: My dear boy, whatever has been spoken by Suruci is so, because the King, your father, does not consider me his wife or even his maidservant. He feels ashamed to accept me. Therefore it is a fact that you have taken birth from the womb of an unfortunate woman, and by being fed from her breast you have grown up.}}
-
-~~bc:Text 18~~
 ~~Title: Śrīmad Bhāgavatam 4.8.18~~
+~~bc:Text 18~~
+
+{{description>Sunīti said: My dear boy, whatever has been spoken by Suruci is so, because the King, your father, does not consider me his wife or even his maidservant. He feels ashamed to accept me. Therefore it is a fact that you have taken birth from the womb of an unfortunate woman, and by being fed from her breast you have grown up.}}
 
 ====== SB 4.8.18 ======
 

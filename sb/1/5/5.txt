@@ -1,7 +1,7 @@
-{{description>Śrī Vyāsadeva said: All you have said about me is perfectly correct. Despite all this, I am not pacified. I therefore question you about the root cause of my dissatisfaction, for you are a man of unlimited knowledge due to your being the offspring of one [Brahmā] who is self-born [without mundane father and mother].}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 1.5.5~~
+~~bc:Text 5~~
+
+{{description>Śrī Vyāsadeva said: All you have said about me is perfectly correct. Despite all this, I am not pacified. I therefore question you about the root cause of my dissatisfaction, for you are a man of unlimited knowledge due to your being the offspring of one [Brahmā] who is self-born [without mundane father and mother].}}
 
 ====== SB 1.5.5 ======
 

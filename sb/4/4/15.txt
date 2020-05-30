@@ -1,7 +1,7 @@
-{{description>You are envious of Lord Śiva, who is the friend of all living entities within the three worlds. For the common man he fulfills all desires, and because of their engagement in thinking of his lotus feet, he also blesses higher personalities who are seeking after brahmānanda [transcendental bliss].}}
-
-~~bc:Text 15~~
 ~~Title: Śrīmad Bhāgavatam 4.4.15~~
+~~bc:Text 15~~
+
+{{description>You are envious of Lord Śiva, who is the friend of all living entities within the three worlds. For the common man he fulfills all desires, and because of their engagement in thinking of his lotus feet, he also blesses higher personalities who are seeking after brahmānanda [transcendental bliss].}}
 
 ====== SB 4.4.15 ======
 

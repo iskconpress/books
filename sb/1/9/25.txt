@@ -1,7 +1,7 @@
-{{description>Sūta Gosvāmī said: Mahārāja Yudhiṣṭhira, after hearing Bhīṣmadeva speak in that appealing tone, asked him, in the presence of all the great ṛṣis, about the essential principles of various religious duties.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 1.9.25~~
+~~bc:Text 25~~
+
+{{description>Sūta Gosvāmī said: Mahārāja Yudhiṣṭhira, after hearing Bhīṣmadeva speak in that appealing tone, asked him, in the presence of all the great ṛṣis, about the essential principles of various religious duties.}}
 
 ====== SB 1.9.25 ======
 

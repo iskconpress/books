@@ -1,7 +1,7 @@
-{{description>The twelve boys born of Yajña and Dakṣiṇā were named Toṣa, Pratoṣa, Santoṣa, Bhadra, Sānti, Iḍaspati, Idhma, Kavi, Vibhu, Svahna, Sudeva and Rocana.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 4.1.7~~
+~~bc:Text 7~~
+
+{{description>The twelve boys born of Yajña and Dakṣiṇā were named Toṣa, Pratoṣa, Santoṣa, Bhadra, Sānti, Iḍaspati, Idhma, Kavi, Vibhu, Svahna, Sudeva and Rocana.}}
 
 ====== SB 4.1.7 ======
 

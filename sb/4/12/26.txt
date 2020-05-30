@@ -1,7 +1,7 @@
-{{description>Dear King Dhruva, neither your forefathers nor anyone else before you ever achieved such a transcendental planet. The planet known as Viṣṇuloka, where Lord Viṣṇu personally resides, is the highest of all. It is worshipable by the inhabitants of all other planets within the universe. Please come with us and live there eternally.}}
-
-~~bc:Text 26~~
 ~~Title: Śrīmad Bhāgavatam 4.12.26~~
+~~bc:Text 26~~
+
+{{description>Dear King Dhruva, neither your forefathers nor anyone else before you ever achieved such a transcendental planet. The planet known as Viṣṇuloka, where Lord Viṣṇu personally resides, is the highest of all. It is worshipable by the inhabitants of all other planets within the universe. Please come with us and live there eternally.}}
 
 ====== SB 4.12.26 ======
 

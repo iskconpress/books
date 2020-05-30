@@ -1,7 +1,7 @@
-{{description>By human calculation, a thousand ages taken together is the duration of Brahmā's one day. And such also is the duration of his night.}}
-
-~~bc:Text 17~~
 ~~Title:Bhagavad-gītā As It Is 8.17~~
+~~bc:Text 17~~
+
+{{description>By human calculation, a thousand ages taken together is the duration of Brahmā's one day. And such also is the duration of his night.}}
 
 ====== Bg. 8.17 ======
 

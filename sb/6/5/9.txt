@@ -1,7 +1,7 @@
-{{description>Alas, your father is omniscient, but you do not know his actual order. Without knowing the actual purpose of your father, how will you create progeny?}}
-
-~~bc:Text 9~~
 ~~Title: Śrīmad Bhāgavatam 6.5.9~~
+~~bc:Text 9~~
+
+{{description>Alas, your father is omniscient, but you do not know his actual order. Without knowing the actual purpose of your father, how will you create progeny?}}
 
 ====== SB 6.5.9 ======
 

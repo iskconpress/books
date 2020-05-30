@@ -1,7 +1,7 @@
-{{description>"My dear mother, wherever you ask Me to stay I shall stay, and whatever you order I shall execute."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 3.148~~
 ~~bc:Text 148~~
-~~Title:Caitanya-caritāmṛta, Madhya 3.148~~
+
+{{description>"My dear mother, wherever you ask Me to stay I shall stay, and whatever you order I shall execute."}}
 
 ====== CC Madhya 3.148 ======
 

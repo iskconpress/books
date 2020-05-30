@@ -1,7 +1,7 @@
-{{description>For performing sacrificial ceremonies, one requires sacrificial ingredients, such as flowers, leaves and straw, along with the sacrificial altar and a suitable time [spring].}}
-
-~~bc:Text 24~~
 ~~Title: Śrīmad Bhāgavatam 2.6.24~~
+~~bc:Text 24~~
+
+{{description>For performing sacrificial ceremonies, one requires sacrificial ingredients, such as flowers, leaves and straw, along with the sacrificial altar and a suitable time [spring].}}
 
 ====== SB 2.6.24 ======
 

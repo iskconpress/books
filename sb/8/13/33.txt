@@ -1,7 +1,7 @@
-{{description>The name of the fourteenth Manu will be Indra-sāvarṇi. He will have sons like Uru, Gambhīra and Budha.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 8.13.33~~
+~~bc:Text 33~~
+
+{{description>The name of the fourteenth Manu will be Indra-sāvarṇi. He will have sons like Uru, Gambhīra and Budha.}}
 
 ====== SB 8.13.33 ======
 

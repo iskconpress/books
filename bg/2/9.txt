@@ -1,7 +1,7 @@
-{{description>Sañjaya said: Having spoken thus, Arjuna, chastiser of enemies, told Kṛṣṇa, “Govinda, I shall not fight,” and fell silent.}}
-
-~~bc:Text 9~~
 ~~Title:Bhagavad-gītā As It Is 2.9~~
+~~bc:Text 9~~
+
+{{description>Sañjaya said: Having spoken thus, Arjuna, chastiser of enemies, told Kṛṣṇa, “Govinda, I shall not fight,” and fell silent.}}
 
 ====== Bg. 2.9 ======
 

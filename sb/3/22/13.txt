@@ -1,7 +1,7 @@
-{{description>One who rejects an offering that comes of its own accord but later begs a boon from a miser thus loses his widespread reputation, and his pride is humbled by the neglectful behavior of others.}}
-
-~~bc:Text 13~~
 ~~Title: Śrīmad Bhāgavatam 3.22.13~~
+~~bc:Text 13~~
+
+{{description>One who rejects an offering that comes of its own accord but later begs a boon from a miser thus loses his widespread reputation, and his pride is humbled by the neglectful behavior of others.}}
 
 ====== SB 3.22.13 ======
 

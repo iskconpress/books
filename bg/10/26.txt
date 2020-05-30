@@ -1,7 +1,7 @@
-{{description>Of all trees I am the holy fig tree, and amongst sages and demigods I am Nārada. Of the singers of the gods [Gandharvas] I am Citraratha, and among perfected beings I am the sage Kapila.}}
-
-~~bc:Text 26~~
 ~~Title:Bhagavad-gītā As It Is 10.26~~
+~~bc:Text 26~~
+
+{{description>Of all trees I am the holy fig tree, and amongst sages and demigods I am Nārada. Of the singers of the gods [Gandharvas] I am Citraratha, and among perfected beings I am the sage Kapila.}}
 
 ====== Bg. 10.26 ======
 

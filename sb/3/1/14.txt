@@ -1,7 +1,7 @@
-{{description>While speaking thus, Vidura, whose personal character was esteemed by respectable persons, was insulted by Duryodhana, who was swollen with anger and whose lips were trembling. Duryodhana was in company with Karṇa, his younger brothers and his maternal uncle Śakuni.}}
-
-~~bc:Text 14~~
 ~~Title: Śrīmad Bhāgavatam 3.1.14~~
+~~bc:Text 14~~
+
+{{description>While speaking thus, Vidura, whose personal character was esteemed by respectable persons, was insulted by Duryodhana, who was swollen with anger and whose lips were trembling. Duryodhana was in company with Karṇa, his younger brothers and his maternal uncle Śakuni.}}
 
 ====== SB 3.1.14 ======
 

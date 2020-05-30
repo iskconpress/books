@@ -1,7 +1,7 @@
-{{description>When one's mind and senses are attracted to sense objects for enjoyment, the mind becomes agitated. As a result of continually thinking of sense objects, one's real consciousness almost becomes lost, like the water in a lake that is gradually sucked up by the big grass straws on its bank.}}
-
-~~bc:Text 30~~
 ~~Title: Śrīmad Bhāgavatam 4.22.30~~
+~~bc:Text 30~~
+
+{{description>When one's mind and senses are attracted to sense objects for enjoyment, the mind becomes agitated. As a result of continually thinking of sense objects, one's real consciousness almost becomes lost, like the water in a lake that is gradually sucked up by the big grass straws on its bank.}}
 
 ====== SB 4.22.30 ======
 

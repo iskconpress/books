@@ -1,7 +1,7 @@
-{{description>Its shores abounded with deer, boars, porcupines, gavayas, elephants, baboons, lions, monkeys, mongooses and musk deer.}}
-
-~~bc:Text 44~~
 ~~Title: Śrīmad Bhāgavatam 3.21.44~~
+~~bc:Text 44~~
+
+{{description>Its shores abounded with deer, boars, porcupines, gavayas, elephants, baboons, lions, monkeys, mongooses and musk deer.}}
 
 ====== SB 3.21.44 ======
 

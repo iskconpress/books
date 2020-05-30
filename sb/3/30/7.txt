@@ -1,7 +1,7 @@
-{{description>Although he is always burning with anxiety, such a fool always performs all kinds of mischievous activities, with a hope which is never to be fulfilled, in order to maintain his so-called family and society.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 3.30.7~~
+~~bc:Text 7~~
+
+{{description>Although he is always burning with anxiety, such a fool always performs all kinds of mischievous activities, with a hope which is never to be fulfilled, in order to maintain his so-called family and society.}}
 
 ====== SB 3.30.7 ======
 

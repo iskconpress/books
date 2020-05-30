@@ -1,7 +1,7 @@
-{{description>O good soul, does not a thing, applied therapeutically, cure a disease which was caused by that very same thing?}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 1.5.33~~
+~~bc:Text 33~~
+
+{{description>O good soul, does not a thing, applied therapeutically, cure a disease which was caused by that very same thing?}}
 
 ====== SB 1.5.33 ======
 

@@ -1,7 +1,7 @@
-{{description>"I worship Govinda. He is my Lord. Only by His grace am I empowered to create the universe."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.16~~
 ~~bc:Text 16~~
-~~Title:Caitanya-caritāmṛta, Ādi 2.16~~
+
+{{description>"I worship Govinda. He is my Lord. Only by His grace am I empowered to create the universe."}}
 
 ====== CC Ādi 2.16 ======
 

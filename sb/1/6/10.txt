@@ -1,7 +1,7 @@
-{{description>I took this as the special mercy of the Lord, who always desires benediction for His devotees, and so thinking, I started for the north.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 1.6.10~~
+~~bc:Text 10~~
+
+{{description>I took this as the special mercy of the Lord, who always desires benediction for His devotees, and so thinking, I started for the north.}}
 
 ====== SB 1.6.10 ======
 

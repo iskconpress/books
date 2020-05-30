@@ -1,7 +1,7 @@
-{{description>I prayed for only one son, but now I see that there are forty-nine. How has this happened? My dear son Indra, if you know, please tell me the truth. Do not try to speak lies.}}
-
-~~bc:Text 70~~
 ~~Title: Śrīmad Bhāgavatam 6.18.70~~
+~~bc:Text 70~~
+
+{{description>I prayed for only one son, but now I see that there are forty-nine. How has this happened? My dear son Indra, if you know, please tell me the truth. Do not try to speak lies.}}
 
 ====== SB 6.18.70 ======
 

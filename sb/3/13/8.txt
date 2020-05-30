@@ -1,7 +1,7 @@
-{{description>O worshipful one, please give us your direction for the execution of duty within our working capacity so that we can follow it for fame in this life and progress in the next.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 3.13.8~~
+~~bc:Text 8~~
+
+{{description>O worshipful one, please give us your direction for the execution of duty within our working capacity so that we can follow it for fame in this life and progress in the next.}}
 
 ====== SB 3.13.8 ======
 

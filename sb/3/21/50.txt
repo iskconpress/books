@@ -1,7 +1,7 @@
-{{description>The tour you have undertaken, O lord, is surely intended to protect the virtuous and kill the demons, since you embody the protecting energy of Śrī Hari.}}
-
-~~bc:Text 50~~
 ~~Title: Śrīmad Bhāgavatam 3.21.50~~
+~~bc:Text 50~~
+
+{{description>The tour you have undertaken, O lord, is surely intended to protect the virtuous and kill the demons, since you embody the protecting energy of Śrī Hari.}}
 
 ====== SB 3.21.50 ======
 

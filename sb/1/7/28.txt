@@ -1,7 +1,7 @@
-{{description>O Arjuna, only another brahmāstra can counteract this weapon. Since you are expert in the military science, subdue this weapon's glare with the power of your own weapon.}}
-
-~~bc:Text 28~~
 ~~Title: Śrīmad Bhāgavatam 1.7.28~~
+~~bc:Text 28~~
+
+{{description>O Arjuna, only another brahmāstra can counteract this weapon. Since you are expert in the military science, subdue this weapon's glare with the power of your own weapon.}}
 
 ====== SB 1.7.28 ======
 

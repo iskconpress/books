@@ -1,7 +1,7 @@
-{{description>The sage Maitreya said: When such cursing and countercursing was going on between Lord Śiva's followers and the parties of Dakṣa and Bhṛgu, Lord Śiva became very morose. Not saying anything, he left the arena of the sacrifice, followed by his disciples.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 4.2.33~~
+~~bc:Text 33~~
+
+{{description>The sage Maitreya said: When such cursing and countercursing was going on between Lord Śiva's followers and the parties of Dakṣa and Bhṛgu, Lord Śiva became very morose. Not saying anything, he left the arena of the sacrifice, followed by his disciples.}}
 
 ====== SB 4.2.33 ======
 

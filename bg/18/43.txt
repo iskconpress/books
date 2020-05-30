@@ -1,7 +1,7 @@
-{{description>Heroism, power, determination, resourcefulness, courage in battle, generosity, and leadership are the qualities of work for the kṣatriyas.}}
-
-~~bc:Text 43~~
 ~~Title:Bhagavad-gītā As It Is 18.43~~
+~~bc:Text 43~~
+
+{{description>Heroism, power, determination, resourcefulness, courage in battle, generosity, and leadership are the qualities of work for the kṣatriyas.}}
 
 ====== Bg. 18.43 ======
 

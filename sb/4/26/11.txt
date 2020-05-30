@@ -1,7 +1,7 @@
-{{description>After this, the King, very much fatigued, hungry and thirsty, returned to his royal palace. After returning, he took a bath and had an appropriate dinner. Then he took rest and thus became freed from all restlessness.}}
-
-~~bc:Text 11~~
 ~~Title: Śrīmad Bhāgavatam 4.26.11~~
+~~bc:Text 11~~
+
+{{description>After this, the King, very much fatigued, hungry and thirsty, returned to his royal palace. After returning, he took a bath and had an appropriate dinner. Then he took rest and thus became freed from all restlessness.}}
 
 ====== SB 4.26.11 ======
 

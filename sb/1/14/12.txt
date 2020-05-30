@@ -1,7 +1,7 @@
-{{description>Just see, O Bhīma, how the she jackal cries at the rising sun and vomits fire, and how the dog barks at me fearlessly.}}
-
-~~bc:Text 12~~
 ~~Title: Śrīmad Bhāgavatam 1.14.12~~
+~~bc:Text 12~~
+
+{{description>Just see, O Bhīma, how the she jackal cries at the rising sun and vomits fire, and how the dog barks at me fearlessly.}}
 
 ====== SB 1.14.12 ======
 

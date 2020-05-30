@@ -1,7 +1,7 @@
-{{description>O My dear King, I do not like living in this waterpot with such great difficulty. Therefore, please find some better reservoir of water where I can live comfortably.}}
-
-~~bc:Text 18~~
 ~~Title: Śrīmad Bhāgavatam 8.24.18~~
+~~bc:Text 18~~
+
+{{description>O My dear King, I do not like living in this waterpot with such great difficulty. Therefore, please find some better reservoir of water where I can live comfortably.}}
 
 ====== SB 8.24.18 ======
 

@@ -1,7 +1,7 @@
-{{description>"Although I am acting as a gardener, I also want to be the tree, for thus I can bestow benefit upon all.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 9.45~~
 ~~bc:Text 45~~
-~~Title:Caitanya-caritāmṛta, Ādi 9.45~~
+
+{{description>"Although I am acting as a gardener, I also want to be the tree, for thus I can bestow benefit upon all.}}
 
 ====== CC Ādi 9.45 ======
 

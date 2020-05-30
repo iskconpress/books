@@ -1,7 +1,7 @@
-{{description>My dear slender maiden, when a master chastises his servant, the servant should accept this as great mercy. One who becomes angry must be very foolish not to know that such is the duty of his friend.}}
-
-~~bc:Text 22~~
 ~~Title: Śrīmad Bhāgavatam 4.26.22~~
+~~bc:Text 22~~
+
+{{description>My dear slender maiden, when a master chastises his servant, the servant should accept this as great mercy. One who becomes angry must be very foolish not to know that such is the duty of his friend.}}
 
 ====== SB 4.26.22 ======
 

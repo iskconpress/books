@@ -1,7 +1,7 @@
-{{description>"The happiness I feel when meeting Rādhārāṇī is a hundred times greater than the happiness I get from meeting others."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 4.258~~
 ~~bc:Text 258~~
-~~Title:Caitanya-caritāmṛta, Ādi 4.258~~
+
+{{description>"The happiness I feel when meeting Rādhārāṇī is a hundred times greater than the happiness I get from meeting others."}}
 
 ====== CC Ādi 4.258 ======
 

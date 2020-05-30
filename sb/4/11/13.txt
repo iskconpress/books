@@ -1,7 +1,7 @@
-{{description>The Lord is very satisfied with His devotee when the devotee greets other people with tolerance, mercy, friendship and equality.}}
-
-~~bc:Text 13~~
 ~~Title: Śrīmad Bhāgavatam 4.11.13~~
+~~bc:Text 13~~
+
+{{description>The Lord is very satisfied with His devotee when the devotee greets other people with tolerance, mercy, friendship and equality.}}
 
 ====== SB 4.11.13 ======
 

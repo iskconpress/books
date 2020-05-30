@@ -1,7 +1,7 @@
-{{description>Only by providence have I been forcibly brought under Your lotus feet and deprived of all my opulence. Because of the illusion created by temporary opulence, people in general, who live under material conditions, facing accidental death at every moment, do not understand that this life is temporary. Only by providence have I been saved from that condition.}}
-
-~~bc:Text 11~~
 ~~Title: Śrīmad Bhāgavatam 8.22.11~~
+~~bc:Text 11~~
+
+{{description>Only by providence have I been forcibly brought under Your lotus feet and deprived of all my opulence. Because of the illusion created by temporary opulence, people in general, who live under material conditions, facing accidental death at every moment, do not understand that this life is temporary. Only by providence have I been saved from that condition.}}
 
 ====== SB 8.22.11 ======
 

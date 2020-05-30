@@ -1,7 +1,7 @@
-{{description>Although he tried to curb his anger, it came out from between his eyebrows, and a child mixed blue and red was immediately generated.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 3.12.7~~
+~~bc:Text 7~~
+
+{{description>Although he tried to curb his anger, it came out from between his eyebrows, and a child mixed blue and red was immediately generated.}}
 
 ====== SB 3.12.7 ======
 

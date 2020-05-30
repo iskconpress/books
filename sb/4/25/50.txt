@@ -1,7 +1,7 @@
-{{description>The southern gate of the city was known as Pitṛhū, and through that gate King Purañjana used to visit the city named Dakṣiṇa-pañcāla, accompanied by his friend Śrutadhara.}}
-
-~~bc:Text 50~~
 ~~Title: Śrīmad Bhāgavatam 4.25.50~~
+~~bc:Text 50~~
+
+{{description>The southern gate of the city was known as Pitṛhū, and through that gate King Purañjana used to visit the city named Dakṣiṇa-pañcāla, accompanied by his friend Śrutadhara.}}
 
 ====== SB 4.25.50 ======
 

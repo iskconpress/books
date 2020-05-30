@@ -1,7 +1,7 @@
-{{description>O my Lord, because You have kindly arrived at our home, all my forefathers are satisfied, our family and entire dynasty have been sanctified, and the sacrifice we are performing is now complete because of Your presence.}}
-
-~~bc:Text 30~~
 ~~Title: Śrīmad Bhāgavatam 8.18.30~~
+~~bc:Text 30~~
+
+{{description>O my Lord, because You have kindly arrived at our home, all my forefathers are satisfied, our family and entire dynasty have been sanctified, and the sacrifice we are performing is now complete because of Your presence.}}
 
 ====== SB 8.18.30 ======
 

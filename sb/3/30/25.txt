@@ -1,7 +1,7 @@
-{{description>He is placed in the midst of burning pieces of wood, and his limbs are set on fire. In some cases he is made to eat his own flesh or have it eaten by others.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 3.30.25~~
+~~bc:Text 25~~
+
+{{description>He is placed in the midst of burning pieces of wood, and his limbs are set on fire. In some cases he is made to eat his own flesh or have it eaten by others.}}
 
 ====== SB 3.30.25 ======
 

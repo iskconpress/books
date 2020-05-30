@@ -1,7 +1,7 @@
-{{description>The airplanes of the heavenly denizens are bedecked with pearls, gold and many valuable jewels. The heavenly denizens are compared to clouds in the sky decorated with occasional flashes of electric lightning.}}
-
-~~bc:Text 27~~
 ~~Title: Śrīmad Bhāgavatam 4.6.27~~
+~~bc:Text 27~~
+
+{{description>The airplanes of the heavenly denizens are bedecked with pearls, gold and many valuable jewels. The heavenly denizens are compared to clouds in the sky decorated with occasional flashes of electric lightning.}}
 
 ====== SB 4.6.27 ======
 

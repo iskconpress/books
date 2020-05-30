@@ -1,7 +1,7 @@
-{{description>In this way the King founded many types of villages, settlements and towns and built forts, residences for cowherdsmen, stables for the animals, and places for the royal camps, mining places, agricultural towns and mountain villages.}}
-
-~~bc:Text 31~~
 ~~Title: Śrīmad Bhāgavatam 4.18.31~~
+~~bc:Text 31~~
+
+{{description>In this way the King founded many types of villages, settlements and towns and built forts, residences for cowherdsmen, stables for the animals, and places for the royal camps, mining places, agricultural towns and mountain villages.}}
 
 ====== SB 4.18.31 ======
 

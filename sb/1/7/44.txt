@@ -1,7 +1,7 @@
-{{description>It was by Droṇācārya's mercy that you learned the military art of throwing arrows and the confidential art of controlling weapons.}}
-
-~~bc:Text 44~~
 ~~Title: Śrīmad Bhāgavatam 1.7.44~~
+~~bc:Text 44~~
+
+{{description>It was by Droṇācārya's mercy that you learned the military art of throwing arrows and the confidential art of controlling weapons.}}
 
 ====== SB 1.7.44 ======
 

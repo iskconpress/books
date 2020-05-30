@@ -1,7 +1,7 @@
-{{description>I have fortunately been instructed by you, and thus great favor has been bestowed upon me. I thank God that I have listened with open ears to your pure words.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 3.22.7~~
+~~bc:Text 7~~
+
+{{description>I have fortunately been instructed by you, and thus great favor has been bestowed upon me. I thank God that I have listened with open ears to your pure words.}}
 
 ====== SB 3.22.7 ======
 

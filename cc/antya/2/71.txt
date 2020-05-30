@@ -1,7 +1,7 @@
-{{description>"He alone has eaten the offerings for all three Deities. Because of this, both Jagannātha and Nṛsiṁhadeva remain fasting."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 2.71~~
 ~~bc:Text 71~~
-~~Title:Caitanya-caritāmṛta, Antya 2.71~~
+
+{{description>"He alone has eaten the offerings for all three Deities. Because of this, both Jagannātha and Nṛsiṁhadeva remain fasting."}}
 
 ====== CC Antya 2.71 ======
 

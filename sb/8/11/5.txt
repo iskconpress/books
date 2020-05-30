@@ -1,7 +1,7 @@
-{{description>Those fools and rascals who want to ascend to the upper planetary system by mystic power or mechanical means, or who endeavor to cross even the upper planets and achieve the spiritual world or liberation, I cause to be sent to the lowest region of the universe.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 8.11.5~~
+~~bc:Text 5~~
+
+{{description>Those fools and rascals who want to ascend to the upper planetary system by mystic power or mechanical means, or who endeavor to cross even the upper planets and achieve the spiritual world or liberation, I cause to be sent to the lowest region of the universe.}}
 
 ====== SB 8.11.5 ======
 

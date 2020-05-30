@@ -1,7 +1,7 @@
-{{description>My dear Vidura, I have told you everything you wanted to know about the conversation between Nārada and the Pracetās, the conversation describing the glories of the Lord. I have related this as far as possible.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 4.31.25~~
+~~bc:Text 25~~
+
+{{description>My dear Vidura, I have told you everything you wanted to know about the conversation between Nārada and the Pracetās, the conversation describing the glories of the Lord. I have related this as far as possible.}}
 
 ====== SB 4.31.25 ======
 

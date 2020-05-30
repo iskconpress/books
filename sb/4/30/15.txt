@@ -1,7 +1,7 @@
-{{description>Since all of you are very much obedient to My orders, I ask you to immediately marry that girl, who is so well qualified with beauty and good qualities. According to the order of your father, create progeny through her.}}
-
-~~bc:Text 15~~
 ~~Title: Śrīmad Bhāgavatam 4.30.15~~
+~~bc:Text 15~~
+
+{{description>Since all of you are very much obedient to My orders, I ask you to immediately marry that girl, who is so well qualified with beauty and good qualities. According to the order of your father, create progeny through her.}}
 
 ====== SB 4.30.15 ======
 

@@ -1,7 +1,7 @@
-{{description>Or he takes his birth in a family of transcendentalists who are surely great in wisdom. Verily, such a birth is rare in this world.}}
-
-~~bc:Text 42~~
 ~~Title:Bhagavad-gītā As It Is 6.42~~
+~~bc:Text 42~~
+
+{{description>Or he takes his birth in a family of transcendentalists who are surely great in wisdom. Verily, such a birth is rare in this world.}}
 
 ====== Bg. 6.42 ======
 

@@ -1,7 +1,7 @@
-{{description>"Jagā [Jagadānanda Paṇḍita] is only a new boy, but he has become so proud that he thinks himself competent to advise a person like you.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 4.158~~
 ~~bc:Text 158~~
-~~Title:Caitanya-caritāmṛta, Antya 4.158~~
+
+{{description>"Jagā [Jagadānanda Paṇḍita] is only a new boy, but he has become so proud that he thinks himself competent to advise a person like you.}}
 
 ====== CC Antya 4.158 ======
 

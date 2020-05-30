@@ -1,7 +1,7 @@
-{{description>"Please sit here and wait for a few moments. As soon as he comes, he will execute whatever order you give him."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 5.15~~
 ~~bc:Text 15~~
-~~Title:Caitanya-caritāmṛta, Antya 5.15~~
+
+{{description>"Please sit here and wait for a few moments. As soon as he comes, he will execute whatever order you give him."}}
 
 ====== CC Antya 5.15 ======
 

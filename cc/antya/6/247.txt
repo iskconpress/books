@@ -1,7 +1,7 @@
-{{description>"He wrote me a letter asking me to send you back, but when those ten men received no information about you, they returned home from Jhāṅkarā."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 6.247~~
 ~~bc:Text 247~~
-~~Title:Caitanya-caritāmṛta, Antya 6.247~~
+
+{{description>"He wrote me a letter asking me to send you back, but when those ten men received no information about you, they returned home from Jhāṅkarā."}}
 
 ====== CC Antya 6.247 ======
 

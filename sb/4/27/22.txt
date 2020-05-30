@@ -1,7 +1,7 @@
-{{description>The great sage Nārada continued: When I refused to accept her request, she became very angry at me and cursed me severely. Because I refused her request, she said that I would not be able to stay in one place for a long time.}}
-
-~~bc:Text 22~~
 ~~Title: Śrīmad Bhāgavatam 4.27.22~~
+~~bc:Text 22~~
+
+{{description>The great sage Nārada continued: When I refused to accept her request, she became very angry at me and cursed me severely. Because I refused her request, she said that I would not be able to stay in one place for a long time.}}
 
 ====== SB 4.27.22 ======
 

@@ -1,7 +1,7 @@
-{{description>"Sometimes brothers fight among themselves, and sometimes they have very friendly dealings. There is no certainty when such changes will take place. Thus I am sure that although today you are fighting, tomorrow you three brothers will be sitting together in peace.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 6.26~~
 ~~bc:Text 26~~
-~~Title:Caitanya-caritāmṛta, Antya 6.26~~
+
+{{description>"Sometimes brothers fight among themselves, and sometimes they have very friendly dealings. There is no certainty when such changes will take place. Thus I am sure that although today you are fighting, tomorrow you three brothers will be sitting together in peace.}}
 
 ====== CC Antya 6.26 ======
 

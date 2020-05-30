@@ -1,7 +1,7 @@
-{{description>O King, a son named Deva-ṛṣabha was born from the womb of Bhānu, and from him came a son named Indrasena. From the womb of Lambā came a son named Vidyota, who generated all the clouds.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 6.6.5~~
+~~bc:Text 5~~
+
+{{description>O King, a son named Deva-ṛṣabha was born from the womb of Bhānu, and from him came a son named Indrasena. From the womb of Lambā came a son named Vidyota, who generated all the clouds.}}
 
 ====== SB 6.6.5 ======
 

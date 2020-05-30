@@ -1,7 +1,7 @@
-{{description>The inhabitants of Dvārakā were regularly accustomed to look upon the reservoir of all beauty, the infallible Lord, yet they were never satiated.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 1.11.25~~
+~~bc:Text 25~~
+
+{{description>The inhabitants of Dvārakā were regularly accustomed to look upon the reservoir of all beauty, the infallible Lord, yet they were never satiated.}}
 
 ====== SB 1.11.25 ======
 

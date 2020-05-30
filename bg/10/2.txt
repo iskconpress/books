@@ -1,7 +1,7 @@
-{{description>Neither the hosts of demigods nor the great sages know My origin, for, in every respect, I am the source of the demigods and the sages.}}
-
-~~bc:Text 2~~
 ~~Title:Bhagavad-gītā As It Is 10.2~~
+~~bc:Text 2~~
+
+{{description>Neither the hosts of demigods nor the great sages know My origin, for, in every respect, I am the source of the demigods and the sages.}}
 
 ====== Bg. 10.2 ======
 

@@ -1,7 +1,7 @@
-{{description>"I am the servant of Īśvara Purī. My name is Govinda, and following the orders of my spiritual master, I have come here.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 10.132~~
 ~~bc:Text 132~~
-~~Title:Caitanya-caritāmṛta, Madhya 10.132~~
+
+{{description>"I am the servant of Īśvara Purī. My name is Govinda, and following the orders of my spiritual master, I have come here.}}
 
 ====== CC Madhya 10.132 ======
 

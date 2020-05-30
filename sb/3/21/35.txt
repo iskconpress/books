@@ -1,7 +1,7 @@
-{{description>Then, after the departure of the Lord, the worshipful sage Kardama stayed on the bank of Bindu-sarovara, awaiting the time of which the Lord had spoken.}}
-
-~~bc:Text 35~~
 ~~Title: Śrīmad Bhāgavatam 3.21.35~~
+~~bc:Text 35~~
+
+{{description>Then, after the departure of the Lord, the worshipful sage Kardama stayed on the bank of Bindu-sarovara, awaiting the time of which the Lord had spoken.}}
 
 ====== SB 3.21.35 ======
 

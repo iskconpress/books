@@ -1,7 +1,7 @@
-{{description>Śukadeva Gosvāmī said: Thereafter, when his son Sudyumna had thus gone to the forest to accept the order of vānaprastha, Vaivasvata Manu [Śrāddhadeva], being desirous of getting more sons, performed severe austerities on the bank of the Yamunā for one hundred years.}}
-
-~~bc:Text 1~~
 ~~Title: Śrīmad Bhāgavatam 9.2.1~~
+~~bc:Text 1~~
+
+{{description>Śukadeva Gosvāmī said: Thereafter, when his son Sudyumna had thus gone to the forest to accept the order of vānaprastha, Vaivasvata Manu [Śrāddhadeva], being desirous of getting more sons, performed severe austerities on the bank of the Yamunā for one hundred years.}}
 
 ====== SB 9.2.1 ======
 

@@ -1,7 +1,7 @@
-{{description>Having achieved perfection in the power of mystic yoga, Maru still lives in a place known as Kalāpa-grāma. At the end of Kali-yuga, he will revive the lost Sūrya dynasty by begetting a son.}}
-
-~~bc:Text 6~~
 ~~Title: Śrīmad Bhāgavatam 9.12.6~~
+~~bc:Text 6~~
+
+{{description>Having achieved perfection in the power of mystic yoga, Maru still lives in a place known as Kalāpa-grāma. At the end of Kali-yuga, he will revive the lost Sūrya dynasty by begetting a son.}}
 
 ====== SB 9.12.6 ======
 

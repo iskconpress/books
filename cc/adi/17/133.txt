@@ -1,7 +1,7 @@
-{{description>"In the evening I shall perform saṅkīrtana in each and every town. Therefore you should all decorate the city in the evening.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 17.133~~
 ~~bc:Text 133~~
-~~Title:Caitanya-caritāmṛta, Ādi 17.133~~
+
+{{description>"In the evening I shall perform saṅkīrtana in each and every town. Therefore you should all decorate the city in the evening.}}
 
 ====== CC Ādi 17.133 ======
 

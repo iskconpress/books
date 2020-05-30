@@ -1,7 +1,7 @@
-{{description>King Pṛthu was presented with various gifts from the general populace and predominating deities of all planets. The oceans and seas were full of valuable jewels and pearls, and the hills were full of chemicals and fertilizers. Four kinds of edibles were produced profusely.}}
-
-~~bc:Text 9~~
 ~~Title: Śrīmad Bhāgavatam 4.19.9~~
+~~bc:Text 9~~
+
+{{description>King Pṛthu was presented with various gifts from the general populace and predominating deities of all planets. The oceans and seas were full of valuable jewels and pearls, and the hills were full of chemicals and fertilizers. Four kinds of edibles were produced profusely.}}
 
 ====== SB 4.19.9 ======
 

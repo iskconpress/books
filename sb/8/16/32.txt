@@ -1,7 +1,7 @@
-{{description>I offer my respectful obeisances unto You, Lord Śiva, or Rudra, who are the reservoir of all potencies, the reservoir of all knowledge, and the master of everyone.}}
-
-~~bc:Text 32~~
 ~~Title: Śrīmad Bhāgavatam 8.16.32~~
+~~bc:Text 32~~
+
+{{description>I offer my respectful obeisances unto You, Lord Śiva, or Rudra, who are the reservoir of all potencies, the reservoir of all knowledge, and the master of everyone.}}
 
 ====== SB 8.16.32 ======
 

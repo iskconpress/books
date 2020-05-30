@@ -1,7 +1,7 @@
-{{description>This departure from Vaikuṇṭha was foretold by Lakṣmī, the goddess of fortune. She was very angry because when she left My abode and then returned, you stopped her at the gate while I was sleeping.}}
-
-~~bc:Text 30~~
 ~~Title: Śrīmad Bhāgavatam 3.16.30~~
+~~bc:Text 30~~
+
+{{description>This departure from Vaikuṇṭha was foretold by Lakṣmī, the goddess of fortune. She was very angry because when she left My abode and then returned, you stopped her at the gate while I was sleeping.}}
 
 ====== SB 3.16.30 ======
 

@@ -1,7 +1,7 @@
-{{description>Arjuna said, O mighty-armed one, I wish to understand the purpose of renunciation [tyāga] and of the renounced order of life [sannyāsa], O killer of the Keśī demon, Hṛṣīkeśa.}}
-
-~~bc:Text 1~~
 ~~Title:Bhagavad-gītā As It Is 18.1~~
+~~bc:Text 1~~
+
+{{description>Arjuna said, O mighty-armed one, I wish to understand the purpose of renunciation [tyāga] and of the renounced order of life [sannyāsa], O killer of the Keśī demon, Hṛṣīkeśa.}}
 
 ====== Bg. 18.1 ======
 

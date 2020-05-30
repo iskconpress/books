@@ -1,7 +1,7 @@
-{{description>When the rays of the two brahmāstras combined, a great circle of fire, like the disc of the sun, covered all outer space and the whole firmament of planets.}}
-
-~~bc:Text 30~~
 ~~Title: Śrīmad Bhāgavatam 1.7.30~~
+~~bc:Text 30~~
+
+{{description>When the rays of the two brahmāstras combined, a great circle of fire, like the disc of the sun, covered all outer space and the whole firmament of planets.}}
 
 ====== SB 1.7.30 ======
 

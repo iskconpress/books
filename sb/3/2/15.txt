@@ -1,7 +1,7 @@
-{{description>The Personality of Godhead, the all-compassionate controller of both the spiritual and material creations, is unborn, but when there is friction between His peaceful devotees and persons who are in the material modes of nature, He takes birth just like fire, accompanied by the mahat-tattva.}}
-
-~~bc:Text 15~~
 ~~Title: Śrīmad Bhāgavatam 3.2.15~~
+~~bc:Text 15~~
+
+{{description>The Personality of Godhead, the all-compassionate controller of both the spiritual and material creations, is unborn, but when there is friction between His peaceful devotees and persons who are in the material modes of nature, He takes birth just like fire, accompanied by the mahat-tattva.}}
 
 ====== SB 3.2.15 ======
 

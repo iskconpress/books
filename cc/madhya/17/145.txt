@@ -1,7 +1,7 @@
-{{description>"I have brought a heavy load to sell in this city. To take it back again is a very difficult job; therefore if I get but a fraction of the price, I shall sell it here in this city of Kāśī."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 17.145~~
 ~~bc:Text 145~~
-~~Title:Caitanya-caritāmṛta, Madhya 17.145~~
+
+{{description>"I have brought a heavy load to sell in this city. To take it back again is a very difficult job; therefore if I get but a fraction of the price, I shall sell it here in this city of Kāśī."}}
 
 ====== CC Madhya 17.145 ======
 

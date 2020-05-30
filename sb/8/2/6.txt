@@ -1,7 +1,7 @@
-{{description>Because of the resounding vibrations of the denizens of heaven singing in the caves, the lions there, being very proud of their strength, roar with unbearable envy, thinking that another lion is roaring in that way.}}
-
-~~bc:Text 6~~
 ~~Title: Śrīmad Bhāgavatam 8.2.6~~
+~~bc:Text 6~~
+
+{{description>Because of the resounding vibrations of the denizens of heaven singing in the caves, the lions there, being very proud of their strength, roar with unbearable envy, thinking that another lion is roaring in that way.}}
 
 ====== SB 8.2.6 ======
 

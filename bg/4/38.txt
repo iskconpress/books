@@ -1,7 +1,7 @@
-{{description>In this world, there is nothing so sublime and pure as transcendental knowledge. Such knowledge is the mature fruit of all mysticism. And one who has achieved this enjoys the self within himself in due course of time.}}
-
-~~bc:Text 38~~
 ~~Title:Bhagavad-gītā As It Is 4.38~~
+~~bc:Text 38~~
+
+{{description>In this world, there is nothing so sublime and pure as transcendental knowledge. Such knowledge is the mature fruit of all mysticism. And one who has achieved this enjoys the self within himself in due course of time.}}
 
 ====== Bg. 4.38 ======
 

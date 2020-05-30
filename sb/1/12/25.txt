@@ -1,7 +1,7 @@
-{{description>This child will be like Bali Mahārāja in patience, a staunch devotee of Lord Kṛṣṇa like Prahlāda Mahārāja, a performer of many Aśvamedha [horse] sacrifices and a follower of the old and experienced men.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 1.12.25~~
+~~bc:Text 25~~
+
+{{description>This child will be like Bali Mahārāja in patience, a staunch devotee of Lord Kṛṣṇa like Prahlāda Mahārāja, a performer of many Aśvamedha [horse] sacrifices and a follower of the old and experienced men.}}
 
 ====== SB 1.12.25 ======
 

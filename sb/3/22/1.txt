@@ -1,7 +1,7 @@
-{{description>Śrī Maitreya said: After describing the greatness of the Emperor's manifold qualities and activities, the sage became silent, and the Emperor, feeling modesty, addressed him as follows.}}
-
-~~bc:Text 1~~
 ~~Title: Śrīmad Bhāgavatam 3.22.1~~
+~~bc:Text 1~~
+
+{{description>Śrī Maitreya said: After describing the greatness of the Emperor's manifold qualities and activities, the sage became silent, and the Emperor, feeling modesty, addressed him as follows.}}
 
 ====== SB 3.22.1 ======
 

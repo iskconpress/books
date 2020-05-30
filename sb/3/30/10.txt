@@ -1,7 +1,7 @@
-{{description>He secures money by committing violence here and there, and although he employs it in the service of his family, he himself eats only a little portion of the food thus purchased, and he goes to hell for those for whom he earned the money in such an irregular way.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 3.30.10~~
+~~bc:Text 10~~
+
+{{description>He secures money by committing violence here and there, and although he employs it in the service of his family, he himself eats only a little portion of the food thus purchased, and he goes to hell for those for whom he earned the money in such an irregular way.}}
 
 ====== SB 3.30.10 ======
 

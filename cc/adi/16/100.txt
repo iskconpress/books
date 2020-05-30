@@ -1,7 +1,7 @@
-{{description>"Your poetic skill is like the constant flow of the waters of the Ganges. I find no one in the world who can compete with you.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 16.100~~
 ~~bc:Text 100~~
-~~Title:Caitanya-caritāmṛta, Ādi 16.100~~
+
+{{description>"Your poetic skill is like the constant flow of the waters of the Ganges. I find no one in the world who can compete with you.}}
 
 ====== CC Ādi 16.100 ======
 

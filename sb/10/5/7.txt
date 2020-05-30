@@ -1,7 +1,7 @@
-{{description>The cows, the bulls and the calves were thoroughly smeared with a mixture of turmeric and oil, mixed with varieties of minerals. Their heads were bedecked with peacock feathers, and they were garlanded and covered with cloth and golden ornaments.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 10.5.7~~
+~~bc:Text 7~~
+
+{{description>The cows, the bulls and the calves were thoroughly smeared with a mixture of turmeric and oil, mixed with varieties of minerals. Their heads were bedecked with peacock feathers, and they were garlanded and covered with cloth and golden ornaments.}}
 
 ====== SB 10.5.7 ======
 

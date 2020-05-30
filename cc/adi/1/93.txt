@@ -1,7 +1,7 @@
-{{description>"The prefix 'pra' [in the verse from Śrīmad-Bhāgavatam] indicates that the desire for liberation is completely rejected."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 1.93~~
 ~~bc:Text 93~~
-~~Title:Caitanya-caritāmṛta, Ādi 1.93~~
+
+{{description>"The prefix 'pra' [in the verse from Śrīmad-Bhāgavatam] indicates that the desire for liberation is completely rejected."}}
 
 ====== CC Ādi 1.93 ======
 

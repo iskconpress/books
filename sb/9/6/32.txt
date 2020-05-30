@@ -1,7 +1,7 @@
-{{description>Because Yuvanāśva, the father of the baby, was blessed by the brāhmaṇas, he did not fall a victim to death. After this incident, he performed severe austerities and achieved perfection in that very spot.}}
-
-~~bc:Text 32~~
 ~~Title: Śrīmad Bhāgavatam 9.6.32~~
+~~bc:Text 32~~
+
+{{description>Because Yuvanāśva, the father of the baby, was blessed by the brāhmaṇas, he did not fall a victim to death. After this incident, he performed severe austerities and achieved perfection in that very spot.}}
 
 ====== SB 9.6.32 ======
 

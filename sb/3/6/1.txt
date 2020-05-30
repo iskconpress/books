@@ -1,7 +1,7 @@
-{{description>The Ṛṣi Maitreya said: The Lord thus heard about the suspension of the progressive creative functions of the universe due to the noncombination of His potencies, such as the mahat-tattva.}}
-
-~~bc:Text 1~~
 ~~Title: Śrīmad Bhāgavatam 3.6.1~~
+~~bc:Text 1~~
+
+{{description>The Ṛṣi Maitreya said: The Lord thus heard about the suspension of the progressive creative functions of the universe due to the noncombination of His potencies, such as the mahat-tattva.}}
 
 ====== SB 3.6.1 ======
 

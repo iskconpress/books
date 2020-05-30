@@ -1,7 +1,7 @@
-{{description>Sañjaya said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief.}}
-
-~~bc:Text 46~~
 ~~Title:Bhagavad-gītā As It Is 1.46~~
+~~bc:Text 46~~
+
+{{description>Sañjaya said: Arjuna, having thus spoken on the battlefield, cast aside his bow and arrows and sat down on the chariot, his mind overwhelmed with grief.}}
 
 ====== Bg. 1.46 ======
 

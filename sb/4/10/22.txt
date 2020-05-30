@@ -1,7 +1,7 @@
-{{description>In the meantime, while Dhruva Mahārāja, doubtful of his mystic enemies, was talking with his charioteer, they heard a tremendous sound, as if the whole ocean were there, and they found that from the sky a great dust storm was coming over them from all directions.}}
-
-~~bc:Text 22~~
 ~~Title: Śrīmad Bhāgavatam 4.10.22~~
+~~bc:Text 22~~
+
+{{description>In the meantime, while Dhruva Mahārāja, doubtful of his mystic enemies, was talking with his charioteer, they heard a tremendous sound, as if the whole ocean were there, and they found that from the sky a great dust storm was coming over them from all directions.}}
 
 ====== SB 4.10.22 ======
 

@@ -1,7 +1,7 @@
-{{description>"The Mohammedan governor is very eager, and he has submitted this petition with great respect. It is a proposal for peace. You need not fear that we will fight."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 16.173~~
 ~~bc:Text 173~~
-~~Title:Caitanya-caritāmṛta, Madhya 16.173~~
+
+{{description>"The Mohammedan governor is very eager, and he has submitted this petition with great respect. It is a proposal for peace. You need not fear that we will fight."}}
 
 ====== CC Madhya 16.173 ======
 

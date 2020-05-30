@@ -1,7 +1,7 @@
-{{description>All men are forced to act helplessly according to the impulses born of the modes of material nature; therefore no one can refrain from doing something, not even for a moment.}}
-
-~~bc:Text 5~~
 ~~Title:Bhagavad-gītā As It Is 3.5~~
+~~bc:Text 5~~
+
+{{description>All men are forced to act helplessly according to the impulses born of the modes of material nature; therefore no one can refrain from doing something, not even for a moment.}}
 
 ====== Bg. 3.5 ======
 

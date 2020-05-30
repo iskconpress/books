@@ -1,7 +1,7 @@
-{{description>Mahārāja Yudhiṣṭhira, full of anxiety, turned to Sañjaya, who was sitting there, and said: O Sañjaya, where is our uncle, who is old and blind?}}
-
-~~bc:Text 32~~
 ~~Title: Śrīmad Bhāgavatam 1.13.32~~
+~~bc:Text 32~~
+
+{{description>Mahārāja Yudhiṣṭhira, full of anxiety, turned to Sañjaya, who was sitting there, and said: O Sañjaya, where is our uncle, who is old and blind?}}
 
 ====== SB 1.13.32 ======
 

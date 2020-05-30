@@ -1,7 +1,7 @@
-{{description>"I have heard this wonderful story and am therefore very inquisitive to hear it again. If You would kindly repeat it, I would be very pleased to hear."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 24.6~~
 ~~bc:Text 6~~
-~~Title:Caitanya-caritāmṛta, Madhya 24.6~~
+
+{{description>"I have heard this wonderful story and am therefore very inquisitive to hear it again. If You would kindly repeat it, I would be very pleased to hear."}}
 
 ====== CC Madhya 24.6 ======
 

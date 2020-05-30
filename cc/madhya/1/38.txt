@@ -1,7 +1,7 @@
-{{description>The books compiled by Śrī Rūpa Gosvāmī include the Bhakti-rasāmṛta-sindhu, Vidagdha-mādhava, Ujjvala-nīlamaṇi and Lalita-mādhava.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 1.38~~
 ~~bc:Text 38~~
-~~Title:Caitanya-caritāmṛta, Madhya 1.38~~
+
+{{description>The books compiled by Śrī Rūpa Gosvāmī include the Bhakti-rasāmṛta-sindhu, Vidagdha-mādhava, Ujjvala-nīlamaṇi and Lalita-mādhava.}}
 
 ====== CC Madhya 1.38 ======
 

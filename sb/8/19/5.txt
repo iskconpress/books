@@ -1,7 +1,7 @@
-{{description>It was in your dynasty that Hiraṇyākṣa was born. Carrying only his own club, he wandered the globe alone, without assistance, to conquer all directions, and no hero he met could rival him.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 8.19.5~~
+~~bc:Text 5~~
+
+{{description>It was in your dynasty that Hiraṇyākṣa was born. Carrying only his own club, he wandered the globe alone, without assistance, to conquer all directions, and no hero he met could rival him.}}
 
 ====== SB 8.19.5 ======
 

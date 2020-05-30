@@ -1,7 +1,7 @@
-{{description>O great sage, you are as good as Brahmā, the original living being. Others follow custom only, as followed by the previous philosophical speculators.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 2.8.25~~
+~~bc:Text 25~~
+
+{{description>O great sage, you are as good as Brahmā, the original living being. Others follow custom only, as followed by the previous philosophical speculators.}}
 
 ====== SB 2.8.25 ======
 

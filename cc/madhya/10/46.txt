@@ -1,7 +1,7 @@
-{{description>"This is Paramānanda Prahararāja, who is also known as Mahāpātra. He is very, very intelligent.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 10.46~~
 ~~bc:Text 46~~
-~~Title:Caitanya-caritāmṛta, Madhya 10.46~~
+
+{{description>"This is Paramānanda Prahararāja, who is also known as Mahāpātra. He is very, very intelligent.}}
 
 ====== CC Madhya 10.46 ======
 

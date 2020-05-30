@@ -1,7 +1,7 @@
-{{description>"You consider your body dangerous and awful, but I think that your body is like nectar.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 4.172~~
 ~~bc:Text 172~~
-~~Title:Caitanya-caritāmṛta, Antya 4.172~~
+
+{{description>"You consider your body dangerous and awful, but I think that your body is like nectar.}}
 
 ====== CC Antya 4.172 ======
 

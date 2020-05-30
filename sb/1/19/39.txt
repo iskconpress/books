@@ -1,7 +1,7 @@
-{{description>O powerful brāhmaṇa, it is said that you hardly stay in the houses of men long enough to milk a cow.}}
-
-~~bc:Text 39~~
 ~~Title: Śrīmad Bhāgavatam 1.19.39~~
+~~bc:Text 39~~
+
+{{description>O powerful brāhmaṇa, it is said that you hardly stay in the houses of men long enough to milk a cow.}}
 
 ====== SB 1.19.39 ======
 

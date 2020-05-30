@@ -1,7 +1,7 @@
-{{description>My Lord, I offer my respectful obeisances unto You, who are dressed in yellow garments, whose bodily hue resembles the marakata gem, and who have full control over the goddess of fortune. O my Lord Keśava, I offer my respectful obeisances unto You.}}
-
-~~bc:Text 35~~
 ~~Title: Śrīmad Bhāgavatam 8.16.35~~
+~~bc:Text 35~~
+
+{{description>My Lord, I offer my respectful obeisances unto You, who are dressed in yellow garments, whose bodily hue resembles the marakata gem, and who have full control over the goddess of fortune. O my Lord Keśava, I offer my respectful obeisances unto You.}}
 
 ====== SB 8.16.35 ======
 

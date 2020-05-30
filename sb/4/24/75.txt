@@ -1,7 +1,7 @@
-{{description>In this material world there are different types of achievement, but of all of them the achievement of knowledge is considered to be the highest because one can cross the ocean of nescience only on the boat of knowledge. Otherwise the ocean is impassable.}}
-
-~~bc:Text 75~~
 ~~Title: Śrīmad Bhāgavatam 4.24.75~~
+~~bc:Text 75~~
+
+{{description>In this material world there are different types of achievement, but of all of them the achievement of knowledge is considered to be the highest because one can cross the ocean of nescience only on the boat of knowledge. Otherwise the ocean is impassable.}}
 
 ====== SB 4.24.75 ======
 

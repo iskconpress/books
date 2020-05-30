@@ -24,7 +24,6 @@
   - [[books:sb:9|Liberation]]
   - [[books:sb:10|The Summum Bonum]]
 
-</WRAP>
 
 ===== From the back cover =====
 
@@ -94,3 +93,5 @@ Department of Sanskrit and Indian Studies, Harvard University
 Dr. C. P. Agrawal, Chairwoman\\
 Department of Humanities, University of Michigan
 </cite></blockquote>
+
+</WRAP>

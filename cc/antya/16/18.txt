@@ -1,7 +1,7 @@
-{{description>"I belong to a low caste, and you are a very respectable guest. How shall I serve you?}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 16.18~~
 ~~bc:Text 18~~
-~~Title:Caitanya-caritāmṛta, Antya 16.18~~
+
+{{description>"I belong to a low caste, and you are a very respectable guest. How shall I serve you?}}
 
 ====== CC Antya 16.18 ======
 

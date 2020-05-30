@@ -1,7 +1,7 @@
-{{description>My dear King, once in the past lived a king named Purañjana, who was celebrated for his great activities. He had a friend named Avijñāta ["the unknown one"]. No one could understand the activities of Avijñāta.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 4.25.10~~
+~~bc:Text 10~~
+
+{{description>My dear King, once in the past lived a king named Purañjana, who was celebrated for his great activities. He had a friend named Avijñāta ["the unknown one"]. No one could understand the activities of Avijñāta.}}
 
 ====== SB 4.25.10 ======
 

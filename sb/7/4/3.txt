@@ -1,7 +1,7 @@
-{{description>Then Lord Brahmā, who awards infallible benedictions, departed, being worshiped by the best of the demons, Hiraṇyakaśipu, and being praised by great sages and saintly persons.}}
-
-~~bc:Text 3~~
 ~~Title: Śrīmad Bhāgavatam 7.4.3~~
+~~bc:Text 3~~
+
+{{description>Then Lord Brahmā, who awards infallible benedictions, departed, being worshiped by the best of the demons, Hiraṇyakaśipu, and being praised by great sages and saintly persons.}}
 
 ====== SB 7.4.3 ======
 

@@ -1,7 +1,7 @@
-{{description>"This boy chants the mantra within his mind, but does not say it aloud. That is his intention, as far as I can guess."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 16.72~~
 ~~bc:Text 72~~
-~~Title:Caitanya-caritāmṛta, Antya 16.72~~
+
+{{description>"This boy chants the mantra within his mind, but does not say it aloud. That is his intention, as far as I can guess."}}
 
 ====== CC Antya 16.72 ======
 

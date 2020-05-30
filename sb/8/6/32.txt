@@ -1,7 +1,7 @@
-{{description>O Mahārāja Parīkṣit, chastiser of enemies, the demigods and the demons thereafter made an armistice between them. Then, with great enterprise, they arranged to produce nectar, as proposed by Lord Indra.}}
-
-~~bc:Text 32~~
 ~~Title: Śrīmad Bhāgavatam 8.6.32~~
+~~bc:Text 32~~
+
+{{description>O Mahārāja Parīkṣit, chastiser of enemies, the demigods and the demons thereafter made an armistice between them. Then, with great enterprise, they arranged to produce nectar, as proposed by Lord Indra.}}
 
 ====== SB 8.6.32 ======
 

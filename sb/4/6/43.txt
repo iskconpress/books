@@ -1,7 +1,7 @@
-{{description>My dear lord, you create this cosmic manifestation, maintain it, and annihilate it by expansion of your personality, exactly as a spider creates, maintains and winds up its web.}}
-
-~~bc:Text 43~~
 ~~Title: Śrīmad Bhāgavatam 4.6.43~~
+~~bc:Text 43~~
+
+{{description>My dear lord, you create this cosmic manifestation, maintain it, and annihilate it by expansion of your personality, exactly as a spider creates, maintains and winds up its web.}}
 
 ====== SB 4.6.43 ======
 

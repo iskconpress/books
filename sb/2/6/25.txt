@@ -1,7 +1,7 @@
-{{description>Other requirements are utensils, grains, clarified butter, honey, gold, earth, water, the Ṛg Veda, Yajur Veda and Sāma Veda and four priests to perform the sacrifice.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 2.6.25~~
+~~bc:Text 25~~
+
+{{description>Other requirements are utensils, grains, clarified butter, honey, gold, earth, water, the Ṛg Veda, Yajur Veda and Sāma Veda and four priests to perform the sacrifice.}}
 
 ====== SB 2.6.25 ======
 

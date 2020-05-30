@@ -1,7 +1,7 @@
-{{description>Out of compassion, the great sage thought it wise that this would enable men to achieve the ultimate goal of life. Thus he compiled the great historical narration called the Mahābhārata for women, laborers and friends of the twice-born.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 1.4.25~~
+~~bc:Text 25~~
+
+{{description>Out of compassion, the great sage thought it wise that this would enable men to achieve the ultimate goal of life. Thus he compiled the great historical narration called the Mahābhārata for women, laborers and friends of the twice-born.}}
 
 ====== SB 1.4.25 ======
 

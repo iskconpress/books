@@ -1,7 +1,7 @@
-{{description>The King said: I wish to know. Narrations concerning the Lord, who possesses wonderful potencies, are certainly auspicious for living beings in all planets.}}
-
-~~bc:Text 2~~
 ~~Title: Śrīmad Bhāgavatam 2.8.2~~
+~~bc:Text 2~~
+
+{{description>The King said: I wish to know. Narrations concerning the Lord, who possesses wonderful potencies, are certainly auspicious for living beings in all planets.}}
 
 ====== SB 2.8.2 ======
 

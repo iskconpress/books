@@ -1,7 +1,7 @@
-{{description>A yogi should see the same soul in all manifestations, for all that exists is a manifestation of different energies of the Supreme. In this way the devotee should see all living entities without distinction. That is realization of the Supreme Soul.}}
-
-~~bc:Text 42~~
 ~~Title: Śrīmad Bhāgavatam 3.28.42~~
+~~bc:Text 42~~
+
+{{description>A yogi should see the same soul in all manifestations, for all that exists is a manifestation of different energies of the Supreme. In this way the devotee should see all living entities without distinction. That is realization of the Supreme Soul.}}
 
 ====== SB 3.28.42 ======
 

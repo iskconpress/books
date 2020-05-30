@@ -1,7 +1,7 @@
-{{description>But it is I who am the ritual, I the sacrifice, the offering to the ancestors, the healing herb, the transcendental chant. I am the butter and the fire and the offering.}}
-
-~~bc:Text 16~~
 ~~Title:Bhagavad-gītā As It Is 9.16~~
+~~bc:Text 16~~
+
+{{description>But it is I who am the ritual, I the sacrifice, the offering to the ancestors, the healing herb, the transcendental chant. I am the butter and the fire and the offering.}}
 
 ====== Bg. 9.16 ======
 

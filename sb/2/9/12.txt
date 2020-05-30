@@ -1,7 +1,7 @@
-{{description>Some of them are effulgent like coral and diamonds in complexion and have garlands on their heads, blooming like lotus flowers, and some wear earrings.}}
-
-~~bc:Text 12~~
 ~~Title: Śrīmad Bhāgavatam 2.9.12~~
+~~bc:Text 12~~
+
+{{description>Some of them are effulgent like coral and diamonds in complexion and have garlands on their heads, blooming like lotus flowers, and some wear earrings.}}
 
 ====== SB 2.9.12 ======
 

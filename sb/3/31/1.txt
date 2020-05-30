@@ -1,7 +1,7 @@
-{{description>The Personality of Godhead said: Under the supervision of the Supreme Lord and according to the result of his work, the living entity, the soul, is made to enter into the womb of a woman through the particle of male semen to assume a particular type of body.}}
-
-~~bc:Text 1~~
 ~~Title: Śrīmad Bhāgavatam 3.31.1~~
+~~bc:Text 1~~
+
+{{description>The Personality of Godhead said: Under the supervision of the Supreme Lord and according to the result of his work, the living entity, the soul, is made to enter into the womb of a woman through the particle of male semen to assume a particular type of body.}}
 
 ====== SB 3.31.1 ======
 

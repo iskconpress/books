@@ -1,7 +1,7 @@
-{{description>Now please hear from me the names of all these daughters and their descendants, who filled all the three worlds.}}
-
-~~bc:Text 3~~
 ~~Title: Śrīmad Bhāgavatam 6.6.3~~
+~~bc:Text 3~~
+
+{{description>Now please hear from me the names of all these daughters and their descendants, who filled all the three worlds.}}
 
 ====== SB 6.6.3 ======
 

@@ -1,7 +1,7 @@
-{{description>Gati, the wife of the sage Pulaha, gave birth to three sons, named Karmaśreṣṭha, Varīyān and Sahiṣṇu, and all of them were great sages.}}
-
-~~bc:Text 38~~
 ~~Title: Śrīmad Bhāgavatam 4.1.38~~
+~~bc:Text 38~~
+
+{{description>Gati, the wife of the sage Pulaha, gave birth to three sons, named Karmaśreṣṭha, Varīyān and Sahiṣṇu, and all of them were great sages.}}
 
 ====== SB 4.1.38 ======
 

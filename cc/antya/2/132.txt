@@ -1,7 +1,7 @@
-{{description>"Please give Me permission to go to Ālālanātha. I shall remain there alone; only Govinda will go with Me."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 2.132~~
 ~~bc:Text 132~~
-~~Title:Caitanya-caritāmṛta, Antya 2.132~~
+
+{{description>"Please give Me permission to go to Ālālanātha. I shall remain there alone; only Govinda will go with Me."}}
 
 ====== CC Antya 2.132 ======
 

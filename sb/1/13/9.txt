@@ -1,7 +1,7 @@
-{{description>While traveling on the surface of the earth, how did you maintain your livelihood? At which holy places and pilgrimage sites did you render service?}}
-
-~~bc:Text 9~~
 ~~Title: Śrīmad Bhāgavatam 1.13.9~~
+~~bc:Text 9~~
+
+{{description>While traveling on the surface of the earth, how did you maintain your livelihood? At which holy places and pilgrimage sites did you render service?}}
 
 ====== SB 1.13.9 ======
 

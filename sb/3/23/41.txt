@@ -1,7 +1,7 @@
-{{description>He traveled in that way through the various planets, as the air passes uncontrolled in every direction. Coursing through the air in that great and splendid aerial mansion, which could fly at his will, he surpassed even the demigods.}}
-
-~~bc:Text 41~~
 ~~Title: Śrīmad Bhāgavatam 3.23.41~~
+~~bc:Text 41~~
+
+{{description>He traveled in that way through the various planets, as the air passes uncontrolled in every direction. Coursing through the air in that great and splendid aerial mansion, which could fly at his will, he surpassed even the demigods.}}
 
 ====== SB 3.23.41 ======
 

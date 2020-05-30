@@ -1,7 +1,7 @@
-{{description>The ocean with its high waves wailed aloud as if stricken with sorrow, and there was a commotion among the creatures inhabiting the ocean. The rivers and lakes were also agitated, and lotuses withered.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 3.17.7~~
+~~bc:Text 7~~
+
+{{description>The ocean with its high waves wailed aloud as if stricken with sorrow, and there was a commotion among the creatures inhabiting the ocean. The rivers and lakes were also agitated, and lotuses withered.}}
 
 ====== SB 3.17.7 ======
 

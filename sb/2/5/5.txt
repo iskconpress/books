@@ -1,7 +1,7 @@
-{{description>As the spider very easily creates the network of its cobweb and manifests its power of creation without being defeated by others, so also you yourself, by employment of your self-sufficient energy, create without any other's help.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 2.5.5~~
+~~bc:Text 5~~
+
+{{description>As the spider very easily creates the network of its cobweb and manifests its power of creation without being defeated by others, so also you yourself, by employment of your self-sufficient energy, create without any other's help.}}
 
 ====== SB 2.5.5 ======
 

@@ -1,7 +1,7 @@
-{{description>In days long ago, our father, the most opulent Dakṣa, who was affectionate to his daughters, asked each of us separately whom we would prefer to select as our husband.}}
-
-~~bc:Text 13~~
 ~~Title: Śrīmad Bhāgavatam 3.14.13~~
+~~bc:Text 13~~
+
+{{description>In days long ago, our father, the most opulent Dakṣa, who was affectionate to his daughters, asked each of us separately whom we would prefer to select as our husband.}}
 
 ====== SB 3.14.13 ======
 

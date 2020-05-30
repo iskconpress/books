@@ -1,7 +1,7 @@
-{{description>O learned one, in this iron age of Kali men have but short lives. They are quarrelsome, lazy, misguided, unlucky and, above all, always disturbed.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 1.1.10~~
+~~bc:Text 10~~
+
+{{description>O learned one, in this iron age of Kali men have but short lives. They are quarrelsome, lazy, misguided, unlucky and, above all, always disturbed.}}
 
 ====== SB 1.1.10 ======
 

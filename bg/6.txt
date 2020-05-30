@@ -1,7 +1,7 @@
-{{description>Astanga-yoga, a mechanical meditative practice, controls the mind and the senses and focuses concentration on Paramatma (the Supersoul, the form of the Lord situated in the heart). This practice culminates in samadhi, full consciousness of the Supreme.}}
-
-~~bc:Chapter 6~~
 ~~Title:Bhagavad-gītā As It Is 6: Sāṅkhya-yoga~~
+~~bc:Chapter 6~~
+
+{{description>Astanga-yoga, a mechanical meditative practice, controls the mind and the senses and focuses concentration on Paramatma (the Supersoul, the form of the Lord situated in the heart). This practice culminates in samadhi, full consciousness of the Supreme.}}
 
 ====== Sāṅkhya-yoga ======
 

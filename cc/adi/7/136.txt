@@ -1,7 +1,7 @@
-{{description>"We know that all this word jugglery springs from the imagination of Śaṅkarārārya, and yet because we belong to his sect, we accept it although it does not satisfy us.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 7.136~~
 ~~bc:Text 136~~
-~~Title:Caitanya-caritāmṛta, Ādi 7.136~~
+
+{{description>"We know that all this word jugglery springs from the imagination of Śaṅkarārārya, and yet because we belong to his sect, we accept it although it does not satisfy us.}}
 
 ====== CC Ādi 7.136 ======
 

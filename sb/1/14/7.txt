@@ -1,7 +1,7 @@
-{{description>Since he departed, seven months have passed, yet he has not returned. I do not know factually how things are going there.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 1.14.7~~
+~~bc:Text 7~~
+
+{{description>Since he departed, seven months have passed, yet he has not returned. I do not know factually how things are going there.}}
 
 ====== SB 1.14.7 ======
 

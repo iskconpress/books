@@ -1,7 +1,7 @@
-{{description>Śukadeva Gosvāmī said: To follow the orders of Lord Brahmā, Droṇa, the best of the Vasus, along with his wife, Dharā, spoke to Lord Brahmā in this way.}}
-
-~~bc:Text 48~~
 ~~Title: Śrīmad Bhāgavatam 10.8.48~~
+~~bc:Text 48~~
+
+{{description>Śukadeva Gosvāmī said: To follow the orders of Lord Brahmā, Droṇa, the best of the Vasus, along with his wife, Dharā, spoke to Lord Brahmā in this way.}}
 
 ====== SB 10.8.48 ======
 

@@ -1,7 +1,7 @@
-{{description>Thus the great sage Vyāsadeva, who is very kind to the ignorant masses, edited the Vedas so they might be assimilated by less intellectual men.}}
-
-~~bc:Text 24~~
 ~~Title: Śrīmad Bhāgavatam 1.4.24~~
+~~bc:Text 24~~
+
+{{description>Thus the great sage Vyāsadeva, who is very kind to the ignorant masses, edited the Vedas so they might be assimilated by less intellectual men.}}
 
 ====== SB 1.4.24 ======
 

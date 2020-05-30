@@ -1,7 +1,7 @@
-{{description>"Go to the sea and bathe and look at the top of the temple. After so doing, please come back here and take your lunch."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 11.183~~
 ~~bc:Text 183~~
-~~Title:Caitanya-caritāmṛta, Madhya 11.183~~
+
+{{description>"Go to the sea and bathe and look at the top of the temple. After so doing, please come back here and take your lunch."}}
 
 ====== CC Madhya 11.183 ======
 

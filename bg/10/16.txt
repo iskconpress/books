@@ -1,7 +1,7 @@
-{{description>Please tell me in detail of Your divine powers by which You pervade all these worlds and abide in them.}}
-
-~~bc:Text 16~~
 ~~Title:Bhagavad-gītā As It Is 10.16~~
+~~bc:Text 16~~
+
+{{description>Please tell me in detail of Your divine powers by which You pervade all these worlds and abide in them.}}
 
 ====== Bg. 10.16 ======
 

@@ -1,7 +1,7 @@
-{{description>Kindly let me know the whereabouts of that beautiful woman who always saves me when I am drowning in the ocean of danger. By giving me good intelligence at every step, she always saves me.}}
-
-~~bc:Text 16~~
 ~~Title: Śrīmad Bhāgavatam 4.26.16~~
+~~bc:Text 16~~
+
+{{description>Kindly let me know the whereabouts of that beautiful woman who always saves me when I am drowning in the ocean of danger. By giving me good intelligence at every step, she always saves me.}}
 
 ====== SB 4.26.16 ======
 

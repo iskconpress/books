@@ -1,7 +1,7 @@
-{{description>My dear Lord, what You have said to Your unalloyed devotee is certainly very much bewildering. The allurements You offer in the Vedas are certainly not suitable for pure devotees. People in general, bound by the sweet words of the Vedas, engage themselves again and again in fruitive activities, enamored by the results of their actions.}}
-
-~~bc:Text 30~~
 ~~Title: Śrīmad Bhāgavatam 4.20.30~~
+~~bc:Text 30~~
+
+{{description>My dear Lord, what You have said to Your unalloyed devotee is certainly very much bewildering. The allurements You offer in the Vedas are certainly not suitable for pure devotees. People in general, bound by the sweet words of the Vedas, engage themselves again and again in fruitive activities, enamored by the results of their actions.}}
 
 ====== SB 4.20.30 ======
 

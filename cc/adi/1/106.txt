@@ -1,7 +1,7 @@
-{{description>“Essential truth spoken concisely is true eloquence.”}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 1.106~~
 ~~bc:Text 106~~
-~~Title:Caitanya-caritāmṛta, Ādi 1.106~~
+
+{{description>“Essential truth spoken concisely is true eloquence.”}}
 
 ====== CC Ādi 1.106 ======
 

@@ -1,7 +1,7 @@
-{{description>His lotus feet are placed over the whorls of the lotuslike hearts of great mystics. On His chest is the Kaustubha jewel, engraved with a beautiful calf, and there are other jewels on His shoulders. His complete torso is garlanded with fresh flowers.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 2.2.10~~
+~~bc:Text 10~~
+
+{{description>His lotus feet are placed over the whorls of the lotuslike hearts of great mystics. On His chest is the Kaustubha jewel, engraved with a beautiful calf, and there are other jewels on His shoulders. His complete torso is garlanded with fresh flowers.}}
 
 ====== SB 2.2.10 ======
 

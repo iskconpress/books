@@ -1,7 +1,7 @@
-{{description>People will always speak of your infamy, and for one who has been honored, dishonor is worse than death.}}
-
-~~bc:Text 34~~
 ~~Title:Bhagavad-gītā As It Is 2.34~~
+~~bc:Text 34~~
+
+{{description>People will always speak of your infamy, and for one who has been honored, dishonor is worse than death.}}
 
 ====== Bg. 2.34 ======
 

@@ -1,7 +1,7 @@
-{{description>Raising their necks, dogs cried here and there, now in the manner of singing and now of wailing.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 3.17.10~~
+~~bc:Text 10~~
+
+{{description>Raising their necks, dogs cried here and there, now in the manner of singing and now of wailing.}}
 
 ====== SB 3.17.10 ======
 

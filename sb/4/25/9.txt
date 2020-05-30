@@ -1,7 +1,7 @@
-{{description>In this connection I wish to narrate an old history connected with the character of a king called Purañjana. Please try to hear me with great attention.}}
-
-~~bc:Text 9~~
 ~~Title: Śrīmad Bhāgavatam 4.25.9~~
+~~bc:Text 9~~
+
+{{description>In this connection I wish to narrate an old history connected with the character of a king called Purañjana. Please try to hear me with great attention.}}
 
 ====== SB 4.25.9 ======
 

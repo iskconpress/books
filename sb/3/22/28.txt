@@ -1,7 +1,7 @@
-{{description>Overjoyed to know of his arrival, his subjects came forth from Brahmāvarta to greet their returning lord with songs, prayers and musical instruments.}}
-
-~~bc:Text 28~~
 ~~Title: Śrīmad Bhāgavatam 3.22.28~~
+~~bc:Text 28~~
+
+{{description>Overjoyed to know of his arrival, his subjects came forth from Brahmāvarta to greet their returning lord with songs, prayers and musical instruments.}}
 
 ====== SB 3.22.28 ======
 

@@ -1,7 +1,7 @@
-{{description>"Although Rādhā's love is pure like a mirror, its purity increases at every moment.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 4.140~~
 ~~bc:Text 140~~
-~~Title:Caitanya-caritāmṛta, Ādi 4.140~~
+
+{{description>"Although Rādhā's love is pure like a mirror, its purity increases at every moment.}}
 
 ====== CC Ādi 4.140 ======
 

@@ -1,7 +1,7 @@
-{{description>There are five gross elements, namely earth, water, fire, air and ether. There are also five subtle elements: smell, taste, color, touch and sound.}}
-
-~~bc:Text 12~~
 ~~Title: Śrīmad Bhāgavatam 3.26.12~~
+~~bc:Text 12~~
+
+{{description>There are five gross elements, namely earth, water, fire, air and ether. There are also five subtle elements: smell, taste, color, touch and sound.}}
 
 ====== SB 3.26.12 ======
 

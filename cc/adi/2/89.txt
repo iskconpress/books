@@ -1,7 +1,7 @@
-{{description>"When from one candle many others are lit, I consider that one the original.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.89~~
 ~~bc:Text 89~~
-~~Title:Caitanya-caritāmṛta, Ādi 2.89~~
+
+{{description>"When from one candle many others are lit, I consider that one the original.}}
 
 ====== CC Ādi 2.89 ======
 

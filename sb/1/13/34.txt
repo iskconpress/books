@@ -1,7 +1,7 @@
-{{description>When my father, Pāṇḍu, fell down and we were all small children, these two uncles gave us protection from all kinds of calamities. They were always our good well-wishers. Alas, where have they gone from here?}}
-
-~~bc:Text 34~~
 ~~Title: Śrīmad Bhāgavatam 1.13.34~~
+~~bc:Text 34~~
+
+{{description>When my father, Pāṇḍu, fell down and we were all small children, these two uncles gave us protection from all kinds of calamities. They were always our good well-wishers. Alas, where have they gone from here?}}
 
 ====== SB 1.13.34 ======
 

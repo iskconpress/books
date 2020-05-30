@@ -1,7 +1,7 @@
-{{description>When all the three worlds merge into the water, a large boat sent by Me will appear before you.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 8.24.33~~
+~~bc:Text 33~~
+
+{{description>When all the three worlds merge into the water, a large boat sent by Me will appear before you.}}
 
 ====== SB 8.24.33 ======
 

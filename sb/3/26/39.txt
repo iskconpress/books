@@ -1,7 +1,7 @@
-{{description>My dear mother, the characteristics of form are understood by dimension, quality and individuality. The form of fire is appreciated by its effulgence.}}
-
-~~bc:Text 39~~
 ~~Title: Śrīmad Bhāgavatam 3.26.39~~
+~~bc:Text 39~~
+
+{{description>My dear mother, the characteristics of form are understood by dimension, quality and individuality. The form of fire is appreciated by its effulgence.}}
 
 ====== SB 3.26.39 ======
 

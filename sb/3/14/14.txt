@@ -1,7 +1,7 @@
-{{description>Our well-wishing father, Dakṣa, after knowing our intentions, handed over thirteen of his daughters unto you, and since then we have all been faithful.}}
-
-~~bc:Text 14~~
 ~~Title: Śrīmad Bhāgavatam 3.14.14~~
+~~bc:Text 14~~
+
+{{description>Our well-wishing father, Dakṣa, after knowing our intentions, handed over thirteen of his daughters unto you, and since then we have all been faithful.}}
 
 ====== SB 3.14.14 ======
 

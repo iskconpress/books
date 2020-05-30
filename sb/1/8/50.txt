@@ -1,7 +1,7 @@
-{{description>There is no sin for a king who kills for the right cause, who is engaged in maintaining his citizens. But this injunction is not applicable to me.}}
-
-~~bc:Text 50~~
 ~~Title: Śrīmad Bhāgavatam 1.8.50~~
+~~bc:Text 50~~
+
+{{description>There is no sin for a king who kills for the right cause, who is engaged in maintaining his citizens. But this injunction is not applicable to me.}}
 
 ====== SB 1.8.50 ======
 

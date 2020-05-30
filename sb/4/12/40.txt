@@ -1,7 +1,7 @@
-{{description>After observing the glories of Dhruva Mahārāja, the great sage Nārada, playing his vīṇā, went to the sacrificial arena of the Pracetās and very happily chanted the following three verses.}}
-
-~~bc:Text 40~~
 ~~Title: Śrīmad Bhāgavatam 4.12.40~~
+~~bc:Text 40~~
+
+{{description>After observing the glories of Dhruva Mahārāja, the great sage Nārada, playing his vīṇā, went to the sacrificial arena of the Pracetās and very happily chanted the following three verses.}}
 
 ====== SB 4.12.40 ======
 

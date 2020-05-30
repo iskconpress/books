@@ -1,7 +1,7 @@
-{{description>O great actor, my Lord, all these poor creatures are constantly perplexed by hunger, thirst, severe cold, secretion and bile, attacked by coughing winter, blasting summer, rains and many other disturbing elements, and overwhelmed by strong sex urges and indefatigable anger. I take pity on them, and I am very much aggrieved for them.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 3.9.8~~
+~~bc:Text 8~~
+
+{{description>O great actor, my Lord, all these poor creatures are constantly perplexed by hunger, thirst, severe cold, secretion and bile, attacked by coughing winter, blasting summer, rains and many other disturbing elements, and overwhelmed by strong sex urges and indefatigable anger. I take pity on them, and I am very much aggrieved for them.}}
 
 ====== SB 3.9.8 ======
 

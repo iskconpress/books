@@ -1,7 +1,7 @@
-{{description>My Lord, in one day You have expanded Yourself for hundreds of miles, covering the water of the river and the ocean. Before this I had never seen or heard of such an aquatic animal.}}
-
-~~bc:Text 26~~
 ~~Title: Śrīmad Bhāgavatam 8.24.26~~
+~~bc:Text 26~~
+
+{{description>My Lord, in one day You have expanded Yourself for hundreds of miles, covering the water of the river and the ocean. Before this I had never seen or heard of such an aquatic animal.}}
 
 ====== SB 8.24.26 ======
 

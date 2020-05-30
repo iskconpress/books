@@ -1,7 +1,7 @@
-{{description>Placed within the amnion and covered outside by the intestines, the child remains lying on one side of the abdomen, his head turned towards his belly and his back and neck arched like a bow.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 3.31.8~~
+~~bc:Text 8~~
+
+{{description>Placed within the amnion and covered outside by the intestines, the child remains lying on one side of the abdomen, his head turned towards his belly and his back and neck arched like a bow.}}
 
 ====== SB 3.31.8 ======
 

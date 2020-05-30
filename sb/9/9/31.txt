@@ -1,7 +1,7 @@
-{{description>You are well known and worshiped in learned circles. How dare you kill this brāhmaṇa, who is a saintly, sinless person, well versed in Vedic knowledge? Killing him would be like destroying the embryo within the womb or killing a cow.}}
-
-~~bc:Text 31~~
 ~~Title: Śrīmad Bhāgavatam 9.9.31~~
+~~bc:Text 31~~
+
+{{description>You are well known and worshiped in learned circles. How dare you kill this brāhmaṇa, who is a saintly, sinless person, well versed in Vedic knowledge? Killing him would be like destroying the embryo within the womb or killing a cow.}}
 
 ====== SB 9.9.31 ======
 

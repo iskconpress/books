@@ -1,7 +1,7 @@
-{{description>"If there are ten literary ornaments in a verse but even one faulty expression, the entire verse is nullified.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 16.69~~
 ~~bc:Text 69~~
-~~Title:Caitanya-caritāmṛta, Ādi 16.69~~
+
+{{description>"If there are ten literary ornaments in a verse but even one faulty expression, the entire verse is nullified.}}
 
 ====== CC Ādi 16.69 ======
 

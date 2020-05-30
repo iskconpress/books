@@ -1,7 +1,7 @@
-{{description>When Vasudeva heard that Nanda Mahārāja, his very dear friend and brother, had come to Mathurā and already paid the taxes to Kaṁsa, he went to Nanda Mahārāja's residence.}}
-
-~~bc:Text 20~~
 ~~Title: Śrīmad Bhāgavatam 10.5.20~~
+~~bc:Text 20~~
+
+{{description>When Vasudeva heard that Nanda Mahārāja, his very dear friend and brother, had come to Mathurā and already paid the taxes to Kaṁsa, he went to Nanda Mahārāja's residence.}}
 
 ====== SB 10.5.20 ======
 

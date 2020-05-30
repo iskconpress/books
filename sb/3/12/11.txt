@@ -1,7 +1,7 @@
-{{description>My dear boy, I have already selected the following places for your residence: the heart, the senses, the air of life, the sky, the air, the fire, the water, the earth, the sun, the moon and austerity.}}
-
-~~bc:Text 11~~
 ~~Title: Śrīmad Bhāgavatam 3.12.11~~
+~~bc:Text 11~~
+
+{{description>My dear boy, I have already selected the following places for your residence: the heart, the senses, the air of life, the sky, the air, the fire, the water, the earth, the sun, the moon and austerity.}}
 
 ====== SB 3.12.11 ======
 

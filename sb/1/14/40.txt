@@ -1,7 +1,7 @@
-{{description>Has someone addressed you with unfriendly words or threatened you? Could you not give charity to one who asked, or could you not keep your promise to someone?}}
-
-~~bc:Text 40~~
 ~~Title: Śrīmad Bhāgavatam 1.14.40~~
+~~bc:Text 40~~
+
+{{description>Has someone addressed you with unfriendly words or threatened you? Could you not give charity to one who asked, or could you not keep your promise to someone?}}
 
 ====== SB 1.14.40 ======
 

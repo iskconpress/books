@@ -1,7 +1,7 @@
-{{description>The Queen took her bath and dressed herself nicely with all auspicious garments and ornaments. After taking food and becoming completely satisfied, she returned to the King. Upon seeing her beautifully decorated attractive face, the King welcomed her with all devotion.}}
-
-~~bc:Text 2~~
 ~~Title: Śrīmad Bhāgavatam 4.27.2~~
+~~bc:Text 2~~
+
+{{description>The Queen took her bath and dressed herself nicely with all auspicious garments and ornaments. After taking food and becoming completely satisfied, she returned to the King. Upon seeing her beautifully decorated attractive face, the King welcomed her with all devotion.}}
 
 ====== SB 4.27.2 ======
 

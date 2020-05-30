@@ -1,7 +1,7 @@
-{{description>Persons who are learned and who have true knowledge define sound as that which conveys the idea of an object, indicates the presence of a speaker screened from our view and constitutes the subtle form of ether.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 3.26.33~~
+~~bc:Text 33~~
+
+{{description>Persons who are learned and who have true knowledge define sound as that which conveys the idea of an object, indicates the presence of a speaker screened from our view and constitutes the subtle form of ether.}}
 
 ====== SB 3.26.33 ======
 

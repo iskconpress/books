@@ -1,7 +1,7 @@
-{{description>When there is a congregation of devotees, their discussions, questions and answers become conclusive to both the speaker and the audience. Thus such a meeting is beneficial for everyone's real happiness.}}
-
-~~bc:Text 19~~
 ~~Title: Śrīmad Bhāgavatam 4.22.19~~
+~~bc:Text 19~~
+
+{{description>When there is a congregation of devotees, their discussions, questions and answers become conclusive to both the speaker and the audience. Thus such a meeting is beneficial for everyone's real happiness.}}
 
 ====== SB 4.22.19 ======
 

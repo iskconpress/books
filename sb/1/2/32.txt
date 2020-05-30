@@ -1,7 +1,7 @@
-{{description>The Lord, as Supersoul, pervades all things, just as fire permeates wood, and so He appears to be of many varieties, though He is the absolute one without a second.}}
-
-~~bc:Text 32~~
 ~~Title: Śrīmad Bhāgavatam 1.2.32~~
+~~bc:Text 32~~
+
+{{description>The Lord, as Supersoul, pervades all things, just as fire permeates wood, and so He appears to be of many varieties, though He is the absolute one without a second.}}
 
 ====== SB 1.2.32 ======
 

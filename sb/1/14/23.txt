@@ -1,7 +1,7 @@
-{{description>When he bowed at his feet, the King saw that his dejection was unprecedented. His head was down, and tears glided from his lotus eyes.}}
-
-~~bc:Text 23~~
 ~~Title: Śrīmad Bhāgavatam 1.14.23~~
+~~bc:Text 23~~
+
+{{description>When he bowed at his feet, the King saw that his dejection was unprecedented. His head was down, and tears glided from his lotus eyes.}}
 
 ====== SB 1.14.23 ======
 

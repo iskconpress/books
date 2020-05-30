@@ -1,7 +1,7 @@
-{{description>The area resounded with the notes of overjoyed birds. Intoxicated bees wandered there, intoxicated peacocks proudly danced, and merry cuckoos called one another.}}
-
-~~bc:Text 41~~
 ~~Title: Śrīmad Bhāgavatam 3.21.41~~
+~~bc:Text 41~~
+
+{{description>The area resounded with the notes of overjoyed birds. Intoxicated bees wandered there, intoxicated peacocks proudly danced, and merry cuckoos called one another.}}
 
 ====== SB 3.21.41 ======
 

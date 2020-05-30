@@ -1,7 +1,7 @@
-{{description>O Nārada, best of the transcendentalists, the forms of the body cannot take place as long as these created parts, namely the elements, senses, mind and modes of nature, are not assembled.}}
-
-~~bc:Text 32~~
 ~~Title: Śrīmad Bhāgavatam 2.5.32~~
+~~bc:Text 32~~
+
+{{description>O Nārada, best of the transcendentalists, the forms of the body cannot take place as long as these created parts, namely the elements, senses, mind and modes of nature, are not assembled.}}
 
 ====== SB 2.5.32 ======
 

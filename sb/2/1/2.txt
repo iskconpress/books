@@ -1,7 +1,7 @@
-{{description>Those persons who are materially engrossed, being blind to the knowledge of ultimate truth, have many subject matters for hearing in human society, O Emperor.}}
-
-~~bc:Text 2~~
 ~~Title: Śrīmad Bhāgavatam 2.1.2~~
+~~bc:Text 2~~
+
+{{description>Those persons who are materially engrossed, being blind to the knowledge of ultimate truth, have many subject matters for hearing in human society, O Emperor.}}
 
 ====== SB 2.1.2 ======
 

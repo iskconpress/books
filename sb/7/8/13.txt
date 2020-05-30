@@ -1,7 +1,7 @@
-{{description>Because you are speaking so much nonsense, I shall now sever your head from your body. Now let me see your most worshipable God come to protect you. I want to see it.}}
-
-~~bc:Text 13~~
 ~~Title: Śrīmad Bhāgavatam 7.8.13~~
+~~bc:Text 13~~
+
+{{description>Because you are speaking so much nonsense, I shall now sever your head from your body. Now let me see your most worshipable God come to protect you. I want to see it.}}
 
 ====== SB 7.8.13 ======
 

@@ -1,7 +1,7 @@
-{{description>"Your role in this incarnation is to deliver the people in general. You have sufficiently preached the glories of the holy name in this world."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 11.25~~
 ~~bc:Text 25~~
-~~Title:Caitanya-caritāmṛta, Antya 11.25~~
+
+{{description>"Your role in this incarnation is to deliver the people in general. You have sufficiently preached the glories of the holy name in this world."}}
 
 ====== CC Antya 11.25 ======
 

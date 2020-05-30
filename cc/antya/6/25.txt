@@ -1,7 +1,7 @@
-{{description>"My dear sir, my father and his elder brother are both your brothers. All brothers always fight about something.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 6.25~~
 ~~bc:Text 25~~
-~~Title:Caitanya-caritāmṛta, Antya 6.25~~
+
+{{description>"My dear sir, my father and his elder brother are both your brothers. All brothers always fight about something.}}
 
 ====== CC Antya 6.25 ======
 

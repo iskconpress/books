@@ -1,7 +1,7 @@
-{{description>In that place the beautiful Diti expressed her desire: O learned one, Cupid is taking his arrows and distressing me forcibly, as a mad elephant troubles a banana tree.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 3.14.10~~
+~~bc:Text 10~~
+
+{{description>In that place the beautiful Diti expressed her desire: O learned one, Cupid is taking his arrows and distressing me forcibly, as a mad elephant troubles a banana tree.}}
 
 ====== SB 3.14.10 ======
 

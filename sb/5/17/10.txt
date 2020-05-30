@@ -1,7 +1,7 @@
-{{description>Many other rivers, both big and small, flow from the top of Mount Meru. These rivers are like daughters of the mountain, and they flow to the various tracts of land in hundreds of branches.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 5.17.10~~
+~~bc:Text 10~~
+
+{{description>Many other rivers, both big and small, flow from the top of Mount Meru. These rivers are like daughters of the mountain, and they flow to the various tracts of land in hundreds of branches.}}
 
 ====== SB 5.17.10 ======
 

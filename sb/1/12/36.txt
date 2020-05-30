@@ -1,7 +1,7 @@
-{{description>O Śaunaka, thereafter the Lord, having bade farewell to King Yudhiṣṭhira, Draupadī and other relatives, started for the city of Dvārakā, accompanied by Arjuna and other members of the Yadu dynasty.}}
-
-~~bc:Text 36~~
 ~~Title: Śrīmad Bhāgavatam 1.12.36~~
+~~bc:Text 36~~
+
+{{description>O Śaunaka, thereafter the Lord, having bade farewell to King Yudhiṣṭhira, Draupadī and other relatives, started for the city of Dvārakā, accompanied by Arjuna and other members of the Yadu dynasty.}}
 
 ====== SB 1.12.36 ======
 

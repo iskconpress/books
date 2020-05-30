@@ -1,7 +1,7 @@
-{{description>O Lord Śiva, may the demigods and the priests whose limbs have been broken by your soldiers recover from the injuries by your grace.}}
-
-~~bc:Text 52~~
 ~~Title: Śrīmad Bhāgavatam 4.6.52~~
+~~bc:Text 52~~
+
+{{description>O Lord Śiva, may the demigods and the priests whose limbs have been broken by your soldiers recover from the injuries by your grace.}}
 
 ====== SB 4.6.52 ======
 

@@ -1,7 +1,7 @@
-{{description>It is the duty of every conditioned soul to engage his polluted consciousness, which is now attached to material enjoyment, in very serious devotional service with detachment. Thus his mind and consciousness will be under full control.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 3.27.5~~
+~~bc:Text 5~~
+
+{{description>It is the duty of every conditioned soul to engage his polluted consciousness, which is now attached to material enjoyment, in very serious devotional service with detachment. Thus his mind and consciousness will be under full control.}}
 
 ====== SB 3.27.5 ======
 

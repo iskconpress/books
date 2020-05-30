@@ -1,7 +1,7 @@
-{{description>Whatever a man may sacrifice to other gods, O son of Kuntī, is really meant for Me alone, but it is offered without true understanding.}}
-
-~~bc:Text 23~~
 ~~Title:Bhagavad-gītā As It Is 9.23~~
+~~bc:Text 23~~
+
+{{description>Whatever a man may sacrifice to other gods, O son of Kuntī, is really meant for Me alone, but it is offered without true understanding.}}
 
 ====== Bg. 9.23 ======
 

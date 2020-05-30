@@ -1,7 +1,7 @@
-{{description>"The external energy, called māyā-śakti, is the cause of innumerable universes with varied material potencies.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.102~~
 ~~bc:Text 102~~
-~~Title:Caitanya-caritāmṛta, Ādi 2.102~~
+
+{{description>"The external energy, called māyā-śakti, is the cause of innumerable universes with varied material potencies.}}
 
 ====== CC Ādi 2.102 ======
 

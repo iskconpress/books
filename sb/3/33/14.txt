@@ -1,7 +1,7 @@
-{{description>She began to bathe three times daily, and thus her curling black hair gradually became gray. Due to austerity, her body gradually became thin, and she wore old garments.}}
-
-~~bc:Text 14~~
 ~~Title: Śrīmad Bhāgavatam 3.33.14~~
+~~bc:Text 14~~
+
+{{description>She began to bathe three times daily, and thus her curling black hair gradually became gray. Due to austerity, her body gradually became thin, and she wore old garments.}}
 
 ====== SB 3.33.14 ======
 

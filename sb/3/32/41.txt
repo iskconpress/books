@@ -1,7 +1,7 @@
-{{description>Instruction should be given to the faithful devotee who is respectful to the spiritual master, nonenvious, friendly to all kinds of living entities and eager to render service with faith and sincerity.}}
-
-~~bc:Text 41~~
 ~~Title: Śrīmad Bhāgavatam 3.32.41~~
+~~bc:Text 41~~
+
+{{description>Instruction should be given to the faithful devotee who is respectful to the spiritual master, nonenvious, friendly to all kinds of living entities and eager to render service with faith and sincerity.}}
 
 ====== SB 3.32.41 ======
 

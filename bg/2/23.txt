@@ -1,7 +1,7 @@
-{{description>The soul can never be cut into pieces by any weapon, nor can he be burned by fire, nor moistened by water, nor withered by the wind.}}
-
-~~bc:Text 23~~
 ~~Title:Bhagavad-gītā As It Is 2.23~~
+~~bc:Text 23~~
+
+{{description>The soul can never be cut into pieces by any weapon, nor can he be burned by fire, nor moistened by water, nor withered by the wind.}}
 
 ====== Bg. 2.23 ======
 

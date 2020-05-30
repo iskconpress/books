@@ -1,7 +1,7 @@
-{{description>After this, Pṛthu Mahārāja took his bath, which is customarily taken after the performance of a yajña, and received the benedictions and due blessings of the demigods, who were very pleased by his glorious activities.}}
-
-~~bc:Text 40~~
 ~~Title: Śrīmad Bhāgavatam 4.19.40~~
+~~bc:Text 40~~
+
+{{description>After this, Pṛthu Mahārāja took his bath, which is customarily taken after the performance of a yajña, and received the benedictions and due blessings of the demigods, who were very pleased by his glorious activities.}}
 
 ====== SB 4.19.40 ======
 

@@ -1,7 +1,7 @@
-{{description>In this manner the Personality of Godhead, Lord Viṣṇu, the maintainer of all living entities, raised the earth from within the water, and having placed it afloat on the water, He returned to His own abode.}}
-
-~~bc:Text 47~~
 ~~Title: Śrīmad Bhāgavatam 3.13.47~~
+~~bc:Text 47~~
+
+{{description>In this manner the Personality of Godhead, Lord Viṣṇu, the maintainer of all living entities, raised the earth from within the water, and having placed it afloat on the water, He returned to His own abode.}}
 
 ====== SB 3.13.47 ======
 

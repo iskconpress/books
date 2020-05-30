@@ -1,7 +1,7 @@
-{{description>In your own heart, through your intellect, you will always see Me, the supreme self-effulgent soul dwelling within the hearts of all living entities. Thus you will achieve the state of eternal life, free from all lamentation and fear.}}
-
-~~bc:Text 39~~
 ~~Title: Śrīmad Bhāgavatam 3.24.39~~
+~~bc:Text 39~~
+
+{{description>In your own heart, through your intellect, you will always see Me, the supreme self-effulgent soul dwelling within the hearts of all living entities. Thus you will achieve the state of eternal life, free from all lamentation and fear.}}
 
 ====== SB 3.24.39 ======
 

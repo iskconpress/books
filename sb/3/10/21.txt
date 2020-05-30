@@ -1,7 +1,7 @@
-{{description>The eighth creation is that of the lower species of life, and they are of different varieties, numbering twenty-eight. They are all extensively foolish and ignorant. They know their desirables by smell, but are unable to remember anything within the heart.}}
-
-~~bc:Text 21~~
 ~~Title: Śrīmad Bhāgavatam 3.10.21~~
+~~bc:Text 21~~
+
+{{description>The eighth creation is that of the lower species of life, and they are of different varieties, numbering twenty-eight. They are all extensively foolish and ignorant. They know their desirables by smell, but are unable to remember anything within the heart.}}
 
 ====== SB 3.10.21 ======
 

@@ -1,7 +1,7 @@
-{{description>The sage thus regretted the sin committed by his own son. He did not take the insult paid by the King very seriously.}}
-
-~~bc:Text 49~~
 ~~Title: Śrīmad Bhāgavatam 1.18.49~~
+~~bc:Text 49~~
+
+{{description>The sage thus regretted the sin committed by his own son. He did not take the insult paid by the King very seriously.}}
 
 ====== SB 1.18.49 ======
 

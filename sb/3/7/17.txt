@@ -1,7 +1,7 @@
-{{description>Both the lowest of fools and he who is transcendental to all intelligence enjoy happiness, whereas persons between them suffer the material pangs.}}
-
-~~bc:Text 17~~
 ~~Title: Śrīmad Bhāgavatam 3.7.17~~
+~~bc:Text 17~~
+
+{{description>Both the lowest of fools and he who is transcendental to all intelligence enjoy happiness, whereas persons between them suffer the material pangs.}}
 
 ====== SB 3.7.17 ======
 

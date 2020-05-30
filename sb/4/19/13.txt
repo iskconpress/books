@@ -1,7 +1,7 @@
-{{description>When the son of King Pṛthu was informed by Atri of King Indra's trick, he immediately became very angry and followed Indra to kill him, calling, "Wait! Wait!"}}
-
-~~bc:Text 13~~
 ~~Title: Śrīmad Bhāgavatam 4.19.13~~
+~~bc:Text 13~~
+
+{{description>When the son of King Pṛthu was informed by Atri of King Indra's trick, he immediately became very angry and followed Indra to kill him, calling, "Wait! Wait!"}}
 
 ====== SB 4.19.13 ======
 

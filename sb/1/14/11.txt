@@ -1,7 +1,7 @@
-{{description>The left side of my body, my thighs, arms and eyes are all quivering again and again. I am having heart palpitations due to fear. All this indicates undesirable happenings.}}
-
-~~bc:Text 11~~
 ~~Title: Śrīmad Bhāgavatam 1.14.11~~
+~~bc:Text 11~~
+
+{{description>The left side of my body, my thighs, arms and eyes are all quivering again and again. I am having heart palpitations due to fear. All this indicates undesirable happenings.}}
 
 ====== SB 1.14.11 ======
 

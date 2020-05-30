@@ -1,7 +1,7 @@
-{{description>"I have consulted Jagadānanda Paṇḍita for his opinion, and he has also advised me to return to Vṛndāvana."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 4.156~~
 ~~bc:Text 156~~
-~~Title:Caitanya-caritāmṛta, Antya 4.156~~
+
+{{description>"I have consulted Jagadānanda Paṇḍita for his opinion, and he has also advised me to return to Vṛndāvana."}}
 
 ====== CC Antya 4.156 ======
 

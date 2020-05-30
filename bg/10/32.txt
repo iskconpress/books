@@ -1,7 +1,7 @@
-{{description>Of all creations I am the beginning and the end and also the middle, O Arjuna. Of all sciences I am the spiritual science of the Self, and among logicians I am the conclusive truth.}}
-
-~~bc:Text 32~~
 ~~Title:Bhagavad-gītā As It Is 10.32~~
+~~bc:Text 32~~
+
+{{description>Of all creations I am the beginning and the end and also the middle, O Arjuna. Of all sciences I am the spiritual science of the Self, and among logicians I am the conclusive truth.}}
 
 ====== Bg. 10.32 ======
 

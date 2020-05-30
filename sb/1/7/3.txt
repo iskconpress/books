@@ -1,7 +1,7 @@
-{{description>In that place, Śrīla Vyāsadeva, in his own āśrama, which was surrounded by berry trees, sat down to meditate after touching water for purification.}}
-
-~~bc:Text 3~~
 ~~Title: Śrīmad Bhāgavatam 1.7.3~~
+~~bc:Text 3~~
+
+{{description>In that place, Śrīla Vyāsadeva, in his own āśrama, which was surrounded by berry trees, sat down to meditate after touching water for purification.}}
 
 ====== SB 1.7.3 ======
 

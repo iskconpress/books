@@ -1,7 +1,7 @@
-{{description>Seeing that the monarch had come to his hermitage and was bowing before him, the sage greeted him with benediction and received him with due honor.}}
-
-~~bc:Text 48~~
 ~~Title: Śrīmad Bhāgavatam 3.21.48~~
+~~bc:Text 48~~
+
+{{description>Seeing that the monarch had come to his hermitage and was bowing before him, the sage greeted him with benediction and received him with due honor.}}
 
 ====== SB 3.21.48 ======
 

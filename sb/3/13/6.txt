@@ -1,7 +1,7 @@
-{{description>The sage Maitreya said to Vidura: After his appearance, Manu, the father of mankind, along with his wife, thus addressed the reservoir of Vedic wisdom, Brahmā, with obeisances and folded hands.}}
-
-~~bc:Text 6~~
 ~~Title: Śrīmad Bhāgavatam 3.13.6~~
+~~bc:Text 6~~
+
+{{description>The sage Maitreya said to Vidura: After his appearance, Manu, the father of mankind, along with his wife, thus addressed the reservoir of Vedic wisdom, Brahmā, with obeisances and folded hands.}}
 
 ====== SB 3.13.6 ======
 

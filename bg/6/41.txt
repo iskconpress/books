@@ -1,7 +1,7 @@
-{{description>The unsuccessful yogī, after many, many years of enjoyment on the planets of the pious living entities, is born into a family of righteous people, or into a family of rich aristocracy.}}
-
-~~bc:Text 41~~
 ~~Title:Bhagavad-gītā As It Is 6.41~~
+~~bc:Text 41~~
+
+{{description>The unsuccessful yogī, after many, many years of enjoyment on the planets of the pious living entities, is born into a family of righteous people, or into a family of rich aristocracy.}}
 
 ====== Bg. 6.41 ======
 

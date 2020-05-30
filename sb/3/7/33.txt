@@ -1,7 +1,7 @@
-{{description>Please also explain the regulations for offering respects to the forefathers, the creation of the Pitṛloka, the time schedule in the planets, stars and luminaries, and their respective situations.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 3.7.33~~
+~~bc:Text 33~~
+
+{{description>Please also explain the regulations for offering respects to the forefathers, the creation of the Pitṛloka, the time schedule in the planets, stars and luminaries, and their respective situations.}}
 
 ====== SB 3.7.33 ======
 

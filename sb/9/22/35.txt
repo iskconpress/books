@@ -1,7 +1,7 @@
-{{description>My dear King, your four sons—Janamejaya, Śrutasena, Bhīmasena and Ugrasena—are very powerful. Janamejaya is the eldest.}}
-
-~~bc:Text 35~~
 ~~Title: Śrīmad Bhāgavatam 9.22.35~~
+~~bc:Text 35~~
+
+{{description>My dear King, your four sons—Janamejaya, Śrutasena, Bhīmasena and Ugrasena—are very powerful. Janamejaya is the eldest.}}
 
 ====== SB 9.22.35 ======
 

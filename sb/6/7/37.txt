@@ -1,7 +1,7 @@
-{{description>All of you are my superiors. Therefore although accepting priesthood is sometimes reproachable, I cannot refuse even a small request from you. I agree to be your priest. I shall fulfill your request by dedicating my life and possessions.}}
-
-~~bc:Text 37~~
 ~~Title: Śrīmad Bhāgavatam 6.7.37~~
+~~bc:Text 37~~
+
+{{description>All of you are my superiors. Therefore although accepting priesthood is sometimes reproachable, I cannot refuse even a small request from you. I agree to be your priest. I shall fulfill your request by dedicating my life and possessions.}}
 
 ====== SB 6.7.37 ======
 

@@ -1,7 +1,7 @@
-{{description>The sky is a product of sound, and sound is the transformation of egoistic passion. In other words, the sky is the symbolic representation of the Supreme Soul.}}
-
-~~bc:Text 32~~
 ~~Title: Śrīmad Bhāgavatam 3.5.32~~
+~~bc:Text 32~~
+
+{{description>The sky is a product of sound, and sound is the transformation of egoistic passion. In other words, the sky is the symbolic representation of the Supreme Soul.}}
 
 ====== SB 3.5.32 ======
 

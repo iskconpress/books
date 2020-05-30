@@ -1,7 +1,7 @@
-{{description>The science of God describes the incarnations of the Personality of Godhead and His different activities together with the activities of His great devotees.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 2.10.5~~
+~~bc:Text 5~~
+
+{{description>The science of God describes the incarnations of the Personality of Godhead and His different activities together with the activities of His great devotees.}}
 
 ====== SB 2.10.5 ======
 

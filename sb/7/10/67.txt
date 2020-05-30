@@ -1,7 +1,7 @@
-{{description>My dear King Yudhiṣṭhira, the most powerful Lord Śiva joined the arrows to his bow, and at noon he set fire to all three residences of the demons and thus destroyed them.}}
-
-~~bc:Text 67~~
 ~~Title: Śrīmad Bhāgavatam 7.10.67~~
+~~bc:Text 67~~
+
+{{description>My dear King Yudhiṣṭhira, the most powerful Lord Śiva joined the arrows to his bow, and at noon he set fire to all three residences of the demons and thus destroyed them.}}
 
 ====== SB 7.10.67 ======
 

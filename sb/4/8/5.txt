@@ -1,7 +1,7 @@
-{{description>My dear Vidura, I have summarily explained the causes of devastation. One who hears this description three times attains piety and washes the sinful contamination from his soul.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 4.8.5~~
+~~bc:Text 5~~
+
+{{description>My dear Vidura, I have summarily explained the causes of devastation. One who hears this description three times attains piety and washes the sinful contamination from his soul.}}
 
 ====== SB 4.8.5 ======
 

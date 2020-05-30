@@ -1,7 +1,7 @@
-{{description>The inhabitants of the Vaikuṇṭha planets are described as having a glowing sky-bluish complexion. Their eyes resemble lotus flowers, their dress is of yellowish color, and their bodily features very attractive. They are just the age of growing youths, they all have four hands, they are all nicely decorated with pearl necklaces with ornamental medallions, and they all appear to be effulgent.}}
-
-~~bc:Text 11~~
 ~~Title: Śrīmad Bhāgavatam 2.9.11~~
+~~bc:Text 11~~
+
+{{description>The inhabitants of the Vaikuṇṭha planets are described as having a glowing sky-bluish complexion. Their eyes resemble lotus flowers, their dress is of yellowish color, and their bodily features very attractive. They are just the age of growing youths, they all have four hands, they are all nicely decorated with pearl necklaces with ornamental medallions, and they all appear to be effulgent.}}
 
 ====== SB 2.9.11 ======
 

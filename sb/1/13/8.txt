@@ -1,7 +1,7 @@
-{{description>Mahārāja Yudhiṣṭhira said: My uncle, do you remember how you always protected us, along with our mother, from all sorts of calamities? Your partiality, like the wings of a bird, saved us from poisoning and arson.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 1.13.8~~
+~~bc:Text 8~~
+
+{{description>Mahārāja Yudhiṣṭhira said: My uncle, do you remember how you always protected us, along with our mother, from all sorts of calamities? Your partiality, like the wings of a bird, saved us from poisoning and arson.}}
 
 ====== SB 1.13.8 ======
 

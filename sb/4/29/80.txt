@@ -1,7 +1,7 @@
-{{description>The great sage Maitreya continued: The supreme devotee, the great saint Nārada, thus explained to King Prācīnabarhi the constitutional position of the Supreme Personality of Godhead and the living entity. After giving an invitation to the King, Nārada Muni left to return to Siddhaloka.}}
-
-~~bc:Text 80~~
 ~~Title: Śrīmad Bhāgavatam 4.29.80~~
+~~bc:Text 80~~
+
+{{description>The great sage Maitreya continued: The supreme devotee, the great saint Nārada, thus explained to King Prācīnabarhi the constitutional position of the Supreme Personality of Godhead and the living entity. After giving an invitation to the King, Nārada Muni left to return to Siddhaloka.}}
 
 ====== SB 4.29.80 ======
 

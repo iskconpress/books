@@ -1,7 +1,7 @@
-{{description>Do the trees not live? Do the bellows of the blacksmith not breathe? All around us, do the beasts not eat and discharge semen?}}
-
-~~bc:Text 18~~
 ~~Title: Śrīmad Bhāgavatam 2.3.18~~
+~~bc:Text 18~~
+
+{{description>Do the trees not live? Do the bellows of the blacksmith not breathe? All around us, do the beasts not eat and discharge semen?}}
 
 ====== SB 2.3.18 ======
 

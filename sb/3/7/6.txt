@@ -1,7 +1,7 @@
-{{description>The Lord, as the Supersoul, is situated in every living being's heart. Why then do the living entities' activities result in misfortune and misery?}}
-
-~~bc:Text 6~~
 ~~Title: Śrīmad Bhāgavatam 3.7.6~~
+~~bc:Text 6~~
+
+{{description>The Lord, as the Supersoul, is situated in every living being's heart. Why then do the living entities' activities result in misfortune and misery?}}
 
 ====== SB 3.7.6 ======
 

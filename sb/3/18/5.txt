@@ -1,7 +1,7 @@
-{{description>The demon continued: When You fall dead with Your skull smashed by the mace hurled by my arms, the demigods and sages who offer You oblations and sacrifice in devotional service will also automatically cease to exist, like trees without roots.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 3.18.5~~
+~~bc:Text 5~~
+
+{{description>The demon continued: When You fall dead with Your skull smashed by the mace hurled by my arms, the demigods and sages who offer You oblations and sacrifice in devotional service will also automatically cease to exist, like trees without roots.}}
 
 ====== SB 3.18.5 ======
 

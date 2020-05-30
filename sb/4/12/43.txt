@@ -1,7 +1,7 @@
-{{description>Dhruva Mahārāja attained an exalted position at the age of only five or six years, after undergoing austerity for six months. Alas, a great kṣatriya cannot achieve such a position even after undergoing austerities for many, many years.}}
-
-~~bc:Text 43~~
 ~~Title: Śrīmad Bhāgavatam 4.12.43~~
+~~bc:Text 43~~
+
+{{description>Dhruva Mahārāja attained an exalted position at the age of only five or six years, after undergoing austerity for six months. Alas, a great kṣatriya cannot achieve such a position even after undergoing austerities for many, many years.}}
 
 ====== SB 4.12.43 ======
 

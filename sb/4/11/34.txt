@@ -1,7 +1,7 @@
-{{description>For this reason, my son, you should immediately pacify Kuvera with gentle words and prayers, and thus his wrath may not affect our family.}}
-
-~~bc:Text 34~~
 ~~Title: Śrīmad Bhāgavatam 4.11.34~~
+~~bc:Text 34~~
+
+{{description>For this reason, my son, you should immediately pacify Kuvera with gentle words and prayers, and thus his wrath may not affect our family.}}
 
 ====== SB 4.11.34 ======
 

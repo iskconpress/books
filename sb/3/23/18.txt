@@ -1,7 +1,7 @@
-{{description>The palace was very beautiful, with its coral thresholds at the entrances and its doors bedecked with diamonds. Gold pinnacles crowned its domes of sapphire.}}
-
-~~bc:Text 18~~
 ~~Title: Śrīmad Bhāgavatam 3.23.18~~
+~~bc:Text 18~~
+
+{{description>The palace was very beautiful, with its coral thresholds at the entrances and its doors bedecked with diamonds. Gold pinnacles crowned its domes of sapphire.}}
 
 ====== SB 3.23.18 ======
 

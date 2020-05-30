@@ -1,7 +1,7 @@
-{{description>Mahārāja Vijitāśva offered the eastern part of the world to his brother Haryakṣa, the southern part to Dhūmrakeśa, the western part to Vṛka and the northern part to Draviṇa.}}
-
-~~bc:Text 2~~
 ~~Title: Śrīmad Bhāgavatam 4.24.2~~
+~~bc:Text 2~~
+
+{{description>Mahārāja Vijitāśva offered the eastern part of the world to his brother Haryakṣa, the southern part to Dhūmrakeśa, the western part to Vṛka and the northern part to Draviṇa.}}
 
 ====== SB 4.24.2 ======
 

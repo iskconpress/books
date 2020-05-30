@@ -1,7 +1,7 @@
-{{description>"This Caitanya Mahāprabhu is an illiterate sannyāsī and therefore does not know His real function. Guided only by His sentiments, He wanders about in the company of other sentimentalists."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 7.42~~
 ~~bc:Text 42~~
-~~Title:Caitanya-caritāmṛta, Ādi 7.42~~
+
+{{description>"This Caitanya Mahāprabhu is an illiterate sannyāsī and therefore does not know His real function. Guided only by His sentiments, He wanders about in the company of other sentimentalists."}}
 
 ====== CC Ādi 7.42 ======
 

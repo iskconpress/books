@@ -1,7 +1,7 @@
-{{description>"I have vowed to chant ten million names in a month. I have taken this vow, but now it is nearing its end.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 3.124~~
 ~~bc:Text 124~~
-~~Title:Caitanya-caritāmṛta, Antya 3.124~~
+
+{{description>"I have vowed to chant ten million names in a month. I have taken this vow, but now it is nearing its end.}}
 
 ====== CC Antya 3.124 ======
 

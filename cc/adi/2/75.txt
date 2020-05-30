@@ -1,7 +1,7 @@
-{{description>"If I do not state a subject, I do not state a predicate. First I speak the former and then I speak the latter.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.75~~
 ~~bc:Text 75~~
-~~Title:Caitanya-caritāmṛta, Ādi 2.75~~
+
+{{description>"If I do not state a subject, I do not state a predicate. First I speak the former and then I speak the latter.}}
 
 ====== CC Ādi 2.75 ======
 

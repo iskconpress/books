@@ -1,7 +1,7 @@
-{{description>In the eighteenth incarnation, the Lord appeared as King Rāma. In order to perform some pleasing work for the demigods, He exhibited superhuman powers by controlling the Indian Ocean and then killing the atheist King Rāvaṇa, who was on the other side of the sea.}}
-
-~~bc:Text 22~~
 ~~Title: Śrīmad Bhāgavatam 1.3.22~~
+~~bc:Text 22~~
+
+{{description>In the eighteenth incarnation, the Lord appeared as King Rāma. In order to perform some pleasing work for the demigods, He exhibited superhuman powers by controlling the Indian Ocean and then killing the atheist King Rāvaṇa, who was on the other side of the sea.}}
 
 ====== SB 1.3.22 ======
 

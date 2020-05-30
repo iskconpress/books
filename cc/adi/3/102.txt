@@ -1,7 +1,7 @@
-{{description>"My name, 'Advaita,' will be fitting if I am able to induce Kṛṣṇa to inaugurate the movement of the chanting of the holy name."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 3.102~~
 ~~bc:Text 102~~
-~~Title:Caitanya-caritāmṛta, Ādi 3.102~~
+
+{{description>"My name, 'Advaita,' will be fitting if I am able to induce Kṛṣṇa to inaugurate the movement of the chanting of the holy name."}}
 
 ====== CC Ādi 3.102 ======
 

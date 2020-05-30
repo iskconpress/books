@@ -1,7 +1,7 @@
-{{description>You are so skilled in war that I do not see anyone else but the most ancient person, Lord Viṣṇu, who can give satisfaction in battle to you. Therefore, O chief of the asuras, approach Him, whom even heroes like you mention with praise.}}
-
-~~bc:Text 30~~
 ~~Title: Śrīmad Bhāgavatam 3.17.30~~
+~~bc:Text 30~~
+
+{{description>You are so skilled in war that I do not see anyone else but the most ancient person, Lord Viṣṇu, who can give satisfaction in battle to you. Therefore, O chief of the asuras, approach Him, whom even heroes like you mention with praise.}}
 
 ====== SB 3.17.30 ======
 

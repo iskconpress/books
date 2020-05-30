@@ -1,7 +1,7 @@
-{{description>Those who are considered materially powerful and rich are always full of anxieties because of governmental laws, thieves and rogues, enemies, family members, animals, birds, persons seeking charity, the inevitable time factor and even their own selves. Thus they are invariably afraid.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 7.13.33~~
+~~bc:Text 33~~
+
+{{description>Those who are considered materially powerful and rich are always full of anxieties because of governmental laws, thieves and rogues, enemies, family members, animals, birds, persons seeking charity, the inevitable time factor and even their own selves. Thus they are invariably afraid.}}
 
 ====== SB 7.13.33 ======
 

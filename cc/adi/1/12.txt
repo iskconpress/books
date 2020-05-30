@@ -1,7 +1,7 @@
-{{description>Lord Advaita Ācārya is the incarnation of Mahā-Viṣṇu, whose main function is to create the cosmic world through the actions of Māyā.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 1.12~~
 ~~bc:Text 12~~
-~~Title:Caitanya-caritāmṛta, Ādi 1.12~~
+
+{{description>Lord Advaita Ācārya is the incarnation of Mahā-Viṣṇu, whose main function is to create the cosmic world through the actions of Māyā.}}
 
 ====== CC Ādi 1.12 ======
 

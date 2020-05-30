@@ -1,7 +1,7 @@
-{{description>King Yayāti gave the southeast to his son Druhyu, the south to his son Yadu, the west to his son Turvasu, and the north to his son Anu. In this way he divided the kingdom.}}
-
-~~bc:Text 22~~
 ~~Title: Śrīmad Bhāgavatam 9.19.22~~
+~~bc:Text 22~~
+
+{{description>King Yayāti gave the southeast to his son Druhyu, the south to his son Yadu, the west to his son Turvasu, and the north to his son Anu. In this way he divided the kingdom.}}
 
 ====== SB 9.19.22 ======
 

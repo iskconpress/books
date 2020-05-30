@@ -1,7 +1,7 @@
-{{description>When he suffers reverses in his occupation, he tries again and again to improve himself, but when he is baffled in all attempts and is ruined, he accepts money from others because of excessive greed.}}
-
-~~bc:Text 11~~
 ~~Title: Śrīmad Bhāgavatam 3.30.11~~
+~~bc:Text 11~~
+
+{{description>When he suffers reverses in his occupation, he tries again and again to improve himself, but when he is baffled in all attempts and is ruined, he accepts money from others because of excessive greed.}}
 
 ====== SB 3.30.11 ======
 

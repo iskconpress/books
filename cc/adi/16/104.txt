@@ -1,7 +1,7 @@
-{{description>"Please go back home, and tomorrow we may meet again so that I may hear discourses on the śāstras from your mouth."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 16.104~~
 ~~bc:Text 104~~
-~~Title:Caitanya-caritāmṛta, Ādi 16.104~~
+
+{{description>"Please go back home, and tomorrow we may meet again so that I may hear discourses on the śāstras from your mouth."}}
 
 ====== CC Ādi 16.104 ======
 

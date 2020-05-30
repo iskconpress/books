@@ -1,7 +1,7 @@
-{{description>Once upon a time King Pṛthu initiated the performance of a very great sacrifice in which great saintly sages, brāhmaṇas, demigods from higher planetary systems and great saintly kings known as rājarṣis all assembled together.}}
-
-~~bc:Text 13~~
 ~~Title: Śrīmad Bhāgavatam 4.21.13~~
+~~bc:Text 13~~
+
+{{description>Once upon a time King Pṛthu initiated the performance of a very great sacrifice in which great saintly sages, brāhmaṇas, demigods from higher planetary systems and great saintly kings known as rājarṣis all assembled together.}}
 
 ====== SB 4.21.13 ======
 

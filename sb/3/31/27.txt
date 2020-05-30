@@ -1,7 +1,7 @@
-{{description>In his helpless condition, gnats, mosquitoes, bugs and other germs bite the baby, whose skin is tender, just as smaller worms bite a big worm. The child, deprived of his wisdom, cries bitterly.}}
-
-~~bc:Text 27~~
 ~~Title: Śrīmad Bhāgavatam 3.31.27~~
+~~bc:Text 27~~
+
+{{description>In his helpless condition, gnats, mosquitoes, bugs and other germs bite the baby, whose skin is tender, just as smaller worms bite a big worm. The child, deprived of his wisdom, cries bitterly.}}
 
 ====== SB 3.31.27 ======
 

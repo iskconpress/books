@@ -1,7 +1,7 @@
-{{description>"Now that You have become pacified, I have come to You. It is my good fortune to receive a guest like Your Honor.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 17.147~~
 ~~bc:Text 147~~
-~~Title:Caitanya-caritāmṛta, Ādi 17.147~~
+
+{{description>"Now that You have become pacified, I have come to You. It is my good fortune to receive a guest like Your Honor.}}
 
 ====== CC Ādi 17.147 ======
 

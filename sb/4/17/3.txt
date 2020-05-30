@@ -1,7 +1,7 @@
-{{description>Vidura inquired from the great sage Maitreya: My dear brāhmaṇa, since mother earth can appear in different shapes, why did she take the shape of a cow? And when King Pṛthu milked her, who became the calf, and what was the milking pot?}}
-
-~~bc:Text 3~~
 ~~Title: Śrīmad Bhāgavatam 4.17.3~~
+~~bc:Text 3~~
+
+{{description>Vidura inquired from the great sage Maitreya: My dear brāhmaṇa, since mother earth can appear in different shapes, why did she take the shape of a cow? And when King Pṛthu milked her, who became the calf, and what was the milking pot?}}
 
 ====== SB 4.17.3 ======
 

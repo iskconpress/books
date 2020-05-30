@@ -1,7 +1,7 @@
-{{description>Whatever action is performed by a great man, common men follow.}}
-
-~~bc:Text 15~~
 ~~Title: Śrīmad Bhāgavatam 5.4.15~~
+~~bc:Text 15~~
+
+{{description>Whatever action is performed by a great man, common men follow.}}
 
 ====== SB 5.4.15 ======
 

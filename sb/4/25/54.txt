@@ -1,7 +1,7 @@
-{{description>Of the many inhabitants of this city, there are two persons named Nirvāk and Peśaskṛt. Although King Purañjana was the ruler of citizens who possessed eyes, he unfortunately used to associate with these blind men. Accompanied by them, he used to go here and there and perform various activities.}}
-
-~~bc:Text 54~~
 ~~Title: Śrīmad Bhāgavatam 4.25.54~~
+~~bc:Text 54~~
+
+{{description>Of the many inhabitants of this city, there are two persons named Nirvāk and Peśaskṛt. Although King Purañjana was the ruler of citizens who possessed eyes, he unfortunately used to associate with these blind men. Accompanied by them, he used to go here and there and perform various activities.}}
 
 ====== SB 4.25.54 ======
 

@@ -1,7 +1,7 @@
-{{description>Lord Rāmacandra, surrounded by Lakṣmaṇa and monkey soldiers like Sugrīva, Hanumān, Gandhamāda, Nīla, Aṅgada, Jāmbavān and Panasa, attacked the soldiers of the Rākṣasas, who were fully equipped with various invincible weapons like swords, lances, bows, prāsas, ṛṣṭis, śakti arrows, khaḍgas and tomaras.}}
-
-~~bc:Text 19~~
 ~~Title: Śrīmad Bhāgavatam 9.10.19~~
+~~bc:Text 19~~
+
+{{description>Lord Rāmacandra, surrounded by Lakṣmaṇa and monkey soldiers like Sugrīva, Hanumān, Gandhamāda, Nīla, Aṅgada, Jāmbavān and Panasa, attacked the soldiers of the Rākṣasas, who were fully equipped with various invincible weapons like swords, lances, bows, prāsas, ṛṣṭis, śakti arrows, khaḍgas and tomaras.}}
 
 ====== SB 9.10.19 ======
 

@@ -1,7 +1,7 @@
-{{description>As a disease, if initially neglected, becomes acute and impossible to cure, or as the senses, if not controlled at first, are impossible to control later, an enemy, if neglected in the beginning, later becomes insurmountable.}}
-
-~~bc:Text 38~~
 ~~Title: Śrīmad Bhāgavatam 10.4.38~~
+~~bc:Text 38~~
+
+{{description>As a disease, if initially neglected, becomes acute and impossible to cure, or as the senses, if not controlled at first, are impossible to control later, an enemy, if neglected in the beginning, later becomes insurmountable.}}
 
 ====== SB 10.4.38 ======
 

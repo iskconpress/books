@@ -1,7 +1,7 @@
-{{description>"You inspire me within the heart and make me speak with the tongue. I do not know whether I am speaking well or badly."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 8.123~~
 ~~bc:Text 123~~
-~~Title:Caitanya-caritāmṛta, Madhya 8.123~~
+
+{{description>"You inspire me within the heart and make me speak with the tongue. I do not know whether I am speaking well or badly."}}
 
 ====== CC Madhya 8.123 ======
 

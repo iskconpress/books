@@ -1,7 +1,7 @@
-{{description>There are other trees also which decorate the hill, such as the golden lotus flower, the cinnamon tree, mālatī, kubja, mallikā and mādhavī.}}
-
-~~bc:Text 16~~
 ~~Title: Śrīmad Bhāgavatam 4.6.16~~
+~~bc:Text 16~~
+
+{{description>There are other trees also which decorate the hill, such as the golden lotus flower, the cinnamon tree, mālatī, kubja, mallikā and mādhavī.}}
 
 ====== SB 4.6.16 ======
 

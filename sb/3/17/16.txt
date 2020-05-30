@@ -1,7 +1,7 @@
-{{description>These two demons who appeared in ancient times soon began to exhibit uncommon bodily features; they had steellike frames which began to grow just like two great mountains.}}
-
-~~bc:Text 16~~
 ~~Title: Śrīmad Bhāgavatam 3.17.16~~
+~~bc:Text 16~~
+
+{{description>These two demons who appeared in ancient times soon began to exhibit uncommon bodily features; they had steellike frames which began to grow just like two great mountains.}}
 
 ====== SB 3.17.16 ======
 

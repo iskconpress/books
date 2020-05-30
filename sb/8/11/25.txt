@@ -1,7 +1,7 @@
-{{description>The demigods, being severely oppressed by their enemies and being unable to see Indra on the battlefield, were very anxious. Having no captain or leader, they began lamenting like traders in a wrecked vessel in the midst of the ocean.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 8.11.25~~
+~~bc:Text 25~~
+
+{{description>The demigods, being severely oppressed by their enemies and being unable to see Indra on the battlefield, were very anxious. Having no captain or leader, they began lamenting like traders in a wrecked vessel in the midst of the ocean.}}
 
 ====== SB 8.11.25 ======
 

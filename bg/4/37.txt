@@ -1,7 +1,7 @@
-{{description>As the blazing fire turns firewood to ashes, O Arjuna, so does the fire of knowledge burn to ashes all reactions to material activities.}}
-
-~~bc:Text 37~~
 ~~Title:Bhagavad-gītā As It Is 4.37~~
+~~bc:Text 37~~
+
+{{description>As the blazing fire turns firewood to ashes, O Arjuna, so does the fire of knowledge burn to ashes all reactions to material activities.}}
 
 ====== Bg. 4.37 ======
 

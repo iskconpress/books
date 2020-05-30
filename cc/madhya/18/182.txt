@@ -1,7 +1,7 @@
-{{description>"These rogues have made You take dhuturā. Having made You mad, they have taken all Your possessions."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 18.182~~
 ~~bc:Text 182~~
-~~Title:Caitanya-caritāmṛta, Madhya 18.182~~
+
+{{description>"These rogues have made You take dhuturā. Having made You mad, they have taken all Your possessions."}}
 
 ====== CC Madhya 18.182 ======
 

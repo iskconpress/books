@@ -1,7 +1,7 @@
-{{description>Knowledge is the ultimate perfection of self-realization. I shall explain that knowledge unto you by which the knots of attachment to the material world are cut.}}
-
-~~bc:Text 2~~
 ~~Title: Śrīmad Bhāgavatam 3.26.2~~
+~~bc:Text 2~~
+
+{{description>Knowledge is the ultimate perfection of self-realization. I shall explain that knowledge unto you by which the knots of attachment to the material world are cut.}}
 
 ====== SB 3.26.2 ======
 

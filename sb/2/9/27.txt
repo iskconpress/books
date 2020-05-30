@@ -1,7 +1,7 @@
-{{description>And [please inform me] how You, by Your own Self, manifest different energies for annihilation, generation, acceptance and maintenance by combination and permutation.}}
-
-~~bc:Text 27~~
 ~~Title: Śrīmad Bhāgavatam 2.9.27~~
+~~bc:Text 27~~
+
+{{description>And [please inform me] how You, by Your own Self, manifest different energies for annihilation, generation, acceptance and maintenance by combination and permutation.}}
 
 ====== SB 2.9.27 ======
 

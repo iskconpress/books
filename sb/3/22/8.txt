@@ -1,7 +1,7 @@
-{{description>O great sage, graciously be pleased to listen to the prayer of my humble self, for my mind is troubled by affection for my daughter.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 3.22.8~~
+~~bc:Text 8~~
+
+{{description>O great sage, graciously be pleased to listen to the prayer of my humble self, for my mind is troubled by affection for my daughter.}}
 
 ====== SB 3.22.8 ======
 

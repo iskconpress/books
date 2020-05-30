@@ -1,7 +1,7 @@
-{{description>Brahmā thought to himself: Alas, it is wonderful that in spite of my being scattered all over, there is still insufficient population throughout the universe. There is no other cause for this misfortune but destiny.}}
-
-~~bc:Text 51~~
 ~~Title: Śrīmad Bhāgavatam 3.12.51~~
+~~bc:Text 51~~
+
+{{description>Brahmā thought to himself: Alas, it is wonderful that in spite of my being scattered all over, there is still insufficient population throughout the universe. There is no other cause for this misfortune but destiny.}}
 
 ====== SB 3.12.51 ======
 

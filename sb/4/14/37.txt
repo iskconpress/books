@@ -1,7 +1,7 @@
-{{description>In those days there were various disturbances in the country that were creating a panic in society. Therefore all the sages began to talk amongst themselves: Since the King is dead and there is no protector in the world, misfortune may befall the people in general on account of rogues and thieves.}}
-
-~~bc:Text 37~~
 ~~Title: Śrīmad Bhāgavatam 4.14.37~~
+~~bc:Text 37~~
+
+{{description>In those days there were various disturbances in the country that were creating a panic in society. Therefore all the sages began to talk amongst themselves: Since the King is dead and there is no protector in the world, misfortune may befall the people in general on account of rogues and thieves.}}
 
 ====== SB 4.14.37 ======
 

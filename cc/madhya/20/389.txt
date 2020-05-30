@@ -1,7 +1,7 @@
-{{description>"The sun rises in steps consisting of sixty palas. Sixty palas equal one daṇḍa, and eight daṇḍas comprise one prahara.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 20.389~~
 ~~bc:Text 389~~
-~~Title:Caitanya-caritāmṛta, Madhya 20.389~~
+
+{{description>"The sun rises in steps consisting of sixty palas. Sixty palas equal one daṇḍa, and eight daṇḍas comprise one prahara.}}
 
 ====== CC Madhya 20.389 ======
 

@@ -1,7 +1,7 @@
-{{description>Thus perplexed by various anxieties and bound by a network of illusions, one becomes too strongly attached to sense enjoyment and falls down into hell.}}
-
-~~bc:Text 16~~
 ~~Title:Bhagavad-gītā As It Is 16.16~~
+~~bc:Text 16~~
+
+{{description>Thus perplexed by various anxieties and bound by a network of illusions, one becomes too strongly attached to sense enjoyment and falls down into hell.}}
 
 ====== Bg. 16.16 ======
 

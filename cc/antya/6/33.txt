@@ -1,7 +1,7 @@
-{{description>"Now you go arrange a meeting between me and your uncle. Let him do whatever he thinks best. I shall completely depend on his decision."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 6.33~~
 ~~bc:Text 33~~
-~~Title:Caitanya-caritāmṛta, Antya 6.33~~
+
+{{description>"Now you go arrange a meeting between me and your uncle. Let him do whatever he thinks best. I shall completely depend on his decision."}}
 
 ====== CC Antya 6.33 ======
 

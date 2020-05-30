@@ -1,7 +1,7 @@
-{{description>O Lord, You exist before the creation. Therefore, who, trapped by a body of material qualities in this material world, can understand You?}}
-
-~~bc:Text 32~~
 ~~Title: Śrīmad Bhāgavatam 10.10.32~~
+~~bc:Text 32~~
+
+{{description>O Lord, You exist before the creation. Therefore, who, trapped by a body of material qualities in this material world, can understand You?}}
 
 ====== SB 10.10.32 ======
 

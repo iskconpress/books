@@ -1,7 +1,7 @@
-{{description>"As you think fit, give twenty, fifteen, twelve, ten or five coins to each of them."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 6.151~~
 ~~bc:Text 151~~
-~~Title:Caitanya-caritāmṛta, Antya 6.151~~
+
+{{description>"As you think fit, give twenty, fifteen, twelve, ten or five coins to each of them."}}
 
 ====== CC Antya 6.151 ======
 

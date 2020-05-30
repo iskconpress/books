@@ -1,7 +1,7 @@
-{{description>"There is no reason for you to be afraid, for I shall not remain in this country. I shall become a mendicant and go to the holy city of Mecca."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 20.13~~
 ~~bc:Text 13~~
-~~Title:Caitanya-caritāmṛta, Madhya 20.13~~
+
+{{description>"There is no reason for you to be afraid, for I shall not remain in this country. I shall become a mendicant and go to the holy city of Mecca."}}
 
 ====== CC Madhya 20.13 ======
 

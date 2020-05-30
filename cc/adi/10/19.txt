@@ -1,7 +1,7 @@
-{{description>"O Candramukha! Please give me ten thousand Gandharvas. Let them sing as I dance, and then I will be greatly happy."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 10.19~~
 ~~bc:Text 19~~
-~~Title:Caitanya-caritāmṛta, Ādi 10.19~~
+
+{{description>"O Candramukha! Please give me ten thousand Gandharvas. Let them sing as I dance, and then I will be greatly happy."}}
 
 ====== CC Ādi 10.19 ======
 

@@ -1,7 +1,7 @@
-{{description>"At intervals you may come see Me here and then soon again go there.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 3.26~~
 ~~bc:Text 26~~
-~~Title:Caitanya-caritāmṛta, Antya 3.26~~
+
+{{description>"At intervals you may come see Me here and then soon again go there.}}
 
 ====== CC Antya 3.26 ======
 

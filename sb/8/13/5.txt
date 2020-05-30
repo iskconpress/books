@@ -1,7 +1,7 @@
-{{description>Kaśyapa, Atri, Vasiṣṭha, Viśvāmitra, Gautama, Jamadagni and Bharadvāja are known as the seven sages.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 8.13.5~~
+~~bc:Text 5~~
+
+{{description>Kaśyapa, Atri, Vasiṣṭha, Viśvāmitra, Gautama, Jamadagni and Bharadvāja are known as the seven sages.}}
 
 ====== SB 8.13.5 ======
 

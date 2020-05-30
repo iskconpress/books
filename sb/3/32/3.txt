@@ -1,7 +1,7 @@
-{{description>Such materialistic persons, attracted by sense gratification and devoted to the forefathers and demigods, can be elevated to the moon, where they drink an extract of the soma plant. They again return to this planet.}}
-
-~~bc:Text 3~~
 ~~Title: Śrīmad Bhāgavatam 3.32.3~~
+~~bc:Text 3~~
+
+{{description>Such materialistic persons, attracted by sense gratification and devoted to the forefathers and demigods, can be elevated to the moon, where they drink an extract of the soma plant. They again return to this planet.}}
 
 ====== SB 3.32.3 ======
 

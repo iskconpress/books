@@ -1,7 +1,7 @@
-{{description>"My entire home has been purified by your arrival. Kindly order me. What can I do for you? I am your servant."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 5.30~~
 ~~bc:Text 30~~
-~~Title:Caitanya-caritāmṛta, Antya 5.30~~
+
+{{description>"My entire home has been purified by your arrival. Kindly order me. What can I do for you? I am your servant."}}
 
 ====== CC Antya 5.30 ======
 

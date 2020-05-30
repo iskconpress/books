@@ -1,7 +1,7 @@
-{{description>" 'Of words having the same form and case termination, the last one is the only one retained. For example, the word rāmaḥ is used to stand for rāmaś ca, rāmaś ca, rāmaś ca, etc.'}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 24.151~~
 ~~bc:Text 151~~
-~~Title:Caitanya-caritāmṛta, Madhya 24.151~~
+
+{{description>" 'Of words having the same form and case termination, the last one is the only one retained. For example, the word rāmaḥ is used to stand for rāmaś ca, rāmaś ca, rāmaś ca, etc.'}}
 
 ====== CC Madhya 24.151 ======
 

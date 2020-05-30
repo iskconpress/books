@@ -1,7 +1,7 @@
-{{description>The devotees of the Lord are so forbearing that even though they are defamed, cheated, cursed, disturbed, neglected or even killed, they are never inclined to avenge themselves.}}
-
-~~bc:Text 48~~
 ~~Title: Śrīmad Bhāgavatam 1.18.48~~
+~~bc:Text 48~~
+
+{{description>The devotees of the Lord are so forbearing that even though they are defamed, cheated, cursed, disturbed, neglected or even killed, they are never inclined to avenge themselves.}}
 
 ====== SB 1.18.48 ======
 

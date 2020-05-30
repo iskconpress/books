@@ -1,7 +1,7 @@
-{{description>Lord Śiva presented him with a sword within a sheath marked with ten moons, and his wife, the goddess Durgā, presented him with a shield marked with one hundred moons. The moon-demigod presented him with horses made of nectar, and the demigod Viśvakarmā presented him with a very beautiful chariot.}}
-
-~~bc:Text 17~~
 ~~Title: Śrīmad Bhāgavatam 4.15.17~~
+~~bc:Text 17~~
+
+{{description>Lord Śiva presented him with a sword within a sheath marked with ten moons, and his wife, the goddess Durgā, presented him with a shield marked with one hundred moons. The moon-demigod presented him with horses made of nectar, and the demigod Viśvakarmā presented him with a very beautiful chariot.}}
 
 ====== SB 4.15.17 ======
 

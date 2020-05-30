@@ -1,7 +1,7 @@
-{{description>When I was a mere child of five years, I lived in a brāhmaṇa school. I was dependent on my mother's affection and had no experience of different lands.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 1.6.8~~
+~~bc:Text 8~~
+
+{{description>When I was a mere child of five years, I lived in a brāhmaṇa school. I was dependent on my mother's affection and had no experience of different lands.}}
 
 ====== SB 1.6.8 ======
 

@@ -1,7 +1,7 @@
-{{description>"These tastes are like a combination of yogurt, sugar candy, ghee [clarified butter], black pepper and camphor and are as palatable as sweet nectar.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 19.182~~
 ~~bc:Text 182~~
-~~Title:Caitanya-caritāmṛta, Madhya 19.182~~
+
+{{description>"These tastes are like a combination of yogurt, sugar candy, ghee [clarified butter], black pepper and camphor and are as palatable as sweet nectar.}}
 
 ====== CC Madhya 19.182 ======
 

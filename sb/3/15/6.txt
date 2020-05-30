@@ -1,7 +1,7 @@
-{{description>O lord, all these planets exist within your self, and all the living entities are generated from you. Therefore you are the cause of this universe, and anyone who meditates upon you without deviation attains devotional service.}}
-
-~~bc:Text 6~~
 ~~Title: Śrīmad Bhāgavatam 3.15.6~~
+~~bc:Text 6~~
+
+{{description>O lord, all these planets exist within your self, and all the living entities are generated from you. Therefore you are the cause of this universe, and anyone who meditates upon you without deviation attains devotional service.}}
 
 ====== SB 3.15.6 ======
 

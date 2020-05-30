@@ -1,7 +1,7 @@
-{{description>Once upon a time, great sages were made angry by the sporting activities of the princely descendants of the Yadu and Bhoja dynasties, and thus, as desired by the Lord, the sages cursed them.}}
-
-~~bc:Text 24~~
 ~~Title: Śrīmad Bhāgavatam 3.3.24~~
+~~bc:Text 24~~
+
+{{description>Once upon a time, great sages were made angry by the sporting activities of the princely descendants of the Yadu and Bhoja dynasties, and thus, as desired by the Lord, the sages cursed them.}}
 
 ====== SB 3.3.24 ======
 

@@ -1,7 +1,7 @@
-{{description>Simply by catching scent of that elephant, all the other elephants, the tigers and the other ferocious animals, such as lions, rhinoceroses, great serpents and black and white sarabhas, fled in fear. The camarī deer also fled.}}
-
-~~bc:Text 21~~
 ~~Title: Śrīmad Bhāgavatam 8.2.21~~
+~~bc:Text 21~~
+
+{{description>Simply by catching scent of that elephant, all the other elephants, the tigers and the other ferocious animals, such as lions, rhinoceroses, great serpents and black and white sarabhas, fled in fear. The camarī deer also fled.}}
 
 ====== SB 8.2.21 ======
 

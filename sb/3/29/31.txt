@@ -1,7 +1,7 @@
-{{description>Among human beings, the society which is divided according to quality and work is best, and in that society, the intelligent men, who are designated as brāhmaṇas, are best. Among the brāhmaṇas, one who has studied the Vedas is the best, and among the brāhmaṇas who have studied the Vedas, one who knows the actual purport of Veda is the best.}}
-
-~~bc:Text 31~~
 ~~Title: Śrīmad Bhāgavatam 3.29.31~~
+~~bc:Text 31~~
+
+{{description>Among human beings, the society which is divided according to quality and work is best, and in that society, the intelligent men, who are designated as brāhmaṇas, are best. Among the brāhmaṇas, one who has studied the Vedas is the best, and among the brāhmaṇas who have studied the Vedas, one who knows the actual purport of Veda is the best.}}
 
 ====== SB 3.29.31 ======
 

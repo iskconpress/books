@@ -1,7 +1,7 @@
-{{description>You have so lost your intelligence that, despite my orders, you do not deliver the seeds of herbs and grains formerly created by Brahmā and now hidden within yourself.}}
-
-~~bc:Text 24~~
 ~~Title: Śrīmad Bhāgavatam 4.17.24~~
+~~bc:Text 24~~
+
+{{description>You have so lost your intelligence that, despite my orders, you do not deliver the seeds of herbs and grains formerly created by Brahmā and now hidden within yourself.}}
 
 ====== SB 4.17.24 ======
 

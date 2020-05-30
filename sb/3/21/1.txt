@@ -1,7 +1,7 @@
-{{description>Vidura said: The line of Svāyambhuva Manu was most esteemed. O worshipful sage, I beg you—give me an account of this race, whose progeny multiplied through sexual intercourse.}}
-
-~~bc:Text 1~~
 ~~Title: Śrīmad Bhāgavatam 3.21.1~~
+~~bc:Text 1~~
+
+{{description>Vidura said: The line of Svāyambhuva Manu was most esteemed. O worshipful sage, I beg you—give me an account of this race, whose progeny multiplied through sexual intercourse.}}
 
 ====== SB 3.21.1 ======
 

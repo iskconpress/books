@@ -1,7 +1,7 @@
-{{description>My dear Vidura, the great sage Kapila, the Personality of Godhead, left His father's hermitage with the permission of His mother and went towards the northeast.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 3.33.33~~
+~~bc:Text 33~~
+
+{{description>My dear Vidura, the great sage Kapila, the Personality of Godhead, left His father's hermitage with the permission of His mother and went towards the northeast.}}
 
 ====== SB 3.33.33 ======
 

@@ -1,7 +1,7 @@
-{{description>The symptoms of a sādhu are that he is tolerant, merciful and friendly to all living entities. He has no enemies, he is peaceful, he abides by the scriptures, and all his characteristics are sublime.}}
-
-~~bc:Text 21~~
 ~~Title: Śrīmad Bhāgavatam 3.25.21~~
+~~bc:Text 21~~
+
+{{description>The symptoms of a sādhu are that he is tolerant, merciful and friendly to all living entities. He has no enemies, he is peaceful, he abides by the scriptures, and all his characteristics are sublime.}}
 
 ====== SB 3.25.21 ======
 

@@ -1,7 +1,7 @@
-{{description>The two great sons of Svāyambhuva Manu—Priyavrata and Uttānapāda—ruled the world, consisting of seven islands, just according to religious principles.}}
-
-~~bc:Text 2~~
 ~~Title: Śrīmad Bhāgavatam 3.21.2~~
+~~bc:Text 2~~
+
+{{description>The two great sons of Svāyambhuva Manu—Priyavrata and Uttānapāda—ruled the world, consisting of seven islands, just according to religious principles.}}
 
 ====== SB 3.21.2 ======
 

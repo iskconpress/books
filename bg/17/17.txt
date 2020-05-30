@@ -1,7 +1,7 @@
-{{description>This threefold austerity, practiced by men whose aim is not to benefit themselves materially but to please the Supreme, is of the nature of goodness.}}
-
-~~bc:Text 17~~
 ~~Title:Bhagavad-gītā As It Is 17.17~~
+~~bc:Text 17~~
+
+{{description>This threefold austerity, practiced by men whose aim is not to benefit themselves materially but to please the Supreme, is of the nature of goodness.}}
 
 ====== Bg. 17.17 ======
 

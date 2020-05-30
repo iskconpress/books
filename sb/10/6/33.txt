@@ -1,7 +1,7 @@
-{{description>The inhabitants of Vraja cut the gigantic body of Pūtanā into pieces with the help of axes. Then they threw the pieces far away, covered them with wood and burned them to ashes.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 10.6.33~~
+~~bc:Text 33~~
+
+{{description>The inhabitants of Vraja cut the gigantic body of Pūtanā into pieces with the help of axes. Then they threw the pieces far away, covered them with wood and burned them to ashes.}}
 
 ====== SB 10.6.33 ======
 

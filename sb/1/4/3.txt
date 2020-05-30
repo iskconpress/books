@@ -1,7 +1,7 @@
-{{description>In what period and at what place was this first begun, and why was this taken up? From where did Kṛṣṇa-dvaipāyana Vyāsa, the great sage, get the inspiration to compile this literature?}}
-
-~~bc:Text 3~~
 ~~Title: Śrīmad Bhāgavatam 1.4.3~~
+~~bc:Text 3~~
+
+{{description>In what period and at what place was this first begun, and why was this taken up? From where did Kṛṣṇa-dvaipāyana Vyāsa, the great sage, get the inspiration to compile this literature?}}
 
 ====== SB 1.4.3 ======
 

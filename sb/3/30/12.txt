@@ -1,7 +1,7 @@
-{{description>Thus the unfortunate man, unsuccessful in maintaining his family members, is bereft of all beauty. He always thinks of his failure, grieving very deeply.}}
-
-~~bc:Text 12~~
 ~~Title: Śrīmad Bhāgavatam 3.30.12~~
+~~bc:Text 12~~
+
+{{description>Thus the unfortunate man, unsuccessful in maintaining his family members, is bereft of all beauty. He always thinks of his failure, grieving very deeply.}}
 
 ====== SB 3.30.12 ======
 

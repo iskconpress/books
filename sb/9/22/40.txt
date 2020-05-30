@@ -1,7 +1,7 @@
-{{description>When the town of Hastināpura [New Delhi] is inundated by the river, Nemicakra will live in the place known as Kauśāmbī. His son will be celebrated as Citraratha, and the son of Citraratha will be Śuciratha.}}
-
-~~bc:Text 40~~
 ~~Title: Śrīmad Bhāgavatam 9.22.40~~
+~~bc:Text 40~~
+
+{{description>When the town of Hastināpura [New Delhi] is inundated by the river, Nemicakra will live in the place known as Kauśāmbī. His son will be celebrated as Citraratha, and the son of Citraratha will be Śuciratha.}}
 
 ====== SB 9.22.40 ======
 

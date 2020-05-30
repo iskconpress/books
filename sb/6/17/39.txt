@@ -1,7 +1,7 @@
-{{description>My dear King Parīkṣit, you inquired from me how Vṛtrāsura, a great devotee, took birth in a demoniac family. Thus I have tried to explain to you everything about this.}}
-
-~~bc:Text 39~~
 ~~Title: Śrīmad Bhāgavatam 6.17.39~~
+~~bc:Text 39~~
+
+{{description>My dear King Parīkṣit, you inquired from me how Vṛtrāsura, a great devotee, took birth in a demoniac family. Thus I have tried to explain to you everything about this.}}
 
 ====== SB 6.17.39 ======
 

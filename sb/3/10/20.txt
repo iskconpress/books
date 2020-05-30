@@ -1,7 +1,7 @@
-{{description>All the immovable trees and plants seek their subsistence upwards. They are almost unconscious but have feelings of pain within. They are manifested in variegatedness.}}
-
-~~bc:Text 20~~
 ~~Title: Śrīmad Bhāgavatam 3.10.20~~
+~~bc:Text 20~~
+
+{{description>All the immovable trees and plants seek their subsistence upwards. They are almost unconscious but have feelings of pain within. They are manifested in variegatedness.}}
 
 ====== SB 3.10.20 ======
 

@@ -1,7 +1,7 @@
-{{description>Utkala appeared to the less intelligent persons on the road to be foolish, blind, dumb, deaf and mad, although actually he was not so. He remained like fire covered with ashes, without blazing flames.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 4.13.10~~
+~~bc:Text 10~~
+
+{{description>Utkala appeared to the less intelligent persons on the road to be foolish, blind, dumb, deaf and mad, although actually he was not so. He remained like fire covered with ashes, without blazing flames.}}
 
 ====== SB 4.13.10 ======
 

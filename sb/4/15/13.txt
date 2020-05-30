@@ -1,7 +1,7 @@
-{{description>Thus the great King Pṛthu, exquisitely dressed with garments and ornaments, was coronated and placed on the throne. The King and his wife, Arci, who was also exquisitely ornamented, appeared exactly like fire.}}
-
-~~bc:Text 13~~
 ~~Title: Śrīmad Bhāgavatam 4.15.13~~
+~~bc:Text 13~~
+
+{{description>Thus the great King Pṛthu, exquisitely dressed with garments and ornaments, was coronated and placed on the throne. The King and his wife, Arci, who was also exquisitely ornamented, appeared exactly like fire.}}
 
 ====== SB 4.15.13 ======
 

@@ -1,7 +1,7 @@
-{{description>Your enemies will describe you in many unkind words and scorn your ability. What could be more painful for you?}}
-
-~~bc:Text 36~~
 ~~Title:Bhagavad-gītā As It Is 2.36~~
+~~bc:Text 36~~
+
+{{description>Your enemies will describe you in many unkind words and scorn your ability. What could be more painful for you?}}
 
 ====== Bg. 2.36 ======
 

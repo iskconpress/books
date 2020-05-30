@@ -1,7 +1,7 @@
-{{description>Your Lordship is my only means of getting out of this darkest region of ignorance because You are my transcendental eye, which, by Your mercy only, I have attained after many, many births.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 3.25.8~~
+~~bc:Text 8~~
+
+{{description>Your Lordship is my only means of getting out of this darkest region of ignorance because You are my transcendental eye, which, by Your mercy only, I have attained after many, many births.}}
 
 ====== SB 3.25.8 ======
 

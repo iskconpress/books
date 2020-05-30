@@ -1,7 +1,7 @@
-{{description>Although originally one, taste becomes manifold as astringent, sweet, bitter, pungent, sour and salty due to contact with other substances.}}
-
-~~bc:Text 42~~
 ~~Title: Śrīmad Bhāgavatam 3.26.42~~
+~~bc:Text 42~~
+
+{{description>Although originally one, taste becomes manifold as astringent, sweet, bitter, pungent, sour and salty due to contact with other substances.}}
 
 ====== SB 3.26.42 ======
 

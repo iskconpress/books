@@ -1,7 +1,7 @@
-{{description>On the western side was a gate named Āsurī. Through that gate King Purañjana used to go to the city of Grāmaka, accompanied by his friend Durmada.}}
-
-~~bc:Text 52~~
 ~~Title: Śrīmad Bhāgavatam 4.25.52~~
+~~bc:Text 52~~
+
+{{description>On the western side was a gate named Āsurī. Through that gate King Purañjana used to go to the city of Grāmaka, accompanied by his friend Durmada.}}
 
 ====== SB 4.25.52 ======
 

@@ -1,7 +1,7 @@
-{{description>O Vidura, the asses ran hither and thither in herds, striking the earth with their hard hooves and wildly braying.}}
-
-~~bc:Text 11~~
 ~~Title: Śrīmad Bhāgavatam 3.17.11~~
+~~bc:Text 11~~
+
+{{description>O Vidura, the asses ran hither and thither in herds, striking the earth with their hard hooves and wildly braying.}}
 
 ====== SB 3.17.11 ======
 

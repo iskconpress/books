@@ -1,7 +1,7 @@
-{{description>The highest authority for me is the unlimited Supreme Personality of Godhead, from whom this wonderful creation emanates and in whom its sustenance and dissolution rest. He is the origin of all Prajāpatis, the personalities meant to produce living entities in this world.}}
-
-~~bc:Text 20~~
 ~~Title: Śrīmad Bhāgavatam 3.22.20~~
+~~bc:Text 20~~
+
+{{description>The highest authority for me is the unlimited Supreme Personality of Godhead, from whom this wonderful creation emanates and in whom its sustenance and dissolution rest. He is the origin of all Prajāpatis, the personalities meant to produce living entities in this world.}}
 
 ====== SB 3.22.20 ======
 

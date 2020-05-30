@@ -1,7 +1,7 @@
-{{description>The demigods named the Mauhūrtikas took birth from the womb of Muhūrtā. These demigods deliver the results of actions to the living entities of their respective times.}}
-
-~~bc:Text 9~~
 ~~Title: Śrīmad Bhāgavatam 6.6.9~~
+~~bc:Text 9~~
+
+{{description>The demigods named the Mauhūrtikas took birth from the womb of Muhūrtā. These demigods deliver the results of actions to the living entities of their respective times.}}
 
 ====== SB 6.6.9 ======
 

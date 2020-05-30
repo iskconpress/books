@@ -1,7 +1,7 @@
-{{description>A devotee must execute his prescribed duties, which are glorious, without material profit. Without excessive violence, one should regularly perform one's devotional activities.}}
-
-~~bc:Text 15~~
 ~~Title: Śrīmad Bhāgavatam 3.29.15~~
+~~bc:Text 15~~
+
+{{description>A devotee must execute his prescribed duties, which are glorious, without material profit. Without excessive violence, one should regularly perform one's devotional activities.}}
 
 ====== SB 3.29.15 ======
 

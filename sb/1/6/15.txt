@@ -1,7 +1,7 @@
-{{description>After that, under the shadow of a banyan tree in an uninhabited forest I began to meditate upon the Supersoul situated within, using my intelligence, as I had learned from liberated souls.}}
-
-~~bc:Text 15~~
 ~~Title: Śrīmad Bhāgavatam 1.6.15~~
+~~bc:Text 15~~
+
+{{description>After that, under the shadow of a banyan tree in an uninhabited forest I began to meditate upon the Supersoul situated within, using my intelligence, as I had learned from liberated souls.}}
 
 ====== SB 1.6.15 ======
 

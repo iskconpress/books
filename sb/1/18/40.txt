@@ -1,7 +1,7 @@
-{{description>He threw the dead snake aside and asked his son why he was crying, whether anyone had done him harm. On hearing this, the son explained to him what had happened.}}
-
-~~bc:Text 40~~
 ~~Title: Śrīmad Bhāgavatam 1.18.40~~
+~~bc:Text 40~~
+
+{{description>He threw the dead snake aside and asked his son why he was crying, whether anyone had done him harm. On hearing this, the son explained to him what had happened.}}
 
 ====== SB 1.18.40 ======
 

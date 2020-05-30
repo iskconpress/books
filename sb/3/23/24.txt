@@ -1,7 +1,7 @@
-{{description>The lotus-eyed Devahūti accepted the order of her husband. Because of her dirty dress and the locks of matted hair on her head, she did not look very attractive.}}
-
-~~bc:Text 24~~
 ~~Title: Śrīmad Bhāgavatam 3.23.24~~
+~~bc:Text 24~~
+
+{{description>The lotus-eyed Devahūti accepted the order of her husband. Because of her dirty dress and the locks of matted hair on her head, she did not look very attractive.}}
 
 ====== SB 3.23.24 ======
 

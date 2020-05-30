@@ -1,7 +1,7 @@
-{{description>A devotee who rises early in the morning and with folded hands chants these prayers sung by Lord Śiva and gives facility to others to hear them certainly becomes free from all bondage to fruitive activities.}}
-
-~~bc:Text 78~~
 ~~Title: Śrīmad Bhāgavatam 4.24.78~~
+~~bc:Text 78~~
+
+{{description>A devotee who rises early in the morning and with folded hands chants these prayers sung by Lord Śiva and gives facility to others to hear them certainly becomes free from all bondage to fruitive activities.}}
 
 ====== SB 4.24.78 ======
 

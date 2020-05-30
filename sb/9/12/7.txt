@@ -1,7 +1,7 @@
-{{description>From Maru was born a son named Prasuśruta, from Prasuśruta came Sandhi, from Sandhi came Amarṣaṇa, and from Amarṣaṇa a son named Mahasvān. From Mahasvān, Viśvabāhu took his birth.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 9.12.7~~
+~~bc:Text 7~~
+
+{{description>From Maru was born a son named Prasuśruta, from Prasuśruta came Sandhi, from Sandhi came Amarṣaṇa, and from Amarṣaṇa a son named Mahasvān. From Mahasvān, Viśvabāhu took his birth.}}
 
 ====== SB 9.12.7 ======
 

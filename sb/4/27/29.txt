@@ -1,7 +1,7 @@
-{{description>This world is a product of fruitive activities. Therefore you may imperceptibly attack people in general. Helped by my soldiers, you can kill them without opposition.}}
-
-~~bc:Text 29~~
 ~~Title: Śrīmad Bhāgavatam 4.27.29~~
+~~bc:Text 29~~
+
+{{description>This world is a product of fruitive activities. Therefore you may imperceptibly attack people in general. Helped by my soldiers, you can kill them without opposition.}}
 
 ====== SB 4.27.29 ======
 

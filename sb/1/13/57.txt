@@ -1,7 +1,7 @@
-{{description>O King, he will quit his body, most probably on the fifth day from today. And his body will turn to ashes.}}
-
-~~bc:Text 57~~
 ~~Title: Śrīmad Bhāgavatam 1.13.57~~
+~~bc:Text 57~~
+
+{{description>O King, he will quit his body, most probably on the fifth day from today. And his body will turn to ashes.}}
 
 ====== SB 1.13.57 ======
 

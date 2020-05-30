@@ -1,7 +1,7 @@
-{{description>The place is called Saptasrota ["divided by seven"] because there the waters of the sacred Ganges were divided into seven branches. This was done for the satisfaction of the seven great ṛṣis.}}
-
-~~bc:Text 52~~
 ~~Title: Śrīmad Bhāgavatam 1.13.52~~
+~~bc:Text 52~~
+
+{{description>The place is called Saptasrota ["divided by seven"] because there the waters of the sacred Ganges were divided into seven branches. This was done for the satisfaction of the seven great ṛṣis.}}
 
 ====== SB 1.13.52 ======
 

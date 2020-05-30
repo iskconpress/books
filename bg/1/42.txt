@@ -1,7 +1,7 @@
-{{description>Due to the evil deeds of the destroyers of family tradition, all kinds of community projects and family welfare activities are devastated.}}
-
-~~bc:Text 42~~
 ~~Title:Bhagavad-gītā As It Is 1.42~~
+~~bc:Text 42~~
+
+{{description>Due to the evil deeds of the destroyers of family tradition, all kinds of community projects and family welfare activities are devastated.}}
 
 ====== Bg. 1.42 ======
 

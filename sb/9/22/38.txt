@@ -1,7 +1,7 @@
-{{description>The son of Janamejaya known as Śatānīka will learn from Yājñavalkya the three Vedas and the art of performing ritualistic ceremonies. He will also learn the military art from Kṛpācārya and the transcendental science from the sage Śaunaka.}}
-
-~~bc:Text 38~~
 ~~Title: Śrīmad Bhāgavatam 9.22.38~~
+~~bc:Text 38~~
+
+{{description>The son of Janamejaya known as Śatānīka will learn from Yājñavalkya the three Vedas and the art of performing ritualistic ceremonies. He will also learn the military art from Kṛpācārya and the transcendental science from the sage Śaunaka.}}
 
 ====== SB 9.22.38 ======
 

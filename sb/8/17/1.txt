@@ -1,7 +1,7 @@
-{{description>Śukadeva Gosvāmī said: O King, after Aditi was thus advised by her husband, Kaśyapa Muni, she strictly followed his instructions without laziness and in this way performed the payo-vrata ritualistic ceremony.}}
-
-~~bc:Text 1~~
 ~~Title: Śrīmad Bhāgavatam 8.17.1~~
+~~bc:Text 1~~
+
+{{description>Śukadeva Gosvāmī said: O King, after Aditi was thus advised by her husband, Kaśyapa Muni, she strictly followed his instructions without laziness and in this way performed the payo-vrata ritualistic ceremony.}}
 
 ====== SB 8.17.1 ======
 

@@ -1,7 +1,7 @@
-{{description>Mahārāja Yudhiṣṭhira said: O godly personality, I do not know where my two uncles have gone. Nor can I find my ascetic aunt who is grief-stricken by the loss of all her sons.}}
-
-~~bc:Text 39~~
 ~~Title: Śrīmad Bhāgavatam 1.13.39~~
+~~bc:Text 39~~
+
+{{description>Mahārāja Yudhiṣṭhira said: O godly personality, I do not know where my two uncles have gone. Nor can I find my ascetic aunt who is grief-stricken by the loss of all her sons.}}
 
 ====== SB 1.13.39 ======
 

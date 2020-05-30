@@ -1,7 +1,7 @@
-{{description>"You may learn from him what your duty is and how to discharge it. I do not know as much as he.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 6.234~~
 ~~bc:Text 234~~
-~~Title:Caitanya-caritāmṛta, Antya 6.234~~
+
+{{description>"You may learn from him what your duty is and how to discharge it. I do not know as much as he.}}
 
 ====== CC Antya 6.234 ======
 

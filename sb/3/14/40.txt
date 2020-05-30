@@ -1,7 +1,7 @@
-{{description>They will kill poor, faultless living entities, torture women and enrage the great souls.}}
-
-~~bc:Text 40~~
 ~~Title: Śrīmad Bhāgavatam 3.14.40~~
+~~bc:Text 40~~
+
+{{description>They will kill poor, faultless living entities, torture women and enrage the great souls.}}
 
 ====== SB 3.14.40 ======
 

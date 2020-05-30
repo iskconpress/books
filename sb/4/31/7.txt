@@ -1,7 +1,7 @@
-{{description>Dear master, kindly enlighten us in transcendental knowledge, which may act as a torchlight by which we may cross the dark nescience of material existence.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 4.31.7~~
+~~bc:Text 7~~
+
+{{description>Dear master, kindly enlighten us in transcendental knowledge, which may act as a torchlight by which we may cross the dark nescience of material existence.}}
 
 ====== SB 4.31.7 ======
 

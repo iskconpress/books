@@ -1,7 +1,7 @@
-{{description>In each and every door of the residential houses, auspicious things like curd, unbroken fruits, sugarcane and full waterpots with articles for worship, incense and candles were all displayed.}}
-
-~~bc:Text 15~~
 ~~Title: Śrīmad Bhāgavatam 1.11.15~~
+~~bc:Text 15~~
+
+{{description>In each and every door of the residential houses, auspicious things like curd, unbroken fruits, sugarcane and full waterpots with articles for worship, incense and candles were all displayed.}}
 
 ====== SB 1.11.15 ======
 

@@ -1,7 +1,7 @@
-{{description>My dear friend, the five gardens are the five objects of sense enjoyment, and the protector is the life air, which passes through the nine gates. The three apartments are the chief ingredients—fire, water and earth. The six families are the aggregate total of the mind and five senses.}}
-
-~~bc:Text 57~~
 ~~Title: Śrīmad Bhāgavatam 4.28.57~~
+~~bc:Text 57~~
+
+{{description>My dear friend, the five gardens are the five objects of sense enjoyment, and the protector is the life air, which passes through the nine gates. The three apartments are the chief ingredients—fire, water and earth. The six families are the aggregate total of the mind and five senses.}}
 
 ====== SB 4.28.57 ======
 

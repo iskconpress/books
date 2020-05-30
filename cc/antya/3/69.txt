@@ -1,7 +1,7 @@
-{{description>"You have loudly chanted the Hare Kṛṣṇa mantra, and everyone, moving or not moving, has benefited by hearing it.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 3.69~~
 ~~bc:Text 69~~
-~~Title:Caitanya-caritāmṛta, Antya 3.69~~
+
+{{description>"You have loudly chanted the Hare Kṛṣṇa mantra, and everyone, moving or not moving, has benefited by hearing it.}}
 
 ====== CC Antya 3.69 ======
 

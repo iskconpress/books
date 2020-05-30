@@ -1,7 +1,7 @@
-{{description>This demon, luckily for us, has come of his own accord to You, his death ordained by You; therefore, exhibiting Your ways, kill him in the duel and establish the worlds in peace.}}
-
-~~bc:Text 28~~
 ~~Title: Śrīmad Bhāgavatam 3.18.28~~
+~~bc:Text 28~~
+
+{{description>This demon, luckily for us, has come of his own accord to You, his death ordained by You; therefore, exhibiting Your ways, kill him in the duel and establish the worlds in peace.}}
 
 ====== SB 3.18.28 ======
 

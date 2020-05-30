@@ -1,7 +1,7 @@
-{{description>"Nothing is purer than Her love. But its behavior is always perverse and crooked."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 4.130~~
 ~~bc:Text 130~~
-~~Title:Caitanya-caritāmṛta, Ādi 4.130~~
+
+{{description>"Nothing is purer than Her love. But its behavior is always perverse and crooked."}}
 
 ====== CC Ādi 4.130 ======
 

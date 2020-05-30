@@ -1,7 +1,7 @@
-{{description>In this way, the child passes through his childhood, suffering different kinds of distress, and attains boyhood. In boyhood also he suffers pain over desires to get things he can never achieve. And thus, due to ignorance, he becomes angry and sorry.}}
-
-~~bc:Text 28~~
 ~~Title: Śrīmad Bhāgavatam 3.31.28~~
+~~bc:Text 28~~
+
+{{description>In this way, the child passes through his childhood, suffering different kinds of distress, and attains boyhood. In boyhood also he suffers pain over desires to get things he can never achieve. And thus, due to ignorance, he becomes angry and sorry.}}
 
 ====== SB 3.31.28 ======
 

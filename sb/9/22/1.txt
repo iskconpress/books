@@ -1,7 +1,7 @@
-{{description>Śukadeva Gosvāmī said: O King, the son of Divodāsa was Mitrāyu, and from Mitrāyu came four sons, named Cyavana, Sudāsa, Sahadeva and Somaka. Somaka was the father of Jantu.}}
-
-~~bc:Text 1~~
 ~~Title: Śrīmad Bhāgavatam 9.22.1~~
+~~bc:Text 1~~
+
+{{description>Śukadeva Gosvāmī said: O King, the son of Divodāsa was Mitrāyu, and from Mitrāyu came four sons, named Cyavana, Sudāsa, Sahadeva and Somaka. Somaka was the father of Jantu.}}
 
 ====== SB 9.22.1 ======
 

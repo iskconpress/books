@@ -1,7 +1,7 @@
-{{description>"Do not act in this way any more. I have fulfilled your desire as far as possible."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 16.47~~
 ~~bc:Text 47~~
-~~Title:Caitanya-caritāmṛta, Antya 16.47~~
+
+{{description>"Do not act in this way any more. I have fulfilled your desire as far as possible."}}
 
 ====== CC Antya 16.47 ======
 

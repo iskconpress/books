@@ -1,7 +1,7 @@
-{{description>There are five different names for the orbits of the sun, moon, stars and luminaries in the firmament, and they each have their own saṁvatsara.}}
-
-~~bc:Text 14~~
 ~~Title: Śrīmad Bhāgavatam 3.11.14~~
+~~bc:Text 14~~
+
+{{description>There are five different names for the orbits of the sun, moon, stars and luminaries in the firmament, and they each have their own saṁvatsara.}}
 
 ====== SB 3.11.14 ======
 

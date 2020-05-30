@@ -1,7 +1,7 @@
-{{description>"My dear sir, you are chanting the holy name 300,000 times daily and informing everyone of the importance of such chanting.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 4.101~~
 ~~bc:Text 101~~
-~~Title:Caitanya-caritāmṛta, Antya 4.101~~
+
+{{description>"My dear sir, you are chanting the holy name 300,000 times daily and informing everyone of the importance of such chanting.}}
 
 ====== CC Antya 4.101 ======
 

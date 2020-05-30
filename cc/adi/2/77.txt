@@ -1,7 +1,7 @@
-{{description>"For example, we may say: 'This vipra is a greatly learned man.' In this sentence, the vipra is the subject, and the predicate is his erudition.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.77~~
 ~~bc:Text 77~~
-~~Title:Caitanya-caritāmṛta, Ādi 2.77~~
+
+{{description>"For example, we may say: 'This vipra is a greatly learned man.' In this sentence, the vipra is the subject, and the predicate is his erudition.}}
 
 ====== CC Ādi 2.77 ======
 

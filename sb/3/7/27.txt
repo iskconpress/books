@@ -1,7 +1,7 @@
-{{description>Also please describe the living beings under different classifications: subhumans, humans, those born of the embryo, those born of perspiration, those who are twice-born [birds], and the plants and vegetables. Kindly describe their generations and subdivisions also.}}
-
-~~bc:Text 27~~
 ~~Title: Śrīmad Bhāgavatam 3.7.27~~
+~~bc:Text 27~~
+
+{{description>Also please describe the living beings under different classifications: subhumans, humans, those born of the embryo, those born of perspiration, those who are twice-born [birds], and the plants and vegetables. Kindly describe their generations and subdivisions also.}}
 
 ====== SB 3.7.27 ======
 

@@ -1,7 +1,7 @@
-{{description>The worship of Deities in the temple by a separatist, with a motive for material enjoyment, fame and opulence, is devotion in the mode of passion.}}
-
-~~bc:Text 9~~
 ~~Title: Śrīmad Bhāgavatam 3.29.9~~
+~~bc:Text 9~~
+
+{{description>The worship of Deities in the temple by a separatist, with a motive for material enjoyment, fame and opulence, is devotion in the mode of passion.}}
 
 ====== SB 3.29.9 ======
 

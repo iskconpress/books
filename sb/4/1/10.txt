@@ -1,7 +1,7 @@
-{{description>My dear son, Svāyambhuva Manu handed over his very dear daughter Devahūti to Kardama Muni. I have already spoken to you about them, and you have heard about them almost in full.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 4.1.10~~
+~~bc:Text 10~~
+
+{{description>My dear son, Svāyambhuva Manu handed over his very dear daughter Devahūti to Kardama Muni. I have already spoken to you about them, and you have heard about them almost in full.}}
 
 ====== SB 4.1.10 ======
 

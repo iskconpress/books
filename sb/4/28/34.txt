@@ -1,7 +1,7 @@
-{{description>Just as the moonshine follows the moon at night, immediately after King Malayadhvaja departed for Kulācala, his devoted wife, whose eyes were very enchanting, followed him, giving up all homely happiness, despite family and children.}}
-
-~~bc:Text 34~~
 ~~Title: Śrīmad Bhāgavatam 4.28.34~~
+~~bc:Text 34~~
+
+{{description>Just as the moonshine follows the moon at night, immediately after King Malayadhvaja departed for Kulācala, his devoted wife, whose eyes were very enchanting, followed him, giving up all homely happiness, despite family and children.}}
 
 ====== SB 4.28.34 ======
 

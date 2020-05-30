@@ -1,7 +1,7 @@
-{{description>If one employs this armor, whomever he sees with his eyes or touches with his feet is immediately freed from all the above-mentioned dangers.}}
-
-~~bc:Text 36~~
 ~~Title: Śrīmad Bhāgavatam 6.8.36~~
+~~bc:Text 36~~
+
+{{description>If one employs this armor, whomever he sees with his eyes or touches with his feet is immediately freed from all the above-mentioned dangers.}}
 
 ====== SB 6.8.36 ======
 

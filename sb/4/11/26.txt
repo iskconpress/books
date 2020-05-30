@@ -1,7 +1,7 @@
-{{description>The Supreme Personality of Godhead is the Supersoul of all living entities. He is the controller and maintainer of everyone; through the agency of His external energy, He creates, maintains and annihilates everyone.}}
-
-~~bc:Text 26~~
 ~~Title: Śrīmad Bhāgavatam 4.11.26~~
+~~bc:Text 26~~
+
+{{description>The Supreme Personality of Godhead is the Supersoul of all living entities. He is the controller and maintainer of everyone; through the agency of His external energy, He creates, maintains and annihilates everyone.}}
 
 ====== SB 4.11.26 ======
 

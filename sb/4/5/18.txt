@@ -1,7 +1,7 @@
-{{description>There was a continuous shower of stones, and all the priests and other members assembled at the sacrifice were put into immense misery. For fear of their lives, they dispersed in different directions.}}
-
-~~bc:Text 18~~
 ~~Title: Śrīmad Bhāgavatam 4.5.18~~
+~~bc:Text 18~~
+
+{{description>There was a continuous shower of stones, and all the priests and other members assembled at the sacrifice were put into immense misery. For fear of their lives, they dispersed in different directions.}}
 
 ====== SB 4.5.18 ======
 

@@ -1,7 +1,7 @@
-{{description>Doubt, misapprehension, correct apprehension, memory and sleep, as determined by their different functions, are said to be the distinct characteristics of intelligence.}}
-
-~~bc:Text 30~~
 ~~Title: Śrīmad Bhāgavatam 3.26.30~~
+~~bc:Text 30~~
+
+{{description>Doubt, misapprehension, correct apprehension, memory and sleep, as determined by their different functions, are said to be the distinct characteristics of intelligence.}}
 
 ====== SB 3.26.30 ======
 

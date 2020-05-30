@@ -1,7 +1,7 @@
-{{description>He who is without attachment, who does not rejoice when he obtains good, nor lament when he obtains evil, is firmly fixed in perfect knowledge.}}
-
-~~bc:Text 57~~
 ~~Title:Bhagavad-gītā As It Is 2.57~~
+~~bc:Text 57~~
+
+{{description>He who is without attachment, who does not rejoice when he obtains good, nor lament when he obtains evil, is firmly fixed in perfect knowledge.}}
 
 ====== Bg. 2.57 ======
 

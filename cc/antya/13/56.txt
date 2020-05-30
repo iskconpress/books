@@ -1,7 +1,7 @@
-{{description>"You are one of the chief associates of Śrī Caitanya Mahāprabhu. Indeed, no one is dearer to Him than you.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 13.56~~
 ~~bc:Text 56~~
-~~Title:Caitanya-caritāmṛta, Antya 13.56~~
+
+{{description>"You are one of the chief associates of Śrī Caitanya Mahāprabhu. Indeed, no one is dearer to Him than you.}}
 
 ====== CC Antya 13.56 ======
 

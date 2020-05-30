@@ -1,7 +1,7 @@
-{{description>O Lord, whatever punishment You wish to award to these two innocent persons or also to us we shall accept without duplicity. We understand that we have cursed two faultless persons.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 3.16.25~~
+~~bc:Text 25~~
+
+{{description>O Lord, whatever punishment You wish to award to these two innocent persons or also to us we shall accept without duplicity. We understand that we have cursed two faultless persons.}}
 
 ====== SB 3.16.25 ======
 

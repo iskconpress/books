@@ -1,7 +1,7 @@
-{{description>When one deviates from his original consciousness, he loses the capacity to remember his previous position or recognize his present one. When remembrance is lost, all knowledge acquired is based on a false foundation. When this occurs, learned scholars consider that the soul is lost.}}
-
-~~bc:Text 31~~
 ~~Title: Śrīmad Bhāgavatam 4.22.31~~
+~~bc:Text 31~~
+
+{{description>When one deviates from his original consciousness, he loses the capacity to remember his previous position or recognize his present one. When remembrance is lost, all knowledge acquired is based on a false foundation. When this occurs, learned scholars consider that the soul is lost.}}
 
 ====== SB 4.22.31 ======
 

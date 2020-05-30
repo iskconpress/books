@@ -1,7 +1,7 @@
-{{description>"If sometime I can be the abode of that love, only then may I taste its joy."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 4.135~~
 ~~bc:Text 135~~
-~~Title:Caitanya-caritāmṛta, Ādi 4.135~~
+
+{{description>"If sometime I can be the abode of that love, only then may I taste its joy."}}
 
 ====== CC Ādi 4.135 ======
 

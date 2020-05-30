@@ -1,7 +1,7 @@
-{{description>"I took birth from the lotus that grew from Your navel. Thus You are both my father and my mother, and I am Your son.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.32~~
 ~~bc:Text 32~~
-~~Title:Caitanya-caritāmṛta, Ādi 2.32~~
+
+{{description>"I took birth from the lotus that grew from Your navel. Thus You are both my father and my mother, and I am Your son.}}
 
 ====== CC Ādi 2.32 ======
 

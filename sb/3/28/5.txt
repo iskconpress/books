@@ -1,7 +1,7 @@
-{{description>One must observe silence, acquire steadiness by practicing different yogic postures, control the breathing of the vital air, withdraw the senses from sense objects and thus concentrate the mind on the heart.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 3.28.5~~
+~~bc:Text 5~~
+
+{{description>One must observe silence, acquire steadiness by practicing different yogic postures, control the breathing of the vital air, withdraw the senses from sense objects and thus concentrate the mind on the heart.}}
 
 ====== SB 3.28.5 ======
 

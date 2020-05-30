@@ -1,7 +1,7 @@
-{{description>The breezes blowing in the streets of the city bore the fragrance of the flowers falling from the hair of the women of the demigods.}}
-
-~~bc:Text 18~~
 ~~Title: Śrīmad Bhāgavatam 8.15.18~~
+~~bc:Text 18~~
+
+{{description>The breezes blowing in the streets of the city bore the fragrance of the flowers falling from the hair of the women of the demigods.}}
 
 ====== SB 8.15.18 ======
 

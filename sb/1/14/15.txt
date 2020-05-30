@@ -1,7 +1,7 @@
-{{description>Just see how the smoke encircles the sky. It appears that the earth and mountains are throbbing. Just hear the cloudless thunder and see the bolts from the blue.}}
-
-~~bc:Text 15~~
 ~~Title: Śrīmad Bhāgavatam 1.14.15~~
+~~bc:Text 15~~
+
+{{description>Just see how the smoke encircles the sky. It appears that the earth and mountains are throbbing. Just hear the cloudless thunder and see the bolts from the blue.}}
 
 ====== SB 1.14.15 ======
 

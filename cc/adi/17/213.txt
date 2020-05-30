@@ -1,7 +1,7 @@
-{{description>" 'Sir, you are the ruler of this town. Whether Hindu or Muslim, everyone is under your protection. Therefore please call Nimāi Paṇḍita and make Him leave the town.'}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 17.213~~
 ~~bc:Text 213~~
-~~Title:Caitanya-caritāmṛta, Ādi 17.213~~
+
+{{description>" 'Sir, you are the ruler of this town. Whether Hindu or Muslim, everyone is under your protection. Therefore please call Nimāi Paṇḍita and make Him leave the town.'}}
 
 ====== CC Ādi 17.213 ======
 

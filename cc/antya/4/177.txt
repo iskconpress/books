@@ -1,7 +1,7 @@
-{{description>" 'The humble sage, by virtue of true knowledge, sees with equal vision a learned and gentle brāhmaṇa, a cow, an elephant, a dog and a dog-eater.'}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 4.177~~
 ~~bc:Text 177~~
-~~Title:Caitanya-caritāmṛta, Antya 4.177~~
+
+{{description>" 'The humble sage, by virtue of true knowledge, sees with equal vision a learned and gentle brāhmaṇa, a cow, an elephant, a dog and a dog-eater.'}}
 
 ====== CC Antya 4.177 ======
 

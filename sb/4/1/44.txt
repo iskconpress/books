@@ -1,7 +1,7 @@
-{{description>The sage Meru had two daughters, named Āyati and Niyati, whom he gave in charity to Dhātā and Vidhātā. Āyati and Niyati gave birth to two sons, Mṛkaṇḍa and Prāṇa.}}
-
-~~bc:Text 44~~
 ~~Title: Śrīmad Bhāgavatam 4.1.44~~
+~~bc:Text 44~~
+
+{{description>The sage Meru had two daughters, named Āyati and Niyati, whom he gave in charity to Dhātā and Vidhātā. Āyati and Niyati gave birth to two sons, Mṛkaṇḍa and Prāṇa.}}
 
 ====== SB 4.1.44 ======
 

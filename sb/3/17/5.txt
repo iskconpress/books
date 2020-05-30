@@ -1,7 +1,7 @@
-{{description>There blew winds which were most uninviting to the touch, hissing again and again and uprooting gigantic trees. They had storms for their armies and clouds of dust for their ensigns.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 3.17.5~~
+~~bc:Text 5~~
+
+{{description>There blew winds which were most uninviting to the touch, hissing again and again and uprooting gigantic trees. They had storms for their armies and clouds of dust for their ensigns.}}
 
 ====== SB 3.17.5 ======
 

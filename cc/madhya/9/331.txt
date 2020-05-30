@@ -1,7 +1,7 @@
-{{description>"The King has already given me an order to return to Jagannātha Purī, and I am making arrangements to do this."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 9.331~~
 ~~bc:Text 331~~
-~~Title:Caitanya-caritāmṛta, Madhya 9.331~~
+
+{{description>"The King has already given me an order to return to Jagannātha Purī, and I am making arrangements to do this."}}
 
 ====== CC Madhya 9.331 ======
 

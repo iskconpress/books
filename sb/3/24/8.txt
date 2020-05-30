@@ -1,7 +1,7 @@
-{{description>At the time of the Lord's appearance, the demigods flying freely in the sky showered flowers. All the directions, all the waters and everyone's mind became very satisfied.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 3.24.8~~
+~~bc:Text 8~~
+
+{{description>At the time of the Lord's appearance, the demigods flying freely in the sky showered flowers. All the directions, all the waters and everyone's mind became very satisfied.}}
 
 ====== SB 3.24.8 ======
 

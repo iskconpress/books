@@ -1,7 +1,7 @@
-{{description>"Even in the poetic compositions of such great poets as Bhavabhūti, Jayadeva and Kālidāsa there are many examples of faults.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 16.101~~
 ~~bc:Text 101~~
-~~Title:Caitanya-caritāmṛta, Ādi 16.101~~
+
+{{description>"Even in the poetic compositions of such great poets as Bhavabhūti, Jayadeva and Kālidāsa there are many examples of faults.}}
 
 ====== CC Ādi 16.101 ======
 

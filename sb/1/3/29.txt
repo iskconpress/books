@@ -1,7 +1,7 @@
-{{description>Whoever carefully recites the mysterious appearances of the Lord, with devotion in the morning and in the evening, gets relief from all miseries of life.}}
-
-~~bc:Text 29~~
 ~~Title: Śrīmad Bhāgavatam 1.3.29~~
+~~bc:Text 29~~
+
+{{description>Whoever carefully recites the mysterious appearances of the Lord, with devotion in the morning and in the evening, gets relief from all miseries of life.}}
 
 ====== SB 1.3.29 ======
 

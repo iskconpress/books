@@ -1,7 +1,7 @@
-{{description>Maitreya said: My dear Vidura, I heard this story of the Dakṣa yajña, which was devastated by Lord Śiva, from Uddhava, a great devotee and a disciple of Bṛhaspati.}}
-
-~~bc:Text 60~~
 ~~Title: Śrīmad Bhāgavatam 4.7.60~~
+~~bc:Text 60~~
+
+{{description>Maitreya said: My dear Vidura, I heard this story of the Dakṣa yajña, which was devastated by Lord Śiva, from Uddhava, a great devotee and a disciple of Bṛhaspati.}}
 
 ====== SB 4.7.60 ======
 

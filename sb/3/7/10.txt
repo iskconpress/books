@@ -1,7 +1,7 @@
-{{description>The living entity is in distress regarding his self-identity. He has no factual background, like a man who dreams that he sees his head cut off.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 3.7.10~~
+~~bc:Text 10~~
+
+{{description>The living entity is in distress regarding his self-identity. He has no factual background, like a man who dreams that he sees his head cut off.}}
 
 ====== SB 3.7.10 ======
 

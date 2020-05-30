@@ -1,7 +1,7 @@
-{{description>At the street crossings there were bunches of fruits and flowers, as well as pillars of banana trees and betel nut branches. All these combined decorations everywhere looked very attractive.}}
-
-~~bc:Text 3~~
 ~~Title: Śrīmad Bhāgavatam 4.21.3~~
+~~bc:Text 3~~
+
+{{description>At the street crossings there were bunches of fruits and flowers, as well as pillars of banana trees and betel nut branches. All these combined decorations everywhere looked very attractive.}}
 
 ====== SB 4.21.3 ======
 

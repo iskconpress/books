@@ -1,7 +1,7 @@
-{{description>King Pṛthu spoke: My dear great sages, auspiciousness personified, it is very difficult for even the mystic yogīs to see you. Indeed, you are very rarely seen. I do not know what kind of pious activity I performed for you to grace me by appearing before me without difficulty.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 4.22.7~~
+~~bc:Text 7~~
+
+{{description>King Pṛthu spoke: My dear great sages, auspiciousness personified, it is very difficult for even the mystic yogīs to see you. Indeed, you are very rarely seen. I do not know what kind of pious activity I performed for you to grace me by appearing before me without difficulty.}}
 
 ====== SB 4.22.7 ======
 

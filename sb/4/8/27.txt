@@ -1,7 +1,7 @@
-{{description>The great sage Nārada told Dhruva: My dear boy, you are only a little boy whose attachment is to sports and other frivolities. Why are you so affected by words insulting your honor?}}
-
-~~bc:Text 27~~
 ~~Title: Śrīmad Bhāgavatam 4.8.27~~
+~~bc:Text 27~~
+
+{{description>The great sage Nārada told Dhruva: My dear boy, you are only a little boy whose attachment is to sports and other frivolities. Why are you so affected by words insulting your honor?}}
 
 ====== SB 4.8.27 ======
 

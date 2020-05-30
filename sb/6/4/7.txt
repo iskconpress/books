@@ -1,7 +1,7 @@
-{{description>O greatly fortunate ones, you should not kill these poor trees by burning them to ashes. Your duty is to wish the citizens [prajās] all prosperity and to act as their protectors.}}
-
-~~bc:Text 7~~
 ~~Title: Śrīmad Bhāgavatam 6.4.7~~
+~~bc:Text 7~~
+
+{{description>O greatly fortunate ones, you should not kill these poor trees by burning them to ashes. Your duty is to wish the citizens [prajās] all prosperity and to act as their protectors.}}
 
 ====== SB 6.4.7 ======
 

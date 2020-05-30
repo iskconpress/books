@@ -1,7 +1,7 @@
-{{description>"You have written several letters showing your humility. I can understand your behavior from those letters.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 1.209~~
 ~~bc:Text 209~~
-~~Title:Caitanya-caritāmṛta, Madhya 1.209~~
+
+{{description>"You have written several letters showing your humility. I can understand your behavior from those letters.}}
 
 ====== CC Madhya 1.209 ======
 

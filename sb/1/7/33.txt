@@ -1,7 +1,7 @@
-{{description>Arjuna, his eyes blazing in anger like two red balls of copper, dexterously arrested the son of Gautamī and bound him with ropes like an animal.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 1.7.33~~
+~~bc:Text 33~~
+
+{{description>Arjuna, his eyes blazing in anger like two red balls of copper, dexterously arrested the son of Gautamī and bound him with ropes like an animal.}}
 
 ====== SB 1.7.33 ======
 

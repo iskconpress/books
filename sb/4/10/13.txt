@@ -1,7 +1,7 @@
-{{description>Dhruva Mahārāja was completely covered by an incessant shower of weapons, just as a mountain is covered by incessant rainfall.}}
-
-~~bc:Text 13~~
 ~~Title: Śrīmad Bhāgavatam 4.10.13~~
+~~bc:Text 13~~
+
+{{description>Dhruva Mahārāja was completely covered by an incessant shower of weapons, just as a mountain is covered by incessant rainfall.}}
 
 ====== SB 4.10.13 ======
 

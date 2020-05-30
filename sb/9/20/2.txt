@@ -1,7 +1,7 @@
-{{description>King Janamejaya was born of this dynasty of Pūru. Janamejaya's son was Pracinvān, and his son was Pravīra. Thereafter, Pravīra's son was Manusyu, and from Manusyu came the son named Cārupada.}}
-
-~~bc:Text 2~~
 ~~Title: Śrīmad Bhāgavatam 9.20.2~~
+~~bc:Text 2~~
+
+{{description>King Janamejaya was born of this dynasty of Pūru. Janamejaya's son was Pracinvān, and his son was Pravīra. Thereafter, Pravīra's son was Manusyu, and from Manusyu came the son named Cārupada.}}
 
 ====== SB 9.20.2 ======
 

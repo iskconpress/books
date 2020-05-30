@@ -1,7 +1,7 @@
-{{description>You are the original ṛṣi, and because your mind is always fixed on Me, even though you will be engaged in generating various progeny, the vicious mode of passion will never encroach upon you.}}
-
-~~bc:Text 35~~
 ~~Title: Śrīmad Bhāgavatam 3.9.35~~
+~~bc:Text 35~~
+
+{{description>You are the original ṛṣi, and because your mind is always fixed on Me, even though you will be engaged in generating various progeny, the vicious mode of passion will never encroach upon you.}}
 
 ====== SB 3.9.35 ======
 

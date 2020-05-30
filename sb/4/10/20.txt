@@ -1,7 +1,7 @@
-{{description>The remaining Yakṣas who somehow or other were not killed had their limbs cut to pieces by the arrows of the great warrior Dhruva Mahārāja. Thus they began to flee, just as elephants flee when defeated by a lion.}}
-
-~~bc:Text 20~~
 ~~Title: Śrīmad Bhāgavatam 4.10.20~~
+~~bc:Text 20~~
+
+{{description>The remaining Yakṣas who somehow or other were not killed had their limbs cut to pieces by the arrows of the great warrior Dhruva Mahārāja. Thus they began to flee, just as elephants flee when defeated by a lion.}}
 
 ====== SB 4.10.20 ======
 

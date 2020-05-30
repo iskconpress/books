@@ -1,7 +1,7 @@
-{{description>Both the queens of King Uttānapāda, namely Sunīti and Suruci, along with his other son, Uttama, appeared in the procession. The queens were seated on a palanquin.}}
-
-~~bc:Text 41~~
 ~~Title: Śrīmad Bhāgavatam 4.9.41~~
+~~bc:Text 41~~
+
+{{description>Both the queens of King Uttānapāda, namely Sunīti and Suruci, along with his other son, Uttama, appeared in the procession. The queens were seated on a palanquin.}}
 
 ====== SB 4.9.41 ======
 

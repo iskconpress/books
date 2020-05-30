@@ -1,7 +1,7 @@
-{{description>The results of whatever a living entity does in this life are enjoyed in the next life.}}
-
-~~bc:Text 58~~
 ~~Title: Śrīmad Bhāgavatam 4.29.58~~
+~~bc:Text 58~~
+
+{{description>The results of whatever a living entity does in this life are enjoyed in the next life.}}
 
 ====== SB 4.29.58 ======
 

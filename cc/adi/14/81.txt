@@ -1,7 +1,7 @@
-{{description>"They made noisy sounds I could not understand. I guess they were offering prayers to someone."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 14.81~~
 ~~bc:Text 81~~
-~~Title:Caitanya-caritāmṛta, Ādi 14.81~~
+
+{{description>"They made noisy sounds I could not understand. I guess they were offering prayers to someone."}}
 
 ====== CC Ādi 14.81 ======
 

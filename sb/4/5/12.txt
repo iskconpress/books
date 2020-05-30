@@ -1,7 +1,7 @@
-{{description>While all the people talked amongst themselves, Dakṣa saw dangerous omens from all sides, from the earth and from the sky.}}
-
-~~bc:Text 12~~
 ~~Title: Śrīmad Bhāgavatam 4.5.12~~
+~~bc:Text 12~~
+
+{{description>While all the people talked amongst themselves, Dakṣa saw dangerous omens from all sides, from the earth and from the sky.}}
 
 ====== SB 4.5.12 ======
 

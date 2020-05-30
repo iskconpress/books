@@ -1,7 +1,7 @@
-{{description>When the great sages accepted their reception, according to the instructions of the śāstras, and finally took their seats offered by the King, the King, influenced by the glories of the sages, immediately bowed down. Thus he worshiped the four Kumāras.}}
-
-~~bc:Text 4~~
 ~~Title: Śrīmad Bhāgavatam 4.22.4~~
+~~bc:Text 4~~
+
+{{description>When the great sages accepted their reception, according to the instructions of the śāstras, and finally took their seats offered by the King, the King, influenced by the glories of the sages, immediately bowed down. Thus he worshiped the four Kumāras.}}
 
 ====== SB 4.22.4 ======
 

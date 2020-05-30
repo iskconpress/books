@@ -1,7 +1,7 @@
-{{description>"Although a sannyāsī, He does not take interest in the study of Vedānta but instead always engages in chanting and dancing in saṅkīrtana.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 7.41~~
 ~~bc:Text 41~~
-~~Title:Caitanya-caritāmṛta, Ādi 7.41~~
+
+{{description>"Although a sannyāsī, He does not take interest in the study of Vedānta but instead always engages in chanting and dancing in saṅkīrtana.}}
 
 ====== CC Ādi 7.41 ======
 

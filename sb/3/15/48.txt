@@ -1,7 +1,7 @@
-{{description>Persons who are very expert and most intelligent in understanding things as they are engage in hearing narrations of the auspicious activities and pastimes of the Lord, which are worth chanting and worth hearing. Such persons do not care even for the highest material benediction, namely liberation, to say nothing of other less important benedictions like the material happiness of the heavenly kingdom.}}
-
-~~bc:Text 48~~
 ~~Title: Śrīmad Bhāgavatam 3.15.48~~
+~~bc:Text 48~~
+
+{{description>Persons who are very expert and most intelligent in understanding things as they are engage in hearing narrations of the auspicious activities and pastimes of the Lord, which are worth chanting and worth hearing. Such persons do not care even for the highest material benediction, namely liberation, to say nothing of other less important benedictions like the material happiness of the heavenly kingdom.}}
 
 ====== SB 3.15.48 ======
 

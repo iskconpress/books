@@ -1,7 +1,7 @@
-{{description>There is no need to live a degraded life and subsist on the charity of those whom you tried to kill by arson and poisoning. You also insulted one of their wives and usurped their kingdom and wealth.}}
-
-~~bc:Text 24~~
 ~~Title: Śrīmad Bhāgavatam 1.13.24~~
+~~bc:Text 24~~
+
+{{description>There is no need to live a degraded life and subsist on the charity of those whom you tried to kill by arson and poisoning. You also insulted one of their wives and usurped their kingdom and wealth.}}
 
 ====== SB 1.13.24 ======
 

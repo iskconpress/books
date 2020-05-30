@@ -1,7 +1,7 @@
-{{description>"You should all therefore remain here in Nīlācala for some days while I tour the sacred places of pilgrimage alone."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Madhya-līlā 7.28~~
 ~~bc:Text 28~~
-~~Title:Caitanya-caritāmṛta, Madhya 7.28~~
+
+{{description>"You should all therefore remain here in Nīlācala for some days while I tour the sacred places of pilgrimage alone."}}
 
 ====== CC Madhya 7.28 ======
 

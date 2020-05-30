@@ -1,7 +1,7 @@
-{{description>After all the ṛṣis and others had seated themselves comfortably, the King, humbly standing before them with folded hands, told them of his decision to fast until death.}}
-
-~~bc:Text 12~~
 ~~Title: Śrīmad Bhāgavatam 1.19.12~~
+~~bc:Text 12~~
+
+{{description>After all the ṛṣis and others had seated themselves comfortably, the King, humbly standing before them with folded hands, told them of his decision to fast until death.}}
 
 ====== SB 1.19.12 ======
 

@@ -1,7 +1,7 @@
-{{description>"The Lord is like a great blazing fire, and the living entities are like small sparks of that fire.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 7.116~~
 ~~bc:Text 116~~
-~~Title:Caitanya-caritāmṛta, Ādi 7.116~~
+
+{{description>"The Lord is like a great blazing fire, and the living entities are like small sparks of that fire.}}
 
 ====== CC Ādi 7.116 ======
 

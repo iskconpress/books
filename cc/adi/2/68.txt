@@ -1,7 +1,7 @@
-{{description>The Bhāgavatam describes the symptoms and deeds of the incarnations in general and counts Śrī Kṛṣṇa among them.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.68~~
 ~~bc:Text 68~~
-~~Title:Caitanya-caritāmṛta, Ādi 2.68~~
+
+{{description>The Bhāgavatam describes the symptoms and deeds of the incarnations in general and counts Śrī Kṛṣṇa among them.}}
 
 ====== CC Ādi 2.68 ======
 

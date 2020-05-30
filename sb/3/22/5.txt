@@ -1,7 +1,7 @@
-{{description>Now I have resolved all my doubts simply by meeting you, for Your Lordship has very kindly and clearly explained the duty of a king who desires to protect his subjects.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 3.22.5~~
+~~bc:Text 5~~
+
+{{description>Now I have resolved all my doubts simply by meeting you, for Your Lordship has very kindly and clearly explained the duty of a king who desires to protect his subjects.}}
 
 ====== SB 3.22.5 ======
 

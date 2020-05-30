@@ -1,7 +1,7 @@
-{{description>"I am a great Vaiṣṇava. Having learned all the conclusions of Vaiṣṇava philosophy, I can understand the meaning of Śrīmad-Bhāgavatam and explain it very well."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 7.54~~
 ~~bc:Text 54~~
-~~Title:Caitanya-caritāmṛta, Antya 7.54~~
+
+{{description>"I am a great Vaiṣṇava. Having learned all the conclusions of Vaiṣṇava philosophy, I can understand the meaning of Śrīmad-Bhāgavatam and explain it very well."}}
 
 ====== CC Antya 7.54 ======
 

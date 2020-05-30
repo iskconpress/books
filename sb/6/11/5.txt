@@ -1,7 +1,7 @@
-{{description>O insignificant demigods, if you truly have faith in your heroism, if you have patience in the cores of your hearts and if you are not ambitious for sense gratification, please stand before me for a moment.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 6.11.5~~
+~~bc:Text 5~~
+
+{{description>O insignificant demigods, if you truly have faith in your heroism, if you have patience in the cores of your hearts and if you are not ambitious for sense gratification, please stand before me for a moment.}}
 
 ====== SB 6.11.5 ======
 

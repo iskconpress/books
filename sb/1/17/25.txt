@@ -1,7 +1,7 @@
-{{description>You are now standing on one leg only, which is your truthfulness, and you are somehow or other hobbling along. But quarrel personified [Kali], flourishing by deceit, is also trying to destroy that leg.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 1.17.25~~
+~~bc:Text 25~~
+
+{{description>You are now standing on one leg only, which is your truthfulness, and you are somehow or other hobbling along. But quarrel personified [Kali], flourishing by deceit, is also trying to destroy that leg.}}
 
 ====== SB 1.17.25 ======
 

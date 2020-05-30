@@ -1,7 +1,7 @@
-{{description>In this way King Purañjana killed many animals, including rabbits, boars, buffalo, bison, black deer, porcupines and other game animals. After killing and killing, the King became very tired.}}
-
-~~bc:Text 10~~
 ~~Title: Śrīmad Bhāgavatam 4.26.10~~
+~~bc:Text 10~~
+
+{{description>In this way King Purañjana killed many animals, including rabbits, boars, buffalo, bison, black deer, porcupines and other game animals. After killing and killing, the King became very tired.}}
 
 ====== SB 4.26.10 ======
 

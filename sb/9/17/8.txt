@@ -1,7 +1,7 @@
-{{description>From Alarka came a son named Santati, and his son was Sunītha. The son of Sunītha was Niketana, the son of Niketana was Dharmaketu, and the son of Dharmaketu was Satyaketu.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 9.17.8~~
+~~bc:Text 8~~
+
+{{description>From Alarka came a son named Santati, and his son was Sunītha. The son of Sunītha was Niketana, the son of Niketana was Dharmaketu, and the son of Dharmaketu was Satyaketu.}}
 
 ====== SB 9.17.8 ======
 

@@ -1,7 +1,7 @@
-{{description>Śrī Śukadeva Gosvāmī said: O King, Maitreya, being thus agitated by the inquisitive Vidura, at first seemed astonished, but then he replied to him without hesitation, since he was fully God conscious.}}
-
-~~bc:Text 8~~
 ~~Title: Śrīmad Bhāgavatam 3.7.8~~
+~~bc:Text 8~~
+
+{{description>Śrī Śukadeva Gosvāmī said: O King, Maitreya, being thus agitated by the inquisitive Vidura, at first seemed astonished, but then he replied to him without hesitation, since he was fully God conscious.}}
 
 ====== SB 3.7.8 ======
 

@@ -1,7 +1,7 @@
-{{description>The luminaries in the heavens were screened by masses of clouds, in which lightning sometimes flashed as though laughing. Darkness reigned everywhere, and nothing could be seen.}}
-
-~~bc:Text 6~~
 ~~Title: Śrīmad Bhāgavatam 3.17.6~~
+~~bc:Text 6~~
+
+{{description>The luminaries in the heavens were screened by masses of clouds, in which lightning sometimes flashed as though laughing. Darkness reigned everywhere, and nothing could be seen.}}
 
 ====== SB 3.17.6 ======
 

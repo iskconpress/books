@@ -1,7 +1,7 @@
-{{description>The supreme duty of the ruling king is to give all protection to law-abiding persons and to chastise those who stray from the ordinances of the scriptures in ordinary times, when there is no emergency.}}
-
-~~bc:Text 16~~
 ~~Title: Śrīmad Bhāgavatam 1.17.16~~
+~~bc:Text 16~~
+
+{{description>The supreme duty of the ruling king is to give all protection to law-abiding persons and to chastise those who stray from the ordinances of the scriptures in ordinary times, when there is no emergency.}}
 
 ====== SB 1.17.16 ======
 

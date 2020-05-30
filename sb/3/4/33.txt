@@ -1,7 +1,7 @@
-{{description>Vidura also heard from Uddhava about the appearance and disappearance of Lord Kṛṣṇa, the Supersoul, in the mortal world, which is a subject matter sought after with great perseverance by the great sages.}}
-
-~~bc:Text 33~~
 ~~Title: Śrīmad Bhāgavatam 3.4.33~~
+~~bc:Text 33~~
+
+{{description>Vidura also heard from Uddhava about the appearance and disappearance of Lord Kṛṣṇa, the Supersoul, in the mortal world, which is a subject matter sought after with great perseverance by the great sages.}}
 
 ====== SB 3.4.33 ======
 

@@ -1,7 +1,7 @@
-{{description>"You know all the conclusions of the scriptures very well. You create these logical arguments just to agitate me."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 2.108~~
 ~~bc:Text 108~~
-~~Title:Caitanya-caritāmṛta, Ādi 2.108~~
+
+{{description>"You know all the conclusions of the scriptures very well. You create these logical arguments just to agitate me."}}
 
 ====== CC Ādi 2.108 ======
 

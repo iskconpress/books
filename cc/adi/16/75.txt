@@ -1,7 +1,7 @@
-{{description>"In the fourth line the letter 'bha' occurs four times. This arrangement of alliteration is a pleasing ornamental use of sounds.}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Ādi-līlā 16.75~~
 ~~bc:Text 75~~
-~~Title:Caitanya-caritāmṛta, Ādi 16.75~~
+
+{{description>"In the fourth line the letter 'bha' occurs four times. This arrangement of alliteration is a pleasing ornamental use of sounds.}}
 
 ====== CC Ādi 16.75 ======
 

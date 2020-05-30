@@ -1,7 +1,7 @@
-{{description>"You are chanting the Gaura-gopāla mantra composed of four syllables. Now please give up the doubts that have resided within you."}}
-
+~~Title:Śrī Caitanya-caritāmṛta, Antya-līlā 2.31~~
 ~~bc:Text 31~~
-~~Title:Caitanya-caritāmṛta, Antya 2.31~~
+
+{{description>"You are chanting the Gaura-gopāla mantra composed of four syllables. Now please give up the doubts that have resided within you."}}
 
 ====== CC Antya 2.31 ======
 

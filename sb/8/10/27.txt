@@ -1,7 +1,7 @@
-{{description>The demigods and demons came before each other and reproached one another with words piercing to the heart. Then they drew near and began fighting face to face in pairs.}}
-
-~~bc:Text 27~~
 ~~Title: Śrīmad Bhāgavatam 8.10.27~~
+~~bc:Text 27~~
+
+{{description>The demigods and demons came before each other and reproached one another with words piercing to the heart. Then they drew near and began fighting face to face in pairs.}}
 
 ====== SB 8.10.27 ======
 

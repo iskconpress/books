@@ -1,7 +1,7 @@
-{{description>The woman continued: According to authorities, the householder life is pleasing not only to oneself but to all the forefathers, demigods, great sages, saintly persons and everyone else. A householder life is thus beneficial.}}
-
-~~bc:Text 40~~
 ~~Title: Śrīmad Bhāgavatam 4.25.40~~
+~~bc:Text 40~~
+
+{{description>The woman continued: According to authorities, the householder life is pleasing not only to oneself but to all the forefathers, demigods, great sages, saintly persons and everyone else. A householder life is thus beneficial.}}
 
 ====== SB 4.25.40 ======
 

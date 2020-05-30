@@ -1,7 +1,7 @@
-{{description>Even though you are the most powerful being, this act does not suit you because your character is followed for spiritual improvement by people in general.}}
-
-~~bc:Text 31~~
 ~~Title: Śrīmad Bhāgavatam 3.12.31~~
+~~bc:Text 31~~
+
+{{description>Even though you are the most powerful being, this act does not suit you because your character is followed for spiritual improvement by people in general.}}
 
 ====== SB 3.12.31 ======
 

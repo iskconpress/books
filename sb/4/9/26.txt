@@ -1,7 +1,7 @@
-{{description>The great sage Maitreya said: After being worshiped and honored by the boy, Dhruva Mahārāja, and after offering him His abode, Lord Viṣṇu, on the back of Garuḍa, returned to His abode, as Dhruva Mahārāja looked on.}}
-
-~~bc:Text 26~~
 ~~Title: Śrīmad Bhāgavatam 4.9.26~~
+~~bc:Text 26~~
+
+{{description>The great sage Maitreya said: After being worshiped and honored by the boy, Dhruva Mahārāja, and after offering him His abode, Lord Viṣṇu, on the back of Garuḍa, returned to His abode, as Dhruva Mahārāja looked on.}}
 
 ====== SB 4.9.26 ======
 

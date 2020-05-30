@@ -1,7 +1,7 @@
-{{description>The heron, vulture, crane, hawk, bhāsa, bhallūka, peacock, swan, sārasa, cakravāka, crow, owl and others are the birds.}}
-
-~~bc:Text 25~~
 ~~Title: Śrīmad Bhāgavatam 3.10.25~~
+~~bc:Text 25~~
+
+{{description>The heron, vulture, crane, hawk, bhāsa, bhallūka, peacock, swan, sārasa, cakravāka, crow, owl and others are the birds.}}
 
 ====== SB 3.10.25 ======
 

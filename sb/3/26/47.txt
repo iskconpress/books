@@ -1,7 +1,7 @@
-{{description>The sense whose object of perception is sound is called the auditory sense, and that whose object of perception is touch is called the tactile sense.}}
-
-~~bc:Text 47~~
 ~~Title: Śrīmad Bhāgavatam 3.26.47~~
+~~bc:Text 47~~
+
+{{description>The sense whose object of perception is sound is called the auditory sense, and that whose object of perception is touch is called the tactile sense.}}
 
 ====== SB 3.26.47 ======
 

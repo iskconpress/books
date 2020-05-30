@@ -1,7 +1,7 @@
-{{description>With great delight they all approached him, as if life had returned to their bodies. They exchanged obeisances and welcomed each other with embraces.}}
-
-~~bc:Text 5~~
 ~~Title: Śrīmad Bhāgavatam 1.13.5~~
+~~bc:Text 5~~
+
+{{description>With great delight they all approached him, as if life had returned to their bodies. They exchanged obeisances and welcomed each other with embraces.}}
 
 ====== SB 1.13.5 ======
 

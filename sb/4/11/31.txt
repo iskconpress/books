@@ -1,7 +1,7 @@
-{{description>My dear King, just consider what I have said to you, which will act as medicinal treatment upon disease. Control your anger, for anger is the foremost enemy on the path of spiritual realization. I wish all good fortune for you. Please follow my instructions.}}
-
-~~bc:Text 31~~
 ~~Title: Śrīmad Bhāgavatam 4.11.31~~
+~~bc:Text 31~~
+
+{{description>My dear King, just consider what I have said to you, which will act as medicinal treatment upon disease. Control your anger, for anger is the foremost enemy on the path of spiritual realization. I wish all good fortune for you. Please follow my instructions.}}
 
 ====== SB 4.11.31 ======
 

@@ -1,7 +1,7 @@
-{{description>You are always the protector of the deserving living beings, such as brāhmaṇas, children, cows, women and the diseased. Could you not give them protection when they approached you for shelter?}}
-
-~~bc:Text 41~~
 ~~Title: Śrīmad Bhāgavatam 1.14.41~~
+~~bc:Text 41~~
+
+{{description>You are always the protector of the deserving living beings, such as brāhmaṇas, children, cows, women and the diseased. Could you not give them protection when they approached you for shelter?}}
 
 ====== SB 1.14.41 ======
 

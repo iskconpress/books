@@ -1,7 +1,7 @@
-{{description>You rascal, You have been nourished by our enemies to kill us, and You have killed some demons by remaining invisible. O fool, Your power is only mystic, so today I shall enliven my kinsmen by killing You.}}
-
-~~bc:Text 4~~
 ~~Title: Śrīmad Bhāgavatam 3.18.4~~
+~~bc:Text 4~~
+
+{{description>You rascal, You have been nourished by our enemies to kill us, and You have killed some demons by remaining invisible. O fool, Your power is only mystic, so today I shall enliven my kinsmen by killing You.}}
 
 ====== SB 3.18.4 ======
 
