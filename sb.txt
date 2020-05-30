@@ -3,7 +3,7 @@
 <WRAP nopurple>
 
 <WRAP half right rightalign>
-[{{ images:bbt.se:12_cantos_large.jpg?500&nolink}}]
+[{{ artwork:bbt.se:12_cantos_large.jpg?500&nolink}}]
 </WRAP>
 
 ====== Śrīmad-Bhāgavatam ======
