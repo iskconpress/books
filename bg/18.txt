@@ -4,6 +4,9 @@
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_18_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 18}}
 </audio>
 
+~~TOC 1-1 closed~~
+~~CLOSETOC~~
+
 ====== Conclusion — The Perfection of Renunciation ======
 
 <div right half last imagebox>
@@ -14,7 +17,6 @@
 </div>
 
 {{namespace>books:bg:18 &header}}
-~~TOC 1-1~~
 
 ~~bc:Chapter 18~~
 ~~Title:Bhagavad-gītā 18: Conclusion — The Perfection of Renunciation~~
