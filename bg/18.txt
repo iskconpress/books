@@ -7,7 +7,7 @@
 </audio>
 
 ~~TOC 1-1 closed~~
-~~CLOSETOC~~
+~~TOC_HERE~~
 
 <div right half last imagebox>
 [{{ :artwork:bhagavad-gita:plate41.jpg?500&direct |Plate 41. The place of action, the performer, the senses, the endeavor and ultimately the Supersoul. These are the five factors of action. (p. 790)}}]
