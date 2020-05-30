@@ -1,7 +1,7 @@
 {{description>Krishna explains the meaning of renunciation and the effects of the modes of nature on human consciousness and activity. He explains Brahman realization, the glories of the Bhagavad-gita, and the ultimate conclusion of the Gita: the highest path of religion is absolute, unconditional loving surrender unto Lord Krishna, which frees one from all sins, brings one to complete enlightenment, and enables one to return to Krishna's eternal spiritual abode.}}
 
 <audio>
-{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_18_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 18}}
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-Gita-Verses-Purports/Ch_18_BG_With_Purports.mp3 |Bhagavad-gītā As It Is Chapter 18}}
 </audio>
 
 ~~TOC 1-1 closed~~
@@ -16,7 +16,7 @@
 [{{ :artwork:bhagavad-gita:plate44.jpg?500&direct |Plate 44. “Wherever there is Kṛṣṇa and Arjuna there will certainly be opulence, victory, extraordinary power and morality.” (p. 847)}}]
 </div>
 
-{{namespace>books:bg:18 &header}}
+  {{namespace>books:bg:18 &header}}
 
 ~~bc:Chapter 18~~
 ~~Title:Bhagavad-gītā 18: Conclusion — The Perfection of Renunciation~~
