@@ -5,22 +5,23 @@
 
 ====== The Divisions of Faith ======
 
-<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_17_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 17}}
-</audio>
 
-<WRAP right half last imagebox>
-[{{ :artwork:bhagavad-gita:plate40.jpg?500&direct |Plate 40. There are three kinds of faith—that in the mode of goodness, that in passion, and that in ignorance. [[books:bg:17:4|(Bg. 17.4)]]}}]
-</WRAP>
+<container float=“end” class=“col-12 col-md-6” spacing=“pr-0”>
+<card>
+{{ :artwork:bhagavad-gita:plate40.jpg?500&direct |}}
+Plate 40. There are three kinds of faith—that in the mode of goodness, that in passion, and that in ignorance. [[books:bg:17:4|(Bg. 17.4)]]
+</card>
+</container>
 
   ; [[.17:1|Bg 17.1]]
   : Arjuna said, O Kṛṣṇa, what is the situation of one who does not follow the principles of scripture but worships according to his own imagination? Is he in goodness, in passion or in ignorance?
 
   ; [[.17:2|Bg 17.2]]
-  : The Supreme Lord said, according to the modes of nature acquired by the embodied soul, one's faith can be of three kinds---goodness, passion or ignorance. Now hear about these.
+  : The Supreme Lord said, according to the modes of nature acquired by the embodied soul, one’s faith can be of three kinds—goodness, passion or ignorance. Now hear about these.
 
   ; [[.17:3|Bg 17.3]]
-  : According to one's existence under the various modes of nature, one evolves a particular kind of faith. The living being is said to be of a particular faith according to the modes he has acquired.
+  : According to one’s existence under the various modes of nature, one evolves a particular kind of faith. The living being is said to be of a particular faith according to the modes he has acquired.
 
   ; [[.17:4|Bg 17.4]]
   : Men in the mode of goodness worship the demigods; those in the mode of passion worship the demons; and those in the mode of ignorance worship ghosts and spirits.
@@ -32,7 +33,7 @@
   : Even food of which all partake is of three kinds, according to the three modes of material nature. The same is true of sacrifices, austerities and charity. Listen, and I shall tell you of the distinctions of these.
 
   ; [[.17:8-10|Bg 17.8-10]]
-  : Foods in the mode of goodness increase the duration of life, purify one's existence and give strength, health, happiness and satisfaction. Such nourishing foods are sweet, juicy, fattening and palatable. Foods that are too bitter, too sour, salty, pungent, dry and hot, are liked by people in the modes of passion. Such foods cause pain, distress, and disease. Food cooked more than three hours before being eaten, which is tasteless, stale, putrid, decomposed and unclean, is food liked by people in the mode of ignorance.
+  : Foods in the mode of goodness increase the duration of life, purify one’s existence and give strength, health, happiness and satisfaction. Such nourishing foods are sweet, juicy, fattening and palatable. Foods that are too bitter, too sour, salty, pungent, dry and hot, are liked by people in the modes of passion. Such foods cause pain, distress, and disease. Food cooked more than three hours before being eaten, which is tasteless, stale, putrid, decomposed and unclean, is food liked by people in the mode of ignorance.
 
   ; [[.17:11|Bg 17.11]]
   : Of sacrifices, that sacrifice performed according to duty and to scriptural rules, and with no expectation of reward, is of the nature of goodness.
@@ -41,7 +42,7 @@
   : But that sacrifice performed for some material end or benefit or performed ostentatiously, out of pride, is of the nature of passion, O chief of the Bhāratas.
 
   ; [[.17:13|Bg 17.13]]
-  : And that sacrifice performed in defiance of scriptural injunctions, in which no spiritual food is distributed, no hymns are chanted and no remunerations are made to the priests, and which is faithless---that sacrifice is of the nature of ignorance.
+  : And that sacrifice performed in defiance of scriptural injunctions, in which no spiritual food is distributed, no hymns are chanted and no remunerations are made to the priests, and which is faithless—that sacrifice is of the nature of ignorance.
 
   ; [[.17:14|Bg 17.14]]
   : The austerity of the body consists in this: worship of the Supreme Lord, the brāhmaṇas, the spiritual master, and superiors like the father and mother. Cleanliness, simplicity, celibacy and nonviolence are also austerities of the body.
@@ -71,7 +72,7 @@
   : And charity performed at an improper place and time and given to unworthy persons without respect and with contempt is charity in the mode of ignorance.
 
   ; [[.17:23|Bg 17.23]]
-  : From the beginning of creation, the three syllables---om tat sat---have been used to indicate the Supreme Absolute Truth [Brahman]. They were uttered by brāhmaṇas while chanting Vedic hymns and during sacrifices, for the satisfaction of the Supreme.
+  : From the beginning of creation, the three syllables—om tat sat—have been used to indicate the Supreme Absolute Truth [Brahman]. They were uttered by brāhmaṇas while chanting Vedic hymns and during sacrifices, for the satisfaction of the Supreme.
 
   ; [[.17:24|Bg 17.24]]
   : Thus the transcendentalists undertake sacrifices, charities, and penances, beginning always with om, to attain the Supreme.

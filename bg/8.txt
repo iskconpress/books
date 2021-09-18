@@ -1,17 +1,18 @@
 ~~Title:Bhagavad-gītā As It Is 8: Attaining the Supreme~~
 ~~bc:Chapter 8~~
 
-{{description>By remembering Lord Krishna in devotion throughout one's life, and especially at the time of death, one can attain to His supreme abode, beyond the material world.}}
+{{description>By remembering Lord Krishna in devotion throughout one’s life, and especially at the time of death, one can attain to His supreme abode, beyond the material world.}}
 
 ====== Attaining the Supreme ======
 
-<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_08_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 8}}
-</audio>
 
-<WRAP right half last imagebox>
-[{{ :artwork:bhagavad-gita:plate27.jpg?500&nolink |Plate 27. “When one goes there, he never comes back. That is My supreme abode.” [[books:bg:8:21|(Bg. 8.21)]]}}]
-</WRAP>
+<container float=“end” class=“col-12 col-md-6” spacing=“pr-0”>
+<card>
+{{ :artwork:bhagavad-gita:plate27.jpg?500&nolink |}}
+Plate 27. “When one goes there, he never comes back. That is My supreme abode.” [[books:bg:8:21|(Bg. 8.21)]]
+</card>
+</container>
 
   ; [[.8:1|Bg 8.1]]
   : Arjuna inquired: O my Lord, O Supreme Person, what is Brahman? What is the self? What are fruitive activities? What is this material manifestation? And what are the demigods? Please explain this to me.
@@ -62,10 +63,10 @@
   : From the highest planet in the material world down to the lowest, all are places of misery wherein repeated birth and death take place. But one who attains to My abode, O son of Kuntī, never takes birth again.
 
   ; [[.8:17|Bg 8.17]]
-  : By human calculation, a thousand ages taken together is the duration of Brahmā's one day. And such also is the duration of his night.
+  : By human calculation, a thousand ages taken together is the duration of Brahmā’s one day. And such also is the duration of his night.
 
   ; [[.8:18|Bg 8.18]]
-  : When Brahmā's day is manifest, this multitude of living entities comes into being, and at the arrival of Brahmā's night they are all annihilated.
+  : When Brahmā’s day is manifest, this multitude of living entities comes into being, and at the arrival of Brahmā’s night they are all annihilated.
 
   ; [[.8:19|Bg 8.19]]
   : Again and again the day comes, and this host of beings is active; and again the night falls, O Pārtha, and they are helplessly dissolved.
@@ -89,7 +90,7 @@
   : The mystic who passes away from this world during the smoke, the night, the moonlight fortnight, or in the six months when the sun passes to the south, or who reaches the moon planet, again comes back.
 
   ; [[.8:26|Bg 8.26]]
-  : According to the Vedas, there are two ways of passing from this world---one in light and one in darkness. When one passes in light, he does not come back; but when one passes in darkness, he returns.
+  : According to the Vedas, there are two ways of passing from this world—one in light and one in darkness. When one passes in light, he does not come back; but when one passes in darkness, he returns.
 
   ; [[.8:27|Bg 8.27]]
   : The devotees who know these two paths, O Arjuna, are never bewildered. Therefore be always fixed in devotion.

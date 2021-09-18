@@ -5,15 +5,18 @@
 
 ====== The Universal Form ======
 
-<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_11_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 11}}
-</audio>
 
-<WRAP right half last imagebox>
-[{{ :artwork:bhagavad-gita:plate31.jpg?500&nolink |Plate 31. The universal form. [[books:bg:10:10-11|(Bg. 11.10-11)]]}}]
-
-[{{ :artwork:bhagavad-gita:plate32.jpg?500&nolink |Plate 32. At last Kṛṣṇa showed Arjuna His two-armed form. [[books:bg:11:50|(Bg. 11.50)]]}}]
-</WRAP>
+<container float=“end” class=“col-12 col-md-6” spacing=“pr-0”>
+<card>
+{{ :artwork:bhagavad-gita:plate31.jpg?500&nolink |}}
+Plate 31. The universal form. [[books:bg:10:10-11|(Bg. 11.10-11)]]
+</card>
+<card>
+{{ :artwork:bhagavad-gita:plate32.jpg?500&nolink |}}
+Plate 32. At last Kṛṣṇa showed Arjuna His two-armed form. [[books:bg:11:50|(Bg. 11.50)]]
+</card>
+</container>
 
   ; [[.11:1|Bg 11.1]]
   : Arjuna said: I have heard Your instruction on confidential spiritual matters which You have so kindly delivered unto me, and my illusion is now dispelled.
@@ -58,7 +61,7 @@
   : Arjuna said: My dear Lord Kṛṣṇa, I see assembled together in Your body all the demigods and various other living entities. I see Brahmā sitting on the lotus flower as well as Lord Śiva and many sages and divine serpents.
 
   ; [[.11:16|Bg 11.16]]
-  : O Lord of the universe, I see in Your universal body many, many forms---bellies, mouths, eyes---expanded without limit. There is no end, there is no beginning, and there is no middle to all this.
+  : O Lord of the universe, I see in Your universal body many, many forms—bellies, mouths, eyes—expanded without limit. There is no end, there is no beginning, and there is no middle to all this.
 
   ; [[.11:17|Bg 11.17]]
   : Your form, adorned with various crowns, clubs and discs, is difficult to see because of its glaring effulgence, which is fiery and immeasurable like the sun.
@@ -109,7 +112,7 @@
   : Therefore get up and prepare to fight. After conquering your enemies you will enjoy a flourishing kingdom. They are already put to death by My arrangement, and you, O Savyasācin, can be but an instrument in the fight.
 
   ; [[.11:34|Bg 11.34]]
-  : The Blessed Lord said: All the great warriors---Droṇa, Bhīṣma, Jayadratha, Karṇa---are already destroyed. Simply fight, and you will vanquish your enemies.
+  : The Blessed Lord said: All the great warriors—Droṇa, Bhīṣma, Jayadratha, Karṇa—are already destroyed. Simply fight, and you will vanquish your enemies.
 
   ; [[.11:35|Bg 11.35]]
   : Sañjaya said to Dhṛtarāṣṭra: O King, after hearing these words from the Supreme Personality of Godhead, Arjuna trembled, fearfully offered obeisances with folded hands and began, falteringly, to speak as follows:
@@ -130,7 +133,7 @@
   : Obeisances from the front, from behind and from all sides! O unbounded power, You are the master of limitless, might! You are all-pervading, and thus You are everything!
 
   ; [[.11:41-42|Bg 11.41-42]]
-  : I have in the past addressed You as "O Kṛṣṇa," "O Yādava," "O my friend," without knowing Your glories. Please forgive whatever I may have done in madness or in love. I have dishonored You many times while relaxing or while lying on the same bed or eating together, sometimes alone and sometimes in front of many friends. Please excuse me for all my offenses.
+  : I have in the past addressed You as “O Kṛṣṇa,” “O Yādava,” “O my friend,” without knowing Your glories. Please forgive whatever I may have done in madness or in love. I have dishonored You many times while relaxing or while lying on the same bed or eating together, sometimes alone and sometimes in front of many friends. Please excuse me for all my offenses.
 
   ; [[.11:43|Bg 11.43]]
   : You are the father of this complete cosmic manifestation, the worshipable chief, the spiritual master. No one is equal to You, nor can anyone be one with You. Within the three worlds, You are immeasurable.

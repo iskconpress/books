@@ -5,13 +5,14 @@
 
 ====== The Three Modes Of Material Nature ======
 
-<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_14_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 14}}
-</audio>
 
-<WRAP right half last imagebox>
-[{{ :artwork:bhagavad-gita:plate34.jpg?500&direct |Plate 34. The three modes of material nature. [[Bg. 14.14|(Bg. 14.14)]]}}]
-</WRAP>
+<container float=“end” class=“col-12 col-md-6” spacing=“pr-0”>
+<card>
+{{ :artwork:bhagavad-gita:plate34.jpg?500&direct |}}
+Plate 34. The three modes of material nature. [[Bg. 14.14|(Bg. 14.14)]]
+</card>
+</container>
 
   ; [[.14:1|Bg 14.1]]
   : The Blessed Lord said: Again I shall declare to you this supreme wisdom, the best of all knowledge, knowing which all the sages have attained to supreme perfection.
@@ -26,7 +27,7 @@
   : It should be understood that all species of life, O son of Kuntī, are made possible by birth in this material nature, and that I am the seed-giving father.
 
   ; [[.14:5|Bg 14.5]]
-  : Material nature consists of the three modes---goodness, passion and ignorance. When the living entity comes in contact with nature, he becomes conditioned by these modes.
+  : Material nature consists of the three modes—goodness, passion and ignorance. When the living entity comes in contact with nature, he becomes conditioned by these modes.
 
   ; [[.14:6|Bg 14.6]]
   : O sinless one, the mode of goodness, being purer than the others, is illuminating, and it frees one from all sinful reactions. Those situated in that mode develop knowledge, but they become conditioned by the concept of happiness.
@@ -77,7 +78,7 @@
   : Arjuna inquired: O my dear Lord, by what symptoms is one known who is transcendental to those modes? What is his behavior? And how does he transcend the modes of nature?
 
   ; [[.14:22-25|Bg 14.22-25]]
-  : The Blessed Lord said: He who does not hate illumination, attachment and delusion when they are present, nor longs for them when they disappear; who is seated like one unconcerned, being situated beyond these material reactions of the modes of nature, who remains firm, knowing that the modes alone are active; who regards alike pleasure and pain, and looks on a clod, a stone and a piece of gold with an equal eye; who is wise and holds praise and blame to be the same; who is unchanged in honor and dishonor, who treats friend and foe alike, who has abandoned all fruitive undertakings---such a man is said to have transcended the modes of nature.
+  : The Blessed Lord said: He who does not hate illumination, attachment and delusion when they are present, nor longs for them when they disappear; who is seated like one unconcerned, being situated beyond these material reactions of the modes of nature, who remains firm, knowing that the modes alone are active; who regards alike pleasure and pain, and looks on a clod, a stone and a piece of gold with an equal eye; who is wise and holds praise and blame to be the same; who is unchanged in honor and dishonor, who treats friend and foe alike, who has abandoned all fruitive undertakings—such a man is said to have transcended the modes of nature.
 
   ; [[.14:26|Bg 14.26]]
   : One who engages in full devotional service, who does not fall down in any circumstance, at once transcends the modes of material nature and thus comes to the level of Brahman.
