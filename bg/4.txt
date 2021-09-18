@@ -22,7 +22,7 @@ Plate 17. “In order to deliver the pious and to annihilate the miscreants...�
 </card>
 <card>
 {{ artwork:bhagavad-gita:plate18.jpg?500&nolink |}}
-Plate 18. “As they surrender to Me, I reward them accordingly.” [[books:bg:4:11(Bg. 4.11)]]
+Plate 18. “As they surrender to Me, I reward them accordingly.” [[books:bg:4:11|(Bg. 4.11)]]
 </card>
 </container>
 
