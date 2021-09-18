@@ -14,7 +14,6 @@ Bhagavad-gita As It Is, 1972 MacMillan Edition Cover.
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/01_Setting_The_Scene_BG_Verses_Only.mp3 |Setting the Scene}}
 
-<WRAP nopurple>
 
 ===== Table of contents =====
 
@@ -44,12 +43,12 @@ Bhagavad-gita As It Is, 1972 MacMillan Edition Cover.
 
 ===== Links =====
 
-  * [[artwork:bhagavad-gita|Bhagavad-gita As It Is 1972, Colour plates]]
+  * [[artwork:bhagavad-gita|Bhagavad-gita As It Is 1972, Color plates]]
   * {{:books:bhagavad-gita_pagenumbers.pdf|PDF Digital Remaster with actual pagenumbers}}
 
 ===== From the back cover =====
 
-<blockquote 800px>"By bringing us a new and living interpretation of a text already known to many A.C.(nbsp)Bhaktivedanta Swami Prabhupāda has increased our understanding manyfold."
+<blockquote>"By bringing us a new and living interpretation of a text already known to many A.C.(nbsp)Bhaktivedanta Swami Prabhupāda has increased our understanding manyfold."
 <cite>
 Professor Edward C. Dimock, Jr.\\ Department of South Asian Languages and Civilization\\
 University of Chicago
@@ -106,5 +105,3 @@ Institute of Political Studies, Paris, France</cite></blockquote>
 
 <blockquote box>“I can say that in the Bhagavad-gītā As It Is I have found explanations and answers to questions I had always posed regarding the interpretations of this sacred work, whose spiritual discipline I greatly admire. If the aesceticism and ideal of the apostles which form the message of the Bhagavad-gītā As It Is were more widespread and more respected, the world in which we live would be transformed into a better, more fraternal place.”
 <cite>Dr. Paul Lesourd, Author, Professeur Honoraire,\\ Catholic University of Paris</cite></blockquote>
-
-</WRAP>
