@@ -7,7 +7,7 @@
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_10_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 10}}
 
-<container float=“end” class=“col-12 col-md-6” spacing=“pr-0”>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ :artwork:bhagavad-gita:plate29.jpg?500&nolink |}}
 Plate 29. Arjuna addressed Kṛṣṇa: “You are the Supreme Brahman, the ultimate, the supreme abode and purifier.” [[books:bg:10:12-13|(Bg. 10.12-13)]]

@@ -7,7 +7,7 @@
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_03_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 3}}
 
-<container float=“end” class=“col-12 col-md-6” spacing=“pr-0”>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ artwork:bhagavad-gita:plate12.jpg?500&nolink |}}
 Plate 12. “Be thou happy by this sacrifice because its performance will bestow upon you all desirable things.” [[books:bg:3:10|(Bg. 3.10)]]

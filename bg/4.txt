@@ -7,7 +7,7 @@
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_04_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 4}}
 
-<container float=“end” class=“col-12 col-md-6” spacing=“pr-0”>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ artwork:bhagavad-gita:plate15.jpg?500&nolink |}}
 Plate 15. The Blessed Lord first instructed this imperishable science of yoga to Vivasvān. [[books:bg:4:1|(Bg. 4.1)]]

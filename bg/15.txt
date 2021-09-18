@@ -7,7 +7,7 @@
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_15_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 15}}
 
-<container float=“end” class=“col-12 col-md-6” spacing=“pr-0”>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ :artwork:bhagavad-gita:plate35.jpg?500&direct |}}
 Plate 35. There is a banyan tree which has its roots upward and its branches down. [[books:bg:15:1|(Bg. 15.1)]]

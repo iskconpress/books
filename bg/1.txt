@@ -7,7 +7,7 @@
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_01_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 1}}
 
-<container float=“end” class=“col-12 col-md-6” spacing=“pr-0”>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ artwork:bhagavad-gita:plate01.jpg?500&nolink |}}
 Plate 1 — Dhṛtarāṣṭra inquires from Sañjaya about the events of the battle. [[books:bg:1:1|(Bg 1.1]])

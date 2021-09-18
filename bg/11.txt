@@ -7,7 +7,7 @@
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_11_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 11}}
 
-<container float=“end” class=“col-12 col-md-6” spacing=“pr-0”>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ :artwork:bhagavad-gita:plate31.jpg?500&nolink |}}
 Plate 31. The universal form. [[books:bg:10:10-11|(Bg. 11.10-11)]]
