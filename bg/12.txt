@@ -10,7 +10,7 @@
 <container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ :artwork:bhagavad-gita:plate33.jpg?500&nolink |}}
-Plate 33. Kṛṣṇa delivers His unalloyed devotee from the ocean of birth and death. [[books:bg:12:6-7|(Bg. 12.6-7)]]
+Plate 33 --- Kṛṣṇa delivers His unalloyed devotee from the ocean of birth and death. [[books:bg:12:6-7|(Bg. 12.6-7)]]
 </card>
 </container>
 

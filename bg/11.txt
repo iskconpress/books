@@ -10,11 +10,11 @@
 <container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ :artwork:bhagavad-gita:plate31.jpg?500&nolink |}}
-Plate 31. The universal form. [[books:bg:10:10-11|(Bg. 11.10-11)]]
+Plate 31 --- The universal form. [[books:bg:10:10|(Bg. 11.10-11)]]
 </card>
 <card>
 {{ :artwork:bhagavad-gita:plate32.jpg?500&nolink |}}
-Plate 32. At last Kṛṣṇa showed Arjuna His two-armed form. [[books:bg:11:50|(Bg. 11.50)]]
+Plate 32 --- At last Kṛṣṇa showed Arjuna His two-armed form. [[books:bg:11:50|(Bg. 11.50)]]
 </card>
 </container>
 

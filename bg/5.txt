@@ -10,11 +10,11 @@
 <container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ :artwork:bhagavad-gita:plate19.jpg?500&direct |}}
-Plate 19. He who applies himself well to one of these paths achieves the results of both. [[books:bg:5:4|(Bg. 5.4)]]
+Plate 19 --- He who applies himself well to one of these paths achieves the results of both. [[books:bg:5:4|(Bg. 5.4)]]
 </card>
 <card>
 {{ :artwork:bhagavad-gita:plate20.jpg?500&direct |}}
-Plate 20. The humble sage sees with equal vision. [[books:bg:5:18|(Bg. 5.18)]]
+Plate 20 --- The humble sage sees with equal vision. [[books:bg:5:18|(Bg. 5.18)]]
 </card>
 </container>
 

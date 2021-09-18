@@ -10,11 +10,11 @@
 <container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ :artwork:bhagavad-gita:plate38.jpg?500&direct |}}
-Plate 38. Bewildered by false ego, strength, pride, lust and anger. [[books:bg:16:18|(Bg. 16.18)]]
+Plate 38 --- Bewildered by false ego, strength, pride, lust and anger. [[books:bg:16:18|(Bg. 16.18)]]
 </card>
 <card>
 {{ :artwork:bhagavad-gita:plate39.jpg?500&direct |}}
-Plate 39. Lust, greed and anger are the three gates leading down to hell. [[books:bg:16:21|(Bg. 16.21)]]
+Plate 39 --- Lust, greed and anger are the three gates leading down to hell. [[books:bg:16:21|(Bg. 16.21)]]
 </card>
 </container>
 

@@ -10,7 +10,7 @@
 <container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ :artwork:bhagavad-gita:plate34.jpg?500&direct |}}
-Plate 34. The three modes of material nature. [[Bg. 14.14|(Bg. 14.14)]]
+Plate 34 --- The three modes of material nature. [[books:bg:14.:4|(Bg. 14.14)]]
 </card>
 </container>
 

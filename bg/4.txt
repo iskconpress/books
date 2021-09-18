@@ -10,19 +10,19 @@
 <container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ artwork:bhagavad-gita:plate15.jpg?500&nolink |}}
-Plate 15. The Blessed Lord first instructed this imperishable science of yoga to Vivasvān. [[books:bg:4:1|(Bg. 4.1)]]
+Plate 15 --- The Blessed Lord first instructed this imperishable science of yoga to Vivasvān. [[books:bg:4:1|(Bg. 4.1)]]
 </card>
 <card>
 {{ artwork:bhagavad-gita:plate16.jpg?500&nolink |}}
-Plate 16. The Lord descends whenever there is a decline in religious principles. [[books:bg:4:7|(Bg. 4.7)]]
+Plate 16 --- The Lord descends whenever there is a decline in religious principles. [[books:bg:4:7|(Bg. 4.7)]]
 </card>
 <card>
 {{ artwork:bhagavad-gita:plate17.jpg?500&nolink |}}
-Plate 17. “In order to deliver the pious and to annihilate the miscreants...” [[books:bg:4:8|(Bg. 4.8)]]
+Plate 17 --- “In order to deliver the pious and to annihilate the miscreants...” [[books:bg:4:8|(Bg. 4.8)]]
 </card>
 <card>
 {{ artwork:bhagavad-gita:plate18.jpg?500&nolink |}}
-Plate 18. “As they surrender to Me, I reward them accordingly.” [[books:bg:4:11|(Bg. 4.11)]]
+Plate 18. --- “As they surrender to Me, I reward them accordingly.” [[books:bg:4:11|(Bg. 4.11)]]
 </card>
 </container>
 

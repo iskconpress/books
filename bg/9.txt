@@ -10,7 +10,7 @@
 <container float="end" class="col-12 col-md-6" spacing="pr-0">
 <card>
 {{ :artwork:bhagavad-gita:plate28.jpg?500&nolink |}}
-Plate 28. “Fools deride Me when I descend in the human form.” [[books:bg:9:11|(Bg. 9.11)]]
+Plate 28 --- “Fools deride Me when I descend in the human form.” [[books:bg:9:11|(Bg. 9.11)]]
 </card>
 </container>
 
