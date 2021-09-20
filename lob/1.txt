@@ -1,13 +1,16 @@
 ~~Title:Light of the Bhāgavata 1~~
 ~~bc:Text 1~~
 
+{{description>The arrival of clouds, accompanied by thunder and flashes of lightning all over the sky, provides a picture of life-giving hope. Covered by deep bluish clouds, the sky appears artificially dressed. The thunder and lightning within the clouds are signs of hope for a new way of life.}}
+
+<card>
+{{ :books:light_of_the_bhagavata:lob_01.jpg?nolink |}}
+//Light of the Bhagavata, Plate 1//
+</card>
+
 ====== Light of the Bhāgavata Text 1 ======
 
-[{{ :books:light_of_the_bhagavata:lob_01.jpg?nolink |Light of the Bhagavata, Plate 1}}]
-
 **The arrival of clouds, accompanied by thunder and flashes of lightning all over the sky, provides a picture of life-giving hope. Covered by deep bluish clouds, the sky appears artificially dressed. The thunder and lightning within the clouds are signs of hope for a new way of life.**
-
-{{description>The arrival of clouds, accompanied by thunder and flashes of lightning all over the sky, provides a picture of life-giving hope. Covered by deep bluish clouds, the sky appears artificially dressed. The thunder and lightning within the clouds are signs of hope for a new way of life.}}
 
 The serene sky, limitlessly expansive, is compared to the Absolute Truth. The living entities are truths manifested in relation with the modes of material nature. The deep bluish cloud covers only an insignificant portion of the limitless sky, and this fractional covering is compared to the quality of ignorance, or forgetfulness of the real nature of the living being. A living entity is as pure as the limitless sky. He becomes covered by the cloud of forgetfulness, however, in his tendency for enjoying the material world. Because of this quality, called //tamas// (ignorance), he considers himself different from the Absolute Whole and forgets his purity, which is like that of the clear sky. This forgetfulness gives rise to separatism in false ego. Thus the forgetful living entities, individually and collectively, make sounds like thundering clouds: "I am this," "It is ours," or "It is mine." This mood of false separatism is called the quality of //rajas,// and it gives rise to a creative force for separate lordship over the mode of //tamas.// The flash of lightning is the only beam of hope that can lead one to the path of knowledge, and therefore it is compared to the mode of //sattva,// or goodness.
 

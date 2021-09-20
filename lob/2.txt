@@ -1,16 +1,18 @@
 ~~Title:Light of the Bhāgavata 2~~
 ~~bc:Text 2~~
 
-====== Light of the Bhāgavata, Text 2 ======
+{{description>The scorching heat of the sun evaporates water from the seas, rivers, lakes, and reservoirs, and there is little water anywhere. The people become thirsty and always look overhead for rain, but in despair. Yet just at the right moment, torrents of rain begin to fall everywhere in the land, even on the hard stones, and the land becomes overflooded.}}
 
-[{{ :books:light_of_the_bhagavata:lob_02.jpg?nolink |Light of the Bhagavata, Plate 2}}]
+<card>
+{{ :books:light_of_the_bhagavata:lob_01.jpg?nolink |}}
+//Light of the Bhagavata, Plate 2//
+</card>
 
+====== Light of the Bhāgavata Text 2 ======
 
 **The scorching heat of the sun evaporates water from the seas, rivers, lakes, and reservoirs, and there is little water anywhere. The people become thirsty and always look overhead for rain, but in despair. Yet just at the right moment, torrents of rain begin to fall everywhere in the land, even on the hard stones, and the land becomes overflooded.**
 
-{{description>The scorching heat of the sun evaporates water from the seas, rivers, lakes, and reservoirs, and there is little water anywhere. The people become thirsty and always look overhead for rain, but in despair. Yet just at the right moment, torrents of rain begin to fall everywhere in the land, even on the hard stones, and the land becomes overflooded.}}
-
-The welfare state imposes upon its citizens scorching taxes in various forms---income tax, sales tax, land tax, terminal tax, excise tax, customs tax, and so many other taxes. But in due course, when the taxes accumulate into a large sum of money, they are utilized for the welfare of the citizens in various ways. Nonetheless, sometimes it happens that the benefits of the taxes fall like rains on stone-hearted men in the state who are unable to utilize the money properly and who squander it for sense gratification.
+The welfare state imposes upon its citizens scorching taxes in various forms---income tax, sales tax, land tax, terminal tax, excise tax, customs tax, and so many other taxes2.. But in due course, when the taxes accumulate into a large sum of money, they are utilized for the welfare of the citizens in various ways. Nonetheless, sometimes it happens that the benefits of the taxes fall like rains on stone-hearted men in the state who are unable to utilize the money properly and who squander it for sense gratification.
 
 The common man supposes the unequal distribution of rain to represent nature's wrath for our sinful acts. There is truth in this. Thus to have an equal distribution of state-raised taxes, the citizens need to be scrupulously honest and virtuous. They should be honest in the payment of taxes to the state and should have honest representatives to look over the administration. In the modern setup of democratic states the citizens can have no cause for grievances, because the whole administration is conducted by the people themselves. If the people themselves are dishonest, the administrative machinery must be corrupt. Although a damned government of the people may be given a good or fancy name, if the people are not good they cannot have good government, regardless of which party governs the administration. Therefore good character in the consciousness of the mass of people is the first principle necessary for a good government and equal distribution of wealth.
 
