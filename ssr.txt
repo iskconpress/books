@@ -2,8 +2,6 @@
 
 ====== The Science of Self Realization ======
 
-<WRAP nopurple>
-
   * [[.ssr:0a|Dedication]]
   * [[.ssr:0b|Foreword]]
   * [[.ssr:0c|Introduction]]
@@ -158,5 +156,3 @@ Boston University, Boston, Massachusetts</cite>
 <cite>Dr. J. Bruce Long\\
 Department of Asian Studies, Cornell University</cite>
 </blockquote>
-
-</WRAP>

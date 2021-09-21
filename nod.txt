@@ -4,8 +4,6 @@
 
 ====== The Nectar of Devotion ======
 
-<WRAP nopurple>
-
   * [[.nod:0a|Preface]]
   * [[.nod:0b|Introduction]]
   - [[.nod:1|Characteristics of Pure Devotional Service]]
@@ -76,5 +74,3 @@ This book is especially intended to help establish eternal religious principles 
 
 The subject matter is love of God. The basic principle of life is that we all have a general propensity to love someone. At the present moment, human society teaches one to love his country or family or his personal self, but there is no information where to repose the loving propensity so that everyone can become happy. That missing point is God, or Kṛṣṇa. //The Nectar of Devotion// teaches us how to stimulate our original love for Kṛṣṇa and how to be situated in that position where we can enjoy our blissful life. The presentation of this authoritative information about the Supreme Personality of Godhead, Kṛṣṇa, and our relationship with Him is simply the mercy of His pure devotee, His Divine Grace A.C. Bhaktivedanta Swami Prabhupāda,
 the spiritual master in disciplic succession from Lord Caitanya who is distributing the science of Kṛṣṇa throughout the world.
-
-</WRAP>

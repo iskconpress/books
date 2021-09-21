@@ -1,17 +1,7 @@
-{{description>Śrīmad-Bhāgavatam, an epic philosophical and literary classic, holds a prominent position in India's voluminous written wisdom. The timeless wisdom of India is expressed in the Vedas, ancient Sanskrit texts that touch upon all fields of human knowledge. Originally preserved through oral tradition, the Vedas were first put into writing by Śrīla Vyāsadeva, the "literary incarnation of God." After compiling the Vedas, Śrīla Vyāsadeva was inspired by his spiritual master to present their profound essence in the form of Śrīmad-Bhāgavatam. Known as "the ripened fruit of the tree of Vedic literature," Śrīmad-Bhāgavatam is the most complete and authoritative exposition of Vedic knowledge.}}
-
-<WRAP nopurple>
-
-<WRAP half right rightalign>
-[{{ artwork:bbt.se:12_cantos_large.jpg?500&nolink}}]
-</WRAP>
-
-====== Śrīmad-Bhāgavatam ======
-
   * [[books:sb:0a|Preface]]
   * [[books:sb:0b|Introduction]]
 
-===== Table of Cantos =====
+===== Cantos =====
 
   - [[books:sb:1|Creation]]
   - [[books:sb:2|The Cosmic Manifestation]]
@@ -24,74 +14,20 @@
   - [[books:sb:9|Liberation]]
   - [[books:sb:10|The Summum Bonum]]
 
-
-===== From the back cover =====
-
-//Śrīmad-Bhāgavatam,// an epic philosophical and literary classic, holds a prominent position in India's voluminous written wisdom. The timeless wisdom of India is is expressed in the //Vedas,// ancient Sanskrit texts that touch upon all fields of human knowledge. Originally preserved through oral tradition, the //Vedas// were first put into writing by Śrīla Vyāsadeva, the "literary incarnation of God." After compiling the //Vedas,// Śrīla Vyāsadeva was inspired by his spiritual master to present their profound essence in the form of //Śrīmad-Bhāgavatam.// Known as "the ripened fruit of the tree of Vedic literature," //Śrīmad-Bhāgavatam// is the most complete and authoritative exposition of Vedic knowledge.
-
-===== Scholars Praise this Edition of Śrīmad-Bhāgavatam: =====
-
+===== Scholars Praise this Edition of Śrīmad-Bhāgavatam =====
+<masonry>
 <blockquote>
 "This is a work to be treasured. No one of whatever faith or philosophical persuasion who reads these books with an open mind can fail to be both moved and impressed..."
-<cite>
-Dr. Garry Gelade\\
-Professor of Psychology\\
-Oxford University
-</cite></blockquote>
+<cite>Dr. Garry Gelade\\ Professor of Psychology\\ Oxford University</cite></blockquote>
 
 <blockquote>
 "It has been my great pleasure recently to have read the Srimad-Bhagavatam in the superb edition authorized by A.C. Bhaktivedanta Swami Prabhupada. ... I am sure this monumental work will go far to bring the sublime message of the Bhagavatam to numerous Westerners who otherwise would miss this opportunity."
-<cite>
-Dr. Alex Wayman\\
-Professor of Sanskrit, Columbia University
-</cite></blockquote>
+<cite>Dr. Alex Wayman\\ Professor of Sanskrit, Columbia University</cite></blockquote>
 
 <blockquote>
 "The Srimad-Bhagavatam is extremely useful for all those interested in ancient India, whether their interest be that of the philosopher, the student of religion, the historian, the linguist, the sociologist or the political scientist. ... I truly hope that Srila Prabhupada will complete his translation of the entire Bhagavata and continue to translate other eminent Sanskrit works as well. Undoubtedly, this work of Swamiji's is a great contribution to the troubled human society of today's world."
-<cite>
-Dr. Sooda L. Bhatt\\
-Professor of Indian Languages, Boston University
-</cite></blockquote>
+<cite>Dr. Sooda L. Bhatt\\ Professor of Indian Languages, Boston University</cite></blockquote>
 
 <blockquote>
 "The Bhaktivedanta Book Trust editions of famous religious classics of India, with new translations and commentaries, are an important addition to our expanding knowledge of spiritual India. The new edition of the Srimad-Bhagavatam is particularly welcome."
-<cite>
-Dr. John L. Mish\\
-Chief, Oriental Division, New York Public Library
-</cite></blockquote>
-
-<blockquote>
-" ... A commentary on the Vedanta-sutra by Srila Vyasadeva divided into twelve 'cantos' of which four are presented here in eight beautifully produced volumes. These lavish volumes, obviously the product of devotional effort, contain many lovely full-color illustrations..."
-<cite>
-Choice magazine, June, 1975
-</cite></blockquote>
-
-<blockquote>
-"In the diversity of religious approaches offered by the yogis of India, the most significant, of course, is the way of Krsna consciousness. It is amazing to see how Sri Bhaktivedanta Swami has in less than ten years succeeded, by his personal devotion, untiring energy and efficient direction, in organizing the International Society for Krishna Consciousness. Now, he has undertaken the stupendous project of rendering the entire Bhagavata, the great devotional classic of India, into English. His edition is learning blended with devotional feeling and inspired by a definite purpose of communicating the intense Iyrical and devotional quality of the Bhagavata. Srila Prabhupada has done an excellent service by his able rendition of 'the abode of divine joy' that the Bhagavata is."
-<cite>
-Dr. Mahesh Mehta, Professor of Asian Studies\\
-University of Windsor, Ontario, Canada
-</cite></blockquote>
-
-<blockquote>
-"It is axiomatic that no book can be expected entirely to satisfy all its potential readers. Here is one, however, which can be said to come remarkably close to that ideal. ...we have here the ideal of what an edition of a Sanskrit text for a Western audience should be."
-<cite>
-Dr. R. E. Asher\\
-Professor of Linguistics, University of Edinburgh
-</cite></blockquote>
-
-<blockquote>
-" ... For those who have no access to the Sanskrit language, these books convey, in superb manner, the message of the Bhagavatam. In addition to being a scholarly work, it directly reflects the spiritual aspirations of a religious community which has gained considerable popularity in modern America."
-<cite>
-Dr. Alaka Hejib\\
-Department of Sanskrit and Indian Studies, Harvard University
-</cite></blockquote>
-
-<blockquote>
-"Srimad-Bhagavatam is a valuable source material and cannot but be attractive to serious students and scholars of religion and philosophy. I recommend this series, to anyone, as an important and useful reference work."
-<cite>
-Dr. C. P. Agrawal, Chairwoman\\
-Department of Humanities, University of Michigan
-</cite></blockquote>
-
-</WRAP>
+<cite>Dr. John L. Mish\\ Chief, Oriental Division, New York Public Library</cite></blockquote>
