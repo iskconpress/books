@@ -3,9 +3,7 @@
 
 ====== Compassion and Anger ======
 
-<audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_47_NOD.mp3}}
-</audio>
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_47_NOD.mp3}}
 
 ===== Compassion =====
 

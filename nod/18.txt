@@ -3,9 +3,7 @@
 
 ====== Character of One in Ecstatic Love ======
 
-<audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_18_NOD.mp3}}
-</audio>
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_18_NOD.mp3}}
 
 Rūpa Gosvāmī next describes the characteristics of a person who has actually developed his ecstatic love for Kṛṣṇa. The characteristics are as follows:
 

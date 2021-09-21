@@ -3,9 +3,7 @@
 
 ====== Further Consideration of Devotional Principles ======
 
-<audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_09_NOD.mp3}}
-</audio>
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_09_NOD.mp3}}
 
 ===== Blasphemy =====
 
