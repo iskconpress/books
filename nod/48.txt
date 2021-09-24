@@ -3,9 +3,7 @@
 
 ====== Dread and Ghastliness ======
 
-<audio>
-{{https://prabhupada.nyc3.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_48_NOD.mp3}}
-</audio>
+{{https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Nectar-of-Devotion/Ch_48_NOD.mp3}}
 
 ===== Dread =====
 

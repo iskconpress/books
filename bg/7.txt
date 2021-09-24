@@ -5,15 +5,18 @@
 
 ====== Knowledge of the Absolute ======
 
-<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_07_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 7}}
-</audio>
 
-<WRAP right half last imagebox>
-[{{ :artwork:bhagavad-gita:plate25.jpg?500&nolink |Plate 25. Kṛṣṇa’s material and spiritual energies. [[books:bg:7:4|(Bg. 7.4)]]}}]
-
-[{{ :artwork:bhagavad-gita:plate26.jpg?500&nolink |Plate 26. Four kinds of pious men surrender to Kṛṣṇa, and four kinds of impious men do not. [[books:bg:7:15|(Bg. 7.15)]]}}]
-</WRAP>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
+<card>
+{{ :artwork:bhagavad-gita:plate25.jpg?500&nolink |}}
+Plate 25 --- Kṛṣṇa’s material and spiritual energies. [[books:bg:7:4|(Bg. 7.4)]]
+</card>
+<card>
+{{ :artwork:bhagavad-gita:plate26.jpg?500&nolink |}}
+Plate 26 --- Four kinds of pious men surrender to Kṛṣṇa, and four kinds of impious men do not. [[books:bg:7:15|(Bg. 7.15)]]
+</card>
+</container>
 
   ; [[.7:1|Bg 7.1]]
   : Now hear, O son of Pṛthā [Arjuna], how by practicing yoga in full consciousness of Me, with mind attached to Me, you can know Me in full, free from doubt.
@@ -25,7 +28,7 @@
   : Out of many thousands among men, one may endeavor for perfection, and of those who have achieved perfection, hardly one knows Me in truth.
 
   ; [[.7:4|Bg 7.4]]
-  : Earth, water, fire, air, ether, mind, intelligence and false ego---altogether these eight comprise My separated material energies.
+  : Earth, water, fire, air, ether, mind, intelligence and false ego—altogether these eight comprise My separated material energies.
 
   ; [[.7:5|Bg 7.5]]
   : Besides this inferior nature, O mighty-armed Arjuna, there is a superior energy of Mine, which are all living entities who are struggling with material nature and are sustaining the universe.
@@ -49,7 +52,7 @@
   : I am the strength of the strong, devoid of passion and desire. I am sex life which is not contrary to religious principles, O Lord of the Bhāratas [Arjuna].
 
   ; [[.7:12|Bg 7.12]]
-  : All states of being---be they of goodness, passion or ignorance---are manifested by My energy. I am, in one sense, everything---but I am independent. I am not under the modes of this material nature.
+  : All states of being—be they of goodness, passion or ignorance—are manifested by My energy. I am, in one sense, everything—but I am independent. I am not under the modes of this material nature.
 
   ; [[.7:13|Bg 7.13]]
   : Deluded by the three modes [goodness, passion and ignorance], the whole world does not know Me who am above the modes and inexhaustible.
@@ -61,7 +64,7 @@
   : Those miscreants who are grossly foolish, lowest among mankind, whose knowledge is stolen by illusion, and who partake of the atheistic nature of demons, do not surrender unto Me.
 
   ; [[.7:16|Bg 7.16]]
-  : O best among the Bhāratas [Arjuna], four kinds of pious men render devotional service unto Me---the distressed, the desirer of wealth, the inquisitive, and he who is searching for knowledge of the Absolute.
+  : O best among the Bhāratas [Arjuna], four kinds of pious men render devotional service unto Me—the distressed, the desirer of wealth, the inquisitive, and he who is searching for knowledge of the Absolute.
 
   ; [[.7:17|Bg 7.17]]
   : Of these, the wise one who is in full knowledge in union with Me through pure devotional service is the best. For I am very dear to him, and he is dear to Me.
@@ -76,7 +79,7 @@
   : Those whose minds are distorted by material desires surrender unto demigods and follow the particular rules and regulations of worship according to their own natures.
 
   ; [[.7:21|Bg 7.21]]
-  : I am in everyone's heart as the Supersoul. As soon as one desires to worship the demigods, I make his faith steady so that he can devote himself to some particular deity.
+  : I am in everyone’s heart as the Supersoul. As soon as one desires to worship the demigods, I make his faith steady so that he can devote himself to some particular deity.
 
   ; [[.7:22|Bg 7.22]]
   : Endowed with such a faith, he seeks favors of a particular demigod and obtains his desires. But in actuality these benefits are bestowed by Me alone.

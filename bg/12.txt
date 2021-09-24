@@ -5,13 +5,14 @@
 
 ====== Devotional Service ======
 
-<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_12_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 12}}
-</audio>
 
-<WRAP right half last imagebox>
-[{{ :artwork:bhagavad-gita:plate33.jpg?500&nolink |Plate 33. Kṛṣṇa delivers His unalloyed devotee from the ocean of birth and death. [[books:bg:12:6-7|(Bg. 12.6-7)]]}}]
-</WRAP>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
+<card>
+{{ :artwork:bhagavad-gita:plate33.jpg?500&nolink |}}
+Plate 33 --- Kṛṣṇa delivers His unalloyed devotee from the ocean of birth and death. [[books:bg:12:6-7|(Bg. 12.6-7)]]
+</card>
+</container>
 
   ; [[.12:1|Bg 12.1]]
   : Arjuna inquired: Which is considered to be more perfect: those who are properly engaged in Your devotional service, or those who worship the impersonal Brahman, the unmanifested?
@@ -20,7 +21,7 @@
   : The Blessed Lord said: He whose mind is fixed on My personal form, always engaged in worshiping Me with great and transcendental faith, is considered by Me to be most perfect.
 
   ; [[.12:3-4|Bg 12.3-4]]
-  : But those who fully worship the unmanifested, that which lies beyond the perception of the senses, the all-pervading, inconceivable, fixed, and immovable---the impersonal conception of the Absolute Truth---by controlling the various senses and being equally disposed to everyone, such persons, engaged in the welfare of all, at last achieve Me.
+  : But those who fully worship the unmanifested, that which lies beyond the perception of the senses, the all-pervading, inconceivable, fixed, and immovable—the impersonal conception of the Absolute Truth—by controlling the various senses and being equally disposed to everyone, such persons, engaged in the welfare of all, at last achieve Me.
 
   ; [[.12:5|Bg 12.5]]
   : For those whose minds are attached to the unmanifested, impersonal feature of the Supreme, advancement is very troublesome. To make progress in that discipline is always difficult for those who are embodied.
@@ -44,7 +45,7 @@
   : If you cannot take to this practice, then engage yourself in the cultivation of knowledge. Better than knowledge, however, is meditation, and better than meditation is renunciation of the fruits of action, for by such renunciation one can attain peace of mind.
 
   ; [[.12:13-14|Bg 12.13-14]]
-  : One who is not envious but who is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego and equal both in happiness and distress, who is always satisfied and engaged in devotional service with determination and whose mind and intelligence are in agreement with Me---he is very dear to Me.
+  : One who is not envious but who is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego and equal both in happiness and distress, who is always satisfied and engaged in devotional service with determination and whose mind and intelligence are in agreement with Me—he is very dear to Me.
 
   ; [[.12:15|Bg 12.15]]
   : He for whom no one is put into difficulty and who is not disturbed by anxiety, who is steady in happiness and distress, is very dear to Me.
@@ -56,7 +57,7 @@
   : One who neither grasps pleasure or grief, who neither laments nor desires, and who renounces both auspicious and inauspicious things, is very dear to Me.
 
   ; [[.12:18-19|Bg 12.18-19]]
-  : One who is equal to friends and enemies, who is equipoised in honor and dishonor, heat and cold, happiness and distress, fame and infamy, who is always free from contamination, always silent and satisfied with anything, who doesn't care for any residence, who is fixed in knowledge and engaged in devotional service, is very dear to Me.
+  : One who is equal to friends and enemies, who is equipoised in honor and dishonor, heat and cold, happiness and distress, fame and infamy, who is always free from contamination, always silent and satisfied with anything, who doesn’t care for any residence, who is fixed in knowledge and engaged in devotional service, is very dear to Me.
 
   ; [[.12:20|Bg 12.20]]
   : He who follows this imperishable path of devotional service and who completely engages himself with faith, making Me the supreme goal, is very, very dear to Me.

@@ -5,19 +5,26 @@
 
 ====== Transcendental Knowledge ======
 
-<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_04_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 4}}
-</audio>
 
-<WRAP right half last imagebox>
-[{{ artwork:bhagavad-gita:plate15.jpg?500&nolink |Plate 15. The Blessed Lord first instructed this imperishable science of yoga to Vivasvān. [[books:bg:4:1|(Bg. 4.1)]]}}]
-
-[{{ artwork:bhagavad-gita:plate16.jpg?500&nolink |Plate 16. The Lord descends whenever there is a decline in religious principles. [[books:bg:4:7|(Bg. 4.7)]]}}]
-
-[{{ artwork:bhagavad-gita:plate17.jpg?500&nolink |Plate 17. “In order to deliver the pious and to annihilate the miscreants...” [[books:bg:4:8|(Bg. 4.8)]]}}]
-
-[{{ artwork:bhagavad-gita:plate18.jpg?500&nolink |Plate 18. “As they surrender to Me, I reward them accordingly.” [[books:bg:4:11(Bg. 4.11)]]}}]
-</WRAP>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
+<card>
+{{ artwork:bhagavad-gita:plate15.jpg?500&nolink |}}
+Plate 15 --- The Blessed Lord first instructed this imperishable science of yoga to Vivasvān. [[books:bg:4:1|(Bg. 4.1)]]
+</card>
+<card>
+{{ artwork:bhagavad-gita:plate16.jpg?500&nolink |}}
+Plate 16 --- The Lord descends whenever there is a decline in religious principles. [[books:bg:4:7|(Bg. 4.7)]]
+</card>
+<card>
+{{ artwork:bhagavad-gita:plate17.jpg?500&nolink |}}
+Plate 17 --- “In order to deliver the pious and to annihilate the miscreants...” [[books:bg:4:8|(Bg. 4.8)]]
+</card>
+<card>
+{{ artwork:bhagavad-gita:plate18.jpg?500&nolink |}}
+Plate 18. --- “As they surrender to Me, I reward them accordingly.” [[books:bg:4:11|(Bg. 4.11)]]
+</card>
+</container>
 
   ; [[.4:1|Bg 4.1]]
   : The Blessed Lord said: I instructed this imperishable science of yoga to the sun-god, Vivasvān, and Vivasvān instructed it to Manu, the father of mankind, and Manu in turn instructed it to Ikṣvāku.
@@ -38,7 +45,7 @@
   : Although I am unborn and My transcendental body never deteriorates, and although I am the Lord of all sentient beings, I still appear in every millennium in My original transcendental form.
 
   ; [[.4:7|Bg 4.7]]
-  : Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion---at that time I descend Myself.
+  : Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion—at that time I descend Myself.
 
   ; [[.4:8|Bg 4.8]]
   : In order to deliver the pious and to annihilate the miscreants, as well as to reestablish the principles of religion, I advent Myself millennium after millennium.
@@ -47,10 +54,10 @@
   : One who knows the transcendental nature of My appearance and activities does not, upon leaving the body, take his birth again in this material world, but attains My eternal abode, O Arjuna.
 
   ; [[.4:10|Bg 4.10]]
-  : Being freed from attachment, fear and anger, being fully absorbed in Me and taking refuge in Me, many, many persons in the past became purified by knowledge of Me---and thus they all attained transcendental love for Me.
+  : Being freed from attachment, fear and anger, being fully absorbed in Me and taking refuge in Me, many, many persons in the past became purified by knowledge of Me—and thus they all attained transcendental love for Me.
 
   ; [[.4:11|Bg 4.11]]
-  : All of them---as they surrender unto Me---I reward accordingly. Everyone follows My path in all respects, O son of Pṛthā.
+  : All of them—as they surrender unto Me—I reward accordingly. Everyone follows My path in all respects, O son of Pṛthā.
 
   ; [[.4:12|Bg 4.12]]
   : Men in this world desire success in fruitive activities, and therefore they worship the demigods. Quickly, of course, men get results from fruitive work in this world.
@@ -122,7 +129,7 @@
   : Just try to learn the truth by approaching a spiritual master. Inquire from him submissively and render service unto him. The self-realized soul can impart knowledge unto you because he has seen the truth.
 
   ; [[.4:35|Bg 4.35]]
-  : And when you have thus learned the truth, you will know that all living beings are but part of Me---and that they are in Me, and are Mine.
+  : And when you have thus learned the truth, you will know that all living beings are but part of Me—and that they are in Me, and are Mine.
 
   ; [[.4:36|Bg 4.36]]
   : Even if you are considered to be the most sinful of all sinners, when you are situated in the boat of transcendental knowledge, you will be able to cross over the ocean of miseries.

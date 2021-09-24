@@ -5,19 +5,26 @@
 
 ====== Sāṅkhya-yoga ======
 
-<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_06_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 6}}
-</audio>
 
-<WRAP right half last imagebox>
-[{{ :artwork:bhagavad-gita:plate21.jpg?500&nolink |Plate 21. “One should meditate on Me within the heart and make Me the ultimate goal of life.” [[books:bg:6:13-14|(Bg. 6.13-14)]]}}]
-
-[{{ :artwork:bhagavad-gita:plate22.jpg?500&nolink |Plate 22. One should engage oneself in the practice of yoga with undeviating determination and faith. [[books:bg:6:24#id4|(Bg. 6.24)]]}}]
-
-[{{ :artwork:bhagavad-gita:plate23.jpg?500&nolink |Plate 23. “The mind is restless, turbulent, obstinate and very strong, O Kṛṣṇa.” [[books:bg:6:34|(Bg. 6.34)]]}}]
-
-[{{ :artwork:bhagavad-gita:plate24.jpg?500&nolink |Plate 24. “Of all yogīs, he who abides in Me with great faith is the highest of all.” [[books:bg:6:47|(Bg. 6.47)]]}}]
-</WRAP>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
+<card>
+{{ :artwork:bhagavad-gita:plate21.jpg?500&nolink |}}
+Plate 21 --- “One should meditate on Me within the heart and make Me the ultimate goal of life.” [[books:bg:6:13-14|(Bg. 6.13-14)]]
+</card>
+<card>
+{{ :artwork:bhagavad-gita:plate22.jpg?500&nolink |}}
+Plate 22 --- One should engage oneself in the practice of yoga with undeviating determination and faith. [[books:bg:6:24#id4|(Bg. 6.24)]]
+</card>
+<card>
+{{ :artwork:bhagavad-gita:plate23.jpg?500&nolink |}}
+Plate 23 --- “The mind is restless, turbulent, obstinate and very strong, O Kṛṣṇa.” [[books:bg:6:34|(Bg. 6.34)]]
+</card>
+<card>
+{{ :artwork:bhagavad-gita:plate24.jpg?500&nolink |}}
+Plate 24 --- “Of all yogīs, he who abides in Me with great faith is the highest of all.” [[books:bg:6:47|(Bg. 6.47)]]
+</card>
+</container>
 
   ; [[.6:1|Bg 6.1]]
   : The Blessed Lord said: One who is unattached to the fruits of his work and who works as he is obligated is in the renounced order of life, and he is the true mystic: not he who lights no fire and performs no work.
@@ -41,10 +48,10 @@
   : For one who has conquered the mind, the Supersoul is already reached, for he has attained tranquility. To such a man happiness and distress, heat and cold, honor and dishonor are all the same.
 
   ; [[.6:8|Bg 6.8]]
-  : A person is said to be established in self-realization and is called a yogī [or mystic] when he is fully satisfied by virtue of acquired knowledge and realization. Such a person is situated in transcendence and is self-controlled. He sees everything---whether it be pebbles, stones or gold---as the same.
+  : A person is said to be established in self-realization and is called a yogī [or mystic] when he is fully satisfied by virtue of acquired knowledge and realization. Such a person is situated in transcendence and is self-controlled. He sees everything—whether it be pebbles, stones or gold—as the same.
 
   ; [[.6:9|Bg 6.9]]
-  : A person is said to be still further advanced when he regards all---the honest well-wisher, friends and enemies, the envious, the pious, the sinner and those who are indifferent and impartial---with an equal mind.
+  : A person is said to be still further advanced when he regards all—the honest well-wisher, friends and enemies, the envious, the pious, the sinner and those who are indifferent and impartial—with an equal mind.
 
   ; [[.6:10|Bg 6.10]]
   : A transcendentalist should always try to concentrate his mind on the Supreme Self; he should live alone in a secluded place and should always carefully control his mind. He should be free from desires and feelings of possessiveness.
@@ -53,25 +60,25 @@
   : To practice yoga, one should go to a secluded place and should lay kuśa-grass on the ground and then cover it with a deerskin and a soft cloth. The seat should neither be too high nor too low and should be situated in a sacred place. The yogī should then sit on it very firmly and should practice yoga by controlling the mind and the senses, purifying the heart and fixing the mind on one point.
 
   ; [[.6:13-14|Bg 6.13-14]]
-  : One should hold one's body, neck and head erect in a straight line and stare steadily at the tip of the nose. Thus with an unagitated, subdued mind, devoid of fear, completely free from sex life, one should meditate upon Me within the heart and make Me the ultimate goal of life.
+  : One should hold one’s body, neck and head erect in a straight line and stare steadily at the tip of the nose. Thus with an unagitated, subdued mind, devoid of fear, completely free from sex life, one should meditate upon Me within the heart and make Me the ultimate goal of life.
 
   ; [[.6:15|Bg 6.15]]
   : Thus practicing control of the body, mind and activities, the mystic transcendentalist attains to the kingdom of God [or the abode of Kṛṣṇa] by cessation of material existence.
 
   ; [[.6:16|Bg 6.16]]
-  : There is no possibility of one's becoming a yogī, O Arjuna, if one eats too much, or eats too little, sleeps too much or does not sleep enough.
+  : There is no possibility of one’s becoming a yogī, O Arjuna, if one eats too much, or eats too little, sleeps too much or does not sleep enough.
 
   ; [[.6:17|Bg 6.17]]
   : He who is temperate in his habits of eating, sleeping, working and recreation can mitigate all material pains by practicing the yoga system.
 
   ; [[.6:18|Bg 6.18]]
-  : When the yogī, by practice of yoga, disciplines his mental activities and becomes situated in Transcendence---devoid of all material desires---he is said to have attained yoga.
+  : When the yogī, by practice of yoga, disciplines his mental activities and becomes situated in Transcendence—devoid of all material desires—he is said to have attained yoga.
 
   ; [[.6:19|Bg 6.19]]
   : As a lamp in a windless place does not waver, so the transcendentalist, whose mind is controlled, remains always steady in his meditation on the transcendent Self.
 
   ; [[.6:20-23|Bg 6.20-23]]
-  : The stage of perfection is called trance, or samādhi, when one's mind is completely restrained from material mental activities by practice of yoga. This is characterized by one's ability to see the self by the pure mind and to relish and rejoice in the self. In that joyous state, one is situated in boundless transcendental happiness and enjoys himself through transcendental senses. Established thus, one never departs from the truth, and upon gaining this he thinks there is no greater gain. Being situated in such a position, one is never shaken, even in the midst of greatest difficulty. This indeed is actual freedom from all miseries arising from material contact.
+  : The stage of perfection is called trance, or samādhi, when one’s mind is completely restrained from material mental activities by practice of yoga. This is characterized by one’s ability to see the self by the pure mind and to relish and rejoice in the self. In that joyous state, one is situated in boundless transcendental happiness and enjoys himself through transcendental senses. Established thus, one never departs from the truth, and upon gaining this he thinks there is no greater gain. Being situated in such a position, one is never shaken, even in the midst of greatest difficulty. This indeed is actual freedom from all miseries arising from material contact.
 
   ; [[.6:24|Bg 6.24]]
   : One should engage oneself in the practice of yoga with undeviating determination and faith. One should abandon, without exception, all material desires born of false ego and thus control all the senses on all sides by the mind.
@@ -134,7 +141,7 @@
   : On taking such a birth, he again revives the divine consciousness of his previous life, and he tries to make further progress in order to achieve complete success, O son of Kuru.
 
   ; [[.6:44|Bg 6.44]]
-  : By virtue of the divine consciousness of his previous life, he automatically becomes attracted to the yogic principles---even without seeking them. Such an inquisitive transcendentalist, striving for yoga, stands always above the ritualistic principles of the scriptures.
+  : By virtue of the divine consciousness of his previous life, he automatically becomes attracted to the yogic principles—even without seeking them. Such an inquisitive transcendentalist, striving for yoga, stands always above the ritualistic principles of the scriptures.
 
   ; [[.6:45|Bg 6.45]]
   : But when the yogī engages himself with sincere endeavor in making further progress, being washed of all contaminations, then ultimately, after many, many births of practice, he attains the supreme goal.

@@ -5,15 +5,18 @@
 
 ====== Karma-yoga — Action in Kṛṣṇa Consciousness ======
 
-<audio>
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_05_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 5}}
-</audio>
 
-<WRAP right half last imagebox>
-[{{ :artwork:bhagavad-gita:plate19.jpg?500&direct |Plate 19. He who applies himself well to one of these paths achieves the results of both. [[books:bg:5:4|(Bg. 5.4)]]}}]
-
-[{{ :artwork:bhagavad-gita:plate20.jpg?500&direct |Plate 20. The humble sage sees with equal vision. [[books:bg:5:18|(Bg. 5.18)]]}}]
-</WRAP>
+<container float="end" class="col-12 col-md-6" spacing="pr-0">
+<card>
+{{ :artwork:bhagavad-gita:plate19.jpg?500&direct |}}
+Plate 19 --- He who applies himself well to one of these paths achieves the results of both. [[books:bg:5:4|(Bg. 5.4)]]
+</card>
+<card>
+{{ :artwork:bhagavad-gita:plate20.jpg?500&direct |}}
+Plate 20 --- The humble sage sees with equal vision. [[books:bg:5:18|(Bg. 5.18)]]
+</card>
+</container>
 
   ; [[.5:1|Bg 5.1]]
   : Arjuna said: O Kṛṣṇa, first of all You ask me to renounce work, and then again You recommend work with devotion. Now will You kindly tell me definitely which of the two is more beneficial?
@@ -55,13 +58,13 @@
   : The embodied spirit, master of the city of his body, does not create activities, nor does he induce people to act, nor does he create the fruits of action. All this is enacted by the modes of material nature.
 
   ; [[.5:15|Bg 5.15]]
-  : Nor does the Supreme Spirit assume anyone's sinful or pious activities. Embodied beings, however, are bewildered because of the ignorance which covers their real knowledge.
+  : Nor does the Supreme Spirit assume anyone’s sinful or pious activities. Embodied beings, however, are bewildered because of the ignorance which covers their real knowledge.
 
   ; [[.5:16|Bg 5.16]]
   : When, however, one is enlightened with the knowledge by which nescience is destroyed, then his knowledge reveals everything, as the sun lights up everything in the daytime.
 
   ; [[.5:17|Bg 5.17]]
-  : When one's intelligence, mind, faith and refuge are all fixed in the Supreme, then one becomes fully cleansed of misgivings through complete knowledge and thus proceeds straight on the path of liberation.
+  : When one’s intelligence, mind, faith and refuge are all fixed in the Supreme, then one becomes fully cleansed of misgivings through complete knowledge and thus proceeds straight on the path of liberation.
 
   ; [[.5:18|Bg 5.18]]
   : The humble sage, by virtue of true knowledge, sees with equal vision a learned and gentle brāhmaṇa, a cow, an elephant, a dog and a dog-eater [outcaste] .
@@ -91,7 +94,7 @@
   : Those who are free from anger and all material desires, who are self-realized, self-disciplined and constantly endeavoring for perfection, are assured of liberation in the Supreme in the very near future.
 
   ; [[.5:27-28|Bg 5.27-28]]
-  : Shutting out all external sense objects, keeping the eyes and vision concentrated between the two eyebrows, suspending the inward and outward breaths within the nostrils---thus controlling the mind, senses and intelligence, the transcendentalist becomes free from desire, fear and anger. One who is always in this state is certainly liberated.
+  : Shutting out all external sense objects, keeping the eyes and vision concentrated between the two eyebrows, suspending the inward and outward breaths within the nostrils—thus controlling the mind, senses and intelligence, the transcendentalist becomes free from desire, fear and anger. One who is always in this state is certainly liberated.
 
   ; [[.5:29|Bg 5.29]]
   : The sages, knowing Me as the ultimate purpose of all sacrifices and austerities, the Supreme Lord of all planets and demigods and the benefactor and well-wisher of all living entities, attain peace from the pangs of material miseries.

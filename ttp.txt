@@ -1,7 +1,5 @@
 ====== Transcendental Teachings of Prahlāda Mahārāja ======
 
-<WRAP nopurple>
-
 What follows is based on a series of talks \\
 Śrīla Prabhupāda gave in 1968 on the \\
 [[books:sb:7:6|Śrīmad-Bhāgavatam, Canto 7, Chapter 6]].
@@ -12,5 +10,4 @@ What follows is based on a series of talks \\
   - [[books:ttp:4|"I Love Kṛṣṇa More Than Anything!"]]
   - [[books:ttp:5|Realizing that God Is Everywhere]]
   - [[books:ttp:6|Kṛṣṇa Consciousness: The Perfection of Mercy]]
-
-</WRAP>
+  

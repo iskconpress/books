@@ -1,13 +1,16 @@
 ~~Title:Light of the Bhāgavata 3~~
 ~~bc:Text 3~~
 
-====== Light of the Bhāgavata 3 ======
+{{description>Attracted by electricity throughout the sky and driven by forceful winds, clouds gradually cover the surface of the earth to satisfy the needy people by supplying water, which is the substance of their life. The clouds bestow rains upon man as the mercy of the Lord, who is always kind to the needy living being.}}
 
-[{{ :books:light_of_the_bhagavata:lob_03.jpg?nolink |Light of the Bhagavata, Plate 3}}]
+<card>
+{{ :books:light_of_the_bhagavata:lob_03.jpg?nolink |}}
+Light of the Bhagavata, Plate 3
+</card>
+
+====== Light of the Bhāgavata Text 3 ======
 
 **Attracted by electricity throughout the sky and driven by forceful winds, clouds gradually cover the surface of the earth to satisfy the needy people by supplying water, which is the substance of their life. The clouds bestow rains upon man as the mercy of the Lord, who is always kind to the needy living being.**
-
-{{description>Attracted by electricity throughout the sky and driven by forceful winds, clouds gradually cover the surface of the earth to satisfy the needy people by supplying water, which is the substance of their life. The clouds bestow rains upon man as the mercy of the Lord, who is always kind to the needy living being.}}
 
 We should always know that God is ever kind to us. Despite our gross disobedience to the laws of God's nature, the Lord is kind enough to look after our maintenance. Water is one of the most important items for our maintenance, because without water we can neither produce food grains nor quench our thirst. Water is also required very liberally for many other purposes. Thus the Lord has preserved water on three fourths of the globe and has made it salty to preserve it. Salty water does not decompose, and that is the arrangement of providence. The Lord has engaged the powerful sun to evaporate the water of planets like earth and distill it into clear water in the clouds and then stock it on the peaks of mountains, as we stock water in overhead tanks for later distribution. part of the stock of water is refrigerated into ice, so that it will not flood the earth for no good purpose. The ice melts gradually throughout the year, flows down through the great rivers, and glides down to the sea again for preservation.
 
