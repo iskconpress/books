@@ -1,9 +1,7 @@
 ~~bc:Words from Apple~~
 ~~Title:KṚṢṆA Words from Apple~~
 
-<WRAP hide>
 ====== Words from Apple ======
-</WRAP>
 
 {{ :books:words-from-apple.png?nolink |}}
 

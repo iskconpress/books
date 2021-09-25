@@ -1,9 +1,7 @@
 ~~bc:Dedication~~
 ~~Title:KṚṢṆA Dedication~~
 
-<WRAP hide>
 ====== Dedication ======
-</WRAP>
 
 {{ :books:krsna.jpg?nolink |}}
 

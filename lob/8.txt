@@ -1,8 +1,13 @@
 ~~Title:Light of the Bhāgavata 8~~
 ~~bc:Text 8~~
 
-==== Light of the Bhāgavata ====
-====== Text 8 ======
+<card>
+{{:artwork:light_of_the_bhagavata:lob_08.jpg?nolink|}}
+//Light of the Bhagavata, Plate 8//
+</card>
+
+
+====== Light of the Bhāgavata Text 8 ======
 
 **The colorful greenery of the newly grown grass, the seasonal flowers, the frog's umbrellas, the butterflies, and the other variegatedness of the rainy season perfectly represent a well-to-do family absorbed in vanity over their personal assets.**
 
