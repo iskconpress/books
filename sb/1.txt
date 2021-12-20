@@ -11,7 +11,7 @@
 
 Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosophy of devotion. It gives insight into Vyasadeva’s inspiration to write the Srimad Bhagavatam through conversations with the great Sage Narada Muni. The reader is lead from the battlefield of Kuruksetra through the years leading up to King Pariksit’s education on the Ganga River by Sukadeva Goswami.
 
-===== Table of contents =====
+=== Table of contents ===
   - [[books:sb:1:1|Questions by the Sages]]
   - [[books:sb:1:2|Divinity and Divine Service]]
   - [[books:sb:1:3|Kṛṣṇa Is the Source of All Incarnations]]
@@ -32,8 +32,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   - [[books:sb:1:18|Mahārāja Parīkṣit Cursed by a Brāhmaṇa Boy]]
   - [[books:sb:1:19|The Appearance of Śukadeva Gosvāmī]]
 
-===== CHAPTER ONE =====
-==== Questions by the Sages ====
+===== 1. Questions by the Sages =====
   * [[books:sb:1:1|Summary of the Chapter]]
   * [[books:sb:1:1:1|Purpose of the Gayatri Mantra]]
   * [[books:sb:1:1:2|Paramesvara the Supreme]]
@@ -46,8 +45,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:1:17|Real Remedy for Peace in the World]]
   * [[books:sb:1:1:20|Incarnation of Godhead Is Distinguished]]
 
-===== CHAPTER TWO =====
-==== Divinity and Divine Service =====
+===== 2. Divinity and Divine Service =====
   * [[books:sb:1:2|Summary of the Chapter]]
   * [[books:sb:1:2:2|Obeisances unto the Spiritual Master and the Lord]]
   * [[books:sb:1:2:3|Srimad-Bhagavatam Summarized]]
@@ -63,8 +61,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:2:28-29|Lord Sri Krsna, or Vasudeva, Is All in All]]
   * [[books:sb:1:2:32|He Is All-Pervading]]
 
-===== CHAPTER THREE =====
-==== Krsna Is the Source of All Incarnations ====
+===== 3. Krsna Is the Source of All Incarnations =====
   * [[books:sb:1:3|Summary of the Chapter]]
   * [[books:sb:1:3:1|Purusa Incarnations: The Cause of Matter and the Material World]]
   * [[books:sb:1:3:2|From Him Brahma Is Manifested]]
@@ -102,8 +99,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:3:43|Srimad-Bhagavatam Is the Representation of Lord Krsna]]
   * [[books:sb:1:3:44|Srimad-Bhagavatam and Its Incompatibilities]]
 
-===== CHAPTER FOUR =====
-==== Appearance of Sri Narada =====
+===== 4. Appearance of Sri Narada =====
   * [[books:sb:1:4|Summary of the Chapter]]
   * [[books:sb:1:4:5|Paramahamsa Sukadeva Gosvami]]
   * [[books:sb:1:4:12|The Ideal King, Maharaja Pariksit]]
@@ -115,8 +111,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:4:25|Unworthy Sons of the Higher Castes]]
   * [[books:sb:1:4:30|Dissatisfaction of Vyasadeva and Its Cause]]
 
-===== CHAPTER FIVE =====
-==== Narada’s Instructions on Srimad-Bhagavatam for Vyasadeva ====
+===== 5. Narada’s Instructions on Srimad-Bhagavatam for Vyasadeva =====
   * [[books:sb:1:5|Summary of the Chapter]]
   * [[books:sb:1:5:2|The Mind and the Body]]
   * [[books:sb:1:5:5|Identification of Self with the Body or Mind Is the Cause of Despondency]]
@@ -144,8 +139,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:5:38|Sound as Form]]
   * [[books:sb:1:5:38#id3|Concluding Instruction of Narada]]
 
-===== CHAPTER SIX =====
-==== Conversation Between Narada and Vyasa ====
+===== 6. Conversation Between Narada and Vyasa =====
   * [[books:sb:1:6|Summary of the Chapter]]
   * [[books:sb:1:6:1|Further Inquiry by Vyasadeva]]
   * [[books:sb:1:6:5|History of Narada’s Previous Life]]
@@ -160,8 +154,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:6:32#id3|The Lord His Constant Companion]]
   * [[books:sb:1:6:35|Comparative Importance of Bhakti-yoga and Mystic Powers]]
 
-===== CHAPTER SEVEN =====
-==== The Son of Drona Punished ====
+===== 7. The Son of Drona Punished =====
   * [[books:sb:1:7|Summary of the Chapter]]
   * [[books:sb:1:7:2|Vyasadeva’s Meditation]]
   * [[books:sb:1:7:4|His Clear Conception]]
@@ -183,8 +176,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:7:42|Frailties of Women]]
   * [[books:sb:1:7:53-54|Lord Krsna Solves the Dilemma]]
 
-===== CHAPTER EIGHT =====
-==== Prayers by Queen Kunti and Pariksit Saved ====
+===== 8. Prayers by Queen Kunti and Pariksit Saved =====
   * [[books:sb:1:8|Summary of the Chapter]]
   * [[books:sb:1:8:|The Battle of Kuruksetra Ends]] 1
   * [[books:sb:1:8:|The Attempt to Slaughter Uttara’s Unborn Child]] 8
@@ -197,8 +189,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:8:|Krsna Destroys Demoniac Political Parties]] 57
   * [[books:sb:1:8:|King Yudhisthira Mourns the War’s 640,000,000 Dead]] 60
 
-===== CHAPTER NINE =====
-==== The Passing Away of Bhlsmadeva in the Presence of Lord Krsna =====
+===== 9. The Passing Away of Bhlsmadeva in the Presence of Lord Krsna =====
   * [[books:sb:1:9:|Bhisma Prepares to Leave His Body]] 69
   * [[books:sb:1:9:|All the Great Souls Assemble at Bhisma’s Deathbed]] 73
   * [[books:sb:1:9:|The Best Protection: God, Brahmanas and Religion]] 85
@@ -209,8 +200,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:9:|Description of the Lord’s Beautiful Form]] 117
   * [[books:sb:1:9:|The Supreme Lord Became Arjuna’s Chariot Driver]] 122
 
-===== CHAPTER TEN =====
-==== Departure of Lord Krsna for Dvaraka ====
+===== 10. Departure of Lord Krsna for Dvaraka =====
   * [[books:sb:1:10:|The Plan Behind the Universe]] 149
   * [[books:sb:1:10:|Civilized Economic Development: Land and Cows]] 152
   * [[books:sb:1:10:|Separation from Krsna Is Intolerable]] 159
@@ -219,8 +209,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:10:|Animallike Kings and Administrators]] 177
   * [[books:sb:1:10:|The Glories of the Lord’s Transcendental Wives]] 183
 
-===== CHAPTER ELEVEN =====
-==== Lord Krsna’s Entrance into Dvaraka ====
+===== 11. Lord Krsna’s Entrance into Dvaraka =====
   * [[books:sb:1:11:|The Citizens of Dvaraka Rush to Greet the Lord]] 197
   * [[books:sb:1:11:|Description of Dvaraka, the Perfect City]] 208
   * [[books:sb:1:11:|Vedic Hospitality]] 217
@@ -231,8 +220,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:11:|The Lord’s Family Life Explained]] 241
   * [[books:sb:1:11:|The Lord’s Wives Do Not Know His Glories]] 246
 
-===== CHAPTER TWELVE =====
-==== Birth of Emperor Pariksit ====
+===== 12. Birth of Emperor Pariksit =====
   * [[books:sb:1:12:|Emperor Yudhisthira’s Perfect Administration]] 255
   * [[books:sb:1:12:|Pariksit, in the Womb, Sees the Lord]] 260
   * [[books:sb:1:12:|Planetary Influences at the Time of Birth]] 265
@@ -242,8 +230,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:12:|Even a Child Can Be Educated to See God]] 299
   * [[books:sb:1:12:|Pleasing Krsna Destroys Sinful Reactions]] 303
 
-===== CHAPTER THIRTEEN =====
-==== Dhrtarastra Quits Home ====
+===== 13. Dhrtarastra Quits Home =====
   * [[books:sb:1:13:|Vidura Returns Home]] 1
   * [[books:sb:1:13:|The Supreme Knowledge]] 3
   * [[books:sb:1:13:|The Sanctity of a Pure Devotee]] 15
@@ -261,8 +248,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:13:|One Living Being Is Food for Another]] 62
   * [[books:sb:1:13:|The Mission of Lord Sri Krsna]] 66
 
-===== CHAPTER FOURTEEN =====
-==== The Disappearance of Lord Krsna ====
+===== 14. The Disappearance of Lord Krsna =====
   * [[books:sb:1:14:|Yudhisthira’s Anxiety]] 79
   * [[books:sb:1:14:|He Observes Irregularities]] 81
   * [[books:sb:1:14:|Indications of the Lord’s Disappearance]] 85
@@ -271,8 +257,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:14:|Yudhisthira’s Anxious Inquiries]] 98
   * [[books:sb:1:14:|Lord Sri Krsna’s Departure Apprehended]] 117
 
-===== CHAPTER FIFTEEN =====
-==== The Pandavas Retire Timely ====
+===== 15. The Pandavas Retire Timely =====
   * [[books:sb:1:15:|Feelings of Separation by Arjuna]] 119
   * [[books:sb:1:15:|The Lord’s Disappearance Admitted]] 122
   * [[books:sb:1:15:|How Arjuna Was Successful in Gaining Draupadi]] 125
@@ -289,8 +274,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:15:|Maharaja Pariksit Enthroned]] 172
   * [[books:sb:1:15:|Maharaja Yudhisthira Liberated]] 175
 
-===== CHAPTER SIXTEEN =====
-==== How Pariksit Received the Age of Kali ====
+===== 16. How Pariksit Received the Age of Kali =====
   * [[books:sb:1:16:|The Reign of Maharaja Pariksit]] 189
   * [[books:sb:1:16:|His World Tour]] 194
   * [[books:sb:1:16:|His Attempt to Exterminate Kali]] 202
@@ -301,8 +285,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:16:|Lord Krsna Attractive Even for the Goddess of Fortune]] 230
   * [[books:sb:1:16:|The Delightful Earth During the Lord's Presence]] 234
 
-===== CHAPTER SEVENTEEN =====
-==== Punishment and Reward of Kali ====
+===== 17. Punishment and Reward of Kali =====
   * [[books:sb:1:17:|Maharaja Pariksit Meets the Pretender Kali]] 237
   * [[books:sb:1:17:|The Bull, Symbol of Religion]] 238
   * [[books:sb:1:17:|Cow the Source of Religious Principles]] 239
@@ -322,8 +305,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:17:|Diplomacy in Fighting Evil]] 285
   * [[books:sb:1:17:|Spiritual Movements and State Support]] 288
 
-===== CHAPTER EIGHTEEN =====
-==== Maharaja Pariksit Cursed by a Brahmana Boy ====
+===== 18. Maharaja Pariksit Cursed by a Brahmana Boy =====
   * [[books:sb:1:18:|Accepting the Spiritual Master]] 293
   * [[books:sb:1:18:|Checking the Evil]] 296
   * [[books:sb:1:18:|A Special Concession for the Fallen Age]] 298
@@ -338,8 +320,7 @@ Canto 1 sets the foundation for the Srimad Bhagavatam starting with the philosop
   * [[books:sb:1:18:|The Puffed-up Brahmana Boy]] 333
   * [[books:sb:1:18:|The Result of Destroying Monarchy]] 341
 
-===== CHAPTER NINETEEN =====
-==== The Appearance of Sukadeva Gosvami ====
+===== 19. The Appearance of Sukadeva Gosvami =====
   * [[books:sb:1:19:|The King Repents]] 351
   * [[books:sb:1:19:|The Rivers Ganges and Yamuna]] 359
   * [[books:sb:1:19:|The Arrival of Great Sages and Kings]] 362
