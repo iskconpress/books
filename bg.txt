@@ -3,10 +3,9 @@
 
 {{description>A masterpiece of scriptural literature, Bhagavad-gita is a sacred “song” in the form of a battlefield dialogue between the Lord Sri Kṛṣṇa and Arjuna, His friend and disciple. Kṛṣṇa, acting as Arjuna’s adviser, instructs him in the science of self-realization, teaching him how to live as a devotee of the Lord and to thus reach the eternal spiritual world while continuing to perform his earthly duties.}}
 
-<title 3 text-align="center">Bhagavad-gītā As It Is</title>
-
 <card line-spacing="lg">
-<header>Table of contents</header>
+<title 3 text-align="center">Bhagavad-gītā As It Is</title>
+{{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/01_Setting_The_Scene_BG_Verses_Only.mp3 |Setting the Scene}}
 
   * [[.bg:0a|Dedication]]
   * [[.bg:0b|Foreword]]
