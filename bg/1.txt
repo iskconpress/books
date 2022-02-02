@@ -7,7 +7,7 @@
 
 {{ https://prabhupada.nyc3.cdn.digitaloceanspaces.com/audiobook/Bhagavad-gita_As-It-Is/Ch_01_BG_Verses_Only.mp3 |Bhagavad-gītā As It Is Chapter 1}}
 
-<carrousel>
+<card-columns>
 <card>
 {{ artwork:bhagavad-gita:plate01.jpg?500&nolink |}}
 Plate 1 — Dhṛtarāṣṭra inquires from Sañjaya about the events of the battle. [[books:bg:1:1|(Bg 1.1]])
@@ -32,7 +32,7 @@ Plate 5 — When Arjuna saw all different grades of friends and relatives, he be
 {{ artwork:bhagavad-gita:plate06.jpg?500&nolink |}}
 Plate 6 — The insulting of Draupadī. [[books:bg:1:11#purport|(Bg 1.11)]]
 </card>
-</carrousel>
+</card-columns>
 
   ; [[.1:1|Bg 1.1]]
   : Dhṛtarāṣṭra said: O Sañjaya, after assembling in the place of pilgrimage at Kurukṣetra, what did my sons and the sons of Pāṇḍu do, being desirous to fight?
